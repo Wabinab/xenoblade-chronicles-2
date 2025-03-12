@@ -4,3 +4,9 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Xenoblade Chronicles 2"
+description = "Xenoblade Chronicles 2 translated from video to book."
+
+[preprocessor.footnote]
+
+[output.html]
+mathjax-support = true
