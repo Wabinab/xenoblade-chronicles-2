@@ -10,7 +10,9 @@
 
 # Chapter 2: Aptitude
 - [Washed Up](./03_washed_up.md)
-- [Gormott](./04_gormott.md)
+- [Gormott, Resonance, and Captured](./04_gormott.md)
+- [Tora, Mòrag, and Poppi](./05_poppi.md)
+- [Prison Break](./06_saving_nia_dromarch.md)
 
 ---
 
