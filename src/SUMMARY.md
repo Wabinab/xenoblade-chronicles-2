@@ -12,7 +12,10 @@
 - [Washed Up](./03_washed_up.md)
 - [Gormott, Resonance, and Captured](./04_gormott.md)
 - [Tora, Mòrag, and Poppi](./05_poppi.md)
-- [Prison Break](./06_saving_nia_dromarch.md)
+- [Prison Break, Pyra's Flames](./06_saving_nia_dromarch.md)
+
+# Chapter 3: Our Own War
+- [We need a ship](./07_a_ship.md)
 
 ---
 
