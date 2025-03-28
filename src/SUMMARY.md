@@ -16,8 +16,13 @@
 
 # Chapter 3: Our Own War
 - [We need a ship](./07_a_ship.md)
+- [Vandham of Uraya](./08_uraya.md)
+- [Bringer of Chaos, Fonsa Myma](./09_journey_to_capital.md)
+- [Vandham's final lesson](./10_the_death_of_vandham.md)
 
 ---
+
+[Heart to Heart](./96_heart_to_heart.md)
 
 [Postscript](./97_postscript.md)
 [References](./98_references.md)
