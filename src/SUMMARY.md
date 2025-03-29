@@ -20,6 +20,9 @@
 - [Bringer of Chaos, Fonsa Myma](./09_journey_to_capital.md)
 - [Vandham's final lesson](./10_the_death_of_vandham.md)
 
+# Chapter 4: Aegis
+
+
 ---
 
 [Heart to Heart](./96_heart_to_heart.md)
