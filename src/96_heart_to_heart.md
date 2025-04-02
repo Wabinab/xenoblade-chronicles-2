@@ -374,4 +374,241 @@ Nia: "I... I give up. I can't watch this any more."
 
 ---
 
+At the stomach of Uraya, above Farlaine Central Pools, Tora exclaimed, "**Outstanding!** It thanks to Tora becoming Driver that Tora come to this place! Blades and Drivers **MOST BEST EVER!!!** Oh, that remind Tora! **Rex-Rex, Nia!** Tora need- _little_ consultation."
+
+![Uraya Stomach](images/151_uraya_stomach.jpg)
+
+Nia: "Uh, a consultation? With us?"
+
+"Tora have **big** problem right now. Recently... Tora finally realized. Tora is..."
+
+"Tora- is...?" urged Rex.
+
+"Tora is not- _very useful in battle!_"
+
+"Ugh!" "Oh!"
+
+"Why friends silent?"
+
+"Oh, uhhh... We're just a bit surprised." answered Rex.
+
+Nia added, "I mean, I just never really took you for the self-assessing type."
+
+"Org, _too cruel._"
+
+"Naaaahhh, I mean, you fight **just fine**, Tora."
+
+"Poppi deserve all the credit. She pass weapon... and do all the things so Tora can fight like **real Driver.** Tora sometimes think, if he remove program of Poppi, Poppi fighting- **alone**- _would be most efficient..._"
+
+Nia was surprised, "**Seriously? Wow, you go girl!**"
+
+"**That why Tora just feel like- small furry ball and chain!**"
+
+Rex: "Well, errrr... I wouldn't go **that** far..."
+
+"Anyway, Tora wonder if there any point to Tora **still** being Driver. Maybe it better for everyone if- **Tora retire** and assume supervisor duty on sideline?"
+
+"Ohhhh, Tora! Nia, what do you think?"
+
+> Choose: "Why did you want to be a Driver?"  
+> or "What's the most important thing, for a Driver?"
+
+> (**Choice 1:**) "Why did you want to be a Driver?"
+
+He turned around and looked at the scene, reflecting his life, answered, "It not clear to Tora anymore... Starting with Grampypon, dearest wish of family was to **successfully create artificial Blade**. So, it natural that Tora start to wish it too!"
+
+"Well, do you know **why** your grandad wanted to make an artificial Blade?"
+
+"Surely it because..." He turned around and surprised the group with the most controversy reasoning, "**He want to be famous!**"
+
+Rex: "That sounds like a lame reason..."
+
+"**But** Nopon Driver is **rare** thing! Nopon who become Driver almost **sure** to become celebrity!"
+
+"Was that your motivation as well, then?"
+
+"Mmmmmeeeeehhhh... **Not** exactly. Tora want to be **like Rex-Rex!**"
+
+"Like me?"
+
+"At first, Tora simply yeaaaarn to be Driver, not- think- too much about it. But... _after me travel with Rex-Rex and friends_, he start to think different! Saving persons in need, facing all challenges... **Rex-Rex** is Tora's **idea** of **perfect Driver!**"
+
+"It... feels kinda strange when you say that to my face..."
+
+Nia wondered, "Rex, _a perfect Driver? I'm not convinced_. But it looks like you've got a clear goal in mind, Tora."
+
+"**Hey, hold on!**"
+
+Nia ignored him, continued, "Honestly, that's all you need! Tora, you should keep being a Driver. As- long- as you have goals to achieve, there's **no** reason for you to stop. And your Blade will help you in that. **Poppi shouldn't have to fight alone. You need** to be **right there** with her."
+
+"Ohhh, it fair point... **Thank you, Rex-Rex! Thank you, Nia! Tora promise he will striiiive to be best Driver ever!**"
+
+> (**Choice 2:**) "What's the most important thing, for a Driver?"
+
+"_Hoh,_ Tora been thinking about that **a lot**. Love towards Blade is important."
+
+"L-l-love?"
+
+Rex was surprised, "Not an answer I was **expecting**..."
+
+"Tora observe and Tora analyze... And Tora note, **all Drivers** have **love** for their Blades! Example, Rex-Rex **love** Pyra, and Nia **love** Dromarch!"
+
+"**I LOVE PYRA?!!!**" Caught him on his feet. 
+
+"**R-REX LOVES PYRA?!!!**" That's Nia's focus. 
+
+"Love that Tora feel for Poppi is- also unsurpassed thing. But just because Tora **have love**, _not mean Tora can necessarily be Driver..._"
+
+Rex: "Yeah, but still..."
+
+"Hang on, Rex." Nia had a suggestion. "We're getting bogged down here. Can we just- **straight up ask Poppi** and be done with this?"
+
+"**That's a great idea!** Let's get Poppi here."
+
+After Poppi arrived, Rex asked, "Hey, Poppi. **What would you do**- if Tora said- he wanted to quit being a Driver?"
+
+"Poppi probably break down in tears, is what!"
+
+"Oh, **meh-meh**-meh-meh! Tora work to be **best** Driver he can!" And he went back playing with Poppi. Tora and Poppi behind them, Rex exclaimed, "**Well**, that was pretty easy!"
+
+"Ugh! I've just got no patience for this sorta- **non**-problem."
+
+---
+
+Inside Mymona Playhouse (Cole's theater) at Fonsa Myma, Tora and Poppi arranged a show for some members of the group. Tora started, "Ladies and gentlepon, thank you for join us here today! _We hope you_ enjoy performance of **'Uraya Goes To War'.**"
+
+Rex exclaimed, "This is gonna be **so much** fun!"
+
+Gramps wondered, "Are we the only ones watching? **Where did Nia go off to?**"
+
+"**I dunno!**"
+
+Tora continued narrating, "**Queen Raqura! Me** think time has come to go to war with Mor Ardain!"
+
+"This is **most** sudden, War Minister." Nia had participated herself in the show. 
+
+Dromarch was surprised, "My lady...?"
+
+Rex cheered, "Wow, **you're great, Nia!**"
+
+She can have out-of-performance narratives, sniped at Rex, "Shut it, you! I didn't ask to take part in this farce!"
+
+Tora continued, "**Ahem**. This not sudden, Your Majesty. We preparing for war **ever since** Mor Ardain take occupation- of Gormott."
+
+"Then the preparations- are- complete?" she returned to her role playing. 
+
+"Preparations _go steady for long time_, **but**- we can quickly make complete. Mor Ardain soon try to **conquer other countries aside** from Gormott. We **cannot** allow ambitions to succeed. **Must start war** at earliest possibility!"
+
+"I see... So be it then. Let us... make war."
+
+"**Wait- one- moment, please!**" Poppi rejected. 
+
+"You have concerns, High Minister?"
+
+"Titan of Mor Ardain quickly becoming so barren, crops cannot be grown. **Meanwhile, we** have rich soil, producing **much delicious** Gromrice. Why **bother with war** when Mor Ardain **collapse on its own** from famine?"
+
+"A valid question."
+
+Tora rebutted quick, "No no! _If we wait, Mor Ardain just conquer_ **more territories** like Gormott. _With more territories, Mor Ardain become_ still greater threat! **Eeeeeeeeven** if Mor Ardain **Titan collapse completely**, _may still be difficult_ to defeat whole Empire!"
+
+"There no need to be hasty." argued Poppi. "Mor Ardain still not have enough territory or supplies to properly provide for own people. Gormott alone not enough to support whoooole of Ardainian population. In other words, more prudent to wait for Mor Ardain to grow weaker before attacking."
+
+Nia thought that "Your argument- is- compelling."
+
+Tora resolved "**That not happen today or tomorrow** though! Noooo! Might take **many** decades to happen, _or even_ centuries! We can **not allow Mor Ardain threat** to remain **longer than necessary!**"
+
+"That- quite- true-, but now is not time- to rush into things! War preparations may be in progress, but still not in optimal condition!"
+
+Tora looked to Nia, "Oh urgh This argument **never end**. Your Majesty **must make FINAL DECISION!!!**"
+
+She jumped on her feet, "Huh? You want me to decide?"
+
+Poppi agreed, "Your Majesty is Queeeeen of Uraya.{{footnote: On a note, in Xenoblade Chronicles 3, Nia did became a Queen.}}"
+
+"O-o-ohh yeah, right..."
+
+> Choose: "Let's go to war!"  
+> or "Let's wait a little longer."
+
+> (**Choice 1:**) "Let's go to war!"
+
+Tora was impressed! Poppi said nothing. 
+
+> (**Choice 2:**) "Let's wait a little longer."
+
+Tora was speechless! Poppi was impressed. 
+
+(Regardless of which choices being chosen, they continued below.)
+
+Nia was confused. Why are they looking at her? "What now? Did you both forget your lines?"
+
+Tora explained, "Argh... Script of 'Uraya Goes To War' end here. **No more lines** to say."
+
+Poppi addressed the audiences, "Thank you for coming today, everyone!"
+
+Gramps noted, "I see, I see! By showing this play to the children, you'll get them to think for themselves about whether Uraya should go to war."
+
+Dromarch: "Mmm, that's quite clever, actually."
+
+Rex agreed, "It's a difficult question. I can see the kids having split opinions, too."
+
+Nia, meanwhile, was getting fired up, "You force me to take part in this thing, and then it just ends like that? This is SO not satisfying!"
+
+---
+
+On a hill overlooking Garfont village, Rex told Roc, after reawakening him, "There's a **really great** view of the whole village from here, right?"
+
+"Indeed! It's... quite- the vista. Such a fine village it is, too. Certainly no one is **awash** with luxury down there. But still, the people are remarkably happy. Even when life is hard, they keep- smiling, **keep looking forward.**"
+
+"I think of it as the continuation of Vandham's spirit. He may be gone, but his good deeeeeds outlive him."
+
+"Yes, it's a fine thought, _knowing- the man who- built and protected this village was once my Driver._"
+
+> Choose: "Do you want to hear about Vandham?"  
+> or "Do you wish you could stay here?"
+
+> (**Choice 1:**) "Do you want to hear about Vandham?"
+
+"Well... _it seems a tad rude- to go on about my old Driver in front of my current one..._ But I've heard he was quite the remarkable man. Naturally, I'm curious."
+
+"He was one of the good guys, all right. He had **big** muscles, a **big** voice, and an **even bigger** heart. It was Vandham who taught me the basics of being a Driver. More than that, in fact. He taught me all about Blades, how to fight, the way of the world... I didn't know him for long, but he taught me the most important things I know."
+
+"Is that right? He was the kind of- solid, powerful, and dashing sort that is irresistible to the opposite sex, I'll wager."
+
+"Ermmm, I'm not sure if he was that much of a hit with the ladies. But he was a great guy, that's for sure."
+
+"Hmmm... I feel the loss of my memories- of him- very keenly."
+
+"Well, don't worry, Roc. Like I said before, the people of this village are carrying on what he started. **And so are we.** I hope I can become as good as him some day. I may still have a way to go. But **just you stick with me**, Roc, and **one day, you'll see!**"
+
+"I don't doubt it."
+
+> (**Choice 2:**) "Do you wish you could stay here?"
+
+"I wouldn't say that. After all, it's not like _I have any memories of my time in this village._ But **I believe something** lives on here. Something of Vandham, and- of myself. When I think about it, I can't help but- get **a tad** sentimental."
+
+"Yeah, I know what you mean. It's like the village is full of memories. Memories of... you, memories of Vandham."
+
+"I wonder how he and I used to spend our days..."
+
+"I think... you probably both lived pretty normal lives, really."
+
+"Normal?"
+
+"That's right. Vandham was the everyday sort, you know? I mean, he'd get up in the morning, see to the kids, then he'd just eat a big sausage sandwich. Evening, he'd drink a beer and- chat about what he was up to. Then he'd just get a bit sleepy, and go to bed. I think that's what he was trying to build here. A place where people could just... live normal lives. I think that's what both of you were always fighting for."
+
+"Fighting for _a normal life? Then perhaps even now, that_... normal life is what the people of this village hold most dear... Tell me, Rex... Would you say Vandham... _was a 'kind'- person?_"
+
+"Kind, errrrr... I mean, he was straight up with everyone. Maybe even blunt sometimes. But he was a real gentle giant. He'd probably get mad at me for saying it, but I think he was a lot like a father. He's someone that I looked up to. Someone I'd like to **be like** someday."
+
+"I can see you hold him in **great regard**, Rex. I only wish I could have **met him myself.**"
+
+"He did everything he could to protect us. I bet he's still watching over us from somewhere, even now..."
+
+"Well, **in that case**, I'd better make sure he **always sees me** at my best!"
+
+"**Yeah, I reckon if we don't live up to his expectations, we'll be in a RIIIGHT rollicking someday!**"
+
+---
+
 ### Footnotes:

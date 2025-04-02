@@ -21,7 +21,9 @@
 - [Vandham's final lesson](./10_the_death_of_vandham.md)
 
 # Chapter 4: Aegis
-
+- [Brief History of Alrest, Minoth](./11_after_the_fight.md)
+- [Off to Mor Ardain, Roc's Core Crystal Stolen](./12_to_mor_ardain.md)
+- [Soosoo Whereabouts, Travel with Mòrag](./13_mor_ardain.md)
 
 ---
 

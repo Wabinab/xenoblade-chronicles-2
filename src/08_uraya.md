@@ -500,13 +500,11 @@ He can't put himself in Akhos's shoes, nor view Vandham the same as Akhos, rebut
 
 ---
 
-===
-
-"**Good morning!**" Pyra walked in with Nia and Poppi to the boys' tents. 
+"**Good morning!**" Pyra walked into the boys' tent with Nia and Poppi.
 
 Rex was overwhelmed, "**Pyra! Feeling better?**"
 
-"Yeah! I slept **so** much!"
+"**Yeah**! I slept- **so** much!"
 
 "Good. Glad to hear."
 
@@ -534,9 +532,9 @@ Pyra shared, "Nia... originally said, she was going to go alone. But I said- may
 
 ---
 
-Vandham was at the training ground overlooking the new recruits training when everyone was approaching him. He shouted out, "**Oh, it's you guys? What go you out of bed** so early?"
+Vandham was at the training ground overlooking the new recruits training when everyone approached. He shouted out, "**Oh, it's you guys? What got you out of bed** so early?"
 
-Rex: "Nia?"
+Rex urged, "Nia?"
 
 She walked forward and took the stage, "Thanks for yesterday. You saved our skins. That guy, A-Akhos, I mean... I wanted to tell you about him... you see... **Thing is, we used to be...**"
 
@@ -546,15 +544,15 @@ He cut her off, "Being a mercenary, you meet all kindsa different folks."
 
 "_Your country, family, money_... People got plenty of reasons to fight. _Like fightin' for a special girl._ I see that a lot. _Though not every girl has a strange crystal in her chest, eh?_"
 
-Rex: "Y-y-you mean Pyra? W-we're just..."
+Rex stuttered, "Y-y-you mean Pyra? W-we're just..."
 
-Vandham: "Nia, _you're with these guys right now._ **_That's what matters._**"
+Vandham assured, "Nia, _you're with these guys right now._ **_That's what matters._**"
 
-"**But... aren't you...**" She was so confused right now; she had not the chance to speak her story. But Vandham had already accepted her, a former member of Torna, which he might've guessed from their conversations yesterday. She don't know what to say. 
+"**But... aren't you...**" Feeling so confused. She came to share her story, to find his apology; but found out he'd apologized her for being a member of Torna before she had the chance to explain. 
 
-"**Anyway. Rex, weren't you saying you wanted** to get to Elysium?"
+Vandham changed the topic, "**Anyway. Rex, weren't you saying you wanted** to get to Elysium?"
 
-"Yeah... But, we hit a snag... With a monster like that in the way, it's impossible. No Guild ship's getting close to it, without going down."
+"Yeah... But, we hit a snag... With a monster like that in the way, it's impossible. No Guild ship's getting close to it- without going down."
 
 "Well, I've got an old mate. In the Urayan capital. Got a feeling he might know a way through."
 
@@ -576,13 +574,17 @@ At the village entrance, the group and Vandham met Yew and Zuo, biding farewell.
 
 "**Eheheheh!!** I guess so. Well, take care!" And they took off, with Yew and Zuo watching them off. 
 
-Unbeknownst to them, behind the rocks outside the entrance hid some people also overwatching their journey. Two person, actually, probably one is his/her blade. They both had hoods over the heads, but the guy taking the weapon was presumably the Driver, and such muscularity, perhaps a guy. The other green hair ones, wearing huge glasses. They spoke not a word. 
+Unbeknownst to them, behind the rocks outside the entrance hid 2 people also silently following them. Hoods over their head, one buff muscular guy strapped the weapon behind him; presumably he's a Driver. The other green hair, wearing huge glasses, presumably his Blade. They silently trailed behind. 
 
 ![The overwatching two](images/099_eavesdropping_two.jpg)
 
 ---
 
-On the other side, a Titan ship was floating above the Cloud Sea when the emergency alarm sounded, it tilting to its side, about to wreck. Soldiers were dispatched; but they were no fight for Jin. Every step he walked, all fell to the ground, forming a meat wall. His sword sliced through so quickly they had not fell their flesh disintegrated into shards. The Blades just saw their Drivers fell dead, had not the slightest time to react, immediately turning back to Core Crystals. In front of the door of his destination, multiple slices and it slammed to the ground, its shards. Within was rows upon rows of Core Crystals. With explosion, the Titan ship went down, sunk below the ocean. 
+Going to the other side, a Titan ship was flying above the Cloud Sea. Emergency alarms blared as the ship was unstable, tilting to its side, on the verge of shipwreck. Soldiers gathered from all chambers and laid out their defense; but Jin sliced through them all without a second chance. Every step he walked, at least one soldier will go down, paving a path of meat. So quickly his sword sliced through each of them they didn't feel their flesh cut into pieces. The Blades had not yet reacted, returned to their Core Crystals as their driver dies without a chance. 
+
+He arrived at the door which he came for. Multiple slices cut it into pieces; he entered and saw all the crystals, rows upon rows, cabinets upon cabinets. A few moments later, the whole Titan ship explode, went down, and plunged straight into the ocean, never to be heard again. 
+
+
 
 ![Jin and the room full of Core Crystals](images/100_jin_and_core_crystals.jpg)
 

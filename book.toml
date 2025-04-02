@@ -10,3 +10,4 @@ description = "Xenoblade Chronicles 2 translated from video to book."
 
 [output.html]
 mathjax-support = true
+git-repository-url = "https://github.com/Wabinab/xenoblade-chronicles-2/discussions"

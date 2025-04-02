@@ -436,7 +436,7 @@ Rex and Pyra embracing each other side by side, holding onto the sword together,
 
 ![Burning Sword](images/006_burning_sword.jpg)
 
-"You brat. How can a nobody like you...? _Ahhhh, but with those eyes..._ I guess I should've been more wary... from the start..." It's just like him, Addam's. They shared the same will, to return to Elysium, despite different reasons. 
+"You brat. How can a nobody like you...? _Ahhhh, but with those eyes..._ I guess I should've been more wary... from the start..." It's just like him, Addam's. 
 
 "What d'you mean?!{{footnote: Still had time to ask when you should focus on fighting?}}"
 

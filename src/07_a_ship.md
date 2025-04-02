@@ -1,7 +1,5 @@
 # We need a ship
 
-===
-
 Deep beneath the Cloud Sea, where darkness ensued year long, a submarine cruised with the flow. A hatch opened and welcomed the Monoceros, an internal pool of water it parked along. 
 
 "Welcome home, Jin." Malos and his blade trailed behind. 
