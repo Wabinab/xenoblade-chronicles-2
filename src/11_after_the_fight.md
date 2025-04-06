@@ -150,25 +150,23 @@ She could no longer hold herself together, collapsed on the bed, and wept silent
 
 ---
 
-===
+Outside the theater, Cole handed Rex the assassin dagger he'd been looking at when Malos arrived. Rex wondered, "What's this?"
 
-Outside the theater, Cole gave Rex the assassin dagger he was looking at for long. "What's this?"
-
-"Take it, and go to Indol. That dagger's owner- will... tell you how you can get to Elysium."
+"Take it, and go to Indol. That dagger's owner- will... tell you how you can get to Elysium." he instructed. 
 
 "This is... a Blade weapon, right? Who's its owner?"
 
 "The man who was **once** my Driver."
 
-"Your... Driver? _Huh?_ But then..." He opened up his chest and showed the crystal; it had some veins growing beside the crystal. 
+"Your... Driver? _Huh?_ But then..." He revealed his chest to show some creased veins growing around the crystal on his chest. 
 
 ![Cole's Core Crystal](images/142_core_crystal.jpg)
 
-Gramps explained, "Cole is a Blade. We fought together in the Aegis War. _Yes..._ His **real name**, is Minoth."
+Gramps explained, "Cole is a Blade. We fought together in the Aegis War. _Yes..._ His **real name**- is Minoth."
 
 Tora noticed, "Blades not get old though. Why Cole look so old?"
 
-"Because I'm one of the **cursed** ones. A Flesh Eater." Nia knew that phrase, felt shocked she'd heard it a second time. 
+"Because I'm one of the **cursed** ones. A Flesh Eater." Nia knew that phrase, felt shocked she'd heard it elsewhere. 
 
 But not Rex. "A... Flesh Eater?"
 
@@ -182,7 +180,7 @@ But not Rex. "A... Flesh Eater?"
 
 "Before I go, I want to see where **your** path ends. That dagger will aid you. Will you- do this for me?"
 
-The dagger in his hand felt like a heavy burden, a responsibility passed to him. But he'd decided to take it, "**Of course!** Oh, but can I ask you to do something too?"
+Now the dagger felt like a heavy burden pressing on his palms. Minoth had passed him a wish, and he had to decide, should he take the responsibility? "**Of course!** Oh, but can I ask you to do something too?"
 
 "Namely?"
 
@@ -204,9 +202,9 @@ Indol. Inside the Praetorium. A man stood before the enshrinement, piously prayi
 
 ---
 
-The group gathered in Garfont, discussing. Rex suggested, "I reckon the quickest route is... Back to Argentum, ship to Mor Ardain, then on to the Praetorium."
+The group gathered in Garfont to discuss their next destination. Rex had checked the maps and suggested a route, "I reckon the quickest route is... Back to Argentum, ship to Mor Ardain, then on to the Praetorium."
 
-Gramps: "If we're lucky, there'll be a Guild- ship- at the port."
+Gramps added, "If we're lucky, there'll be a Guild- ship- at the port."
 
 "Can't say no to a free ride. Let's go and see!"
 

@@ -182,6 +182,8 @@ Poppi's head dropped to ground, "Upon learning secret of Poppi's birth, Poppi fe
 
 ---
 
+### Poppi's Unending Curiosity
+
 At Melnath's Shoulder, overlooking the Cloud Sea on the plains outside Torigoth, Poppi asked, "Masterpon, Poppi have question."
 
 ![Melnath's Shoulder](images/072_melnath_shoulder.jpg)
@@ -268,6 +270,8 @@ Poppi, in the meantime, eavesdropping their conversation and passing the bucks, 
 "This what people mean when they talk about 'passing the buck'!"
 
 ---
+
+### Blushy-Crushy
 
 At the canteen (Plaza of Reprieve) at Garfont Village, where Vandham lived, Pyra exclaimed, "I made tea for everyone. Help yourself."
 
@@ -374,6 +378,8 @@ Nia: "I... I give up. I can't watch this any more."
 
 ---
 
+### Tora's Angst
+
 At the stomach of Uraya, above Farlaine Central Pools, Tora exclaimed, "**Outstanding!** It thanks to Tora becoming Driver that Tora come to this place! Blades and Drivers **MOST BEST EVER!!!** Oh, that remind Tora! **Rex-Rex, Nia!** Tora need- _little_ consultation."
 
 ![Uraya Stomach](images/151_uraya_stomach.jpg)
@@ -475,6 +481,8 @@ After Poppi arrived, Rex asked, "Hey, Poppi. **What would you do**- if Tora said
 
 ---
 
+### A Tora and Poppi Production
+
 Inside Mymona Playhouse (Cole's theater) at Fonsa Myma, Tora and Poppi arranged a show for some members of the group. Tora started, "Ladies and gentlepon, thank you for join us here today! _We hope you_ enjoy performance of **'Uraya Goes To War'.**"
 
 Rex exclaimed, "This is gonna be **so much** fun!"
@@ -556,6 +564,8 @@ Nia, meanwhile, was getting fired up, "You force me to take part in this thing, 
 
 ---
 
+### Telling Roc about Vandham
+
 On a hill overlooking Garfont village, Rex told Roc, after reawakening him, "There's a **really great** view of the whole village from here, right?"
 
 "Indeed! It's... quite- the vista. Such a fine village it is, too. Certainly no one is **awash** with luxury down there. But still, the people are remarkably happy. Even when life is hard, they keep- smiling, **keep looking forward.**"
@@ -610,5 +620,9 @@ On a hill overlooking Garfont village, Rex told Roc, after reawakening him, "The
 "**Yeah, I reckon if we don't live up to his expectations, we'll be in a RIIIGHT rollicking someday!**"
 
 ---
+
+### (TBD)
+
+Just after disembarking on Mor Ardain, 
 
 ### Footnotes:

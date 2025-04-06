@@ -1,12 +1,10 @@
 # Off to Mor Ardain, Roc's Core Crystal Stolen
 
-===
-
-At Argentum, a Nopon knew him, "**Heeeyyyy!!! It's Rex!**"
+At Argentum, a Nopon that knew him greeted, "**Heeeyyyy!!! It's Rex!**"
 
 "Rex come back alive?"
 
-"Rex have **many** sidekicks now!"
+"Rex have **many** sidekicks now!" says the few other Nopons with the first Nopon. 
 
 Nia teased, "_Quite the little celebrity, aren't we?_"
 
@@ -16,7 +14,7 @@ Nia teased, "_Quite the little celebrity, aren't we?_"
 
 ---
 
-They were at the second floor of the Argentum Trade Guild, where the inn and restaurant located{{footnote: One cannot remember exactly if this is true, but correct me if one's wrong, leaving a comment at GitHub discussion. You can go directly to the page by clicking the GitHub icon on top right of the header, beside the 'print' symbol.}}, seated around the tables at the restaurant, listening to Rex. 
+They gathered on the 2nd floor of the Argentum Trade Guild, where the inn and the restaurant were opened{{footnote: One cannot remember exactly if this is true, but correct me if one's wrong, leaving a comment at GitHub discussion. You can go directly to the page by clicking the GitHub icon on top right of the header, beside the 'print' symbol.}}. Seated around the tables in the restaurant, they listened to Rex announcing their plan. 
 
 "**Right, so it looks like we're heading out tomorrow.** Everyone, make sure you're ready by then!"
 
@@ -26,9 +24,9 @@ Poppi: "**Affirmative!**"
 
 ---
 
-They were seated around several small tables. On one, Pyra was having a sip of the tea, exclaimed, "The tea here is... lovely!"
+Tea time. Seated around several small tables, Pyra, on one of them, had a sip of the tea she ordered, wondrously exclaimed with a thin smile on her face, "The tea here is... lovely!"
 
-Gramps, seated on the dining table, shared, "You can find quality goods here- from all around- Alrest. you like the place?"
+Gramps shared the table with her, shared what he knew, "You can find quality goods here- from all around- Alrest. you like the place?"
 
 "Yes. If there's time before we leave, I think I'll have another cup later."
 
@@ -38,55 +36,61 @@ Rex agreed, "**Yeah!** It's good to be on familiar shores again."
 
 ---
 
-In the boys' dormitory, everyone was far asleep; even Gramps, curled inside Rex's helmet. "Mmmm... sniff sniff... Mmmmm.... Mmmmhmmm?"
+In the boys' dormitory, everyone was far asleep; even Gramps, curled inside Rex's helmet. Rex was trying to change position when, "Mmmm... (sniff sniff)... Mmmmm.... Mmmmhmmm?"
 
-Rex smelt something weird, tried to change position but found something pressing on his arm. He opened his eyes and immediately blushed, seeing Mythra in his hug, sleeping merrily. Urm... He looked down to see what's rubbing against his arms; and there you go, her breast... bouncy bouncy... "Erm..." What now?
+Something was off. There's this... nice scent, but one don't remember one'd put on any perfume! Rex tried to force change position, flipping to the other side, but something was pressing on his hand strongly. He tried mildly to pull it out but failed. His brain came back online to gauge the possible scenario; what object could there be? He opened his eyes to look. 
+
+Wait, a girl? This face, Mythra? He breathed in what she breathed out, combined with both their body scent, and blood started rushing up his cheeks. "_Oh!_" She hadn't yet noticed, still sleeping merrily. Oh man, how could one carry her back to her room without her realizing? How could one leave without waking her up? Oh wait, one couldn't leave. He looked down at his hand, hugged tight by Mythra, "_Erm..._"
+
+Deep in her dreams, she felt someone reliable, perhaps Addam, that brought her in his hug. She carefully and blushingly rubbed her breast against him; and of course, she reflected her dream in real life, rubbing it against Rex's arms.{{footnote: Usually when we sleep, our brain will inject a massive amount of paralysis. This ensures what we do in our dreams does not get reflected in reality. However, some people's brain are unable to inject paralysis, hence we labeled their condition 'sleepwalking'.}} Bouncy... bouncy... What now?
 
 ![Mythra sleeping with Rex](images/144_mythra_wrong_room.jpg)
 
-She felt something stiff, something not right, awakened her. "**Huh!**" This is bad... Very bad... Eyes to eyes they were looking straight at each other. 
+Perhaps the soft and natural object she was hugging turned too stiff; her brain felt not right. Triggered, she smelt something unusual too, not just something not moving with her alone. Stiffened, she opened her eyes. 
 
-She took a while to wake up, to realize what'd happened, shouted "**AAAAAAAAAHHHHHHH!!!**"
+"**Ah!**" This is not good. Very bad. Eye to eye, they look straight into each other's eyes, stuck there for a prolonged moment as she was returning to life, gauging the situation. Some short moments before she realized, "**ARRRRRGH!!!**"
 
-"**AAAAAAHHHHHHH!!!**" Both jumped out of bed. 
+"**AAAAAAAAAHHHHHHH!!!**" Rex resonated her shouts; and both jolted and sat up quickly. 
 
-"**You! How did you-?! Wha...?! What are you doing in my bed?!**"
+"**You! How did you-?! _Wha...?!_ What are you doing in my bed?!**"
 
-"**Wait, I...!!!**" He tried to calm her down, to reason about it. 
+"**Wait, I...!!!**" He tried to explain. 
 
-She wasn't listening, climbed down bed, and ran to the edge of the room, "**ARRRRRRGGGGGGHHHHH!!!**" Get whatever's on the table, and threw it at him, "**GET OUT!!! INTERLOPER!!! MONSTER!!!**" 
+"**ARRRRRRGGGGGGHHHHH!!!**" She wasn't listening, got out of bed, and ran to the only tea table in the room. Despite closing her eyes, her aims were notoriously accurate, raining whatever objects she can grab at him, "**GET OUT!!! INTERLOPER!!! MONSTER!!!**" 
 
-"**W-wait a minute, would you- OWWW!!!**" She wasn't listening, and something hard knocked on his head. Tora on the other bed woke up and became a victim himself, already fainted. He quickly climbed back up, hand on the injured forehead, shouted as quickly as he could, "**You-You're the one in my room! The guys' room, see?!**"
+The rest in the room had already awakened from their fight. Tora, standing on his bed, and having his bed just beside Rex's, unfortunately became a victim to the rain of objects. Something hit his forehead, and he fell flat on his back. 
 
-That was quick. She stopped in her track, still holding onto a cup and a book to throw, feeling confused, "_Huh?_" She put it down, scanned the room. Tora, Dromarch, Rex, Gramps. Dang, speaking to herself, "_I can't believe it. I did it again..._ **I am SUCH an IDIOT!!!**" Covering her blushing face, she walked for the door as if nothing had happened. 
+"**W-wait a minute, would you- OWWW!!!**" He tried to call for his attention when something as huge as his helmet and as hard as his helmet hit him hard on his forehead. He quickly climbed back up, hand against his forehead, immediately getting to the main point, hoping her logic would takeover, "**You-You're the one in my room! The guys' room, see?!**"
+
+A cup and a book was about to launch at him when she stiffened. "_Huh?_" She put them down, then scanned to her right. Tora getting back up, Gramps falling out of the helmet, and Dromarch, wearing a Santa Claus hat, his front limbs jetted him up, watching their drama. "_I can't believe it. I did it again..._ **I am SUCH an... IDIOT!!!**" She tried to leave the room as if nothing had happened, slowly and slowly reaching for the door. 
 
 Dromarch wondered, "Hm... Is this what they call sleepwalking?"
 
-But one thing was true. Before exiting, she looked at Rex, said, "You were staring..."
+Opened the door, but she hadn't yet gone out, something came into her mind. She's not all to blame. One thing about what Rex did was true. She turned around and looked at him, with blushing red, spitted out, "You were staring..."
 
 ![You were staring](images/145_you_were_staring.jpg)
 
-"**Huh?**" Staring at what? Red flushed up Rex's face. 
+"**Huh?**" Rex flushed up his face; but he couldn't control himself. Even now, his vision was fixated on the bouncy bouncy, unconsciously revealing himself. 
 
-"**PERVERT!!!**" She walked out and slammed the door behind. 
+"**PERVERT!!!**" And she left and slammed the door behind. 
 
-All collapsed, he just recovered, "**WHA-WHA-WH-WH-WHAT?!!!**"
+All collapsed, he just recovered, "**WHA-WHA-WH-WH-WH-WHAT?!!!**" What huge surprising news she'd shared to the rest of the boys. 
 
-Gramps, dropped out of Rex's helmet, on Dromarch's bed, acknowledged, "She's **certainly** exposing an awful lot of skin."
+Gramps, lying on Dromarch's bed, acknowledged, "She's **certainly** exposing an awful lot of skin."
 
 Dromarch: "Pot, meet kettle.{{footnote: [Pot meet kettle](https://idioms.thefreedictionary.com/Pot%2c+meet+kettle!), is an idiom that says you're accusing someone for something you're equally guilty of.}}"
 
-"Would you care- to **explain**- what that is supposed to mean, my good sir?"
+"Would you- care- to **explain**- what that is supposed to mean, my good sir?"
 
 "Have you looked in a _mirror_ recently?" Their eyes met, and whatever that meant...
 
 ---
 
-Morning time, the people gathered around at the tables again. Gramps, Dromarch, Nia, Tora, and Poppi shared one table. Pyra seated alone at another. Rex just finished waking up, walking towards her gingerly, trying to scan whether he got the correct person, "_H-hi, Pyra..._"
+The morning sun rise, and Argentum Trade Guild was as busy as ever. The rest of the group sat on one table, while Pyra was sitting on another herself, enjoying the tea she'd yearned for yesterday. Rex just came out of the room, gingerly walking over, trying to make sure it was Pyra and not Mythra disguising in Pyra's attire. "_Uh... H-hi, Pyra..._"
 
 ![Rex assessing the situation](images/146_the_careful_rex.jpg)
 
-She put her cup of tea down and turned around, "Ooh - good morning!"
+She put down her cup, turned around, and was delighted at his greetings, "Ooh - good morning!"
 
 "Listen, about earlier..."
 
@@ -96,13 +100,13 @@ He nodded his head violently, "I... see..."
 
 "It didn't get violent, did it?" 
 
-He tried to cover up. "**No! I didn't do anything weird! Not a thing!**"
+He jolted back one step, tried to cover it up, "**No! I didn't do anything weird! Not a thing!**"
 
 ![Rex panicking](images/147_rex_panicking.jpg)
 
-"No...? It was more Mythra... I was worrying about."
+"No...? It was more Mythra... I was worrying about." I hadn't finished speaking and you reaction was so heightened. Are you sure you didn't do anything? 
 
-"Oh... right... hahah!" Revealed himself before she even finished speaking. As he calmed down, sat in front of her, "**I guess... she did throw a thing** or two."
+"Oh... right... hahah!" He tried to cover up whatever he'd accidentally revealed. Calming down, he had the courage to pull over a chair and sit down facing her, acknowledging, "**I guess... she did throw a thing** or two."
 
 She noticed the bump on his forehead. "Ugh! Oh, no! So that was where that came from." Pyra bent forward and gently touched his forehead, and he blushed again, eyes on the twin rabbit down there. "I'm sorry. Did it... hurt a lot?"
 
@@ -110,7 +114,7 @@ She noticed the bump on his forehead. "Ugh! Oh, no! So that was where that came 
 
 In a panic, "N-no! Not at a-all! Really, I'm fine!"
 
-She touched her own forehead, "Are you sure? Honestly.... my head is still a little painful." The others were secretly looking at their interaction, silently feeling nervous and excited for them. 
+She touched her own forehead, "Are you sure? Honestly.... my head is still a little painful." The others were secretly watching their interaction, silently feeling nervous and excited for them. Suppressing their sounds means they'd acted it out violently in body language what they felt. 
 
 On the other table, 'pot' and 'kettle' were looking at those two interacting. Gramps exclaimed, "_Ahhh, to be young again..._"
 
@@ -124,25 +128,25 @@ Gramps clamped together, eagerly spoke while daydreamt, "We need a little romanc
 
 ---
 
-A Titan ship drifted the port of a metallic Castle. Mòrag and Brighid walked out of it, the central tower their destination. Inside the room, a red chair placed under the emblem of Mor Ardain, a young boy stood looking at the emblem and the chair, accompanied by his Blade. 
+The port of Mor Ardain Castle welcomed a Titan Ship. Out walked Mòrag and Brighid, the central tower was their destination. A boy and his Blade was looking at the Mor Ardain emblem above a red chair. So high up there, but so alone. 
 
 ![Emperor Niall and his Blade, Aegaeon](images/150_niall_aegaeon.jpg)
 
-"Aegaeon..."
+"Aegaeon..." He called out. 
 
-"Yes." answered his Blade. A silver-dark-blue Blade had tubes wrapped around him, which light-blue fluid seemed to flow continuously in one direction and recycled into nothingness. Aegaeon turned around and walked away. Door opened and door closed, Aegaeon returned with Mòrag and Brighid. 
+"Yes." answered his Blade, a silver-dark-blue Blade had tubes wrapped around him, which light-blue fluid seemed to flow continuously in one direction and recycled into nothingness. Aegaeon turned around to open the door, and returned shortly with Mòrag and Brighid. 
 
 Mòrag bowed to the boy, "**I have returned from my assignment**, Your Majesty."
 
-His eyes lit up seeing his sister returned safely, "Welcome back, Mòrag. You too, Brighid." Brighid also bowed to him in the Imperial posture, answered, 
+His eyes lit up seeing his sister returned safely, "Welcome back, Mòrag. You too, Brighid." Brighid bowed to him with an extremely formal posture, answered, 
 
 "I'm honored."
 
-"It is good to see you again, Brighid."
+And the Blades exchanged welcome, "It is good to see you again, Brighid."
 
 "You look well too, Aegaeon."
 
-The boy, Emperor Niall{{footnote: Recall, during the first Blade awakening in the square in Torigoth, what the soldier called their Emperor?}}, turned back to Mòrag, asked, "So this Aegis... truly was the genuine article."
+The boy, Emperor Niall{{footnote: Recall, during the first Blade awakening in the square in Torigoth, what the soldier called their Emperor?}}, turned back to Mòrag, getting to the point, asked, "So this Aegis... truly was the genuine article."
 
 "Indeed."
 
@@ -186,9 +190,9 @@ Emperor Niall shook his head, denied her burden, "You set the captive loose beca
 
 ---
 
-They were walking towards where they are to depart when something caught Rex's eyes, "This light... What is it?" He took out something from his pocket and held it up. "Roc's Core Crystal?!" It had regained resonating ability, lit up again. "It was like a stone. What happened?!"
+They were preparing to depart for Mor Ardain when something in his pocket lit up. "This light... What is it?" He took it out and held it up, "Roc's Core Crystal?! It was like a stone. What happened?!"
 
-Nia: "Don't you remember, Rex? Vandham told you. Core Crystals don't 'die'. They always regenerate after a while."
+Nia reminded him, "Don't you remember, Rex? Vandham told you. Core Crystals don't 'die'. They always regenerate after a while."
 
 "Regenerate?"
 
@@ -198,7 +202,7 @@ Nia: "Don't you remember, Rex? Vandham told you. Core Crystals don't 'die'. They
 
 Dromarch answered, "Then a new Roc would be born into this world."
 
-"A new- Roc... Vandham's Blade..." He was looking at it. Should he? What sad memories will it remind them, keeping someone whom lost all memories of their loved ones in the group? 
+"A new- Roc... Vandham's Blade..." He looked at it thoughtfully. Should he do that? He felt guilty, to take Vandham's Blade as his. Yet, perhaps he would want to be resonated again, to come back alive, as if Vandham were always by their side?
 
 Tora: "What do?"
 
@@ -208,7 +212,7 @@ Nia: "Y-eah, but may-be he would have wanted you to do it. Just do whatever."
 
 "Right..."
 
-Behind the stairs some distance from where they gathered, a boy with dark skin, wearing like some ancient Indian tribes, with long hair like lion manes, looked at them. 
+Some distance from where they gathered, a boy with dark skin, wearing like some ancient Indian tribes, with long hair like lion manes, were hidden, looking at them secretly. 
 
 Nia suggested, "Probably time we headed for the ship, right?"
 
@@ -220,9 +224,9 @@ Pyra questioned, "Nia, do we really need to rush?"
 
 "**Sure**, we could take our time. **And** miss out on the good seats!" And she already ran away, eyes looking backwards. Just as she turned, some shadow was dashing at her, and she jumped, barely dodged it, "Oops."
 
-The kid dashed quickly through Rex and knocked him on his pelvis, "**Owww...**" His hands quickly touched where he's hit; Pyra and the others looked the kid running off, disappearing towards the main building. "What was that kid's problem?"
+The kid dashed quickly through Rex and knocked him on his pelvis, "**Owww...**" His hands quickly touched where he's hit; Pyra and the others overlooked the kid running off, disappearing towards the dock. "What was that kid's problem?"
 
-Then Pyra noticed, "**Rex! Your bag!**"
+Then Pyra noticed something else, "**Rex! Your bag!**"
 
 "Huh?" He looked to where he'd put his bag, on the pelvis. Gone. "No... **No! NOOO!!!**"
 
@@ -234,23 +238,23 @@ Nia returned, asked, "What've you lost now?"
 
 Dromarch snapped, "**After him! At once!**"
 
-Rex: "**TITAN'S FOOT!!!**" All dashed after him. 
+Rex: "**TITAN'S FOOT!!!**" All ran after him. 
 
 ---
 
-Nowhere to be seen. Nia asked, "That little thief looked pretty young, right?"
+At the port, quite a number of people. Nia asked, "That little thief looked pretty young, right?"
 
 "**Yeah!** And those ears. Gormotti for sure."
 
-"So let's see..." She scanned the various ports for any sign. "**There! That's the brat!**" He was standing on one of the port. They ran after him. Seeing they were coming, he quickly dashed for the water, pushing against some older guy in his way, 
+"So let's see..." She scanned slowly, one by one, until she came up with one, "**There! That's the brat!**" He was at one of the port. Hearing lots of footsteps, he quickly dashed for the water, pushing some older guy that blocked his way. 
 
-"**WHOA!** Ugh! **"What d'you think you're doing?!**" The guy dropped to the floor and shouted. The kid had boarded a departing ship at the last moment. 
+"**WHOA!** Ugh! **"What d'you think you're doing?!**" The guy dropped on his back and shouted. He watched the kid took a ship and drove it off. 
 
-Nia couldn't believe what happened, "Why that **little...! He stole the whole ship!**"
+Just when they'd believed he'd a bottom line, he'd showed them what's more bottom than bottom, "Why that **little...! He stole the whole ship!**"
 
 Pyra: "**What now?!**"
 
-Rex decided, "**Let's go! Are there any other...**" They looked around for free ship, eyed one. "**There's one! Garram!**"
+Rex decided, "**Let's go! Are there any other...**" He scanned for a free ship to use, "**There's one! Garram!**"
 
 The guy charging for the port which asked Rex for money for docking Gramps during the first chapter turned around and felt surprised, "**Hey, Rex. What's the big hurry?**"
 
@@ -262,9 +266,9 @@ The guy charging for the port which asked Rex for money for docking Gramps durin
 
 "Over there?"
 
-The ship wasn't yet lost at the horizon, and the guy the kid knocked over was at the edge of the port watching his ship departed. He shouted, "**HOOOOLLLDDDD IT! BRING THAT SHIP BACK HERE!!!**"
+The ship was slowly drifting towards the horizon, and the guy the kid had knocked over was bellowing at the edge of the port, "**HOOOOLLLDDDD IT! BRING THAT SHIP BACK HERE!!!**"
 
-"**Why, that's Pittman's ship! Your thief's on board THAT thing?**"
+"**Why, that's Pittman's ship! Your thief's on board THAT thing?**" Garram was enraged. 
 
 "**PLEEEEEEEAAAAAASSSEEE!!!**"
 
@@ -272,11 +276,11 @@ The ship wasn't yet lost at the horizon, and the guy the kid knocked over was at
 
 "**Thanks! I'll bring her back as soon as I can.**"
 
-"**Nooooo worries! Go get 'em, Rex!**" The ship therefore set out after the thief's. 
+"**Nooooo worries! Go get 'em, Rex!**" The ship therefore set off after the thief's. 
 
 ---
 
-The ship entered and park at a dock. They were looking around to find, until Tora eyed it, "**Thaaaaat the ship!**"
+Their ship entered and parked at a dock. So many ships they'd took some time to eye one by one, and Tora found it first, "**Thaaaaat the ship!**"
 
 Rex recognized, "Yeah, no doubt about it. This is where he got off."
 
@@ -288,11 +292,11 @@ Rex agreed, "**Good plan!**"
 
 ---
 
-Can't escape. They found the place out alone in the plains by the side of the Titan, one side facing the Cloud Sea. Nia: "If we're on the right track, he should be around here, yeah?"
+Combining all the info, they'd enough information to find out their whereabouts. Alone in the plains, it was a roofed dock, facing the Cloud Sea. Nia commented, "If we're on the right track, he should be around here, yeah?"
 
-"Thief using **Umon's workshop** as hideout... I **never dream** of such a thing!" Tora felt angry about it.{{footnote: Oops. How to explain about the ship they borrowed?}}
+"Thief using **Umon's workshop** as hideout... I **never dream** of such a thing!" Tora felt enraged.{{footnote: Oops. How to explain about the ship they borrowed?}}
 
-Looking behind the door, they saw the few kids gathered within, in a circle. No sign of Umon, but Rex recognized, "That's him. Let's surround them- so he can't run."
+Looking behind the door, they saw the few kids gathered in a circle. No sign of Umon, but Rex recognized, "That's him. Let's surround them- so he can't run."
 
 Nia: "Gotcha." The rest nodded. 
 
@@ -310,7 +314,7 @@ Rex: "**Kid!** You sure led us on a merry chase. **You've wasted a lot of our ti
 
 "**Oi! I'll have you know,** I work for a living. Right, hand it over."
 
-"**N-NO! You're not having it!**" And he blew a whistle, called some bird monsters as reinforcements. "The Core Crystal is ours now! If you want it so bad, you'll have to **take it by force!**"
+"**N-NO! You're not having it!**" He put his fingers in his mouth and blew a whistle, calling some blue bird monsters as reinforcements. "The Core Crystal is ours now! If you want it so bad, you'll have to **take it by force!**"
 
 "**Well, nothing for it**, I guess. All right, let's go!" And the battle begun. 
 
@@ -318,7 +322,7 @@ Rex: "**Kid!** You sure led us on a merry chase. **You've wasted a lot of our ti
 
 Holding Roc's Core Crystal in his hand, Rex announced, "Well, we took it by force. **Just like you wanted us to.**"
 
-"Ugh!" The other kids felt scared too. 
+"Ugh!" The other kids felt defensive too. 
 
 Rex exclaimed, "Titan's foot, **you're all barely** 10 years old. **Why are you stealing from people?**"
 
@@ -336,7 +340,7 @@ Rex urged, "Look, I'm sure there's a reason you're doing all this. Are you just-
 
 One of the kids (not the one doing the stealing) snapped back, "**What do you take us for?! We're not some poor beggars!**"
 
-"**OK!** So it's not money you're after..." Oopsie. 
+"**OK!** So it's not money you're after..." Oops, accidentally leaked it. 
 
 Nia urged once more, "**Then what the hell is it they want?**"
 
@@ -346,7 +350,7 @@ Tora too: "You should just **tell everything**. Rex-Rex not hurt you."
 
 "C'mon."
 
-The stealing kid, their leader, started, seeing they won't leave them alone, "**We want revenge.**"
+The kid that did the stealing, their leader, seeing they won't leave them alone, started with their goal, "**We want revenge.**"
 
 "Revenge?"
 
@@ -382,13 +386,13 @@ Gramps climbed out of the helmet and expressed, "Sounds like you- really- were- 
 
 "There's a big cave over on Twin Trunks Hill. They use it as a hideout."
 
-A kid sudden came in, ignored the group, and shouted full of worries, "**Ohhhh, Rhys! It's awful! Those scum are gonna-!**" She paused for a while, realized, "Huh? Who are they?"
+A kid suddenly ran inside and immediately shouted full of worries, "**Ohhhh, Rhys! It's awful! Those scum are gonna-!**" Then, she noticed someone not belonging to her group, wondered, "Huh? Who are they?"
 
-Rhys urged, "Don't worry about them. **What's the matter?**"
+Rhys urged her to continue, "Don't worry about them. **What's the matter?**"
 
 "R-right, OK... **The bandits are planning to attack Torigoth!**"
 
-"Are you sure?" Torigoth, a big city with most, if not all, the armies on Gormott? 
+"Are you sure?" The largest city on Gormott, armed with almost all the armies they've got, with the most advanced weapons? Hitting a rock with an egg? 
 
 "**Yeah! We overheard one of their men talking** about it in the city just now."
 
@@ -414,7 +418,7 @@ Rhys was surprised, "Wh-what?"
 
 "But..."
 
-Rex took steps forward and handed out his hand to Rhys, said, "Don't worry." The kid strongly took his hand and shook. Agreement formed. 
+Rex step forward and handed out his hand to Rhys, said, "Don't worry." The kid strongly took his hand and shook. Agreement formed. 
 
 ---
 
@@ -436,7 +440,7 @@ An ether miasma was blocking their way. "Whaaaat the..."
 
 Dromarch: "Well, this is **quite** the **unhelpful** obstruction."
 
-Nia was thinking for a while, recognized, "Hey, isn't this the same as the thing we saw in the blowhole? With Vandham?"
+Nia thought she saw this phenomena before. After some thinking, she exclaimed, "Hey, isn't this the same as the thing we saw in the blowhole? With Vandham?"
 
 Gramps agreed, "**Indeed**, it seems to be the same phenomenon."
 
@@ -444,7 +448,7 @@ Gramps agreed, "**Indeed**, it seems to be the same phenomenon."
 
 He agreed, "Yeah. We just need a **little help** from Roc!" Taking out Roc's Core Crystal, Rex convinced himself, "**Vandham, mate**... Hope this is OK."
 
-"Rex..." Pyra wondered what he'd been shouldering all alone. He'd to get through this himself. 
+"Rex..." Pyra wondered what guiltiness he'd been shouldering all alone; but she can't help -- he'd to get through it himself, to grow up. 
 
 ---
 
@@ -452,7 +456,7 @@ Roc came online once again. Nia exclaimed, "**All right!**"
 
 Pyra was excited too, "**You really did it!**"
 
-Rex: "Roc..." Such reminder. 
+Rex: "Roc..." Remind him of Vandham. 
 
 "So, _you- are- my-_ new Driver. Bit of a **scrawny** one, if you ask me, but ahhhh well. It's good to meet you."
 
@@ -472,9 +476,9 @@ Nia suggested another situation, "We coulda... stolen it."
 
 Gramps: "Mmmm, you're a perceptive one, all right. Yes, you take after your old master in moooore ways than one."
 
-Rex got to the point first, since time was tight, "Listen, Roc. We need your help. Reckon you could... clear the way for us?"
+Time was tight. Rex got to the point and leaves the talking later, "Listen, Roc. We need your help. Reckon you could... clear the way for us?"
 
-He turned around to see, "**This stuff?** Of course. Nothing simpler."
+He turned around to look, "**This stuff?** Of course. Nothing simpler."
 
 ---
 
@@ -484,7 +488,7 @@ Rex exclaimed, after he cleared it, "**Wow!** That hardly took **any** time at a
 
 "Thanks a bunch, Roc!"
 
-Roc looked at him for quite an elongated moment, and Rex asked, "Roc?"
+Roc eyed him for an elongated moment until he felt slightly uncomfortable, "Roc?"
 
 "Tell me something. Myyyyy previous Driver..."
 
@@ -492,7 +496,7 @@ Roc looked at him for quite an elongated moment, and Rex asked, "Roc?"
 
 "Yes, this... Vandham. _What- kind-_ of a man- was he?"
 
-Rex dropped his head in reminiscence, gathering his thoughts together for a moment, before starting to speak, "He was **incredibly** strong. He looked kind of **scary**, but he was kind, too..." And it took him some courage to muster the next words, "_And he saved my life._ It's thanks to Vandham... that we're all standing here now."
+Rex took some time to recall, categorize, and muster his thoughts and words, "He was **incredibly** strong. He looked kind of **scary**, but he was kind, too..." As if some rock let out of his lungs, he continued, "_And he saved my life._ It's thanks to Vandham... that we're all standing here now."
 
 "I see... Then, I think I'd better protect you all, too."
 
@@ -522,9 +526,9 @@ Nia: "Well, if you say so..."
 
 Pyra: "Understood."
 
-Rex made the call, "Right. **Let's go!**" Immediately, they entered the room with Rex shouting for attention, like a police, "**All of you, put down your weapons! You're NOT going to harm that city!**"
+Rex made the call, "Right. **Let's go!**" Immediately, they entered the room with Rex shouting for attention, like a little police himself, "**All of you, put down your weapons! You're NOT going to harm that city!**"
 
-The groups gathered in a line facing the group, one of them shouting back, "**Who the hell are you punks? We ain't got time for a bunch of kids!**"
+The bandits took their weapons and formed a line facing the group, one of them shouting back, "**Who the hell are you punks? We ain't got time for a bunch of kids!**"
 
 One of the buff guy warned, "**Hold it! They're Drivers and Blades!** Now I get it... The **city** hired you, huh?!"
 
@@ -540,7 +544,7 @@ Outside the cavern, all the soldiers fallen had been dragged outside.
 
 "Whew! Well, we managed to beat them, all right. But what now?" asked Nia. 
 
-Rex turned to the road that they were passing through just now entering the valley. Soldiers were seen coming to the location, trekking slowly, fully armored. Gramps: "Ah, right on time."
+Rex turned around to view the road where they'd entered the valley earlier, just in time to see soldiers trekking slowly towards their current location. Gramps: "Ah, right on time."
 
 "Oh I get it. Thaaat's why you asked the kids to call them here."
 
@@ -566,7 +570,7 @@ Rex made a suggestion, "Hey, how about this? Make them work for the Guild, and g
 
 Garram: "**These brats?**" You sure you're not inviting them to steal again? "Are you saying, we should make **salvagers** of them?"
 
-Rex agreed, "I think they show a lot of promise! They've got pretty quick fingers -- right?" He nudged to the kids, not waiting them reply, turned back to Garram, "Come on, you know it makes sense. They're poor little **orphans** with **nowhere to go! Are you really** just gonna... turn them away?"
+Rex agreed, "I think they show a lot of promise! They've got pretty quick fingers -- right?" He nudged to the kids, not waiting for their reply, turned back to Garram, urged, "Come on, you know it makes sense. They're poor little **orphans** with **nowhere to go! Are you really** just gonna... turn them away?"
 
 "You sure know how to twist a guy's arm... All right, I'll do it! I'll sort out the details with Pupunin. But... it's just **bed and board** for now, got that? If you want paying, **you prove yourselves first!**"
 
@@ -578,7 +582,7 @@ Rex turned to Rhys, "**You hear that? I hope you don't mind...**"
 
 ---
 
-> **Translator's note on environment:** The Mor Ardain Titan is entirely covered with factory, with steam and smoke emitting from tall chimneys. The Titan's very old, its skin could no longer support lush vegetation plantation. Still, it stands. Most of the rusty buildings built there during their Industrial Revolution were not necessarily on land, but could be carved out into cliff walls. Industrial machinery lined every single road on the Titan, transporting cargoes and whatnots to and from factories. This, is the **Empire of Mor Ardain.**
+> **Translator's note on environment:** The Mor Ardain Titan was entirely covered with factory, with steam and smoke emitting from tall chimneys. The Titan's very old, its skin could no longer support lush vegetation plantation. Still, it stood despite. Most of the rusty buildings built there during their Industrial Revolution were not necessarily on land, but they could be carved out into cliff walls.{{footnote: Meaning, the external view was on the cliff wall, while they live inside the man-made cavern.}} Industrial machinery lined every single road on the Titan, transporting cargoes and whatnots to and from factories. This, is the **Empire of Mor Ardain.**
 
 ![Mor Ardain Titan](images/153_mor_ardain_titan.jpg)
 
