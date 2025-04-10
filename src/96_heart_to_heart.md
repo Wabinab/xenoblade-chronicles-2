@@ -621,8 +621,745 @@ On a hill overlooking Garfont village, Rex told Roc, after reawakening him, "The
 
 ---
 
-### (TBD)
+### How to be a Veteran Driver
 
-Just after disembarking on Mor Ardain, 
+One night, near the port where they disembarked in Mor Ardain, in the Cargo Transportation Zone, suddenly, Tora had a really weird statement, "Rex-Rex! Tora have to ask for friend as fellow man's man! Tora want to gain understanding of life as adventurer!"
+
+"As an adventurer?" What do you mean? 
+
+"Rex-Rex is role-model of Tora! That why Tora want to learn **everything** he can about being Rex-Rex!"
+
+"This is all very sudden, Tora. What's going on?"
+
+Gramps had a different feeling about this, "Come now, Rex. Don't feel too important, he just wants to talk."
+
+Poppi: "In any case, it not so common for Masterpon to ask something so directly."
+
+"Exactly! Tora being **earnest** like **never before!** Hm! Tora submit as evidence: this direct, unflinching eye contact!" And he stared at Rex with his big eyes.
+
+Rex looked closely and noticed, "_Wow_, your pupils are really dilated..."
+
+Gramps commented, "That's what you get, staying up all night..."
+
+Poppi made up her mind, "All right, tonight Masterpon go to bed early." That includes some... drastic measures if he don't. 
+
+"**Meh-meh-meh-meh! Enough!** Tora's eyes are worry of Tora! It no matter! This important! Tora want to be like Rex-Rex! Rex-Rex! Pleaaaaase, teach Tora!"
+
+> Choose: "I'll teach you all that life's taught me!"  
+> or: "Maybe it's better if Nia teaches you?"
+
+> (**Choice 1:**) "I'll teach you all that life's taught me!"
+
+"Thank you! Tora cannot wait!"
+
+"All right, Tora, listen up. To become a responsible adult, here's what you need to do. Firstly, you've got to take good care of your tools!"
+
+"**Ah, Tora very good at that!** Runs Poppi's diagnostics every day!" He held out his wings to stop Rex from speaking more. 
+
+"Indeed. Masterpon keep Poppi in impeccable state of maintenance."
+
+"Secondly, you've got to take good care... of your friends! If you don't have friends to rely on, you'll be in trouble when a big job comes around!"
+
+"_Hum hum hum hum hum, Tora see._ Tora always work alone until now, so- that point- _still a little new_ to Tora."
+
+"And **most importantly, number three!**"
+
+"Yes, yes?"
+
+"Correctly triangulating wreckage coordinates!"
+
+"**Ah, of course!** Tora can see that very important!" He answered without thinking; then it struck his conscious, "_One moment. Wreckage coordinates?_"
+
+"That's right. If you mess up the coordinates, all the prep you've done goes down the drain. You might lose out on any loot you could've got otherwise..."
+
+"_Ohhh..._" Tora is not salvager, meh! 
+
+Gramps quietly reminded, "_Um, Rex. Isn't that salvaging you're talking about?_"
+
+"**Huh? Yeah, why?**"
+
+Tora raised up his wings, "**One moment, please!** _Why Rex-Rex talking about salvaging?_"
+
+"You wanted to know about adventure, yeah? And what greater adventure is there than salvaging?"
+
+His wings fluttered, "Tora want to know Driver wisdom! Have no use for salvager wisdom! Meh!"
+
+"**WHUH?!!**"
+
+"Masterpon, it seem that ask Rex about art of being Driver not bear fruit."
+
+Gramps added, "After all, Rex is a rookie too..."
+
+"_Tora is disappoint..._"
+
+"**I really thought you were thinking of being a salvager, Tora...**"
+
+He turned his back on Rex immediately, not giving face, "Meh, it fine. Tora ask Nia." Immediately, he walked away. 
+
+"**H-Hang on, Tora! Let me... Let me try again!**" And he went after him. 
+
+> (**Choice 2:**) "Maybe it's better if Nia teaches you? OK, so you ant to know about being a Driver, right?"{{footnote: Because he continued speaking after the choice's textbox, we just continued it here than open a new line.}}
+
+"Right!"
+
+"Does it bother Masterpon when someone say he no good at weapon pass?" Poppi wondered. 
+
+"Of course it bother Tora! I mean, _weapon pass is crucial element_ of Driver-Blade coordination. If someone say me not so great at that, Tora's self-esteem plunge is par for course!"
+
+"I know where you're coming from, but... Uh, maybe that's all the more reason to ask Nia? **She's the experienced** one around here..."
+
+Tora felt disappointed, "Mehhhhh... Tora get it. Will ask and come back."
+
+After he returned, he passed on wisdom of Nia, "Nia just say, with time, body of Driver learn to do it by muscle memory..."
+
+Poppi felt disappointed this time, "Answer seem somewhat... dismissive?"
+
+"Ah, that's a shame... **Hey, but, maybe- I can still help? I think Pyra and I manage OK, so...**"
+
+"Actually, Nia refer to Rex-Rex as well."
+
+Poppi had memorized her exact phrase, proudly repeated, "Poppi believe 'the kid's green as freshly mowed grass himself'... _were her exact words._"
+
+"**Seriously?!!! That's what she thinks of me?**"
+
+"Oh chin up, Rex-Rex."
+
+Poppi: "Indeed! Have much time to live and learn!"
+
+"**Yeahhhh!!! We'll get there!**"
+
+Gramps commented, "He says he'll help, but then he's the one who needs pepping up..."
+
+---
+
+### Dromarch's Wisdom
+
+At the capital city of Mor Ardain, Alba Cavanich, Nharil Central Plaza, Dromarch called for her attention, "My Lady... Over there. The capital's standing army."
+
+"I see 'em." There were children behind them playing, and some other adults over at the lamppost chatting. 
+
+Rex and Pyra just went up to them, Rex suggested, "Let's keep our distance, yeah? Best let sleeping Gogols lie."
+
+"Good call."
+
+Dromarch had other wisdom, shared, "Be not alarmed. The troops that captured us- were Ardainian military, yes, but from the Gor-motti regiment."
+
+"Those aren't the same?" Pyra wondered. 
+
+"Mmm. Quite different, in fact. **One can learn many things**- while in a Titan battleship's brig, and I made- good use- of the opportunity."
+
+Nia sighed, "_Damn. They chucked me into solitary_, so I don't know anything..."
+
+Dromarch continued, "It does seem they have separate procedures for Blades and Drivers. In any case, once- I abandoned thoughts of staging a break-out, I did make sure to keep my ears open for intelligence."
+
+Pyra asked, "Did you hear anything else?"
+
+"Mmm... Let me think... The soldiers over there are, as I said previously, from the capital's garrison..." He's referring the soldiers that's guarding the buildings, probably military. "But those other ones actually belong to the First Imperial Guard, 2nd Battalion." That's the one guarding the bridge connecting Alba Cavanich to the Castle. 
+
+![First Imperial Guard, 2nd Battalion soldiers guarding the bridge](images/167_imperial_guards.jpg)
+
+"Huh? What's the difference?" Rex don't understand. 
+
+"Beyond the bridge is Hardhaigh Palace, the imperial residence. Therefore..."
+
+It clicked in Pyra's mind, "**Oh, I've got it!** The palace guards belong to a different unit. **Of course!**"
+
+"**Indeed!** Then, above the Imperial Guard rank and file, you have the **Carraig special** guard unit. And higher yet, the Special Inquisitor, The Flamebringer herself."
+
+"Wow!" Rex was impressed. 
+
+Nia was bored and confused, "_Armies, man._ I could never deal with all this **hierarchy** crap."
+
+"Ever heard the expression, 'know- thy- enemy'...?" asked Dromarch.
+
+> Choose: "Nia, how was Torna organized?"  
+> or: "Got any other good ones, Dromarch?"
+
+> (**Choice 1:**) Rex wondered, "Nia, how was Torna organized?"
+
+"Torna? It was all... centered around Jin. Not exactly structured, though. But we all had our assignments."
+
+![Alba Cavanich with all the desert sand blowing in the background and the industrialized structures](images/168_alba_cavanich.jpg)
+
+"What was yours, Nia?" wondered Pyra.
+
+"I was..."
+
+Rex interrupted her, "Naptime specialist?"
+
+"**Shut it!** I was, uh, general- support. I hadn't been there long, so- I- mostly just helped out with whatever."
+
+"**Hah. Not much of a change, then.**"
+
+Dromarch agreed, "It is, as you say."
+
+Nia lashed out at him, "Stop making it sound like I'm some useless layabout!" Then she felt the need to explain herself, "I mean, I can make _ruska dumplings and stuff_, so..."
+
+Cooking! Pyra immediately invited, "Well then, maybe we could cook something together?"
+
+"Mm-hmm! OK, you're on!"
+
+Dromarch had worries, "**My Lady, are you sure that's err...**"
+
+She decided to use action to prove it, "Both of you'll sing a different song when I stuff your faces with my food!"
+
+Cold sweat ran down Dromarch's manes, "(sigh)... You have best **steel** yourself, Master Rex. My lady's cooking... is not what anyone would call... 'conventionally tasty'..."
+
+Rex backed up a sec, "Ugh... Maybe I shouldn't have riled her up..."
+
+> (**Choice 2:**) Rex wondered: "Got any other good ones, Dromarch?"
+
+"The smallest unit in the Ardainian army's structure... is the **ten-soldier** decade. It includes **eight** foot soldiers, alongside the squad leader and a deputy. Six to ten of these decades can then form a unit called- a century. But eight- is the usual number."
+
+"Haaaaaahhhh, neat..."
+
+"Mm hmm..." He rubbed his face as he showered in pride. "Master Rex, you did ask for a 'good one', correct?"
+
+"I did."
+
+"Would you not say that was a 'good one', then?" He wanted a specific praise, LOL...
+
+But Rex was so confused, "Uhhhhh, which part?"
+
+Dromarch reminded him, "(sigh)... I said that commonly, **eight** decades form a century. **Eighty men**... and yet, they are... **a century.**"
+
+"**Ohhhh, now I get it!**"
+
+Nia quietly suggested, "_Rex, he's done his best, so just throw him a bone, will ya?_"
+
+"**Ahh yeah, no, that was a VERY good one! Uh-huh, VERY good.**"
+
+"**I have- doubts- about your sincerity...**"
+
+---
+
+### Unforgiving Terrain
+
+In the upper level of Mor Ardain, Jelidorend Highlands, Tora complaint, "Mor Ardain so full of **wasteland** and hard rocks... Not easy for walking!"
+
+Rex suggested, "Shall we take a rest around here?"
+
+"**Good idea**, yes!" Immediately he agreed. 
+
+Gramps suggested, "You need to toughen up a bit, Tora."
+
+Tora rebutted, "Tora live whole life cooped up in house working on building Poppi! _Not used to walking long distance! If only Tora could_ flitter-flutter like Gramps..."
+
+"Well, you have those big ear... wing... things."
+
+He fluttered, "Nopon wings not for flying! Could flap forever and not reach sky!"
+
+Rex had another suggestion, "If you're really having a hard time walking, you could ask Dromarch to give you a ride..."
+
+His eyes lit up, "**Ohhh, Rex-Rex is genius!**"
+
+Nia looked to Dromarch for his opinion. A Nopon behind his back? "I- think- not. I have solemnly sworn to carry none other than my lady."
+
+Nia urged, "_Go on. It can't hurt._"
+
+Dromarch jumped on his feet with tail raised high, "**WHAAAAATTT?!!!**" Or perhaps, more surprised by her acceptance. He tried to dissuade her, "Are you sure about this, my lady?! If you Tora to ride me now, soon he will want Poppi to join him, and there will be no space left for you!"
+
+![Dromarch raising his tails high](images/170_dromarch_raising_tails.jpg)
+
+"Well, when you put it like that... Sorry, Tora, _guess that's a no._"
+
+"Orgh, Much disappoint...."
+
+Rex worried about "Pyra, are you OK walking?"
+
+"**Oh**, yes, I'm fine. Though all the dust clouds do bother me a little..."
+
+Nia agreed, "Oh, yeah, those are a pain. Gets in your eyes sometimes."
+
+"Poppi also not like that. Small particles get in joints and cause **nasty** creaking when moving. Must ask Masterpon **to clean out** when get out of this place."
+
+"Rex-Rex, it seem like Mor Ardain tricky place for everyone. Rex-Rex have any bright ideas for helping?"
+
+"Well, let's see..."
+
+> Choose: "I could lend out my salvager suits."  
+> or: "Just gotta rough it out!"
+
+> (**Choice 1:**) "**Would anyone like to borrow one of my salvager suits?**"
+
+Pyra: "I suppose that would help keep the sand out..."
+
+"I've got a spare you could borrow. You wanna try it on? Actually, I guess Nia's the only one who it would _really_ fit."
+
+"Go on then, I'll give it a try. If it really is useful, we can buy a whole bunch of 'em sometime!"
+
+After wearing it, Dromarch commented, "My lady... That suits you- surprisingly well..."
+
+"Oh shuttup." She was wearing a golden-brown version of Rex's blue ones, including the helmet. "So this is what it's like for Rex when he goes salvaging, huh?"
+
+"Keeps the sand out pretty well, right?"
+
+"Well, yeah, it does that... But I can't really see. Peripheral vision's awful in this thing. It's hard to move about in, too." She tried to do a battle stance. 
+
+Pyra concluded, "It might not be **very** practical for combat..."
+
+"Yeah, I don't think I could fight like this."
+
+Tora concluded, "Looks like genius idea of Rex-Rex _not so genius after all._"
+
+"Well it was worth a try..."
+
+> (**Choice 2:**) He hadn't spoken anything but Gramps read his mind already, "Ahhh, the old 'grin and bear it' solution."
+
+Poppi was disappointed, "Rex not even try to solve problem?"
+
+"Well I mean... listening to you guys talk about it does make me think that the sand and dust is a problem. **But then I realize** it never actually bothered me until you mentioned it. It's not like it's making our attacks miss or anything, **right?** I think we're fighting **as well as we ever have**. It's a bit of an irritation, **but it's not causing any actual problems.**"
+
+Pyra agreed, "I suppose you're right..."
+
+Nia too, "Yeah, I guess its not actually slowing me down."
+
+"Right? So I think as long as we keep our spirits strong, we can make it through this just fine."
+
+Pyra cheered, "**Well said, Rex!** I'll do my best to keep going then!"
+
+Nia: "I'll try and keep my mind off it too."
+
+Of course, everyone had forgotten who had started the conversation and quacked in the first place. Rex suggested, "All right! Let's keep moving, guys!"
+
+Pyra, high in spirit, "**Right!**"
+
+Poppi wondered, "Is this really solution?"
+
+Tora: "Is **best** solution!"
+
+---
+
+### Mor Ardain vs Gormott
+
+Nia, at Hardhaigh Palace Wing Area #2, commented, "When I look at it now, this capital of yours is pretty prosperous. Far cry from Gormott."
+
+![Mor Ardain Castle](images/195_mor_ardain_castle.jpg)
+
+Mòrag questioned, "Is that how you see it, Nia?"
+
+"Well, am I wrong? Your technology is so much more advanced than Gormott's, and you've got army facilities, hot springs... Looks to me like you've got all you need right here. I guess I don't get why you had to go and annex Gormott..."
+
+"Mor Ardain generally has a rather hot climate, you see. We developed by actively exploiting technology which uses the heat, as well as that we obtained through salvage. **But**... as the Titan nears the end of its lifetime, the temperature has started rising steadily{{footnote: Talk about global warming.}}... Ironically, while this has made our heat-powered technologies even more efficient, our farmland has done very much the opposite- of flourish."
+
+"The Titan's lifetime, huh..."
+
+"Yes, it shouldn't be long now. The day when Mor Ardain's Titan becomes uninhabitable. Sensing that, the Senate started a war to conquer a new home for our people."
+
+"That'd be Gormott, then."
+
+"Indeed."
+
+> Choose: "You realize there was a better way?"  
+> or: "All this because of dumb pride..."
+
+> (**Choice 1:**) "You realize there was a better way?"
+
+"Was there, now?"
+
+"Our two governments could've just talked, got to know each other, become friends... **We could've worked together on this! Just- like- you and me**. We were enemies at first, **sure, but now we're allies**, fighting on the same side. If our nations could've done the same, **it wouldn't have had to come to war!**"
+
+"Perhaps so. If everyone in this world thought like you do, terror and strife wouldn't be so commonplace."
+
+"Well, come on... You're not just gonna give up, are you?"
+
+"What do you mean?"
+
+"If there's no need for strife, then we should just get rid of it. **Rex told us,** right? **If we reach the World Tree, there'll be no need for fighting any more.**"
+
+"You think Elysium is the answer to all our troubles, do you?"
+
+"I don't care if people laugh, call it a pipe dream, or whatever. **I'd rather be an optimist** than just despair at the state of the world."
+
+"Hahah! You have a point."
+
+"I hope you'll lend us your strength to reach that goal, Mòrag. It'd be grand if we could count on your support."
+
+"I will! They call me the Empire's finest, and I- intend- to prove it."
+
+> (**Choice 2:**) "All this because of dumb pride..."
+
+"What do you mean?"
+
+She started ranting, "You didn't have to act _so high and mighty. You coulda been humble._ But no. **I dunno if you were refusing to show weakness, or if you just felt you were better than us, but you put your damn pride above all other things and chose to invade.** Am I wrong? You started a war. Wanting to save lives, you ended up losing lives. **How backwards is that?** If you can't make enough food, **why not just... bow your head and ask if you could share?** I mean, we were enemies once, **but now** we understand each other. **How could a sodding government not even think of it?**"
+
+She wasn't angered by it, kept her calm, "A point well made... But the world is not as straightforward a place as that. Sometimes the most- obvious- way is the most difficult to take."
+
+"_Cor..._ People are such a pain..."
+
+"No question..." She didn't realize{{footnote: on the word 'people'}}. That's exactly why I want to support the boy, and other upright people like him.
+
+"You mean Rex?"
+
+"A world with no strife... _Can you imagine something so wonderful, if it were true?_ And if there's anyone who could ever _make it true, it's him._ **_Every age needs its own dreamers to forge new paths,_** after all."
+
+"**Ahah! You're full of surprises, Mòrag.** You always struck me as straight-laced. **But here you are, believing in the Elysium story.**"
+
+"It's not just little boys and girls that follow their dreams, is it? I too want to see the fruits of this dream you all share. _That's why I'm with you._"
+
+"Well, whatever your motive, it's nice to have you with us, Mòrag. Yeah, I think we can make good use of the Empire's finest!"
+
+"Please do! No matter what path we tread, I'll be there to help you on the way..."
+
+---
+
+### Mòrag the Chef
+
+At the kitchen/restaurant (Rumbletum Canteen) in Argentum, Pyra said to "Hey, Brighid! I found something interesting in that shop over there."
+
+![At the Canteen](images/196_canteen.jpg)
+
+"Interesting?"
+
+"Yep. Here it is." She handed her something. 
+
+"What... is that thing? It looks... quite grotesque."
+
+"Why, that's an Argentum Monkfish." Mòrag recognized immediately, coming into the kitchen. 
+
+"You are familiar with this creature, Lady Mòrag?"
+
+"It's a rare delicacy that is only found in the waters around here. Rather tasty."
+
+"People... eat this monstrous fish thing?" Brighid can't believe what she'd just heard. 
+
+Pyra commented, "It might not look appetizing, but I've heard the taste is divine. Since it's so rare, I thought I'd cook something up with it, but I'm not sure how... Mòrag, do you know? Do tell, please!"
+
+> Choose: "I'm not that great a cook..."  
+> or: "...Very well, I'll do it."
+
+> (**Choice 1:**) "I'm not that great a cook..."
+
+Perhaps sensing what's she gonna say, Pyra immediately suggested, "**Oh, no,** that's fine! I'm happy to do the messy part. I just need you to tell me the steps, and then if you could add the spices..."
+
+"Well, if that is all, I suppose it should be... fine..."
+
+Brighid heard the wobbery in her voice, asked, "Are you certain, Lady Mòrag? About the spices and everything?"
+
+"D-d-don't you worry... Have- some- faith in my taste buds."
+
+In front of the stove, they were looking at it. Pyra asked, "Right then. So, first, how should we cook it?"
+
+"_A fine question._ Many would eat it grilled, or sliced raw, **but I hear it tastes best** in a stew."
+
+"**Sounds great!** Well then, Mòrag, can I ask you to get the stock ready?"
+
+"Of course! If I recall, that's- made- by- boiling the guts..."
+
+"I think I can leave you to it then! I'll go buy the other ingredients."
+
+"Roger."
+
+Looking at the fish, Mòrag was self-questioning, "Hmph... **Brighid?**"
+
+"Yes, Lady Mòrag?"
+
+"Do we have to begin by **gutting** this ugly little creature?"
+
+"Well, I should think so. Can you do it?"
+
+She backed a step, "Erm... I'm not even really sure which part the guts are..."
+
+"That would be the parts on the in-side. Consider using a knife..."
+
+"Right... **Brighid?**" After she cut it open, she called out once more. 
+
+"Yes, what is it now?"
+
+She jumped back, exclaimed, "**The heart! The heart- is still- beating!** What should I do? Should I deliver the coup de grâce?"
+
+Can't back away now, she gave the confidence, "I-i-indeed! That- seems wise. We don't want it fighting back."
+
+"**Brighid! It's... looking at me with THOSE EYES, and moving those lips, like it's accusing me of something. IT'S CURSING ME FOR TAKING IT'S heart! It's NO USE... I CAN'T TORMENT the dead any further. BRIGHID, I'll leave the rest to you.**"
+
+"**Wait** just a minute! You can't force me to do your dirty work!"
+
+"**I'M SORRY, but... I must!**"
+
+"Lady Mòrag! Are you deserting in the face of the enemy?!"
+
+> (**Choice 2:**) "...Very well, I'll do it."
+
+Brighid warned for the final time, "Lady Mòrag, if I may. _Is this really- wise?_"
+
+"**Oh!** Don't you worry yourself." She had said it, she must made it come true. 
+
+Pyra was excited, asked, "Shall we start by gutting the fish, then?"
+
+"Ex-cuse me?"
+
+"What's the matter?"
+
+"Gut it? Gut. This. Creature?"
+
+"_Well, yes._ We can't exactly cook it like that."
+
+"**MM HMM!** Understood. Life is a battlefield. Let us commence."
+
+"**Show it who's boss, Lady Mòrag!**" Brighid cheered for her. 
+
+"Mhmph! **Brighid!**"
+
+"Yes?"
+
+"Please hold down its head."
+
+"Wh-wha...?! No, I, er, that is... I'd rather not... touch it."
+
+"**It's just**... a little tricky to make the incision when it keeps... **staring** at me..."
+
+"Qu-quite true, b-b-but..."
+
+"**FOR THE LOVE of the Architect, DO IT! Please, at least cover its eyes for me!**"
+
+"Y-y-yes, Ma'am. We cannot let a mere fish get the best of us! **ERRRRRKKKKK!!!**" She screamed thereafter. 
+
+"**What's wrong?!**"
+
+"**It...It looked me in the eye!** Is this thing still alive?!"
+
+"Can it be? Then I must end it before it strikes!" She pulled out her truncheon, as if the battlefield was even harder than a real one. 
+
+Brighid warned, "**It's opening its foul maw?!** Lady Mòrag, the enemy means to **eat us! Quickly, the finishing blow!**"
+
+"**VERY WELL! HELLFIRE!!!**"
+
+Pyra exclaimed, "**NO, WAIT! I-If you do that, the food will be...**"
+
+But it was too late. They'd destroyed the enemy of their heart that looms larger than it really. Tucked her truncheon back to her sides, she asked, "Well, Brighid?"
+
+She agreed thick-faced, "**As befits the** Flamebringer. _The foe is extinguished... without a trace._"
+
+"Phew. _Our mission here is done._"
+
+Pyra was jumping up and down, "What do you think you're doing?! There's nothing left for us to eat!"
+
+---
+
+### Hot Springs
+
+"Ahh, how Tora missed hot springs. This bring back memories of first time we stay in Mor Ardain." They were at Jakolo's Inn at Mor Ardain. 
+
+![Jakolo's Inn hot spring](images/197_hot_spring.jpg)
+
+Rex exclaimed, "The water here is great, right? It just melted the weariness away."
+
+Mòrag noted, "Ahh, I see. So this is where you stayed."
+
+Zeke: "First time I've been here, though. But hang on... **Is this place unisex?**"
+
+Tora: "Sadly, it is not... Are set times for men and women."
+
+"Ahhh, right... That sorta system..." Discouraged. 
+
+Mòrag: "Hmph... To bad for you."
+
+Tora invited, "Seems now is right time for men to go bathe. **What lads say? We all go, yes?**"
+
+Mòrag jumped on her feet, "What?" I'm not a man?!!!
+
+> Choose: "All men here! No need to fear nudity!"  
+> or: "Tora happy to wash everyone's backs!"
+
+> (**Choice 1:**) "All men here! No need to fear nudity!"
+
+Mòrag tried to understand his request, "You want- all four of us- to bathe- together?"
+
+"**Of course yes!** Or, is there some... problem?"
+
+Zeke answered, "No, ummm, me and Rex are game, but urrr Mòrag, uh..." How do one explain? He didn't even notice? 
+
+Mòrag relieved his explanation, "You three go on ahead. I- shall- abstain- for now."
+
+Tora still didn't get it, encouraged strongly, "Mòrag so reserved... **Come on, all go together!**"
+
+Rex asked Zeke, scratching his head, "**Is it possible** that Tora doesn't know Mòrag is a woman?"
+
+Zeke shared his experience the other way, considering the options, "Well, it's not like I could tell a Nopon woman apart, except from the clothing... And with Mòrag wearing **men's** clothes, maybe it's no wonder the little guy got confused. Orrrrr... Maybe he just doesn't really care one way or the other?"
+
+At the center scene, Tora was still trying to convince her, "Mòrag, _it OK! Take moment to breathe, then come with!_"
+
+Straight in his face, "I refuse."
+
+Without listening further, he continued to urge, "Look, _Tora understand. Lots of Nopon not like baths, too._ Maybe- Mòrag afraid Mòrag drown? But- hygiene veeeeeery important! Have to soak, to get nice and clean."
+
+"I **do** like water, and **I am not- filthy**... But on this matter, I will not bulge."
+
+"Ohhh how friend Mòrag be so stubborn, with hot spring right before eyes! **Come on, Mòrag! Drop clothes like man, and jump in hot spring! Tora not have all day!**"
+
+She now ask straight in his face, "You know I'm a woman, _don't you?_"
+
+His fluttering wings froze in mid-air, "Meh... meh... **mehmehmehmehmehmehmehmehmeh?!!!** Wo-wo-wo-**woman?!!!**"
+
+"**Yes. I'm a woman,** Tora."
+
+"**Mehmeh-mehmeh?!!**" He turned around and asked, "**Rex-Rex! Zeke! You know this?!**"
+
+Rex: "I mean, at a glance..."
+
+"Well, for Tora, this discovery of century! **Have to tell Poppi and others!**" After he went away to share the news, the rest gathered in a circle. 
+
+Rex: "well, that's that then, I guess?"
+
+Mòrag: "_My..._ I did not expect **this** when I woke up today."
+
+Zeke suggested, "Hey Mòrag, how about next time you put on a skirt and some heels?"
+
+She replied calmly, "How about you die in a fire, Zeke."
+
+> (**Choice 2:**) "Tora happy to wash everyone's backs! In return, Tora ask for help in washing his! **Tora strong believer in importance of physical contact, for build team bonds!**"
+
+Mòrag: "_I think I'll excuse myself this time._"
+
+"Mòrag not want to bathe with Tora?" He felt disappointed. 
+
+"Please don't take this the wrong way. It is just... **this is a very delicate matter, I'm sure you understand.**"
+
+"Is because Tora is Nopon?"
+
+"**Nooo! Of course not! That's not it at all! I-I just, I have other... Ugh!**"
+
+Zeke now get into the play, "Oh, Mòrag... Why've you gotta be so stubborn? Why not just play along and make Tora's little dream come true?" Or maybe, _your_ dream come true? 
+
+"Bolt it! How dare you make light of me!"
+
+Tora still don't understand, "Mòrag... _maybe worried about feathers in bath?_ Then no need! Tora is younggggg, not drop feathers so easy!"
+
+"Uhm, no, th-that's not the problem..."
+
+"Then there only **one** explanation... _Mòrag really do hate Tora?_"
+
+"Ngh... N-no, that's not true..."
+
+Zeke urged her to reveal herself, "C'mon Mòrag. Tora's almost crying here."
+
+"Urkkk..."
+
+"If Mòrag not hate Tora, then, why not want to wash each other's backs...?"
+
+"**Oh**, for the... **Fine! Let us bathe together!**"
+
+"Huh?" Rex and Zeke jumped on their feet. What the heck is she even speaking? 
+
+Zeke: "Seriously?" 
+
+Only Tora's fluttered wings exclaimed how happy he got. "**Tora score!**"
+
+"But I will bathe in my clothes! And **that**- is non-negotiable!"
+
+Zeke: "Uhhh, good luck trying to explain this to the bath attendants..."
+
+---
+
+### Rex's Secret Base
+
+He brought Pyra and Nia to his little cove in Fonsett Village. It only have a chest placed on a table, other than the rocks and stones carved by nature. Pyra asked, "So, Rex, you lived here?"
+
+![Rex's little cove](images/198_rex_little_cove.jpg)
+
+"Huh? **Noooo**, this is my getaway. You know, like a _secret_ hideout. I lived on Gramps. I'd moor him next to that cliff over the way."
+
+"What kind of kid were you, Rex?"
+
+"I dunno. I've not really thought about it."
+
+"I bet you're curious too, right Nia?" says she who was showered with excitement. 
+
+She played along a bit, but facing the other direction, "Oh, errr... well, maybe a bit."
+
+Gramps offered, "I could tell you a few stories about when Rex was younger. Ahhhh, yes... He was a wild child, that's for sure. A bit of a tearaway. He was never the biggest child, but he had a strong sense of justice. **Always** picking fights with the local bullies!"
+
+Rex: "I think I still have the bumps to prove it."
+
+Pyra: "So he's been this full of energy his whole life?"
+
+Nia: "Sounds like you were a right handful!"
+
+![Rex's little cove 2](images/199_rex_cove_2.jpg)
+
+Gramps noted, and his storytelling instinct came online, "My my, you certainly _seem interested._ **Well then**, perhaps I'll tell you my **best**- Rex- story."
+
+> Choose: "Whoa, just a sec!"  
+> or: "Go on then, I've got nothing to hide!"
+
+> (**Choice 1:**) "**Whoa, wait, just a sec! What do you mean, 'best'?**"
+
+Gramps go forward anyways, and he'll know what it meant by 'best'. "One day, one of the local kids- was attacked- by a monster. _Without thinking, Rex jumped in_ to help him."
+
+Nia noted, "That's our reckless Rex!"
+
+Rex: "**That's your story?** Of course I'm gonna help someone in danger!"
+
+Pyra was eager for more, "**What happened after that?**"
+
+"Both Rex- and the kid- had to be rescued by the villagers."
+
+She was surprised, "Huh? Wasn't- Rex meant to be the one doing the rescuing?"
+
+"That was his plan. Unfortunately, he just ended up in the same hot water."
+
+Nia laughed out loud, "**Hah! Rex, you genius!**"
+
+"That night, I heard Rex- _bawling his eyes out._ Was he in pain from his wounds, I asked. But he replied, 'No, I just wish I'd been able to save my friend.' Injury held no fear for him, but the anguish of not being able to save his friend... was unbearable."
+
+Nia can't understand, "And he cried about that?" 
+
+Looking at him, Rex: "What's the big deal? **Kids cry. It's normal!**"
+
+Pyra: "No, Rex. Nia is impressed! Aren't you?"
+
+"Sure. I was surprised at your bravery. **Even- at- that age...**"
+
+"_We admire you, Rex._" Pyra repeated. 
+
+"**Aw, stoppit! You'll make me blush!**"
+
+Gramps: "_Ho ho ho. I told you it was a good story!_"
+
+> (**Choice 2:**) "**Go on then. I've got nothing to hide!**" he urged. "**Gramps'll just exaggerate it anyway.**"
+
+Gramps therefore teased, "So you won't mind me telling them- about the time you **wet** yourself- when there was a monster attack?"
+
+Everyone jumped on their feet, Rex exclaiming, "**HUH? NO, THAT'S NOT-**"
+
+Pyra already heard it, "W-wet yourself?"
+
+Nia labeled, "Rex, you baby!"
+
+"**That was just when I was a kid! I don't do it anymore! Don't even think about carrying on with the story, Gramps!**"
+
+Nia got excited, "**Awww, c'mon! We wanna hear!**"
+
+He looked for support, "**No! Pyra, pleaseeeee... You don't want to hear it, do you?**"
+
+"_Ummmm... Actually, I kind of do..._"
+
+"**HUH?!**"
+
+Gramps started something unexpected, "This is a story about the time one of the local bullies- fell foul of a monster. _Rex didn't hesitate_. He packed up and..."
+
+"**Gramps, pleaseeeee stop!**"
+
+Nia was still lingering on the thought, "**Is wetting yourself reaaaally that embarrassing?**"
+
+"**SUPER EMBARRASSING!!! Nia, don't tell me it's never happened to you!**"
+
+"Urgh..."
+
+Pyra don't want the fire to burn on her, suggested, "Maybe we should hear a different story."
+
+Gramps got the idea wrong, "Oho, _you'd like to hear an **even** more embarrassing story?_"
+
+Rex: "**No! Stop! Don't encourage him, Pyra!**"
+
+She was confused being misunderstood, "**Huh?** I just want to know as much about you as possible, Rex."
+
+Nia: "Well said! Drivers and Blades should know **everything** about each other."
+
+Rex: "**Yeah, well, there's everything and there's- EVERYTHING. Can we please just drop it?**"
+
+---
+
+### A Great View of Torigoth
 
 ### Footnotes:

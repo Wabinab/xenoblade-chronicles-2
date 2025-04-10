@@ -26,6 +26,11 @@
 - [Dadapon's Whereabouts, Travel with Mòrag](./13_mor_ardain.md)
 - [One-Eyed Monster, Confrontation at the Factory](./14_factory.md)
 
+# Chapter 5: Masters and Slaves
+- [Addam and Lora, Jin To Temperantia](./15_history.md)
+- [Bringing Pyra Home, To See His Parents (Leftherian Archipelago)](./16_bringing_pyra_home.md)
+- [The Return of the One-Eyed Monster, Meeting the Praetor](./17_to_indol.md)
+
 ---
 
 [Heart to Heart](./96_heart_to_heart.md)

@@ -1,14 +1,12 @@
 # Dadapon's Whereabouts, Travel with Mòrag
 
-===
-
 ![Mor Ardain City](images/154_mor_ardain_city.jpg)
 
-Entering the City of Mor Ardain, some Nopon was hiding behind some boxes secretly watching them. Dromarch was sensitive to sight, and he turned around just in time to notice the Nopon ducking behind the boxes. He didn't thought too much about it; perhaps it was just someone passing. Everyone else was awed by the city that underwent Industrial Revolution. Power cables overhead connected to one another. Cities of paved floor so clean{{footnote: Of course, in real past London and Amsterdam whatnots, the city was never so clean. People drink from the dirty river; if they want filtered water of various levels, it'd cost them much more. Water pumps requires money payment, and pump for how many minutes it depends on how much you pay, which the pump drew water from the river and reach the tub in your house.}}. Rhinos were tamed to transport objects. 
+Entering the City of Mor Ardain, a Nopon was hiding behind some boxes watching them secretly. Dromarch was sensitive to sight; he turned around and searched for whoever was watching them, but the Nopon ducked behind, and he didn't think too much about it, seeing no one suspicious. Everyone else was awed by the city that underwent Industrial Revolution. Power cables overhead connected to one another. Cities of paved floor so clean{{footnote: Of course, in real past London and Amsterdam whatnots, the city was never so clean. People drink from the dirty river; if they want filtered water of various levels, it'd cost them much more. Water pumps requires money payment, and pump for how many minutes it depends on how much you pay, which the pump drew water from the river and reach the tub in your house.}}. Rhinos were tamed to transport objects. 
 
-Rex: "So this is the imperial capital..."
+Rex exclaimed, "So this is the imperial capital..."
 
-Tora exclaimed with excitement, "Such a big city! Maybe there places selling rare **junk parts for upgrading Poppi! Time to go look!**"
+Tora exclaimed with excitement too, "Such a big city! Maybe there places selling rare **junk parts for upgrading Poppi! Time to go look!**"
 
 Poppi objected, "Masterpon, Poppi would rather use **new** parts if possible..."
 
@@ -24,7 +22,7 @@ Just then, some Nopon called for their attention, "**Meh- meh! Is that you there
 
 "**Ohhhhh!** You that old Muimui guy? **Of course** Tora remember! Muimui should have said **to start** with."
 
-"Muimui did say." His tone turned stricter and harsher. 
+"Muimui did say." He spit out harshly. 
 
 "Oh, right! Muimui not very _interesting_, so Tora forgot he exist."
 
@@ -34,7 +32,7 @@ Rex lectured, "Tora, that's not very nice."
 
 Poppi added, "Besides, Masterpon was **quiteeeee** distracted just now. Only thinking of how to upgrade Poppi."
 
-That brought Muimui's eyes on the artificial blade that he'd worked with them before. He still recognized. "Whyyyyy, **could it be?** This look like artificial Blade!"
+Muimui's attention was directed to some finished product he'd worked for long. "Whyyyyy, **could it be?** This look like artificial Blade!"
 
 Tora assured, "Muimui right! Tora studied Grampypon and Dadapon's blueprints carefully, and **finished construction!**"
 
@@ -52,13 +50,13 @@ Tora was disappointed, "_I see... Even Muimui not know..._"
 
 Poppi encouraged, "Do not feel down, Masterpon. We will find Dadapon someday. Though no evidence for this hypothesis."
 
-Muimui continued, "Anyway, Muimui apologize for interrupting your trip when you just arrived in city. _Friend of Muimui_, run an inn just up ahead. _Place with_ famous hot springs. _If you like, Muimui can try to get you discount!_"
+Muimui continued, "Anyway, Muimui apologize for interrupting your trip when you just arrived in city. _Friend of Muimui_- run an inn just up ahead. _Place with_ famous hot springs. _If you like, Muimui can try to get you discount!_"
 
 "**Muimui is best friend!**" So fast Tora bit the bait already. As they were leaving, the Nopon that watched them earlier were watching them leave. This time, no one noticed. 
 
 ---
 
-At the female onsen{{footnote: 'hot spring' in Japanese}}, there was two nopon beside each other. At the far side of the spring, Poppi was bathing with Nia. Nia felt her bones softened, "_Ahhhhhhh, that feels good._"
+At the female onsen{{footnote: 'hot spring' in Japanese}}, there was two nopon lying in the water beside each other. At the far side of the spring, Poppi was bathing with Nia. Nia felt her bones softened, "_Ahhhhhhh, that feels good._"
 
 Poppi enjoyed it too, "Such wondrous bliss... Makes aching of journey melt away."{{footnote: Can a metallic 'junk' enjoy hot spring?}}
 
@@ -70,9 +68,9 @@ Poppi reassured, "There no problem. Poppi made from **special** alloy. Noooo rus
 
 Poppi looked high upon her "Masterpon is **finest** artificial Blade maker in allll the world."
 
-Nia's ears flickered as she heard footsteps coming, closed her eyes and called out, "**Hey, Pyra!** Come on in, the water's **great-**..." But Poppi did looked around, was surprised she didn't saw Pyra but the long-golden-haired girl. Only after she walked beside her did she turned, "Wait, **Mythra!** Huh?"
+Nia's ears flickered as she heard footsteps coming, called out with her eyes closed, "**Hey, Pyra!** Come on in, the water's **great-**..." Poppi whom looked around was surprised the long-golden-haired girl replaced the red-short-haired ones, but she didn't remind Nia. Only when she stood beside did Nia turned around, surprised, "Wait, **Mythra!** Huh?"
 
-They turned around, Poppi swam some distance away from the 'shore' just to look at her. Wonder why she came out. 
+They turned their whole body to face her; Poppi swam a bit out from the 'shore'. Why was she here? 
 
 She asked, "Is there a... problem?"
 
@@ -100,7 +98,7 @@ Oops, she forgotten about that. "Mm, well... Yeah."
 
 "I'd appreciate it, yeah. For now."
 
-"Understood." She got out of the water herself while Nia ducked back in. "You got it."
+"Understood." She got out of the water herself while Nia ducked back in. But Mythra reasserted, "You got it."
 
 "_Thanks._" 
 
@@ -108,9 +106,9 @@ There was a tall chimney blocking the sight of the stars; unsure if it decorates
 
 ---
 
-Back inside, after they'd dressed up{{footnote: Poppi don't need to dress up: she wore her dress into the water, not sure how she kept it dry. Waterproof, like swimsuit? Or maybe, she could heat up her body and dry them quick?}}, they gathered together, with Nia commented, "Whewwww, that was a good bath."
+Back inside, after they'd dressed up{{footnote: Poppi don't need to dress up: she wore her dress into the water, not sure how she kept it dry. Waterproof, like swimsuit? Or maybe, she could heat up her body and dry them quick?}}, they gathered together, with Nia commenting, "Whewwww, that was a good bath."
 
-Poppi: "Mythra seem veeeery pleased."
+Poppi noticed, "Mythra seem veeeery pleased."
 
 "Well, it was my first bath in 500 years. _I think I have the right to savor it._"
 
@@ -118,17 +116,17 @@ Poppi: "Mythra seem veeeery pleased."
 
 "With Pyra? Of course."
 
-And she switched immediately, Pyra continued, "Our memories are shared, so it doesn't matter that much who takes control." And Mythra came out again. 
+And she immediately switched to show it to her, Pyra continued, "Our memories are shared, so it doesn't matter that much who takes control." And Mythra came out again. 
 
 Nia was impressed, "**Huh!** Sounds pretty handy!"
 
-Suddenly, the inn shook, alerted all of them. They were dashing for the boy's dorm, Nia wondered, "Hey, what the hell was that?!"
+Suddenly, the inn shook, alerted all of them. They dashed quickly to the boys' dorm, and Nia wondered, "Hey, what the hell was that?!"
 
-Rex, Tora, and Gramps were looking out the window in search of its source, while Dromarch answered, "I cannot say. It sounds like some kind of disturbance..."
+Rex, Tora, and Gramps were looking out the window in search of its source, while Dromarch answered them, "I cannot say. It sounds like some kind of disturbance..."
 
-Rex suggested, "Let's find out. **Come on!** Huh?" Just saw Mythra back there. 
+Rex suggested, "Let's find out. **Come on!** Huh?" Just realized it was Mythra there. 
 
-"What's that look for?"
+"What's that look for?" she asked, tsunderely. 
 
 "Oh, I was just... surprised to see you..."
 
@@ -138,9 +136,7 @@ Rex suggested, "Let's find out. **Come on!** Huh?" Just saw Mythra back there.
 
 "Hmph!"
 
-Whatever, no time to think about that. They all dashed outside into the metallic balcony. They were finding its source. 
-
-Mythra had question for Rex suddenly, "Hey, can I ask something?"
+Whatever, no time to think about that. They all dashed outside into the metallic balcony, searching for its source, when Mythra had something for Rex, "Hey, can I ask something?"
 
 "You need permission now?"
 
@@ -154,15 +150,15 @@ Pyra took over and explained, "She and I talked it over together. Mythra's power
 
 "I mean, I don't mind at all. I'd like to learn more about **you**, too."
 
-Mythra took over, surprised, with a little [blushy-crushy](./96_heart_to_heart.html#blushy-crushy), "Wh-**what's that supposed to mean?** I don't see how I'm any different from her, really."
+Just when Mythra took over, she felt somewhat [blushy-crushy](./96_heart_to_heart.html#blushy-crushy), her hearts racing fast as she stuttered, "Wh-**what's that supposed to mean?** I don't see how I'm any different from her, really."
 
-Scratching his head, Rex voiced the difference he saw, "Really? You can certainly be more- **touchy** sometimes..."
+Scratching his head, Rex voiced the difference he noticed, "Really? You can certainly be more... **touchy** sometimes..."
 
 "**W-well, that's just who I am! What do you expect me to do?!**"
 
 "You see what I mean?"
 
-"Tzk! Errrrgghhh... What's **that** smile for?!"
+"Tzk! Errrrgghhh... What's **that** smile for?!" she lashed out at him. 
 
 "No, I just thought... it's been **fun**... lately. A lot's happened since meeting Pyra. And- now I've met you too!"
 
@@ -176,31 +172,29 @@ Scratching his head, Rex voiced the difference he saw, "Really? You can certainl
 
 Gramps corrected him from behind, "**More like- ALL the time!**"
 
-No time to talk. There was another explosion in the distance, followed by dark clouds floating into the air, shaking the ground. Their attention diverted, "Ah, was that **over there?!**"
+No time to talk. There was another explosion in the distance, followed by dark smoke bellowing into the air, shaking the ground. Their attention diverted, "Ah, was that **over there?!**"
 
 "Looks like it." Mythra agreed with him. New adventure began. 
 
 ---
 
-Metal clashing as arquebusiers fired bullets at the escaping enemy. Despite the moon as the only source of light, the silhouette, seen running on rooftops from the ground, distinguished against the cloudy night. The silhouette stopped. The soldiers maintained a distance within range of their ranged weapons; but bullets only fell after they hit; not a dent. 
+Metal clashing as arquebusiers fired bullets at the escaping enemy. Despite the moon as the only source of light, the silhouette, seen running on rooftops from the ground, distinguished against the cloudy night. The silhouette stopped. The soldiers stopped, maintaining their distance within range of their ranged weapons; but bullets that hit only fell, doesn't even leave a dent. 
 
 "**What the hell? I know we didn't miss...**"
 
 "Is she a Blade?"
 
-"No, look!" The 3rd soldier warning was too late. The silhouette brought one to the ground as they backed away. Then, it went for another soldier, hit his stomach and chin, and he realized only after contact,
+"No, look!" The 3rd soldier warning was too late. The silhouette closed in fast and brought one to the ground; the others backed away, but not fast enough. As one got hit on his stomach and chin, he realized before dropping to the ground, "That body's... mechanical?" 
 
-"That body's... mechanical?" Dropped to the ground thereafter. 
+Rex's group arrived late. He wondered, "Whaaaaaat the-? Who's that?"
 
-Rex's group only just arrived, wondered, "Whaaaaaat the-? Who's that?"
-
-"Meh?" Tora seemed to saw this figure before. Where? He tried to recall. It's too dark to see clearly. Only when the clouds clear and the moonlight shone directly on her did he recognized, "**L...Lila?!**"
+"Meh?" Tora seemed to see this figure before. Where? He tried to recall. It's too dark to see clearly. Only when the clouds clear and the moonlight shone directly on her did he recognized, "**L...Lila?!**"
 
 ![Lila](images/157_lila.jpg)
 
-The artificial Blade with no emotion turned around, fired its rocket boosters, and shot into the air. Tora ran after her, shouted, "**WAIT! LILA!!!**"
+The artificial Blade with no emotion turned her back towards them, fired its rocket boosters, and shot into the air. Tora ran after her, shouted, "**WAIT! LILA!!!**"
 
-"Wait up, Tora!" He was the only one going after her. Poppi watched and wondered, is she related to her? 
+"Wait up, Tora!" Rex called, trying to get him to stop and explain before going after her. Poppi watched and wondered if there's any relation between her and Lila. 
 
 Meanwhile, on the other side of the rooftop, the Nopon that'd been following them since their arrival was looking at them through a pair of binoculars. 
 
@@ -220,7 +214,7 @@ Gramps noticed, "She seemed... somehow... similar to Poppi..."
 
 "**The artificial Blade Tora's Dadapon and Grampypon** were making. **Tora recognize her anywhere.**"
 
-Poppi was scanning the surrounding for signals, warned, "Masterpon, there an ether furnace reading nearby... **Huh Up there!**" She looked up, and the rest followed. Lila was standing atop the roof, watching them. 
+Poppi read something on her panels, warned, "Masterpon, there an ether furnace reading nearby... **Huh Up there!**" The roof to their left, Lila was standing atop, watching them. 
 
 Tora was overjoyed, "_Lila! It is you!_"
 
@@ -228,13 +222,13 @@ Lila didn't recognize him, nor does her emotional system as complex as Poppi's, 
 
 ---
 
-Electric sparkles from her joints, her ether furnace cannot keep up with the energy drained, she concluded, "Probability of success falling. Switching to... strategic retreat mode." Her rocket booster brought her up into air once more after she turned around. 
+Electric sparkled from her joints, her ether furnace cannot keep up with her energy drain, she concluded, "Probability of success falling. Switching to... strategic retreat mode." Her rocket booster brought her up into air once more after she turned around. 
 
-Tora swiftly tucked his weapon into his pocket, pleaded, "**LILA, WAIT!!!**" But she had gone behind the gate. The group cannot vault over{{footnote: Well except for Poppi and Rex (with his anchor), but the rest had to wait for them to bring over, by then it would be too late.}}, could only watch her ran away. Turning around, Poppi was pointing at another road that could intersect her if they're quick enough; and the group went after. 
+Tora swiftly tucked his weapon into his pocket, pleaded, "**LILA, WAIT!!!**" But she had gone behind the gate. The group cannot vault over{{footnote: Well except for Poppi and Rex (with his anchor), but the rest had to wait for them to bring over, by then it would be too late.}}, watch her ran away. Poppi urged another path of intersection, hopefully they're quick enough to get after her. 
 
 ---
 
-After lots of running, they reached the open mini desert outside the city. Looking around, Rex announced, "She's gone..."
+A lot of running and they were at a mini desert just outside the city. Looking around, Rex announced, "She's gone..."
 
 Poppi confirmed, "Ether furnace reading lost... It seem she has escaped."
 
@@ -252,11 +246,11 @@ Poppi confirmed, "Ether furnace reading lost... It seem she has escaped."
 
 "_But then..._"
 
-> One day, they were working in the lab when a green Nopon wearing lab coats entered the room, pointing guns at them, and had brought with him Mor Ardain soldiers. Despite they raised their wings over their head to signify surrender, the Nopon took at shot at Grampypon Soosoo, ending his life.
+> One day, they were working in the lab when a green Nopon wearing lab coats entered the room, shielding his face with sunglasses, pointing a gun at them, and brought with him Mor Ardain soldiers. Despite they raised their wings over their head, surrendering, a smirk came on the Nopon's face and he fired at Grampypon Soosoo, ending his life.
 > 
-> Dadapon Tatazo checked Grampypon Soosoo's arteries; no more heartbeat. Turning around, he shouted, "**You must run, Tora! Take this and go! Someday, you finish what we started!**"
+> Dadapon Tatazo checked Grampypon Soosoo's arteries; no more heartbeat. Turning around, he shouted, handling him a box "**You must run, Tora! Take this and go! Someday, you finish what we started!**"
 > 
-> Tora didn't hesitated; he ducked past the soldiers and escaped into the dark. Dadapon Tatazo was therefore captured. 
+> Tora didn't hesitated; he ducked past the soldiers and escaped into the dark. Dadapon Tatazo was after that captured. 
 
 "After that, Tora hide out in Torigoth city. Making Poppi based on **blueprints... and ether furnace** Dadapon left for Tora." He looked at Poppi, perhaps explaining to her more than to the group. 
 
@@ -264,7 +258,7 @@ Mythra wondered, "Don't you have any idea who the attackers were?"
 
 "Tora not know who, but they **definitely** wanted to **steal** Lila."
 
-Nia: "If it was Lila they were after, how'd she _end up here in the Empire?_ It looked like there were imperial soldiers after her..."
+Nia wondered, "If it was Lila they were after, how'd she _end up here in the Empire?_ It looked like there were imperial soldiers after her..."
 
 He shook his head, "**Tora have no idea...** _But one thing is **most** confusing._"
 
@@ -274,63 +268,63 @@ He shook his head, "**Tora have no idea...** _But one thing is **most** confusin
 
 "Which means..."
 
-Gramps continued his hypothesis, "Tora's father... must- still- be- alive- somewhere?"
+Gramps concluded primitively, "Tora's father... must- still- be- alive- somewhere?"
 
 Tora was sure that "Dadapon _must be held_ **captive by whoever. Using. Lila.**"
 
-They were thinking for a while when a soldier with helmet shouted to the group, "**You there! Don't. Move!**" They realized they were surrounded. 
+Not enough info to conclude. When they were busy with their thoughts, a soldier suddenly shouted from behind, "**You there! Don't. Move!**" They looked around and found themselves surrounded by a [decade](./96_heart_to_heart.html#dromarchs-wisdom). 
 
-Gramps: "Imperial soldiers..."
+Gramps noted, "Imperial soldiers..."
 
-Leading the units was Mòrag and Brighid. Once again they met. 
+Leading the [decade](./96_heart_to_heart.html#dromarchs-wisdom) was Mòrag and Brighid. Once again they met. 
 
-Nia: "**You!**"
+Nia can't believe what she saw, "**You!**"
 
 Mòrag: "So, **we meet again**, Driver of the Aegis!"
 
 One soldier eyed Poppi, announced, "**Lady Mòrag, she's the one! That mechanical girl took down our squad!**"
 
-Oh oh, Rex exclaimed, "**WHAT?! Hang on a minute!**"
+Rex exclaimed, "**WHAT?! Hang on a minute!**" You got the wrong person! 
 
 Nia jumped on her feet, "**Where the hell'd you get that idea?!**"
 
-Poppi can understand, voiced, "Unfortunately, they cannot tell difference between Lila... and Poppi."
+Poppi can understand why, voiced, "Unfortunately, they cannot tell difference between Lila... and Poppi."
 
 Mòrag remembered his name, "So, Rex, _was it?_ Rex, _I'm very disappointed to find you stooping to such lowly crimes._"
 
-"**Lowly crimes?! WHAT THE HECK?! I'm telling you, you've got the wrong guys!**" But they weren't listening. A battle had to be fought first. 
+"**Lowly crimes?! WHAT THE HECK?! I'm telling you, you've got the wrong guys!**" But they wouldn't listen; a battle therefore begun. 
 
 ---
 
-"Your skills- have improved, boy!" Her whip came at him. He dodged it and called out, 
+"Your skills- have improved, boy!" Her whip lashed at him. He dodged it and called out, 
 
 "Mythra!"
 
 "I know, I know. I won't use that power, OK? Let's stick to Foresight for this. If you **really** need to attack, I'll hand it over to Pyra."
 
-"Thanks!" He dashed and came in close contact with Mòrag as they fenced melee. 
+"Thanks!" He closed in distance with Mòrag, engaged in melee. 
 
-She noticed, "The Aegis has changed. What **happened** to her appearance? **Answer me!**"
+She noticed something else, "The Aegis has changed. What **happened** to her appearance? **Answer me!**"
 
-"**You want answers, then put the swords away! What's wrong with you?**" And he bashed her away. 
+"**You want answers, then put the swords away! What's wrong with you?**" He pushed her away. 
 
-"I'll listen to your confession- **while you lie defeated!**" She threw one of her whip to Brighid. She came quick and they stood side by side, for their strongest attack. Dual whip clashed, and many flames of high concentration came at them. Time stopped. 
+"I'll listen to your confession- **while you lie defeated!**" Without looking, she threw one of her whip to the side, and Brighid caught it, came quickly to her side, and stood side by side. Dual whip clashed together and formed rattlesnakes. Flames with high concentration combined and lashed at them. Foresight activated -- time stopped. 
 
 ![Mòrag and Brighid's final move](images/159_morag_brighid_strongest_move.jpg)
 
 "**Rex! After this Foresight, I'll switch to Pyra!**"
 
-"**Understood!**"
+"**Understood!**" As he moved adeptly, fitting his body within the high concentration of fireballs. 
 
-Mòrag was surprised, "**Impossible! He dodged it?!**"
+When Foresight stopped, Mòrag was surprised, "**Impossible! He dodged it?!**"
 
-"Now it's my turn!" With Pyra, they prepared Burning Sword. 
+"Now it's my turn!" Incoming Burning Sword. 
 
 Brighid called for her attention, "Lady Mòrag! Look at the Aegis!"
 
 "So you can change at will!"
 
-"**Eat. THIS!**" She raised her elbow to protect herself, unable to dodge. The flames aimed for the air just a few centimeters in front of them. "**Pyra?!**"
+"**Eat. THIS!**" Mòrag intended to defend hard, didn't dodge. The flames reached just a few centimeters in front of them before turning up, blasting in the air. "**Pyra?!**"
 
 She explained, "We can do this... without hitting them."
 
@@ -340,7 +334,7 @@ She explained, "We can do this... without hitting them."
 
 ![Holding back from hitting Mòrag](images/160_holding_back.jpg)
 
-Her truncheon pointed at them, she asked, angrily, "Are you holding back on me **again, boy?**"
+She pointed her truncheon at them, asked angrily, "Are you holding back on me **again, boy?**"
 
 "**We just don't have any reason** to fight you."
 
@@ -364,13 +358,13 @@ Niranira acknowledged, "I _quite sorry_- for causing concern. Niranira has been-
 
 Nia understood, "_Ahhhh_, so **you** were keeping an eye on us because we came in on a Guild ship."
 
-"How ironic that your suspicion- should happen to prove our innocence."
+"How ironic that your suspicion- should happen to prove our innocence." commented Dromarch. 
 
-Mòrag trusted him, sheathed her weapons, apologized, "It appears I was too hasty in judging you. I should not have attacked you so suddenly. My apologies." The soldiers stood in line behind her and bowed to the group. 
+Mòrag concluded him trustable, sheathed her weapons, and apologized to the group, "It appears I was too hasty in judging you. I should not have attacked you so suddenly. My apologies." She gave them a neck bow, and the soldiers stood in line behind her and waist-bowed to the group. 
 
-Rex felt the formality too strongly, shook his hands held out, "**N-n-no, that's fine! Nobody got hurt in the end. I'm just glad it all got cleared up now.**" He looked towards Nia, and they eyed each other, not sure what they were thinking. 
+Rex felt the formality way too strongly, furiously shook with his hands held out, "**N-n-no, that's fine! Nobody got hurt in the end. I'm just glad it all got cleared up now.**" He looked towards Nia, and they eyed each other, not sure what they were thinking. 
 
-Gramps commented, "An apology from the illustrious Flamebringer? A rare reward in itself."
+Gramps prided, "An apology from the illustrious Flamebringer? A rare reward in itself."
 
 Tora expressed his anger at Mòrag, "**Tora still not happy! Should get year's supply of Tasty Sausages as compensation!**"
 
@@ -378,7 +372,7 @@ Poppi quietly lectured him, "_Masterpon._ Have some self-respect."
 
 Mòrag seemed to agreed with him. "Hmm. I will do what I can within my own means to compensate you." Turning back at Rex, "By the way, the culprit who fled the scene... may I ask what manner of connection you have with them? You must tell me all."
 
-Mythra came back out, and storytelling session began. 
+Mythra replaced Pyra, and the storytelling session began. 
 
 ---
 
@@ -388,19 +382,19 @@ Gramps was surprised, "**Us**- work- with you?"
 
 "Indeed. My goal is to capture the artificial Blade... and track down the criminals behind its actions. And from what you just told me, those I seek... likely have Tora's father held captive. Would you not say our interests align?"
 
-Rex thought for a while, "Uhhhh, I guess so?"
+Rex couldn't find flaw in her logic, "Uhhhh, I guess so?"
 
-Mythra saw the ups, "Well, it's definitely better to have her working **with** us... than against us. We shouldn't take the power of Brighid, _Jewel of the Empire, too lightly._ If she went all out on me, even I wouldn't be able to hold back. And then... **we'd burn** this place to the ground." Tora and Poppi fluttered with fear. 
+Mythra saw the upsides, "Well, it's definitely better to have her working **with** us... than against us. We shouldn't take the power of Brighid, _Jewel of the Empire, too lightly._ If she went all out on me, even I wouldn't be able to hold back. And then... **we'd burn** this place to the ground." Tora and Poppi fluttered with fear. 
 
 "I am honored... that the Aegis herself- thinks so highly of me."
 
-"You may not remember it, but... I've faced you a few times before. **Let's just say**... _it wasn't easy._" she commented, feeling queasy. 
+"You may not remember it, but... I've faced you a few times before. **Let's just say**... _it wasn't easy._" she commented queasily. 
 
 Rex was surprised, "**Ohhhh, really?**"
 
 "**But**- that's a story for another time. What do you say, guys?"
 
-Nia: "I can't deny I'd rather avoid making an enemy of them." Dromarch, Tora, and Poppi agreed. 
+Nia agreed, "I can't deny I'd rather avoid making an enemy of them." Dromarch, Tora, and Poppi nodded. 
 
 Rex replied back, "**All right, then! So**, from this moment on I suppose we're allies!" He walked forward and held out his hand. Mòrag took it and shook, witnessed by Niranira. 
 
@@ -416,7 +410,7 @@ She replied, "Just as you _were not using **your** full strength, neither still 
 
 "Drawn by your Driver instincts?"
 
-"Something _like that. And besides..._" She looked to Brighid, and they turned around and looked at the group. They were gathered around in a circle, chatting. She continued, "I get the feeling _that_, if I stay near that boy, I might bear witness to **something** quite extraordinary."
+"Something _like that. And besides..._" She looked to Brighid, and they turned around and looked at the group. They were gathering around in a circle, chatting. She continued, "I get the feeling _that_, if I stay near that boy, I might bear witness to **something** quite extraordinary."
 
 ---
 
@@ -424,7 +418,7 @@ They explained their situation to Muimui back at the lobby. "It sound like you h
 
 Rex turned to the group, "Anyway, we'll see if we can... track Lila down somehow ourselves."
 
-"_I too_ will see if I can find any leads. No mater what, **Muimui and friends will find Professor Tatazo!**"
+"_I too_ will see if I can find any leads. No matter what, **Muimui and friends will find Professor Tatazo!**"
 
 ---
 
@@ -446,7 +440,7 @@ The group reported back to Mòrag at the Castle, after gathering enough evidence
 
 "Now, let me share what information I have found. There are rumors about town... that an esteemed- Nopon merchant is involved in this affair."
 
-"An esteemed- Nopon- merchant..." Who's this Nopon merchant again? Heard it back when Vandham mentioned it, on spreading the news of the Aegis. And who had he traded with before? One came in his head, "**Chairman Bana?!**"
+"An esteemed- Nopon- merchant..." A Nopon merchant again? Vandham mentioned some Nopon were spreading the news about the Aegis, were they the same Nopon? Whom had he traded with before? One came brightly in his head, "**Chairman Bana?!**"
 
 "Well, we're currently searching the transaction records. If we find anything, we will inform you."
 
