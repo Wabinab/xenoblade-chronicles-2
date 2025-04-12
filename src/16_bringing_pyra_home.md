@@ -1,10 +1,8 @@
 # Bringing Pyra Home, To See His Parents (Leftherian Archipelago)
 
-===
-
 Dawn. The group gathered at the front deck, overlooking the Leftherian Archipelago. Pyra exclaimed, "Amazing... It looks like a mountain of clouds."
 
-"The Leftherian Archipelago. Indol is currently positioned beyond the Cloud Ridge." That's the Great Waterfall of Clouds! The Leftherian Archipelago was like jellyfish floating in the air, connected by tentacles. Of course, there were those that're not connected, but they're small islands on sea level. "It would take quite some time to sail around, so we'll be traveling over land, from here." explained Fan. 
+"The Leftherian Archipelago. Indol is currently positioned beyond the Cloud Ridge." That's the Great Waterfall of Clouds! The Leftherian Archipelago composed of multiple jellyfish floating mid-air, connected by their tentacles. Some other islands floated on the sea, weren't connected. "It would take quite some time to sail around, so we'll be traveling over land- from here." explained Fan. 
 
 Dromarch: "I suppose, not even a Titan ship could surpass- such an obstacle."
 
@@ -18,9 +16,9 @@ Pyra wondered, "Rex, have you been here before?"
 
 He proudly replied, "It's where I grew up! Me and Gramps are from Fonsett Village, just over the ridge here."
 
-Nia was surprised by his nationality, "Hmph! I wouldn't have pegged you for a Leftherian."
+Nia was surprised, "Hmph! I wouldn't have pegged you for a Leftherian."
 
-Pyra gets excited, "So **this** is your home..." Felt great to be a guest of one's partner, eh! Without further ado, the ship sailed straight for Home Sweet Home. 
+Pyra got excited, "So **this** is your home..." So now she's a guest to her partner's home,eh! The ship sailed straight for Home Sweet Home. 
 
 ---
 
@@ -30,9 +28,9 @@ Trees grew on little islands carved by moats within each giant jelly fishes. Or 
 
 ---
 
-Nice to be on ground again. After docking, Rex took the lead as the host, "**Well, I guess... it'd be quickest for me to lead the way from here. We just need to get** over the ridge, right?"
+The ship docked, and Rex first touched ground again. He took the lead as a host, "**Well, I guess... it'd be quickest for me to lead the way from here. We just need to get** over the ridge, right?"
 
-"Indeed/ The delegation from Indol- will meet us there." agreed Fan.
+"Indeed. The delegation from Indol- will meet us there." agreed Fan.
 
 "**Roger that!**"
 
@@ -50,9 +48,9 @@ Gramps extinguished their flames, "Don't get an inflated head. We're just follow
 
 "**Errrr...**"
 
-"**What about Fonsett?**" Pyra most excited to see where Rex was raised. 
+Suddenly, with the most excited tone, Pyra prompted, "**What about Fonsett?**" 
 
-"What about it?" He hadn't understood what she meant yet, when he was thinking deep about the closest and safest route. 
+"What about it?" He was considering which route was safest while close enough, and don't yet understand what she meant. 
 
 "**Will we pass it?**"
 
@@ -66,7 +64,7 @@ Dromarch noted, "Someone's... rather excitable..."
 
 Poppi $\alpha${{footnote: Oh, just as a sidenote, Poppi had reverted back to its $\alpha$ form than staying in QT form, to save energy, and because it's cute! And yes, we won't be adding the $\alpha$ to the back after this. For normal Poppi, which took up most of the speeches, we'll use 'Poppi' to refer to her. On occasions when she does changed form, we'll specifically refer to that form, e.g. 'Poppi QT'. But if one remembered correctly, she almost never speak in that form throughout the whole cutscenes.}} commented: "Not like normal Pyra."
 
-"Uhhhh, I mean..." Awkward yet excited, she turned around and asked the others, "**Don't you want to see the place where Rex grew up?**"
+"Uhhhh, I mean..." Opps, awkward... She excitedly invited, asked for others' opinions, "**Don't you want to see the place where Rex grew up?**"
 
 Nia: "**Sure!** But I'm not getting my ears in a twist..."
 
@@ -78,7 +76,7 @@ Fan had no worries on getting back too quickly, decided to "I leave the decision
 
 In unison, "**YEAHHHH!!!**"
 
-Nia had questions, "Hey, what are **you** still doing here, anyway?"
+Nia had more questions for someone whom gave her a bad first impression, "Hey, what are **you** still doing here, anyway?"
 
 Mòrag answered, "I **volunteered** to come along. I'm acting as a representative of the Empire. Is- there- a problem?"
 
@@ -102,9 +100,9 @@ Rex urged, "Come on, Nia, lighten up! **It was all a big misunderstanding! They 
 
 "I'm an optimist-"
 
-She stopped him from replying, "**Call it what you want.** You're still an idiot! **UGH! OK, FINE.** It's water under the bridge." And she reluctantly held out her hand at Mòrag and Brighid. "**GO ON! Friends, YEAH?**"
+She halted him, "**Call it what you want.** You're still an idiot! **UGH! OK, FINE.** It's water under the bridge." Reluctantly, she held out her hand to Mòrag, impatiently urged, "**GO ON! Friends, YEAH?**"
 
-Mòrag: "Hmph. Very well. Friends it is." And she softly took her hand and shook. Whatever the internal story and emotions, they'd be on the same side, at least on the surface, for now. What remnants emotions required to be solve, time will tell. 
+Mòrag: "Hmph. Very well. Friends it is." And she softly took her hand and shook. Whatever their internal story and emotions, they'd be on the same side, at least on the surface, for now. What remnants emotions required to be solve, time will tell. 
 
 ![Friends it is](images/186_friends_it_is.jpg)
 
@@ -122,7 +120,7 @@ Rex agreed with him, continued, "The small Titans seem to like clustering around
 
 Tora was amazed, "**Wooowww!!!** So many amazing **things to see in world!**"
 
-Poppi urged, "Masterpon- should get out more often! Working inside all day- bad for mind and body, you know."
+Poppi lectured, "Masterpon- should get out more often! Working inside all day- bad for mind and body, you know."
 
 "Tora on wonderful adventure with **Rex-Rex right now though!**" he objected. "**Days of staying inside all day are long gone!**"
 
@@ -132,9 +130,11 @@ Rex agreed, "**Yeah!** You're a Driver... **just** like us now, Tora."
 
 ---
 
-The island where Fonsett was located had trees and grass and flowers and white sandy beaches. Rex was overwhelmed, "Hahah! That takes me back!" 
+The island where Fonsett was located had trees and grass and flowers and white sandy beaches. Rex was overwhelmed when he saw, "Hahah! That takes me back!" 
 
-He looked to the left, where at a cliff, children were lining up and jumping off. Nia was shocked, "What the hell? You wouldn't catch me **dead** doing that."
+They looked to the left, where there was a cliff, and children were lining up and jumping off it. Nia was shocked, "What the hell? You wouldn't catch me **dead** doing that."
+
+![Kids jumping off the cliff](images/214_jumping_off_the_cliff.jpg)
 
 "Don't knock it off till you try it. It's how we all learned to swim in the clouds!"
 
@@ -148,19 +148,23 @@ Nia was still reluctant, "I can't stand it down there. It's not like water, feel
 
 "You get used to it really quick." Then Rex urged, "Hey, **you want to give it a go?!**"
 
-"**Wha- Hey, no! You get away from me! Don't touch me!**"
+"**Wha- Hey, no! You get away from me! Don't touch me!**" Her fur tinged on her ends and got defensive as Rex tried to catch her. 
 
-Pyra: "Stop that, Rex! Don't tease her."
+Pyra came to her rescue, "Stop that, Rex! Don't tease her."
 
-"All right, all right." And he lead the way to the village, built of stony bricks in dome-like stony houses up the hill. 
+"All right, all right." What a lost of excitement. But anyways, let's get to the village, built of stony bricks in dome-like stony houses up the hill, with tiny windows. 
+
+![Fonsett houses](images/215_fonsett.jpg)
 
 "Honestly, when are you gonna grow up a little?" Nia wondered. 
 
 ---
 
-Temperantia. Soldiers were lining behind the Senator as he noted, looking at the manuscript on his hand, "Very impressive."
+Temperantia. Soldiers were lining behind Senator Roderich as he read through the manuscript on his hand, "Very impressive."
 
-The soldier explained, "We've refitted the drivetrain to use Ardainian technology. **All** of the control mechanisms have been beautifully preserved, so we should be able to finish- **relatively** soon."
+![Senator Roderich](images/216_senator.jpg)
+
+The special soldier, perhaps a captain, explained, "We've refitted the drivetrain to use Ardainian technology. **All** of the control mechanisms have been beautifully preserved, so we should be able to finish- **relatively** soon."
 
 "Finally, we will be able to compensate for our forces' depletion. The Gormott struggle takes its toll."
 
@@ -182,7 +186,9 @@ The soldier explained, "We've refitted the drivetrain to use Ardainian technolog
 
 ---
 
-At the middle empty space of a machine, the Senator commented, "Judicium, the dead nation that realized Flesh Eater technology. I cannot say... I find their creations tasteful."
+There was a space in front of a machine, the Judicium weaponry Jin was after, and the Senator commented, "Judicium, the dead nation that realized Flesh Eater technology. I cannot say... I find their creations tasteful."
+
+![Judicium weaponry](images/217_judicium_weapon.jpg)
 
 The captain followed behind him, commented, "I'm aware you do not agree with the principles of fusing Blades- with- human- cells. Few people do."
 
@@ -194,7 +200,7 @@ The captain followed behind him, commented, "I'm aware you do not agree with the
 
 ---
 
-The group entered through the arch into the village. Children playing in the field saw someone entering and turned their attention. Not in unison, they called out, "**REX!!!**" and started running towards him, surrounded him. The group let him walked closer to his fellow homemates while waiting for him to reunite. 
+The main entrance into the village was over an arch. While the children were busy playing, they immediately caught eyes with strange clothes. One after another, they recognized the one leading, "**REX!!!**", and all started dashing towards him, surrounded him with questions. The group paused their steps and let them reunite for themselves. 
 
 ![Fonsett Village Entrance](images/188_home.jpg)
 
@@ -206,21 +212,21 @@ Rex still recognized them, "**Whoa! Kirk? Kazuna? You guys sure have grown! And 
 
 ![Auntie Corinne](images/189_auntie_corinne.jpg)
 
-The group had got nearer to them. Pyra was excited at the hospitality, "Wow, this is **quite a** welcome..."
+The group stood nearer behind. Pyra felt such hospitality warm and exciting, exclaimed, "Wow, this is **quite a** welcome..."
 
-Dromarch: "I didn't realize... _you were sending your money home._ That's very... **admirable** for such a young man."
+Dromarch noted, "I didn't realize... _you were sending your money home._ That's very... **admirable** for such a young man."
 
 "_Home, huh?_" Did Nia have one? When was the last time she felt like home? With Jin, maybe? But that's nothing like here. 
 
 Tora exclaimed, "Old lady have lots of littlepons!"
 
-Poppi corrected him, "_Masterpon, these **clearly** not all littlepons of same parent._"
+Poppi blandly corrected him, "_Masterpon, these **clearly** not all littlepons of same parent._"
 
-Corinne's eyed the little Titan behind him that climbed out of his helmet first, "**My word!** Is that old Azurda there? What have you gone and done to yourself?"
+Corinne's eyed the little Titan tucking out his head from behind Rex's helmet, "**My word!** Is that old Azurda there? What have you gone and done to yourself?"
 
 Gramps: "That would take some explaining. I-Incidentally, is there some way you could put us up for the night? Long day and all."
 
-"'Is there some way?' _Don't give me that!_ Stay for as long as you like! What's mine- is yours."
+"**'Is there some way?'** _Don't give me that!_ Stay for as long as you like! What's mine- is yours."
 
 "Thank you."
 
@@ -228,13 +234,15 @@ Rex: "**Auntie, thank you so much!** I think I'll go for a bit of a walk first, 
 
 She understood immediately. "Ahhhh, yes. Leave your friends... with me."
 
-"**Pyra, could you come along too?**"
+"**Pyra, could you come along too?**" He invited. 
 
-That surprised her, "**Hm? O-o-of course!**"
+That surprised her, "**Hm? Oh, of course!**"
 
-Corinne to the rest of the group, "Right then, **come with me**, all of you!" And she lead the rest to their homes, including Gramps.{{footnote: You may not see Gramps following in the video, but later on, you'll see Gramps gone. Just some minor bugs.}}
+Corinne wavered to the rest of the group, "Right then, **come with me**, all of you!" And she lead the rest to their homes, including Gramps.{{footnote: You may not see Gramps following in the video, but later on, you'll see Gramps gone. Just some minor bugs.}}
 
 ---
+
+===
 
 In front of the various tombstones, two of them close by each other, Rex stood in front, Pyra following behind. 
 

@@ -1,18 +1,14 @@
 # Addam and Lora, Jin To Temperantia
 
-===
+500 years ago, Addam's Camp. The World Tree forever looming in the background. Addam, cloaked in a hood, wielded Mythra's blade, fighting against Lora, wielding a staff. He exclaimed, "Amazing, Lora. Even when I foresee your movements, you counter me instantly."
 
-500 years ago, at Addam's Camp. With the World Tree in the background, Addam wielded Mythra's blade, and Lora wield a staff, fighting each other. Addam, we cannot see him; he's wore a hood to conceal himself.{{footnote: Just you wait for Torna: The Golden Country, included with this book at the end, to see his real face, as a spoiler.}}
+"I couldn't do it without Haze's power!" Haze, we now call Fan la Norne, was her Blade. "What about you? I don't see you using Mythra's hidden ability!"
 
-"Amazing, Lora. Even when I foresee your movements, you counter me instantly."
+"And what if we did?" 
 
-"I couldn't do it without Haze's power!" Haze, known 500 years later as Fan la Norne, was one of her Blades. "What about you? I don't see you using Mythra's hidden ability!"
+"Well, if you did..." After separating from each other, she continued, "I'd just have to bring out my original Blade!"
 
-"And what if we did?" Their mouth didn't stop even while fencing. 
-
-"Well, if you did..." After some clashes and separation, she mentioned, "I'd just have to bring out my original Blade!"
-
-"Master Addam..." Someone disturbed their fencing. "Your evening meal is ready for you." Jin had just finished cooking. 
+"Master Addam... Your evening meal is ready for you." Jin came in with their meal. He knows how to cook? 
 
 "Oh? Is it that time already?" They put down their blades. 
 
@@ -20,9 +16,9 @@ Lora shared, "The days are so long at this time of year, I just start losing tra
 
 ---
 
-The group gathered around a campfire; a pot hovered over to keep its content hot. Lora sat next to Haze, having girly chats. Addam didn't bring down his hood even while eating. Mythra sat on a crate an arm distance from him. While a child to her left, the young Mikhail, was busy gulfing down his food too. 
+Around a campfire they sat, a pot hovered over, to keep its content hot. Lora and Haze cuddled together, having girly chats. Addam ate with his hoods on; Mythra an arm distance beside him. A child to her left, Mikhail, busy filling his stomach. 
 
-"Oh, finished already? That's a shame. I was hoping to join in." Brighid appeared before the group. 
+"Oh, finished already? That's a shame. I was hoping to join in." Brighid found herself joining the group. 
 
 Mythra wondered, "Join in? By yourself?"
 
@@ -34,13 +30,13 @@ Mythra don't agree, "A Driver- and Blade- are one- in body- and soul. That's the
 
 "Really? I feel like I've been... giving it my all."
 
-"But you never stop growing. At any rate, Haze's ability to restrict other Blades is indispensable. It's perfect for training. We're lucky." She{{footnote: With her full core crystal, diamond shaped than triangular}} was surprised how the conversation led to her. 
+"But you never stop growing. At any rate, Haze's ability to restrict other Blades is indispensable. It's perfect for training. We're lucky." She{{footnote: With her full core crystal, diamond shaped than triangular}} was surprised how she became the topic of their conversation so sudden. 
 
 "When she stops me using my Foresight... It's- certainly difficult." agreed Mythra.
 
 Haze, replying humbly, "Ohhh, but y-you honor me too much. I'm just happy to help you both in any way I can." 
 
-"Next to each other like that, you really do look like twins, you two." Mythra spoke of Lora and Haze. 
+"Next to each other like that, you really do look like twins, you two." Mythra commented. 
 
 Addam agreed, "It's rare for the Driver's nature to appear **so** strongly in their Blade."
 
@@ -48,27 +44,27 @@ Lora looked to Haze, mentioned, "People tell me that from time to time, but is i
 
 Haze thought for a while, said, "Perhaps... But, whatever the reason, I- am- happy- if I look even a little like you, my lady." And she hugged Lora's arm and cuddled. 
 
-Lora excitedly announced, "We're even the same dress size!"
+Lora excitedly shared, "We're even the same dress size!"
 
 "**Right?**"
 
 ![Haze and Lora](images/181_haze_and_lora.jpg)
 
-"Hahahaha!" Addam and Mythra were laughing, grateful they were happy at each other. 
+"**Hahahaha!**" That entertained the others. 
 
-Finishing food, young Mikhail was carrying something away, while Lora and Haze continued speaking with each other. Mythra had stuffs to catch up with Brighid, and Addam sat there, looking at Jin cleaning up the mess. "By the way, we want to try taking you on next, Jin."
+Finishing up whatever remains, young Mikhail was carrying something away, while Lora and Haze continued their girly chats. Mythra was catching up with Brighid, while Addam sat where he sat, looking at Jin cleaning up the mess. "By the way, we want to try taking you on next, Jin."
 
-That attracted those currently speaking to him. Lora asked for his permission, "Well? How about it, Jin?"
+Others were attracted to their conversation. Lora asked for his permission, "Well? How about it, Jin?"
 
 "I-I'm afraid I-I-I don't particularly like fighting." And he walked away, the energy he emanated felt somewhat low. 
 
 Addam: "And to think... we're hearing that from 'the strongest man in Torna'."
 
-Lora, his Driver, defended him, "But perhaps there's truth in those words. After all, he... _or rather, they..._" Mikhail turned around and watched Jin walked past him without looking back, his step slow and sorrow. 
+Lora, his Driver, defended him, "But perhaps there's truth in those words. After all, he... _or rather, they..._" Young Mikhail was waiting for Jin; he walked past him, not looking at anyone, his step slow and sorrow. 
 
 ![Sorrow Jin and young Mikhail](images/182_the_sad_jin.jpg)
 
-Just then, a panicking soldier rushed into the scene, shouted, "**My lord, my lady! We've discovered Malos's target! The capital!**" Jin stopped and turned around -- something that concerned him. 
+Just then, a panicking soldier rushed into the scene, shouted, "**My lord, my lady! We've discovered Malos's target! The capital!**" That stopped Jin -- it was something he's concerned about. 
 
 Addam was shocked, stood up straight, "**What? Are you sure?**"
 
@@ -76,13 +72,13 @@ Addam was shocked, stood up straight, "**What? Are you sure?**"
 
 ---
 
-On a flying Titan ship, the dragon-like vibrant wings stretched out as it drifted above the Cloud Sea, Fan la Norne was at the deck herself, while Mythra, standing by the door, looked at her background, wondering what happened all those years. Why the constant depression she emitted? The Haze she'd known had always been content, with Lora by her side. But Fan? 
+On a flying Titan ship, the dragon-like vibrant wings stretched out as it drifted above the Cloud Sea, Fan la Norne stood at the front deck, watching the vast sea, her mind immersed in daydreams. Mythra observed her from behind, wondered what'd happened to her all those years. Why does she feel so sad? The Haze she'd known had always been content, with Lora by her side. But Fan? 
 
 ![Some Shiny Titan Ship](images/183_some_shiny_titan.jpg)
 
 ---
 
-After Mikhail and Patroka escaped, Rex asked, "Who are you?"
+After Mikhail and Patroka escaped, at the factory, Rex asked, "Who are you?"
 
 "I am Fan la Norne, envoy for the Indoline Praetorium."
 
@@ -100,7 +96,7 @@ Fan rebutted, "Not at all, my lady. The Praetor... would like to meet his fellow
 
 "His fellow...? You don't mean?!"
 
-She approved his hypothesis. "Indeed. The Praetor is Malos's Driver."
+She approved her guesses. "Indeed. The Praetor is Malos's Driver."
 
 "**HUH!!!**" Everyone jumped on their feet. Such holy awakened such evil, how could he? 
 
@@ -110,23 +106,23 @@ Fan continued, "There is- another matter. I believe you- currently have a- certa
 
 "Why yes, I can tell. The Praetor **is** its original owner, after all."
 
-"**HURRRRRGGGHHHH!!**" Rex took in a deep breath. Cole had the same Driver as Malos? 
+"**HURRRRRGGGHHHH!!**" Rex took in a deep breath. Cole shared the same Driver as Malos? 
 
-Nia: "So the Praetor -- he's... Cole's Driver as well?"
+Nia tried to confirm, "So the Praetor -- he's... Cole's Driver as well?"
 
 "Yes."
 
 "Come off it. Just... how old is he?"
 
-Mòrag: "The current Praetor is Indoline. It's not that hard to believe." After all, Indoline have the longest lifespan on all Alrest, excluding Blades that live forever (if you consider going back to the cycle and coming back out as a continuity). 
+Mòrag shared, "The current Praetor is Indoline. It's not that hard to believe." After all, Indoline have the longest lifespan on all Alrest, excluding Blades that live forever (if you consider going back to the cycle and coming back out as a continuity). 
 
-Dromarch shared, "The Indoline do live loooong lives."
+Dromarch agreed, "The Indoline do live loooong lives."
 
-"Ohh right...? Well, that would explain why Cole said the dagger's owner- would know- how to get to the World Tree!" Rex recalled. 
+"Ohh right...? Well, that would explain why Cole said the dagger's owner- would know- how to get to the World Tree!" Rex completed the story himself. 
 
 "Well, what do you say?" Fan took a step forward, looming over Rex, feeling eager. "You certainly won't regret it. An audience with Praetor Amalthus **is** an honor."
 
-"Uhhhh, hey, uhhhh... **W-wait a second...**"
+"Uhhhh, hey, uhhhh... **W-wait a second...**" Let me discuss it with others first. 
 
 Nia discouraged, "I wouldn't buy it, Rex. This is too good to be true."
 
@@ -142,7 +138,7 @@ Rex therefore decided, "All right, then. I want to meet him too. In fact, we mig
 
 ---
 
-Mythra called out, "_Haze..._" Then she walked over to her. 
+Mythra called out, approaching her, "_Haze..._" 
 
 Hearing footsteps, Fan turned around on the deck, surprisingly wondered, "Lady Mythra? What are you doing out so late? Can't you sleep? At this time of year, the nights can be bitter. Please don't catch a cold."
 
@@ -156,7 +152,7 @@ Hearing footsteps, Fan turned around on the deck, surprisingly wondered, "Lady M
 
 "Right. Amalthus." She answered thoughtlessly as she focused on her Core. Why is there only half of it? "Sorry, m-my mistake. You just reminded me of somebody I know. It is quite cold, isn't it? I might go back to my room, after all." This is no longer whom she'd known, perhaps. 
 
-As she turned around, Fan sent her by bowing to her, "Yes. Good night. Lady Mythra."
+As she turned around, Fan sent her off by bowing to her, "Yes. Good night. Lady Mythra."
 
 "N-night, Fan."
 
@@ -184,13 +180,13 @@ Jin was in one room when the shuttle opened to reveal various Core Crystals line
 
 "Hey, look at this." In another room just beside the Core Crystal's, a wide-curved-screen displayed some location. 
 
-[Room with wide curved screen](images/184_wide_screen_room.jpg)
+![Room with wide curved screen](images/184_wide_screen_room.jpg)
 
 Akhos: "Temperantia... Rumor had it that Mor Ardain were conducting an excavation there. **So**- I thought I should check it out, and, er..." He seemed to had lost his sadness of losing Obrona already, at least on the surface. 
 
 Jin mentioned, "It's changed a lot, but this shape... That's a Judicium Titan weapon."
 
-"Judicium... _I know that name_..."
+"Judicium... _I know that name_..." Akhos heard of it. 
 
 Malos shared, "Right. It was destroyed. A casualty of the Aegis War. And... it's where the Flesh Eaters were created."
 
@@ -216,25 +212,25 @@ Mikhail asserted, "**No! Don't- worry** about that. **We got the goods. No probl
 
 "A female Blade from Indol..." Malos tried to recall. 
 
-"**Jin!**" Mikhail tried to spike his memory. After all, they were the only ones back then there. "**It's Haze! No doubt about it!**" Jin looked away. "**Jin?**"
+"**Jin!**" Mikhail knew her. And Jin knew her. "**It's Haze! No doubt about it!**" Jin looked away. "**Jin?**"
 
-"Mikhail, how goes the work on the Marsanes?" such change of topic. 
+"Mikhail, how goes the work on the Marsanes?" Such change of topic. 
 
 "Oh, that's no problem.{{footnote: Lora was frozen on the ice behind him.}} **It'll take a little longer than I thought**, but we'll get there."
 
 "And Akhos, where is the Aegis right now?"
 
-He checked the panel that replaced Obrona's capacity to track some specific bandwidth he'd kept remembered, answered, "Near the Leftherian Archipelago. She's on the move, _maybe on a ship._"
+He checked the panel that replaced Obrona's capacity to track some specific bandwidth he'd kept in memory, answered, "Near the Leftherian Archipelago. She's on the move, _maybe on a ship._"
 
 "Maybe... _they're heading for Indol._" Jin suggested. 
 
-"_Hmmm?_ Where?" Jin was walking away when Mikhail wondered. 
+"_Hmmm?_ Where..." Jin was walking away when Mikhail wondered. 
 
-He answered without him fully asking the question, knew already from the start. "Temperantia. To buy us some time."
+He knew what he wanted to know, immediately answered before he finished his sentence, "Temperantia. To buy us some time."
 
 Patroka, somewhat calmed down, "What about- the Aegis? If _that man_ gets into **her** head..."
 
-"Not happening." Malos knew his Driver all too well. Why would he had awoken him than her if he could from the very start? "_That's not how Mythra works._"
+"Not happening." Malos knew his Driver all too well. Else, he would've awaken Mythra 500 years ago if he wanted her. "_That's not how Mythra works._"
 
 Jin agreed, added, "In fact, she'll be a big help to us. After all, **only** an Aegis- can open up the path- to the World Tree. **Malos**, there's a lot of work to be done on what we got from the Guild. **You guys**, stay here- and help Mikhail. I'll go to Temperantia. Alone." he instructed therefore. 
 

@@ -376,12 +376,164 @@ Brighid read her mind, "You're wondering how I could remember words... from so l
 
 "If you care about him, it's **even** more important. I know what it's like, to be afraid of rejection. **I really**- do. But... if you don't tell him now, you're just storing up pain for later, **not making it easier.**"
 
-She tried to cover up her tears with smile, "_The way you say that... You really do see right through me._"
+Tears in the tip of her eyes, she smile regardless, "_The way you say that... You really do see right through me._"
 
 "Well... We go back a long way, as you recall. And we're both Blades, _after all._"
 
 ![The next day rise, washing out all worries](images/211_the_morning_sun_rise.jpg)
 
 ---
+
+Sometime in the past. The young Amalthus stood where Fan stood, deeply absorbed in the mural painting. The rocks, the people, the mountains... He went back to his room, closed the door behind, and walked over his table. What of the broken artifact, a shard beyond comprehension? 
+
+![Unknown artifact](images/212_artifact.jpg)
+
+The window behind him, the World Tree glow brightly in the night. He could see, he saw it, that's his destination. The calling in heart, it says, "_Father waits, above..._"
+
+Despite thunder and lightning, his muscles sore, his skin bled, he did not care. Up and up he went, up the World Tree, with no other equipment than one's hands and feet. Memories faded, attention lingered, tiredness accumulated, dizziness sprung forward. But when he reached the top, was not what he'd expected. A lush evergreen meadow heaven? No. Some buildings stood, but there was no one around. 
+
+He lit a fire torch, followed the tunnels; the imminent darkness, he could see nothing else other than plain plain plain. What make of the people who once lived here? He don't know. But one thing was sure -- to search every inch of the place until he found what he was to find. He delicately touched the door, and it shook; mechanism were being activated, and the door to Pandora opened before his eyes. The gleaming brightness beyond, shall we say, his hopes too high? 
+
+Run, run, run; pant, pant, pant; He dashed for the exit. No, he don't want to stay here any longer. Where was it, where he had came up from. Ah, here! As fast as his arms and legs could, without risking his life, he climbed down, faster, faster, faster, but no, safer, safer, safer! Slowly, one foot by one foot; but who walked beside a river doesn't get his shoe wet? One mistake and he slipped, down he went, faster, faster, faster, with no friction, plunged straight for the Cloud Sea, no one to save him. 
+
+He opened his eyes, ouch, what's that burning sensation in one's chest? Is one dead? No, this is, Cloud Sea, Alrest, oh right, one fell on one's feet. Where is one? A branch? Oh, still on the World Tree! What strong branch to withstand one's fall. But what he cared about, is the two crystals he brought back, tucked beneath his shirt. Was it still there? He vehemently looked; yes, the shiny reflection one can see. Yes, hoof! 
+
+Never found the Praetorium was such a long journey away, but luckily, one's back, alive and safe, to one's comfort zone. Inside his room, he took out the two crystals, placed them side by side. They floated mid-air, like sexy lady luring him to resonate with them. The dark purple one on the left? The light green one on the right? Which feels right? What do one wish to achieve? Which can help me achieve what one want to achieve? His eyes looked to the right, his hand reached for the middle.{{footnote: Follow thy heart, not thy eyes!}} Why not both?
+
+"_Praetor?... Praetor Amalthus?_" Who is that calling me there? Wait, Praetor? Yes, Praetor. One's now a Praetor. No, this is the past. 
+
+---
+
+Amalthus was daydreaming, eyes closed, in the Praetorium when someone called him. The door opened, and he had audience with someone working for the Praetorium{{footnote: One don't know the exact role, so one can't say what equivalent role in a Church one can label him.}}. "The boy has arrived, Your Eminence."
+
+"Thank you."
+
+---
+
+He sat at the audience chamber, accompanied by some soldiers and the guy whom notified him just now. Seated on the King's chair, the group walked in. He started speaking, "So you're Rex. I've heard much."
+
+"Hi, err... Y-you're not- the Praetor, are you?" 
+
+Nia: "Huh? No way."
+
+"Indeed, I am Amalthus. I understand your surprise. I imagine you expected somebody older."
+
+![Amalthus, still looking young](images/213_amulthus.jpg)
+
+Rex: "We heard that you were- Cole's Driver... **Y-Your Eminence! Sorry, sorry!**"
+
+"No need for formalities. I am **a mere- representative** of the Praetorium. The name- 'Praetor'- is simply a... **decoration**, if you will. In any case, we're the same, you and I. **Aegis Drivers**. I consider us... **equals.**"
+
+He scratched his head at such praises from the high, "**Ahahah**, I feel a bit better now you've put it that way. Your Eminence."
+
+He turned his eye on Pyra, noticed, "You're different somehow. I seem to recall a more **forceful** personality."
+
+Pyra: "_Huh..._"
+
+Rex: "**Oh! I almost forgot, here-**" He took out Cole's dagger. The soldiers, seeing a weapon, immediately pointed their long-axe weapons at him. Amalthus waved at them to back up. As they stood straight yet again, Rex continued, "I got this... from Cole. He said it belonged to you. Please!"
+
+"Ahhhh, Cole... _That brings back memories._"
+
+Someone took the weapon from Rex and handed it to him. 
+
+Rex explained their purpose, "We're looking for a way to Elysium. Cole told us... that **you** would know the way. I have to get to Elysium! _To_... to save Alrest... any way I can! I mean, we won't know for sure- what we can do until we get there, I suppose. _But if_ the stories are true, it's somewhere we can all live safely! **It has to be real!**"
+
+His voice started to change, like a broken radio. It sounded like there was two voices within him. He sounded like... Malos... "Long ago. Too long ago, I used to think like you. Indeed, it led me to climb... the World Tree. However, I did not find Elysium. **Or**... the Architect. I believe... it was because I was... **unworthy.**" Is that him who was speaking, or is that Malos? Or is he already influenced so deep by Malos he's under Malos's control? 
+
+He continued speaking, this time sounded more normal, "Rex, _I know your desire all too well._ I shall **help** you... on your quest."
+
+Rex was overwhelmed, "**Really? Oh, thank you sooo much!**"
+
+"No need for thanks. This may be my destiny. The reason... I've lived all these years. **And now...**" He looked to Pyra. 
+
+She introduced, "Pyra. My name- is Pyra."
+
+"I would be honored, to have a moment alone with- Pyra. I'd like to... _reminisce_- a little."
+
+---
+
+Without Pyra, they exited the audience chamber into the open. Nia was impressed, "So old man Cole really did know the Praetor. Who'd have thought?"
+
+Tora: "World is small place."
+
+Rex worried, "Will Pyra... be OK- by herself?"
+
+Nia don't understand, "He's the Praetor, dimwit. What's he gonna do, eat her?"
+
+Rex shared, "Back there, I felt something **weird**, for a second."
+
+"What?"
+
+"Urmph..." Should he share it? That sounds so weird, and so, out of logic...
+
+"Rex?"
+
+"It- felt- like we were talking to that Malos guy."
+
+She immediately dismissed him. "You're imagining things. **You know** he's Malos's Driver, and it's messing with your head."
+
+Poppi: "They not seem alike to me."
+
+Rex shook his head, "No, I know... it was just for an instant! Just this one moment, where I couldn't tell if we were talking to the Praetor or Malos... Sorry, I'm not explaining it well..."
+
+Gramps understood, shared, "There are- Blades who are- influenced a lot- by their Drivers- during resonance. Their appearance, their personality... That's _probably_ all it is."
+
+Dromarch hypothesized, "Perhaps it was due to your bond with Pyra. That could have heightened your perception of such things." But they don't know... Is it true? He still had doubts, but he couldn't prove anything, nor observe further, at least for the moment. 
+
+---
+
+He brought her to look at the mural painting, the birth of Alrest, shared, "It was painted 1500 years ago. Even through exposure to the elements, it has never needed repair. Always as pristine as the day it was made. The technique is long-forgotten. I often wonder if we are **growing** as a people... or in fact, **regressing**. What do you think?"
+
+Pyra don't know. Whom he wanted to reminisce with, was Mythra, so she took over, waiting for this moment long enough. "I'm just amazed... at how little you've changed. Has nobody ever wondered _about that?_"
+
+"I am Indoline, and the Driver of an Aegis. **It keeps me** young."
+
+"If you say so... **Why do this now**, though? **You've**- never let anyone go there before, have you?"
+
+He looked away, back at the mural painting, replied, "Times change, Mythra. So do people."
+
+"That's **not** an answer."
+
+"I would like to **believe**- there is one- who can reach the Architect- and save- this **dying** world. Is that really- so strange?"
+
+"**And Rex** is the one?" she asked seriously. To get him involved in this? 
+
+"Would you have resonated with him, if he did not hold- such potential?" Who knows what they're thinking in each other's head? 
+
+---
+
+Temperantia. Night. Things were calm; nothing special. At least not until Jin miraculously and silently appeared without disturbing the guards on duty. His speed so quick no one can react. The road to the center artifact where the Senator last stood was cleared and emptied. Jin observed, "It's still intact after all these centuries. _Amazing._ The pinnacle of Flesh Eater technology..." 
+
+Jin got into the device, placed his arms on the controls. "Tenacious creatures, humans."
+
+Oh, how Lora tears rolled down her cheeks, what history he cannot change, all energy receded from his body, he could not struggle against, as she said, "_I'm so sorry to do this to you..._"
+
+His heart beat strong; he could hear it. Why? Why had you not asked what my thoughts are? We could have faced it together; but why? Why do you have to sacrifice yourself for... His grip on the controls got tighter and tighter as anger rushed through his chest. 500 years had not extinguish the flames a little; it'd burned even wider, like growing forest fires in an endlessly vast forest. He activated the weapon, and the Titan shook as it came to life. The mechanism that had slept since its fall, was like a sleeping lion came back to life, ready to poach. The metal structures built on it by the Senator's army started to topple as the weapon pushed itself against, freeing itself. 
+
+Jin await for its engine warming, to stretch itself to its full before regaining strength. 
+
+---
+
+Outside their room, Brighid was speaking to a soldier. "I see. Very well." She returned into the room. Mòrag was looking outside the window, hearing Brighid's relaying the info, "It appears Senator Roderich paid a visit to the Praetorium last night, **off** the record. Did you know that?"
+
+"No. I haven't heard anything from His Majesty. Why now, I wonder? I can't imagine he was **just** paying his respects."
+
+"Do you think it's something to do with the excavation? Temperantia?"
+
+"Hmm... The issue HIs Majesty mentioned? If that **is** the case, he must be making covert deals with the Praetorium. **Curse that man!**"
+
+---
+
+A heavily-guarded area by floating battleships and ground units, the ground suddenly shook. The ground unit prepared their defense, when the Judicium weapon, a living Titan, roared. Step by step, it marched towards the frontline. Every step shook the ground, plunging holes in the soft dirt. It raised its back, and the ranged weaponry aimed at the frontline, charging. 
+
+![Judicium weapon attacking](images/218_judicium_attack.jpg)
+
+Fully charged, it fired thousands of beams that swirled, each aiming for a different battleship. The whole frontline were lit in flames; they couldn't do anything quick enough to prevent it. Jin watched emotionlessly, to hell the humans go. 
+
+---
+
+In the dormitories, while they were resting, the Praetorium person that reported to the Praetor earlier entered with slightly panicking voice, held his composure, and spoke quickly, "Sincere apologies everyone, but I come with an urgent request." Everyone quickly dashed out of their room, the guy instructed, "**Please go to the Audience Chamber at once!**"
+
+
 
 ### Footnotes:

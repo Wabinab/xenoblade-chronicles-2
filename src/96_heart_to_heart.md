@@ -45,7 +45,8 @@ He immediately blurt out, changed the topic as rapidly as he could, "**Tell me, 
 > Choose: "I liked it better when you were big."  
 > or "I think you're better like this."
 
-> (**Choice 1:**) "I liked it better when you were big."
+<details>
+<summary>"I liked it better when you were big."</summary>
 
 "Oh, is that so? I suppose you found me very useful as a Titan."
 
@@ -65,7 +66,10 @@ Rex: "Right? That's what I thought. It's all about what you're used to."
 
 Gramps, thinking, "Hmm... I'll give you the benefit of the doubt. Though I know you're really just **pining** for the days when you could travel in comfort on my back."
 
-> (**Choice 2:**) "I think you're better like this."
+</details>
+
+<details>
+<summary>"I think you're better like this."</summary>
 
 "**Oho! You prefer me this way?**" The excitement in his voice don't subside. 
 
@@ -86,6 +90,8 @@ Pyra noticed, "You look rather pleased, Azurda."
 Nia agreed, "_Yeah_, I wouldn't want to have Dromarch's nagging voice in my ear all the time, either..."
 
 Gramps: "**Cheeky sods!**"
+
+</details>
 
 ---
 
@@ -138,7 +144,8 @@ Nia, speaking to Poppi, "Grrrrh! They seem to be having fun, but it's all gibber
 > Choose: "That not even so bad..."  
 > or "Why Masterpon act so proud?"
 
-> (**Choice 1:**) "That not even so bad..."
+<details>
+<summary>"That not even so bad..."</summary>
 
 "Oh really?"
 
@@ -160,7 +167,10 @@ His fur stood on ends, "Meh-meh! Tora suddenly feel very unsafe. Rex-Rex, we sho
 
 "**No time to waste, we go!**"
 
-> (**Choice 2:**) "Why Masterpon act so proud?"
+</details>
+
+<details>
+<summary>"Why Masterpon act so proud?"</summary>
 
 "**Ho-hoo! Tora very glad you ask!** That because- tech used in this Titan battleship is same as what Poppi's muscles and drivetrain use!"
 
@@ -179,6 +189,8 @@ Rex: "C'mon, Tora... Is that what you call sporting behavior?"
 Poppi's head dropped to ground, "Upon learning secret of Poppi's birth, Poppi feel sense of unease..."
 
 "Ugh **E-everything fine!...** _Probably!_ **Now Rex-Rex! No time for chit-chat. Let's get going!**"
+
+</details>
 
 ---
 
@@ -223,7 +235,8 @@ Tora: "Poppi..."
 > Choose: "Should not bother Rex-Rex too much!"  
 > or "Try ask Dromarch instead!"
 
-> (**Choice 1:**) "Should not bother Rex-Rex too much!"
+<details>
+<summary>"Should not bother Rex-Rex too much!"</summary>
 
 "Hmm... OK then. Poppi leave questions there for now."
 
@@ -243,7 +256,10 @@ Pyra: "I guess it's not just battle where teamwork is important!"
 
 "Yeah!"
 
-> (**Choice 2:**) "Try ask **Dromarch** instead!"
+</details>
+
+<details>
+<summary>"Try ask <b>Dromarch</b> instead!"</summary>
 
 Rex: "That's a good idea. I reckon Dromarch is more knowledgeable than I am."
 
@@ -268,6 +284,8 @@ Poppi, in the meantime, eavesdropping their conversation and passing the bucks, 
 "Huh, learn what?"
 
 "This what people mean when they talk about 'passing the buck'!"
+
+</details>
 
 ---
 
@@ -306,7 +324,8 @@ They haven't yet argued, Tora already cut in, "Is Pyra interested in essence of 
 > Choose: "Yes I am!"  
 > or "If you think Rex would like that..."
 
-> (**Choice 1:**) "Yes, I am!"
+<details>
+<summary>"Yes, I am!"</summary>
 
 Nia was terrified, "You cannot be serious!"
 
@@ -340,7 +359,10 @@ She wasn't listening, trying to replicate, "C-cutey-cutey? Lovely... lovely... B
 
 "Please, Pyra... Come back to us... While you still can!"
 
-> (**Choice 2:**) "If you think Rex _would like_ that..."
+</details>
+
+<details>
+<summary>"If you think Rex <i>would like</i> that..."</summary>
 
 "Rex-Rex is **boy**, so he definitely not immune to the... _charms of blushy-crushy._ It definitely worth Pyra's time to learn **essence** of maidiness."
 
@@ -375,6 +397,8 @@ Like the boss female manager whom shouted commands, she called out, "**Mr. Rex! 
 "_Not there yet!_"
 
 Nia: "I... I give up. I can't watch this any more."
+
+</details>
 
 ---
 
@@ -419,7 +443,8 @@ Rex: "Well, errrr... I wouldn't go **that** far..."
 > Choose: "Why did you want to be a Driver?"  
 > or "What's the most important thing, for a Driver?"
 
-> (**Choice 1:**) "Why did you want to be a Driver?"
+<details>
+<summary>"Why did you want to be a Driver?"</summary>
 
 He turned around and looked at the scene, reflecting his life, answered, "It not clear to Tora anymore... Starting with Grampypon, dearest wish of family was to **successfully create artificial Blade**. So, it natural that Tora start to wish it too!"
 
@@ -449,7 +474,10 @@ Nia ignored him, continued, "Honestly, that's all you need! Tora, you should kee
 
 "Ohhh, it fair point... **Thank you, Rex-Rex! Thank you, Nia! Tora promise he will striiiive to be best Driver ever!**"
 
-> (**Choice 2:**) "What's the most important thing, for a Driver?"
+</details>
+
+<details>
+<summary>"What's the most important thing, for a Driver?"</summary>
 
 "_Hoh,_ Tora been thinking about that **a lot**. Love towards Blade is important."
 
@@ -478,6 +506,8 @@ After Poppi arrived, Rex asked, "Hey, Poppi. **What would you do**- if Tora said
 "Oh, **meh-meh**-meh-meh! Tora work to be **best** Driver he can!" And he went back playing with Poppi. Tora and Poppi behind them, Rex exclaimed, "**Well**, that was pretty easy!"
 
 "Ugh! I've just got no patience for this sorta- **non**-problem."
+
+</details>
 
 ---
 
@@ -538,15 +568,19 @@ Poppi agreed, "Your Majesty is Queeeeen of Uraya.{{footnote: On a note, in Xenob
 > Choose: "Let's go to war!"  
 > or "Let's wait a little longer."
 
-> (**Choice 1:**) "Let's go to war!"
+<details>
+<summary>"Let's go to war!"</summary>
 
 Tora was impressed! Poppi said nothing. 
 
-> (**Choice 2:**) "Let's wait a little longer."
+</details>
 
-Tora was speechless! Poppi was impressed. 
+<details>
+<summary>"Let's wait a little longer."</summary>
 
-(Regardless of which choices being chosen, they continued below.)
+Tora was speechless! Poppi was impressed.
+
+</details>
 
 Nia was confused. Why are they looking at her? "What now? Did you both forget your lines?"
 
@@ -577,7 +611,8 @@ On a hill overlooking Garfont village, Rex told Roc, after reawakening him, "The
 > Choose: "Do you want to hear about Vandham?"  
 > or "Do you wish you could stay here?"
 
-> (**Choice 1:**) "Do you want to hear about Vandham?"
+<details>
+<summary>"Do you want to hear about Vandham?"</summary>
 
 "Well... _it seems a tad rude- to go on about my old Driver in front of my current one..._ But I've heard he was quite the remarkable man. Naturally, I'm curious."
 
@@ -593,7 +628,10 @@ On a hill overlooking Garfont village, Rex told Roc, after reawakening him, "The
 
 "I don't doubt it."
 
-> (**Choice 2:**) "Do you wish you could stay here?"
+</details>
+
+<details>
+<summary>"Do you wish you could stay here?"</summary>
 
 "I wouldn't say that. After all, it's not like _I have any memories of my time in this village._ But **I believe something** lives on here. Something of Vandham, and- of myself. When I think about it, I can't help but- get **a tad** sentimental."
 
@@ -618,6 +656,8 @@ On a hill overlooking Garfont village, Rex told Roc, after reawakening him, "The
 "Well, **in that case**, I'd better make sure he **always sees me** at my best!"
 
 "**Yeah, I reckon if we don't live up to his expectations, we'll be in a RIIIGHT rollicking someday!**"
+
+</details>
 
 ---
 
@@ -648,7 +688,8 @@ Poppi made up her mind, "All right, tonight Masterpon go to bed early." That inc
 > Choose: "I'll teach you all that life's taught me!"  
 > or: "Maybe it's better if Nia teaches you?"
 
-> (**Choice 1:**) "I'll teach you all that life's taught me!"
+<details>
+<summary>"I'll teach you all that life's taught me!"</summary>
 
 "Thank you! Tora cannot wait!"
 
@@ -698,7 +739,10 @@ He turned his back on Rex immediately, not giving face, "Meh, it fine. Tora ask 
 
 "**H-Hang on, Tora! Let me... Let me try again!**" And he went after him. 
 
-> (**Choice 2:**) "Maybe it's better if Nia teaches you? OK, so you ant to know about being a Driver, right?"{{footnote: Because he continued speaking after the choice's textbox, we just continued it here than open a new line.}}
+</details>
+
+<details>
+<summary>"Maybe it's better if Nia teaches you? OK, so you want to know about being a Driver, right?"</summary>
 
 "Right!"
 
@@ -729,6 +773,8 @@ Poppi: "Indeed! Have much time to live and learn!"
 "**Yeahhhh!!! We'll get there!**"
 
 Gramps commented, "He says he'll help, but then he's the one who needs pepping up..."
+
+</details>
 
 ---
 
@@ -775,11 +821,12 @@ Nia was bored and confused, "_Armies, man._ I could never deal with all this **h
 > Choose: "Nia, how was Torna organized?"  
 > or: "Got any other good ones, Dromarch?"
 
-> (**Choice 1:**) Rex wondered, "Nia, how was Torna organized?"
+![Alba Cavanich with all the desert sand blowing in the background and the industrialized structures](images/168_alba_cavanich.jpg)
+
+<details>
+<summary>Rex wondered, "Nia, how was Torna organized?"</summary>
 
 "Torna? It was all... centered around Jin. Not exactly structured, though. But we all had our assignments."
-
-![Alba Cavanich with all the desert sand blowing in the background and the industrialized structures](images/168_alba_cavanich.jpg)
 
 "What was yours, Nia?" wondered Pyra.
 
@@ -807,7 +854,10 @@ Cold sweat ran down Dromarch's manes, "(sigh)... You have best **steel** yoursel
 
 Rex backed up a sec, "Ugh... Maybe I shouldn't have riled her up..."
 
-> (**Choice 2:**) Rex wondered: "Got any other good ones, Dromarch?"
+</details>
+
+<details>
+<summary>Rex wondered: "Got any other good ones, Dromarch?"</summary>
 
 "The smallest unit in the Ardainian army's structure... is the **ten-soldier** decade. It includes **eight** foot soldiers, alongside the squad leader and a deputy. Six to ten of these decades can then form a unit called- a century. But eight- is the usual number."
 
@@ -830,6 +880,8 @@ Nia quietly suggested, "_Rex, he's done his best, so just throw him a bone, will
 "**Ahh yeah, no, that was a VERY good one! Uh-huh, VERY good.**"
 
 "**I have- doubts- about your sincerity...**"
+
+</details>
 
 ---
 
@@ -880,7 +932,8 @@ Nia agreed, "Oh, yeah, those are a pain. Gets in your eyes sometimes."
 > Choose: "I could lend out my salvager suits."  
 > or: "Just gotta rough it out!"
 
-> (**Choice 1:**) "**Would anyone like to borrow one of my salvager suits?**"
+<details>
+<summary>An aha moment came, and he asked, "Would anyone like to borrow one of my salvager suits?"</summary>
 
 Pyra: "I suppose that would help keep the sand out..."
 
@@ -904,7 +957,10 @@ Tora concluded, "Looks like genius idea of Rex-Rex _not so genius after all._"
 
 "Well it was worth a try..."
 
-> (**Choice 2:**) He hadn't spoken anything but Gramps read his mind already, "Ahhh, the old 'grin and bear it' solution."
+</details>
+
+<details>
+<summary>He hadn't spoken anything but Gramps read his mind already, "Ahhh, the old 'grin and bear it' solution."</summary>
 
 Poppi was disappointed, "Rex not even try to solve problem?"
 
@@ -927,6 +983,8 @@ Pyra, high in spirit, "**Right!**"
 Poppi wondered, "Is this really solution?"
 
 Tora: "Is **best** solution!"
+
+</details>
 
 ---
 
@@ -953,7 +1011,8 @@ Mòrag questioned, "Is that how you see it, Nia?"
 > Choose: "You realize there was a better way?"  
 > or: "All this because of dumb pride..."
 
-> (**Choice 1:**) "You realize there was a better way?"
+<details>
+<summary>"You realize there was a better way?"</summary>
 
 "Was there, now?"
 
@@ -977,7 +1036,10 @@ Mòrag questioned, "Is that how you see it, Nia?"
 
 "I will! They call me the Empire's finest, and I- intend- to prove it."
 
-> (**Choice 2:**) "All this because of dumb pride..."
+</details>
+
+<details>
+<summary>"All this because of dumb pride..."</summary>
 
 "What do you mean?"
 
@@ -1000,6 +1062,8 @@ She wasn't angered by it, kept her calm, "A point well made... But the world is 
 "Well, whatever your motive, it's nice to have you with us, Mòrag. Yeah, I think we can make good use of the Empire's finest!"
 
 "Please do! No matter what path we tread, I'll be there to help you on the way..."
+
+</details>
 
 ---
 
@@ -1028,7 +1092,8 @@ Pyra commented, "It might not look appetizing, but I've heard the taste is divin
 > Choose: "I'm not that great a cook..."  
 > or: "...Very well, I'll do it."
 
-> (**Choice 1:**) "I'm not that great a cook..."
+<details>
+<summary>"I'm not that great a cook..."</summary>
 
 Perhaps sensing what's she gonna say, Pyra immediately suggested, "**Oh, no,** that's fine! I'm happy to do the messy part. I just need you to tell me the steps, and then if you could add the spices..."
 
@@ -1078,7 +1143,10 @@ Can't back away now, she gave the confidence, "I-i-indeed! That- seems wise. We 
 
 "Lady Mòrag! Are you deserting in the face of the enemy?!"
 
-> (**Choice 2:**) "...Very well, I'll do it."
+</details>
+
+<details>
+<summary>"...Very well, I'll do it."</summary>
 
 Brighid warned for the final time, "Lady Mòrag, if I may. _Is this really- wise?_"
 
@@ -1134,6 +1202,8 @@ She agreed thick-faced, "**As befits the** Flamebringer. _The foe is extinguishe
 
 Pyra was jumping up and down, "What do you think you're doing?! There's nothing left for us to eat!"
 
+</details>
+
 ---
 
 ### Hot Springs
@@ -1161,7 +1231,8 @@ Mòrag jumped on her feet, "What?" I'm not a man?!!!
 > Choose: "All men here! No need to fear nudity!"  
 > or: "Tora happy to wash everyone's backs!"
 
-> (**Choice 1:**) "All men here! No need to fear nudity!"
+<details>
+<summary>"All men here! No need to fear nudity!"</summary>
 
 Mòrag tried to understand his request, "You want- all four of us- to bathe- together?"
 
@@ -1207,7 +1278,10 @@ Zeke suggested, "Hey Mòrag, how about next time you put on a skirt and some hee
 
 She replied calmly, "How about you die in a fire, Zeke."
 
-> (**Choice 2:**) "Tora happy to wash everyone's backs! In return, Tora ask for help in washing his! **Tora strong believer in importance of physical contact, for build team bonds!**"
+</details>
+
+<details>
+<summary>"Tora happy to wash everyone's backs! In return, Tora ask for help in washing his! <b>Tora strong believer in importance of physical contact, for build team bonds!</b>"</summary>
 
 Mòrag: "_I think I'll excuse myself this time._"
 
@@ -1249,6 +1323,8 @@ Only Tora's fluttered wings exclaimed how happy he got. "**Tora score!**"
 
 Zeke: "Uhhh, good luck trying to explain this to the bath attendants..."
 
+</details>
+
 ---
 
 ### Rex's Secret Base
@@ -1282,7 +1358,8 @@ Gramps noted, and his storytelling instinct came online, "My my, you certainly _
 > Choose: "Whoa, just a sec!"  
 > or: "Go on then, I've got nothing to hide!"
 
-> (**Choice 1:**) "**Whoa, wait, just a sec! What do you mean, 'best'?**"
+<details>
+<summary>"<b>Whoa, wait, just a sec! What do you mean, 'best'?</b>"</summary>
 
 Gramps go forward anyways, and he'll know what it meant by 'best'. "One day, one of the local kids- was attacked- by a monster. _Without thinking, Rex jumped in_ to help him."
 
@@ -1316,7 +1393,10 @@ Pyra: "No, Rex. Nia is impressed! Aren't you?"
 
 Gramps: "_Ho ho ho. I told you it was a good story!_"
 
-> (**Choice 2:**) "**Go on then. I've got nothing to hide!**" he urged. "**Gramps'll just exaggerate it anyway.**"
+</details>
+
+<details>
+<summary>"Go on then. I've got nothing to hide!" he urged. "Gramps'll just exaggerate it anyway."</summary>
 
 Gramps therefore teased, "So you won't mind me telling them- about the time you **wet** yourself- when there was a monster attack?"
 
@@ -1358,8 +1438,113 @@ Nia: "Well said! Drivers and Blades should know **everything** about each other.
 
 Rex: "**Yeah, well, there's everything and there's- EVERYTHING. Can we please just drop it?**"
 
+</details>
+
 ---
 
-### A Great View of Torigoth
+### Tough Life
+
+![Great view of Torigoth from the top](images/220_top_of_torigoth.jpg)
+
+They were by a balcony at the top of a windmill overviewing Torigoth, Rex was impressed, "Amazing! You get a great view of the town from here, eh!"
+
+Zeke: "Told ya so. When the Zekenator says there's a good view, he doesn't lie. Matter of fact, _it's the best view_ in allllll of Torigoth."
+
+![From the top of Torigoth 2](images/221_top_of_torigoth_2.jpg)
+
+"You're not from here, are you, Zeke? **You seem to know** quite a lot about the place."
+
+"Well, you see... Last time I was here, the old **geez** at the **inn** gave me the lowdown."
+
+"**Ohhhhh, right, you used to travel all over the place, didn't you?** DO you know a lot about other places apart from Gormott, then?"
+
+His pride shot up, "**Oh, yes!** You wouldn't **believe** some of the things I've seen. _But listen_, I want you to tell me something. What does this scenery right here make you think of?"
+
+> Choose: "It's such a big, lively town."  
+> or: "Honestly, I think I prefer Fonsett."
+
+<details>
+<summary>Rex exclaimed, "It's such a big, <b>lively</b> town." </summary>
+
+"Yeah. Hmmmm. Sure." Is that it? "But y'know... That's just a façade. _It's what they **want** you to see._"
+
+"A façade?"
+
+"Yeah, exactly. Like, you know Gormott's a colony of Mor Ardain right now. Well, the only reason the town looks so **lively** is 'cos Mor Ardain has a military base here. **Most other** settlements in Gormott, everyone's doing **hard work** like farming and lumberjacking. And most of what they produce, they export to Mor Ardain. It's quite a tough life here. A lot of folks are struggling."
+
+"Mmm..." That kept him thinking deep. 
+
+"And it's not just Gormott, either. I've seen a good few dark underbellies on my travels, no doubt about it."
+
+"Did you ever try to help those people out?"
+
+"_Ahhh_, so many times. **I had it in my head** that the **Zekenator** had the power to fix **anything**. But, fancy sword skills and titles... _They aren't much use to most folks._ I was **trying** to save the world alone. But what happened is that **reality bit me on the arse**."
+
+"**Hey, don't look at it like that!**"
+
+"_Huh?_"
+
+He encouraged, "**Sure**, maybe you don't have the power to save the whole world right now. But there are definitely people out there you have helped. Me- and Pyra, for a start. **So Zeke,** don't _ever_ give up. Don't **forget**, you've got some people you can count on now."
+
+"_Yeah,_ you're right. You **really** are. I dunno what I was thinking. It's not **just** the Zekenator now. I've got **you guys** watching my back. **Some** of the things I couldn't do back then might even be **possible** now."
+
+"**Right? So let's keep doing what we can. All of us, together.**"
+
+"_Yeah_! **I just gotta put my back** into it." Then his shout shocked Pyra and Pandoria, whom also climbed up with them, watching the other side (the fields) from the top. "**LOOK OUT, WORLD! THE ZEKENATOR'S COMING TO ROCK YOUR SOCKS OFF!!!! Hoooh!** That sure felt good. **Your turn, Rex! Let your manifesto out!**"
+
+"**Ermmm...**" Like that? Don't you feel embarrassing? But he went forward, "**I'm gonna get Pyra and Mythra to Elysium, or die trying!**"
+
+"**YEEEEEEEE HAAAAAAHHHHH!!**"
+
+Pandoria was so confused, asked softly, "_What are you two doing?_"
+
+Pyra added, "_You're embarrassing me..._" But they weren't listening, feeling excited at their manifesto, became close brother for a moment. 
+
+</details>
+
+<details>
+<summary>"Honestly, I think I prefer Fonsett."</summary>
+
+"Fonsett's a peaceful village, right? War hasn't really reached it?"
+
+"Yeah, that's right."
+
+"Problem **is**, most villages in Alrest can't say the same."
+
+"**What do you mean** exactly?"
+
+"Listen up, chum. What you see on the surface? _That's not the whole story._ A lot of places that look like they're doing well, have a lot of people suffering in the shadows."
+
+"Even here in Gormott?"
+
+"**Sure as.** You can see Torigoth doing great, same as the other towns where there's an Ardainian army base. **But most other settlements in Gormott?** They scrape by on hard **labor** like farming and lumberjacking. And most of what they produce, they export to Mor Ardain. It's quite a tough life here. _A lot of folks are struggling._ And it's not just Gormott, either. **I've seen a whole bunch** of places _like this, and they make me realize how powerless I am._"
+
+"_Huuuuh_" Felt heavy in his heart, the way he spoke it. He encouraged, "Zeke, you aren't powerless. **You never** stop wanting to help people. **Even though**, you're thinking about the people who **reaaaaally** need your help. **Exactly** how a future king should think."
+
+"Heyyyy, don't take the piss." He waved it off. 
+
+"I mean it. I'm all spent just worrying about the people **right in front of me. Pyra, Mythra, Nia, Gramps... But it seems like you're** always worrying about the **wider world. Like, people whose names you don't even know!** It's something I **reaaaaally admire about you**, Zeke. I hope I can learn to care as much as you do."
+
+"Man, you **always** know what to say. You're **such a**... focused guy."
+
+"Haha. Gramps said I should pay more attention to the world around me, though."
+
+Unbeknownst to them, Pandoria and Pyra had climbed up and were overhearing their conversations now, "**Tell you what then**, chum. While you focused on your main goals, I'll keep an eye on the big picture on you."
+
+"Yeah, I know I can count on you."
+
+"Damn right you can!"
+
+Pandoria was impressed, "Ohhh, what a pair."
+
+Pyra: "I find it really inspiring."
+
+"**Yeah!** I'd be lying if I said I wasn't a little inspired."
+
+</details>
+
+---
+
+### What's in a Name?
 
 ### Footnotes:

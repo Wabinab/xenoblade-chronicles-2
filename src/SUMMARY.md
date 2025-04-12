@@ -30,6 +30,7 @@
 - [Addam and Lora, Jin To Temperantia](./15_history.md)
 - [Bringing Pyra Home, To See His Parents (Leftherian Archipelago)](./16_bringing_pyra_home.md)
 - [The Return of the One-Eyed Monster, Meeting the Praetor](./17_to_indol.md)
+- [Off to Temperantia, Encounter with Jin](./18_to_temperantia.md)
 
 ---
 
