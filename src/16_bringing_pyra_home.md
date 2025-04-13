@@ -242,17 +242,15 @@ Corinne wavered to the rest of the group, "Right then, **come with me**, all of 
 
 ---
 
-===
-
-In front of the various tombstones, two of them close by each other, Rex stood in front, Pyra following behind. 
+A land with various tombstone, a graveyard. Rex faced two of them, buried side by side; Pyra trailing behind. 
 
 ![Rex's parent's tombstone](images/190_graveyard.jpg)
 
-"Where are we?" wondered Pyra, after giving him a little time. 
+"Where are we?" wondered Pyra.
 
 "These are my parents' graves."
 
-"_What?!_"
+"_What?!_" she was surprised. 
 
 "Sorry. I guess I never properly told you about myself. I..."
 
@@ -260,13 +258,13 @@ In front of the various tombstones, two of them close by each other, Rex stood i
 
 "I wanted you to meet them, though."
 
-"To meet them? How- do- you... mean?" She felt a little nervous, and her nervousness grew more and more. 
+Her nervousness grew, and words stuck in her throat, it took a moment for her to be able to voice again, "To meet them? How- do- you... mean?" 
 
-He showed it by action. Nodded to her first, before walking towards his parent's graves. She slowly followed behind, as he knelt down close, talking to them, "Hey, Mum... Dad... It's been a while. A ton happened, you know -- I became a Driver! And this girl... is Pyra. My new partner." 
+He nodded to her, spoke with action. Walking close by the two tombstone, he knelt on one feet, "Hey, Mum... Dad... It's been a while. A ton happened, you know -- I became a Driver! And this girl... is Pyra. My new partner." 
 
 ![My new partner](images/191_my_new_partner.jpg)
 
-She was surprised; that's how he see our relationship? Rex continued, "I know you'd love her. We- we're going to Elysium. Pyra- and me. I don't- know- what's coming next, but... You'll be watching over us, **right guys?**"
+Her eyes widened, that's what one is to him? She eyed him from the tip of her eye, full of tenderness. Rex continued, "I know you'd love her... We- we're going to Elysium. Pyra- and me. I don't- know- what's coming next, but... You'll be watching over us, **right guys?**"
 
 ![Pyra wondering about Rex](images/192_wondering.jpg)
 
@@ -280,61 +278,63 @@ She was surprised; that's how he see our relationship? Rex continued, "I know yo
 
 ---
 
-At the home prepared for them, after they got back, Poppi was massaging her masterpon's shoulders, Nia was taking a nap on Dromarch, Rex speaking to Fan, Brighid with Mòrag. Pyra was in the kitchen, helping Corinne with washing the dishes. "I'm so sorry, making you wash up like this."
+Corinne had got a standalone home just for them. Poppi was punching his masterpon's shoulders, Nia napping on Dromarch, Rex chatting with Fan, Brighid with Mòrag. Pyra helped washing the dishes in the kitchen, with Corinne. "I'm so sorry, making you wash up like this."
 
 "**No, no, don't worry about it!** I don't- have to be in a fight- to be able to help people. I like it."
 
 "You're a dear. Rex is **very lucky** you're around. He's never brought a girl- to meet me before!"
 
-"**HUH?! Oh No, no no no, it's not like that! I'm just Rex's Blade!**" Pyra was surprised and blushing what his guardian were thinking of their relationship. 
+"**HUH?! Oh No, n-no no no, it's not like that! I'm just Rex's Blade!**" She jumped a step back in surprise, blood rushed up her cheeks as she tried to deny, but her heart raced fast. 
 
 ![Corinne thought she was his girlfriend](images/194_meeting_guardian.jpg)
 
-"Is that so? You do hear of Blades and Drivers getting married a lot in the old stories!"
+Corinne saw through her, "Is that so? You do hear of Blades and Drivers getting married **a lot** in the old stories!"
 
 "Err..." She don't know what to say. 
 
 ---
 
-Outside, over a cup of tea, Corinne prepared it for her and Pyra on a tea table. Pyra commented, "This is a lovely village. Everyone's so warm and... _carefree._"
+After all the washing and all, Corinne prepared tea for them, as a reward for her help, but perhaps, she wanted to speak a bit more to her. Ether lamps illuminated the interior of housing so bright we could see the light from the windows{{footnote: In the past, using candles or better oil lamps, you can't really see that clearly, unless there's a LOT of candles to light up the whole room -- at the expense of feeling very hot inside.}}. They were enjoying the cloudy night, though it would be better if there's some breeze. 
 
-"It's removed from everything, you see. I think if **everyone could** live like this... the world might be a happier place. You know, between you and me... **I think, deep down**, Rex still misses his mother a little. In a way, **you** remind me of her. Just... a tad."
+Pyra commented, "This is a lovely village. Everyone's so warm and... _carefree._" She hoped she could be one of them, perhaps. 
 
-"Of Rex's mother? Really? A-actually... He took me to say hello to his parents."
+"It's removed from everything, you see. I think if **everyone could live like** this... the world might be a happier place. You know, between you and me... **I think, deep down**, Rex still misses his mother a little. In a way, **you** remind me of her. Just... a tad."
 
-"_Ahhh..._ You know, Rex wasn't born here in Fonsett. He must have been two years old when he came ashore here with his poor- mother."
+"Of Rex's mother? Really? A-actually... He took me to say hello to his parents." she shared, feeling heartwarming. 
 
-> One day, a young woman hugging a child entered the village entrance; she was too effete and about to fall. When she finally did fell, the villagers around went up to her quick.
+"_Ahhh..._ You know, Rex wasn't born here in Fonsett. He must have been- two years old when he came ashore here with his poor- mother."
 
-"Maybe it was war, or a dying Titan... But they'd lost their home, sure enough."
+> One day, a young woman effetely entered the village entrance, Rex in her hugs. She struggled forward, until she could take no longer, collapsed to the floor. The villagers rushed to her help. 
 
-> She never recovered. Corinne took the role as a guardian of the village's children{{footnote: Unlike today, some Indian tribes in the past, including in Latin America, they take everyone's child in the village as their child, and hospitality was extended so it's not separated into 'my child' and 'their child', but 'everyone's child'.}} and took care of Rex. 
+"Maybe it was war, or a- dying Titan... But they'd lost their home, sure enough."
 
-"I gather it was a great struggle to get here. She was so weak... She asked me to look after Rex, and... That was the last thing she said."
+> She never recovered. Corinne, as the guardian of the village's children, took the role to care for young Rex.{{footnote: Unlike today, some Indian tribes in the past, including in Latin America, they take everyone's child in the village as their child, and hospitality was extended so it's not separated into 'my child' and 'their child', but 'everyone's child'.}}
 
-> Corinne brought Rex with her, and the rest of the villagers had buried his mom; many people in the village came to the funeral, paying grievances, despite she wasn't part of them before. Corinne consoled him; Rex wasn't crying, just blank, standing in front of his mom's tombstone.
+"I gather it was a great struggle to get here. _She was so weak_... She asked me to look after Rex, and... _That was the last thing_ she said."
 
-"She seemed so lovely, too... And his father... We found his body about... three- titanpeds away from here. He came **so far**... If only he'd made it a little farther... Such a sad business."
+> Corinne brought Rex with her and other villagers to the funeral; many people visited, despite not knowing her more than that, paying tributes. Corinne consoled the boy who'd just lost his parents; he wasn't even crying, but more blank, standing there, purpose lost. 
+
+"She seemed so lovely, too... And his father... We found his body about... three- titanpeds away from here. He came **so far**, If only he'd made it a little farther... Such a sad business."
 
 "_How awful_..."
 
 "That boy has suffered enough loss for one life." Corinne started crying, feeling sorry for his fate. "**That's** why he became a salvager, you know. To find some way up to Elysium."
 
-> Pyra recalled how he always treated the dead -- his mentor Vandham, his parents -- how he looked like, the little feelings he emanated that she can feel.
+> Pyra recalled how he always treated the dead -- his mentor Vandham, his parents -- with so much care and reminiscent, the little feelings he emanated that she can feel.
 
-"In that case, maybe- it's not good for me to be by Rex's side after all..." 
+Her guilt awash her, she felt so sorry, depressing, and self-deprecating, "_In that case, maybe- it's not good for me to be by Rex's side after all..._"
 
-Brighid was coming around to look for them, hid behind the barn without revealing herself, overhearing the conversation from here. Pyra was wondering, if one day, he'll lose her. Or perhaps, she'd already decided her fate. 
+Brighid was searching for her, came around the corner, hid behind the walls, overhearing their conversations starting from here. Pyra looked up in the sky; perhaps one day, she'll bring him more sadness, staying beside her. And he may one day even lose her! 
 
-"Why? Are you not... fond of him?" asked Corinne. 
+"**Why?** Are you not... fond of him?" asked Corinne. 
 
-"**Oh, I am!** But... _with me here... he'll suffer even more, lose even more. So maybe... Maybe Rex is better off without me. Rex... and the whole world. They don't need me. That's just how it feels._"
+"**Oh, I am!** But... _with me- here... he'll suffer even more, lose- even more. So maybe... Maybe Rex is better off without me. Rex... and the whole world. They don't need me. That's just how it feels._"
 
-"Now, dear..." Brighid listened to her revelation, walked away without revealing herself. The night came to an end, with Pyra entering a depressing vicious cycle of thoughts. What worries came of this pair, boy and girl? 
+"Now, dear..." The conversations ends here; Brighid had no need to hear more. What worries lies in their future journey? 
 
 ---
 
-The next day, Corinne and a few children met the group at the village entrance. Rex announced, "OK, time to move out!"
+The next day, Corinne and a few children sent the group at the village entrance. Rex announced, "OK, time to move out!"
 
 "**See you soon, Rex!**" one children exclaimed. 
 
@@ -342,7 +342,7 @@ Corinne: "You take care now. And keep yourself out of trouble, Azurda!"
 
 "Ah, you know me. I prefer the quiet life."
 
-Pyra: "Thank you for everything."
+Pyra expressed her gratitude, "Thank you for everything."
 
 Corinne: "Pyra, dear -- I don't know what you've been through before, but you should know you're not alone- anymore. Rex is a strong boy. You can depend on him, **whenever**, and **wherever** you need him."
 
@@ -352,8 +352,8 @@ Corinne: "Pyra, dear -- I don't know what you've been through before, but you sh
 
 "Nothing at all. Right?"
 
-Corinne: "Nothing for your ears, Rex. You just concentrate on what you're doing. Work hard, and do your best!"
+Corinne: "Nothing for your ears, Rex. You just concentrate on what you're doing. **Work hard**, and do your best!"
 
-Scratching his head, "Sure, I will." And he went with the others away. Pyra stayed back for a while, gave Corinne a bow, before catching up with them. 
+Scratching his head, "Sure, I will." And he went with the others away. Pyra stayed back for a while, gave Corinne a bow of gratitude, before catching up with them. 
 
 ### Footnotes:

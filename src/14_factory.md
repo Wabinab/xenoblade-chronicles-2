@@ -180,7 +180,7 @@ All tirkins dropped to the floor and burned to ashes. Muimui was standing in fro
 
 Nia: "Now we're gonna need some answers. What were you people plotting here?"
 
-He tried to secure himself as innocent, wobblingly answered, "_O-ordinary business! We **innocently** mass-produce ether furnaces and artificial Blades, and sell to people who want them!_"
+He pretended naïveté, wobblingly answered, "_O-ordinary business! We **innocently** mass-produce ether furnaces and artificial Blades, and sell to people who want them!_"
 
 Dadapon added to the story, "They threaten Tatazo, and force to participate in production process..."
 

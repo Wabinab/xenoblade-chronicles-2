@@ -32,9 +32,13 @@
 - [The Return of the One-Eyed Monster, Meeting the Praetor](./17_to_indol.md)
 - [Off to Temperantia, Encounter with Jin](./18_to_temperantia.md)
 
+# Chapter 6: Wounds
+- [Jin and Lora, Rulers' Congress, Fan's Funeral, Aegis's Servant](./19_histories.md)
+
 ---
 
 [Heart to Heart](./96_heart_to_heart.md)
+
 
 [Postscript](./97_postscript.md)
 [References](./98_references.md)
