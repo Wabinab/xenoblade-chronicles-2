@@ -34,6 +34,9 @@
 
 # Chapter 6: Wounds
 - [Jin and Lora, Rulers' Congress, Fan's Funeral, Aegis's Servant](./19_histories.md)
+- [Ancestors of Tantal, Bana's Plot, Emperor Niall's Selflessness](./20_bana.md)
+- [Tantal](./21_tantal.md)
+- [Escaping](./22_escaping.md)
 
 ---
 

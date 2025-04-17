@@ -416,40 +416,42 @@ Rex: "_Jin... what happened, to make you like this?_"
 
 ---
 
-The sad atmosphere was resolved when Nia noticed a swarm of 'insects' incoming from the other side of the battlefield, dashed quickly nearer to look, wondered, "What... is that?"
+The sad atmosphere dissolved when Nia noticed a swarm of 'insects' incoming from the Urayan side of the battlefield. She trodded closer, squinted her eyes hard to make shape of it. "What... is that?"
 
-Poppi can zoomed in with her eyes, scanned and noted, "That... **Urayan army! So many of them!**"
+Poppi dashed beside her and readjusted the zoom in her eyes. "That... **Urayan army! So many of them!**"
 
-Pandoria was shocked as well, "**What?!!!**"
+Cold shivers ran down Pandoria's skin, "**What?!!!**"
 
-Mòrag: "**NO!!!**" She turned around; the worst had happened. Mor Ardain's battleships and Titan tanks had gathered behind, marching towards their current location. "**Shit! WHO GAVE THAT DAMN ORDER?!!**"
+"**NO!!!**" The worst she hoped to prevent had happened. She looked around, and saw her nation's battleship occupying the airspace, accompanied by Titan tanks marching toward their current location. "**SHIT!!! WHO GAVE THAT DAMN ORDER?!!**"
 
-Brighid: "At this rate, I don't think there's any stopping them."
+Brighid predicted, "At this rate, I don't think there's any stopping them."
 
-Nia don't understand, "How so?" Can't they just issued a decree to retreat their army? 
+Nia don't understand, "How so?" Can't they just issued a decree to call for a retreat? 
 
 Gramps explained, "They- think- Mor Ardain- attacked them- illegally. With no declaration of war."
 
-Zeke: "This is bad. If **someone** doesn't explain what's **REAAAALLLLYYY** going on..." And he looked over his shoulder at Mòrag...
+Zeke peered over his shoulder at Mòrag, "This is bad. If **someone** doesn't explain what's **REAAAALLLLYYY** going on..."
 
-"But, **there's no time for that!**"
+She looked into his eyes, "But, **there's no time for that!**"
 
-Nia: "So what? We just- give up?!" She turned around, noted the Urayan battleships were gathering energy in their cannons. 
+Nia: "So what? We just- give up?!" Whistles in her ears; she flung around and saw ether energy sucked into a ball on the Urayan battleships. 
 
-Brighid understood the weaponry, "Heavy cannons! That's Uraya's main weapon." Mor Ardain's battleship cannon were also gathering energy. 
+Brighid explained, "Heavy cannons! That's Uraya's main weapon." Mòrag tightened her grip; at this rate, it'll be an all-out scale. Is it too late? 
 
 ![Uraya's heavy cannons](images/226_uraya_heavy_cannons.jpg)
 
 Poppi: "Here too! Mor Ardain- **also** readying artillery!"
 
-Rex gathered his strength as they were discussing, softly put Fan down to deal with the more pressing matters first, "I don't care if we're not going to make it in time! **We need to get to Uraya!**" After all Fan did for them, he could not let her wishes, their goal here, came to a waste. 
+Rex temporarily sunk the sadness in his heart, slowly and softly lowered Fan to the ground. They had came to stop the war, and she had died for their cause. He cannot let what she sacrificed for go to waste. "I don't care if we're not going to make it in time! **We need to get to Uraya!**"
 
 Zeke agreed, "**Right!**"
 
-Just then, Mythra sensed something huge incoming, shouted, "**Wait!**" They looked around, trying to pinpoint where the growing vibrations of the ground came from. Behind! The Indol Titan loomed huge above them, stretching its wings to both side of the battlefield, bellowing, calling for an immediate ceasefire. 
+Mythra was about to act when she sensed something incoming. Something... big... cutting the waves... "**Wait!**" 
+
+They too felt it, tried to pin it down, looking all over the skies. A roar from behind attracted their attention, as they watched the Indol Titans rose over from behind the mountains, looming in between the two forces, stretching its wings, bellowing for their attention. 
 
 ![Indol Titan](images/227_indol_titan.jpg)
 
-Amalthus stood at the top of the Praetorium, hoped he'd arrived just in time to stop the war. 
+Amalthus stood at the top of the Praetorium, gripped tight on the windowsill; just in time to stop the war. 
 
 ### Footnotes:
