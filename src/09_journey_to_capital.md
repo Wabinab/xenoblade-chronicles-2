@@ -166,7 +166,7 @@ Rex rebutted, "**Hey, you used to like that!**"
 
 "Indeed!"
 
-"**Uhuhuhuhuh!!!**" Pyra laughed at their exchanging jokes. 
+"**Uhuhuhuhuh!!!**" Pyra couldn't help but giggled. 
 
 ---
 

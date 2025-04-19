@@ -352,7 +352,11 @@ His eyes squinted, "_What are you trying to say?_"
 
 ---
 
-Zeke found himself inside a room carpeted with those Arab rugs the merchants used earlier. Piles and piles of crates and barrels, and some vases and jars and paintings and scrolls and jewelries, piled on top of one another. All had the imprints of the Royal family sigil on them. The king stood beside him, waiting for the shocked Zeke to take it in, "**Th-this is...**"
+Zeke found himself inside a room carpeted with those Arab rugs the merchants used earlier. Piles and piles of crates and barrels, and some vases and jars and paintings and scrolls and jewelries, piled on top of one another. All had the imprints of the Royal family sigil on them. But, there's something wrong with the sigils... They looked... different. Well at least, not all of them looked the same. 
+
+![Differences in family sigil](images/254_difference_in_sigil.jpg)
+
+The king stood beside him, waiting for the shocked Zeke to take it in, "**Th-this is...**"
 
 "This is... the legacy of our royal line."
 

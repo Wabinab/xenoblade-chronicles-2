@@ -1,34 +1,32 @@
 # Jin and Lora, Rulers' Congress, Fan's Funeral, Aegis's Servant
 
-===
+He'd just woken up from an unknowingly long sleep. Immediately he saw the girl, barely 10, with short hair up till her neck and covering her forehead, looking at him with fear. His glance seemed to scare her away, as she backed away one step. So this is his new Driver? Looked so young and timid and fearful. Naturally, he stood up. 
 
-One day, a young girl awakened Jin by accident. The first time he saw her, she was scared to hell. He slowly stood up, looming on her. In the dark, a lame{{footnote: not 'boring', but 'not able to walk correctly because of physical injury to or weakness in the legs or feet', as defined [here.](https://dictionary.cambridge.org/dictionary/english/lame)}} guy, her dad, was complaining, "Y-you little scamp! _Do you know_, how much, **THE CORE YOU TOOK WAS WORTH?!!!**" Jin looked at the guy beat the young girl up. 
+There was a guy to his left, looked thin and whimsy, from the constant work, insufficient nourishment, and prolonged intake of alcohol, a lame{{footnote: not 'boring', but 'not able to walk correctly because of physical injury to or weakness in the legs or feet', as defined [here.](https://dictionary.cambridge.org/dictionary/english/lame)}} himself, started scolding the little girl, "Y-you little scamp! _Do you know_, how much, **THE CORE YOU TOOK WAS WORTH?!!!** I stole it from the **castle!** Three- years- _it took me to get it..._ **AND NOW!!!**" He watched him went up to her and started beating her up. 
 
-The guy continued, "I stole it from the **castle!** Three- years- _it took me to get it..._ **AND NOW!!!**" Her mom{{footnote: These relationships are all guesses. One don't know if that's her dad, and one don't know if this is her sister or her mom. One just make guesses to make the story sound more interesting.}} don't dare to rebel against him; but as she watched him snatched the knife on the table and went for her, she subconsciously stood up and grabbed his hand, pleaded, 
+Another young woman in the house, sitting on her bed, did not dare rebel. She watched in fear as the guy went across the room towards the knife on the table, grabbed it in his hand, and was about to return. She mustered the courage, jumped on her feet, and grabbed his right hand, pleaded, "**PLEASE! SHE'S BARELY TEN YEARS OLD!!!**"
 
-"**PLEASE! SHE'S BARELY TEN YEARS OLD!!!**"
+"**SILENCE!!! STAY OUT OF IT!!!**" 
 
-"**SILENCE!!! STAY OUT OF IT!!!**" And he flung her away, her back hit the metal cabinet. 
+"**Yargh!**" He flung her hard as her head knocked against the metal cabinet, immediately went unconscious. He continued towards the little girl, oblivious of the newly awakened Blade, 
 
-"**Yargh!**"
+"_If you die_, it'll be as good as new. You **brought this on yourself...! YAAAAARRRRRRRGGGGGHHHHH!!!**" The little girl cuddled on the floor, prepared for whatever to come; but she heard a stab in the meat and an anguished shout in intense pain, and the sound of a body collapsing on the floor. 
 
-"_If you die_, it'll be as good as new. You **brought this on yourself...! YAAAAARRRRRRRGGGGGHHHHH!!!**" The last shout was when Jin stuck his sword into his heart, and he collapsed. 
-
-"From now on, I'll protect you." promised Jin. She slowly moved the arms protecting her head and looked at him, the giant figure. "I'll keep you safe, always..." He softly caressed her head; she saw hope. "My name is Jin. What's yours?"
+"From now on, I'll protect you." He told the girl. She slowly removed her hands covering her eyes; he squatted in front of her, as he promised, "I'll keep you safe, always..." He softly caressed her head; she saw hope. "My name is Jin. What's yours?"
 
 He held out his hand, and her tiny hand grabbed his finger, full of trust. Childishly, she said, "_Lora_..."
 
 ---
 
-Jin opened his eyes and found himself immersed in green ether particles in a cryo pod. Healing ether particles gathered in maximum concentration, calming his core. Malos walked over him, seeing him awake, concluded, "It seems like sending Akhos was the right choice..." The cryo opened up and he sat up. "_You all right?_"
+Jin was put in a cryo pod with concentrated healing green ether particles. Malos was looking over him, found him awake, started speaking to him, "It seems like sending Akhos was the right choice..." The cryo opened up and he sat up. "_You all right?_"
 
 "I've been through worse. I can handle it."
 
-Malos took a few seconds to muster his words, "_Jin... I swear I'll make your dream come true. So stop... putting yourself at risk._"
+Malos took a few seconds to muster his words, "_Jin... I swear I'll make your dream come true. So **stop**... putting yourself at risk._"
 
-He thought of his reply for a while, "There's... **still**... time."
+"There's... **still**... time."
 
-Malos knew who he's referring to, the one frozen within ice at his 5 o'clock. He asked, "Is that... part of your dream, too?" He didn't reply anything. Malos wondered, "What are we, in the end? This hunger I feel, this thirst... Is it really my own? Or is it someone else's?" He looked at his palm, wondered is it his, or is it his Driver's? "_Huff._ Sometimes I can't tell... Tell me, Jin. Are you really... 'here'? I don't know... _where **I** really am._"
+Malos knew who he's referring to, the one frozen within ice at his 5 o'clock. He asked, "Is that... part of your dream, too?" He didn't reply. Malos wondered, "What are we, in the end? This hunger I feel, this thirst... Is it really my own? Or is it someone else's?" He looked at his palm, wondered is it his, or is it his Driver's? "_Huff._ Sometimes I can't tell... Tell me, Jin. Are you really... 'here'? I don't know... _where **I** really am._"
 
 "You're starting to sound like a human."
 
@@ -38,15 +36,15 @@ Malos knew who he's referring to, the one frozen within ice at his 5 o'clock. He
 
 ---
 
-The Urayan ship went straight for the reserved dock at Indol. Some Praetorium members were waiting for the Queen, accompanied by her main sidekicks/bodyguards and some soldiers. They are to lead her to the hall where Amalthus awaited. Halfway, she sensed some ships moving in to the adjacent dock. A giant Mor Ardain ship. She shall not wait for her enemy. 
+The port of Indol today had been reserved for their VIPs. The Urayan ship cruised slowly into one of the ports. The Queen, accompanied by some sidekicks and soldiers, unboard and walked towards the Praetorium members that awaited for her. As they lead their way, the Queen heard another ship much more giant than hers, but much more metallic and rusty, coming into the adjacent port. She stopped and looked for a moment, walked away before it's parked. 
 
 ![The Queen of Uraya](images/228_queen_of_uraya.jpg)
 
-After the Mor Ardain ship docked, the soldiers greeted as Emperor Niall, accompanied by Aegaeon, walked down the path. Another group of Praetorium members awaited to lead him. 
+The steam powered ship stopped and whenever Niall and Aegaeon walked past, soldiers on both rows will stood straight and stiff. More Praetorium members awaited for his arrival, lead him to where they will go.
 
 ---
 
-Temperantia. The Urayan battleship had not retreated, but they were not attacking either, stopping in mid-air while awaiting commands from upper ranks. On one of the ship's dock, the soldiers, wearing armor similar to thick salvager suits, were chatting. "What's the deal with this ceasefire?"
+All battleship in Temperantia halt mid-air, as if a game had been paused. Soldiers of Uraya, having nothing to do, gathered in small circles discussing what concerned them the most. The armor of Uraya army shaped like a salvager's, with a huge metallic head seemingly built for pressure, with only a thick glass for them to see their way. One soldier asked, "What's the deal with this ceasefire?"
 
 Another shared, "A tribunal, it looks like. Praetor Amalthus is here in person. And who's gonna argue with the Praetor?"
 
@@ -58,19 +56,21 @@ The 2nd agreed with him, said, "You got that right. We're all just faceless **ca
 
 ---
 
-Inside the room with a giant table, looked like designed for feasting. Amalthus sat at the CEO seat at one end of the long table, with the Queen directly to his left, and Niall directly to his right. He began his speech with loud and clear voice, "My deepest thanks to you- for agreeing- to this ceasefire, Queen Raqura, Emperor Niall."
+In a darkly lit room. The translucent sun-orange glass implanted on the doors and room-high windows let some sunlight in, barely enough to lit the medieval-looking table. The table stretched from one end of the room to the other, with chairs on one end and to both sides of it; they were used for feasting in the past, repurposed for this meeting. Some pillars with perhaps ether flowing in it glowed behind where Amalthus sat, on one end of that table. While to his left, the Queen and her sidekicks; to his right, Niall, Aegaeon, and Mòrag. 
 
-Queen Raqura was not very happy, slumping on her seat, satirizing, "As I recall from the Osirian Treaty of 350 years ago, the Praetorium was to **refrain** from intervention in times of war. And yet **here** you are, intervening. _But I trust you have a **suitable** justification, Your Eminence?_"
+"My deepest thanks to you- for agreeing- to this ceasefire, Queen Raqura, Emperor Niall."
 
-He waited for her to finish releasing her smoke, answered boldly, "**Naturally! But first**, to ensure- impartiality- in these negotiations, may I present Niranira, Acting Chairman of the Argentum Trade Guild." He was already seated there. "Furthermore, representing the Tantalese... His Highness the Crown Prince Ozychlyrus Brounev Tantal... will also be attending." That's Zeke walking through the entrance of the door. 
+The Queen, full of condensed anger, focused herself as she put her elbow on the table and loomed closer to the others, interrupted, "As I recall from the Osirian Treaty of 350 years ago, the Praetorium was to **refrain** from intervention in times of war. And yet **here** you are, intervening. _But- I trust you have a **suitable** justification, Your Eminence?_" She laid her back once more on the seat. 
 
-"The Crown Prince?! The prodigal prince of Tantal..." Someone from the Urayan side was surprised.{{footnote: Actually, one don't know who spoke this, the voice one never heard before, so must be someone whom never spoke before. And one make guesses, yet again.}}
+He understood her anger, let her finished before answering boldly, "**Naturally! But first**, to ensure- impartiality- in these negotiations, may I present Niranira, Acting Chairman of the Argentum Trade Guild." He was already seated on the side of Uraya, after her sidekicks. The door opened and in walked Zeke, with the Praetor introducing, "Furthermore, representing the Tantalese... His Highness the Crown Prince Ozychlyrus Brounev Tantal... will also be attending."  
 
-"Hahah!" Mòrag laughed a bit. She seated herself next to Niall, on the 2nd row. He must have hated that name. 
+"The Crown Prince?! The prodigal prince of Tantal..." One of the Queen's bodyguard was surprised. 
+
+"Hahah!" Mòrag laughed. He must've hated that name. 
 
 ---
 
-Outside, above the building where they could easily see the parked Urayan and Mor Ardain ship. The various Mor Ardain and Urayan soldiers were guarding their ship, or just chatting; but they avoided contact with each other. Patroka and Mikhail watched atop the roof of building to the side, and nobody looked up. 
+Atop the building overlooking where Urayan and Mor Ardain battleship parked, the soldiers, moving up and down, careful not to get near to their enemy's vicinity, did not look above them, on the roof. Who would have? They were too busy with their jobs, speaking or buying supplies or whatnots. Plus, Mikhail and Patroka were just a tiny dot on the horizon; they could've easily be mistaken as large birds resting after a long flight in the Cloud Sea. 
 
 ![See how big the Mor Ardain ship compared to Uraya?](images/229_parked_ship.jpg)
 
@@ -80,91 +80,89 @@ Patroka wondered, "Could **we** not just take them out here and now?"
 
 "Good point. All the principal nations' heads gathered here, it'd make things easy later."
 
-"The way to the World Tree must first be opened." Akhos rejected their opinion, just arrived. He continued, "Wiping out mankind is the easy part. _We could manage that ourselves._"
+"The way to the World Tree must first be opened." Akhos walked up from behind, reminded them of their goals. "Wiping out mankind is the easy part. _We could manage that ourselves._"
 
 Patroka: "Even so..."
 
-Akhos continued to convince them to be patient, "That isn't our only **goal**, _remember_? We must **wait**- for the stage _to be set._"
+Akhos convinced them to be patient, "That isn't our only **goal**, _remember_? We must **wait**- for the stage _to be set._"
 
 "Is Jin serious about this?"
 
-Mikhail looked up in the sky, felt the same as her, "Yeah, I've been wondering **that myself...**"
+Mikhail looked up in the sky, as if he saw Jin there, philosophically spoke, "Yeah, I've been wondering **that myself...**"
 
-Akhos had strong beliefs, "_Heheheheh. Oh, he's serious. He always is._ He will **annihilate mankind**, and then... he will **kill**... the Architect."
+Akhos strongly believed in him, "_Heheheheh. Oh, he's serious. He always is._ He will **annihilate mankind**, and then... he will **kill**... the Architect."
 
 ---
 
-Back in the room, Amalthus continued, "Now, it seems... Mor Ardain- has been accused of a unilateral breach of treaty in this matter. Emperor Niall, I open the floor to you. Is there anything you wish to say?"
+Now that everyone got themselves seated, Amalthus went straight to the point, "Now, it seems... Mor Ardain has been accused of a unilateral breach of treaty in this matter. Emperor Niall, I open the floor to you. Is there anything you wish to say?"
 
-"While we are still conducting investigations into the cause, it- cannot- be denied... that weaponry belonging to our forces, was discharged against Uraya. Regardless of any possible **reason**- and circumstance, we are prepared to offer recompense- for this grave offence."
+"While we are still conducting investigations into the cause, it cannot be denied... that weaponry belonging to our forces, was discharged against Uraya. Regardless of any- possible- **reason**- and circumstance, we are prepared to offer recompense- for this grave offence."
 
-The Queen listened and asked, "So you want to settle this with money...?"
+The Queen listened and concluded immaturely, "So you want to settle this with money...?"
 
 "We will provide any compensation deemed necessary."
 
-She shook her head for a while, seat up and continued, "Perhaps I am misunderstanding. To **my** ears, it sounds almost as if you mean to imply that the blame for these offences... does not lie with Your Majesty, _at all!_"
+She shook her head, bent forward with her elbow once more on the table, replied seriously, "Perhaps I am _misunderstanding_. To **my** ears, it sounds almost as if you mean to imply that the blame for these offences... does not lie with Your Majesty, _at all!_"
 
 "We are investigating. **I ask** that we not draw **any** hasty conclusions."
 
-"What need is there for investigation?" asked someone from the Queen's side. Perhaps one of her sidekicks? "I believe a cause has already been established. There are witnesses."
+Amalthus wholly rejected with "What need is there for investigation? I believe a cause has already been established. There are witnesses."
 
 "And that would be..." the Queen pressed.
 
-The Praetor listened, then turned to Zeke, see if he had anything to add. Zeke started the story. 
+The Praetor looked to Zeke. He started the story. 
 
 ---
 
-The Queen, in disbelievement, "What a **preposterous** notion! **The people** you speak of are **merely** a terrorist group! **How could** they **possibly** command **that** measure of-?"
+The Queen shunned the story in disbelieve, "What a **preposterous** notion! **The people** you speak of are **merely** a terrorist group! **How could** they **possibly** command **that** measure of-?"
 
 Zeke forcefully cut her off, "**It's the truth!** I, Ozychlyrus, **swear this in the name of King Eulogimenos Tantal.**"
 
-Niranira shared, "Can confirm- Ex-Chairman Bana- give these people some kind of supplies. Military supplies, _me thinks._ And in _great number, yes._"
+Niranira added, "Can confirm- Ex-Chairman Bana- give these people some kind of supplies. Military supplies, _me thinks._ And in _great number, yes._"
 
-"But **why would**...?" The Queen still cannot believe it. 
+The Queen's heart slightly touched, with more than a single source of witness. Yet, she don't understand, "But **why would**...?"
 
-Amalthus have something to add, "**What if**, I were to tell you that the Aegis Malos, who razed the world five centuries ago, was involved?"
+Amalthus added, "**What if**, I were to tell you that the Aegis Malos, who razed the world five centuries ago, was involved?"
 
-"**RIDICULOUS!!! Everyone knows he disappeared in a blaze of flame!**"
+"**RIDICULOUS!!! EVERYONE knows he DISAPPEARED in a blaze of flame!**"
 
-"He's very much alive, believe me." Zeke added, cannot retain his anger, "**That arsehole -- I mean**, the Aegis -- has confronted us in person. And if **my** word is **not enough** for you..." He looked to the soldier whom stood by the door, giving him consent to bring her in. The rest waited in limited patience for whoever he's to bring back. 
+"He's very much alive, believe me." Zeke added, cannot retain his anger, "**That arsehole -- I mean**, the Aegis -- has confronted us in person. And if **my** word is **not enough** for you..." He looked to the Praetorium worker standing by the door. The worker got his signal, and he went for the door; the rest of them waited for whoever he's to bring back with. 
 
-Mythra entered the room and the Queen observed her, "**A Blade?! But-but that Core Crystal HUH!!!**"
+The Queen observed Mythra's in her entirety. "**A Blade?! But-but that Core Crystal** _HUH!!!_"
 
-Zeke continued, "**This is another Aegis**, named Mythra. Your Highness has heard of **her, surely?**"
+Zeke introduced her, "**This is another Aegis**, named Mythra. Your Highness has heard of **her, surely?**"
 
-"So the rumors that reached us were true... **Who** is its Driver?"
+"**So the rumors** that reached us were true... **Who** is its Driver?"
 
-"If you knew that, I daresay your **surprise** would be even greater. **But- that is not the matter** we are here to **discuss**, Your Highness. **This is a DIRE situation...**"
+"If you knew that, I daresay your **surprise** would be even **greater. BUT- that is not the matter** we are here to **discuss**, Your Highness. **THIS is a DIRE situation...**"
 
 ---
 
-Rex looked out of the window in his room. She's now in there. But he's worried about her. "Six o'clock already... Mythra's been in there... for a **loooong- time** now..."
+From the time she went in hours ago, he'd been looking out the window in his room that directly faced the hall. Yet, no sign of the door opening. "Six o'clock already... Mythra's been in there... for a **loooong- time** now..."
 
 Nia wished him patience, "We've just gotta trust 'em. They're dealing with the leaders of **whole** nations. It's not like there's anything you or me can do to help..." The rest whom didn't attend gathered in the room, all seated uneasily. 
 
-He looked out of the window again, sighed, "_Huh..._" Still so weak, huh, in terms of power, physically and politically. 
+"*Huh...*" He looked out of the window, felt so weak and powerless. If only...
 
 ---
 
-Back inside the room, Mythra did not seat herself, stood at the other end of the table. 
+There was no seat prepared for Mythra. She stood by the other end of the table, directly facing Amalthus, shared, "I've noticed something about Malos. He's an Aegis... But you wouldn't know it from how he's fighting. I think... I'm pretty sure he's damaged in some way."
 
 ![Meeting room. Amalthus at one end, Mythra stood at another. On the left, from the upper left, Emperor Niall, Mòrag, and Zeke; on the Right, Queen Raqura, one of her sidekick, and Niranira](images/230_meeting_room.jpg)
 
-Mythra started speaking, "I've noticed something about Malos. He's an Aegis... But you wouldn't know it from how he's fighting. I think... I'm pretty sure he's damaged in some way."
-
 The Queen's sidekick that wore glasses clarified, "You mean he can't use the full extent of his powers?"
 
-"The wounds I dealt in our battle long ago may not be completely healed. His end-goal- is Elysium. He wants to go back to the place he was born. There he can heal until his powers have recovered. If Malos is allowed to restore himself..."
+"The wounds I dealt in our battle long ago may- not- be completely healed. His end-goal- is Elysium. He wants to go back to the place he was born. There he can heal until his powers have recovered. If Malos is allowed to restore himself..."
 
 The Queen can already pictured, "The horrors of five centuries past will return..."
 
-"Or worse still. Malos's goal is simple. He means to- **destroy** humanity- in its entirety."
+"Or worse still. Malos's goal is simple. He means to... **destroy** humanity- in its entirety."
 
-Niall was surprised, asked, "Why would anyone desire that?"
+Niall couldn't understand, "Why would anyone desire that?"
 
-"Perhaps he doesn't even need a reason. It seems to be a deep-seated drive. An instinct. As natural as breathing."
+"_Perhaps he doesn't even need a reason._ It seems to be a deep-seated drive. An instinct. As natural as breathing."
 
-The rest need some time to digest the heavy info when Amalthus took the blame, "All of this- is my responsibility."
+The group took time as they digested the heart-heavy information. Where will their future lies? Amalthus brought their attention back to him, as he spoke with guilt, sincerely or pretended, "All of this- is my responsibility."
 
 "Praetor Amalthus? What do you mean?" asked Niall.
 
@@ -172,21 +170,23 @@ The rest need some time to digest the heavy info when Amalthus took the blame, "
 
 Queen Raqura seat up, "So, _Your Eminence_... the rumor that you were once Malos's Driver is..."
 
-"I never intended to obscure the truth. It is writ plain... for all to see in history books. _I was a fool._ It was to prevent such foolishness... that alll passage to the World Tree- was forbidden- after the Aegis War. However, it has become apparent- that the laws of men do not apply to Malos..." He waited for a while to think, before announcing boldly, "The time may have come... to **lift- that** restriction..."
+"I never intended to obscure the truth. It is writ plain... for all to see in history books. _I was a fool._ It was to prevent such foolishness... that alllll passage to the World Tree- was forbidden- after the Aegis War. However, it has become apparent- that the laws of men do not apply to Malos..." He waited for a while to think, before announcing boldly, "_Huh_... The time may have come... to **lift- that** restriction..."
 
 ---
 
-After everyone else have left the meeting room, Amalthus stood in front of the door, have a final chat with Mythra. "I appreciate this."
+Everyone else had already left the room. By the door, Mythra stayed back with Amalthus. "I appreciate this."
 
-Mythra snapped, "Don't think you've earned my trust. **But since Rex** is going to Elysium, their paths are bound to cross... That's all."
+Mythra snapped, "Don't think you've earned my trust. **But since Rex** is going to Elysium, their paths are bound to cross... **That's** all."
 
 The Praetor nodded, commented, "**I'm surprised-** you seem **so** devoted to the boy."
 
 She looked away, "It's for both our sakes." Then look back at him, "**But you**, _Amalthus_... Who is it that you're living for?"
 
+"_Huh..._"
+
 ---
 
-Brighter in the day, flowers put at the funeral of Fan. Lots of people gathered by the square, to pay their tributes for the lost of the goddess of Indol. Her lifeless body laid there, on the coffin. Rex stood alone{{footnote: Well, with Gramps}}, watching from outside the square. He did not enter the funeral. The others -- Mythra, Nia, Dromarch, -- were far behind him, giving him space and time. 
+The sun had just came out not long ago. Perhaps it was around 8 in the morning, when the inhabitants of the Indoline Praetorium gathered by the plaza, paying the tribute to Fan, putting flowers beside her coffin. Behind, some soldiers stood in a semicircle and near Amalthus, on the stage. Rex stood at the far edge of the Plaza, did not went forward to pay his tribute. Gramps cared not to disturb him in this moment. Mythra, Nia, and Dromarch accompanied him here, but they stay far, squatting or standing near the wall. 
 
 ![Fan's Funeral](images/231_fans_funeral.jpg)
 
@@ -198,13 +198,13 @@ Nia commented, "I guess they did call her a Goddess... The state funeral makes s
 
 "Actually, letting him be was more **her** idea than mine."
 
-"**Really?** Pyra's? _Get out!_" She don't believe it, then something clicked, "_So wait_, you're saying you WANT to go be clingy, or what?"
+"**Really?** Pyra's? _Get out!_" She don't believe it, but something clicked, "_So wait_, you're saying you WANT to go be clingy, or what?"
 
-She gave her _the_ look of annoyance, being teased, threatened, "I'll burn you."
+She looked at her feeling annoyed, threatened, "I'll burn you."
 
 Nia jumped up, "**I kid, I kid!** Sheesh!"
 
-Praetor Amalthus slightly bowed while the inhabitants of Indol held flowers, to sent her. 
+The inhabitants closed their eyes, holding onto the flowers on their hand, or just clenched them together and held close to their heart, while Amalthus bowed before Fan. 
 
 Nia asked quietly, "_It's weird though..._"
 
@@ -212,7 +212,7 @@ Nia asked quietly, "_It's weird though..._"
 
 "I mean, don't you think it's odd? Normally, if a Blade or its Driver dies, it'll just go back to being a Core Crystal. So why is Fan just dead?"
 
-"I did wonder the same thing. There's only one way I know for a dead Blade to keep its physical form. Remember Minoth? I mean Cole. He was a Flesh Eater."
+"I did wonder the same thing. **There's only one way** I know for a dead Blade to keep its physical form. Remember Minoth? I mean Cole. He was a Flesh Eater."
 
 "Yeah."
 
@@ -234,11 +234,11 @@ Nia asked quietly, "_It's weird though..._"
 
 "But... Fan's isn't like that..."
 
-"_Exactly._" They looked back at her remains; the tombstone lid was just about to be closed. "It looks more like... _someone stole her core, doesn't it?_" And that someone was now speaking to his fellow audience. 
+"_Exactly._" The coffin lid was closing as they prepared for her burial. Mythra eyed Amalthus afar, her mind went to one unbelievable yet the most likely possibility, "It looks more like... _someone stole her core, doesn't it?_" And that someone had final speeches with his fellow inhabitants. 
 
 ---
 
-They walked into the cleansing room, where Core Crystals were being cleansed by Amalthus. The unknown ether energy awashes the floating crystal. After he finishes, he turned around, "My apologies. **Did I** keep you waiting?"
+They walked into the room with the Praetorium Sigil carved out on the wall. Amalthus stood before the crystals, where bubbles washed over them. The Core Crystals floated into a shape like DNA, rotating around the central axis of the helix. After Amalthus finished, he turned to the group, "My apologies. **Did I** keep you waiting?"
 
 ![Core Crystal Cleansing](images/233_cleansing_core_crystal.jpg)
 
@@ -260,11 +260,9 @@ They walked into the cleansing room, where Core Crystals were being cleansed by 
 
 ---
 
-In a dark room, the one they used for meeting just now. Amalthus had explained what he wanted from Rex. Rex was surprised, "A special envoy... to Tantal? Me?"
+The meeting room, still dark as ever. They gathered around a small table located behind where Amalthus sat earlier during the meeting. He explained what he wanted the group to do, and Rex was surprised, "A special envoy... to Tantal? Me?"
 
-"Correct. Behold." On a small table, a map laid out on it{{footnote: The long table is behind them.}}. He continued, "As a salvager, I imagine you are **already** aware. But **this**- is Alrest, the world we currently inhabit. **We** make our home on Titans, moving in circles- around the World Tree. And **here**- lies the Great Void." That's the waterfall falling into the nothingness that surrounded the World Tree, effectively preventing anything from even jumping through such great distance.
-
-Amalthus continued, "This Void, came into being 500 years ago. It did not exist prior to that."
+"Correct. Behold." On the table, a map of Alrest and the titans were laid out before them, "As a salvager, I imagine you are **already** aware. But **this**- is Alrest, the world we currently inhabit. **We** make our home on Titans, moving in circles- around the World Tree. And **here**- lies the Great Void." A great distance from the edge of the waterfall that surrounded the World Tree from its bark.{{footnote: Can we not fly through? Any flies would be whipped down by Ophion.}} "This Void, came into being 500 years ago. It did not exist prior to that."
 
 "So I've heard. It's in our way, anyway. I-It stopped us reaching the World Tree."
 
@@ -276,7 +274,7 @@ Rex recalled, "Wait, you mean... that _thing?_"
 
 "Of Mythra?" He looked to her. She didn't deny. 
 
-Nia: "So if that thingy is Mythra's, _then what did it attack us for?!_ Doesn't make sense!"
+Nia wondered, "So if that thingy is Mythra's, _then what did it attack us for?!_ Doesn't make sense!"
 
 Mythra explained, "Ophion was felled in the ancient battle with Malos, sinking below the clouds..." 
 

@@ -1,10 +1,8 @@
 # Ancestors of Tantal, Bana's Plot, Emperor Niall's Selflessness
 
-===
+The group gathered in one of their room, Zeke briefing them, "We can reach Tantal by ship, but once there we'll need to do a spot of walking."
 
-Gathered at one of their room, Zeke briefed them, "We can reach Tantal by ship, but once there we'll need to do a spot of walking."
-
-Nia commented, "So we're traveling with Shellhead here? **Neeeever** thought I'd see the day..."
+Nia was impressed, "So we're traveling with Shellhead here? **Neeeever** thought I'd see the day..."
 
 "I think you'll find I make a **fantastic** ally."
 
@@ -20,7 +18,7 @@ Rex got a question, "Hey, Zeke... You said before that- **Torna**- concerned you
 
 "So... After Pyra fell asleep, Addam escaped to Tantal?"
 
-"That's right!"
+"That's right!" He concluded without a second thought. 
 
 Dromarch commented, "That is the first I've heard of it. I have studied much history, but this story never featured. _Most- peculiar._"
 
@@ -28,9 +26,9 @@ Dromarch commented, "That is the first I've heard of it. I have studied much his
 
 ![Sigil of the Tantalese royal family](images/234_sigil.jpg)
 
-Mythra's eyes squeezed as she saw that once again, so similar, brought her back in thoughts. But her thoughts also mixed with something she heard from earlier that day...
+Mythra's eyes squeezed as she saw that once again, so similar, but there's something weird about it. It... only looks similar, but not the same as she recalled. Is it because they're descendants, so they make amendments to it? Or is it... Her thoughts flew back to earlier in the day, after the meeting, when she was with Amalthus alone, 
 
-> At the meeting room, after everyone left. Mythra asked, "So, why did you awaken Haze?"
+> So, why did you awaken Haze?"
 > 
 > "Because her power was of great use to me. **Indol** has found itself... under attack from Torna a number of times. She was necessary... in driving them back."
 > 
@@ -42,7 +40,7 @@ Mythra's eyes squeezed as she saw that once again, so similar, brought her back 
 > 
 > "**Jin**... was a Blade of Torna, once. Loyalty or nostalgia, **who can say?** Perhaps both."
 > 
-> "Is that really all there is to it?" she pressed. She don't believe the words coming from this liar. 
+> "Is that really all there is to it?" All sounded like common sense, but common sense usually being common _nonsense_, she can't believe the story is as simple as it is. Too good to be true, and it usually is. 
 > 
 > "You don't think so?"
 > 
@@ -54,11 +52,11 @@ Mythra's eyes squeezed as she saw that once again, so similar, brought her back 
 > 
 > "And that is why... I **offer you my cooperation.**"
 
-Mythra said, "I guess we'll find out, if we go- to Tantal..."
+Mythra don't believe what the liar said, expected that "I guess we'll find out, if we go- to Tantal..."
 
 ---
 
-The group, without Mòrag and Brighid, exited the Praetorium to the square where the stairs led up. Bazaars and stalls were set up there for sale; but more recently, Urayan and Mor Ardain soldiers flooded the place everywhere they look. 
+Without Mòrag and Brighid, the group stood at the center of the square where the ship parked just up ahead. Bazaars and stalls sell goods to people, but mostly, the visiting soldiers flooded the market with demands. 
 
 Nia felt, "_Hmm..._ Tensions seem high."
 
@@ -84,7 +82,7 @@ Dromarch: "Indeed. She has much to attend to."
 
 ---
 
-Mòrag was in their ship's meeting room, discussing with her brother, she asked, "Shared sovereignty over- Gormott?"
+Her brother had much to discuss with her. "Shared sovereignty over- Gormott?"
 
 "Yes. I don't think anything less will be sufficient to placate them."
 
@@ -100,13 +98,13 @@ Just then, someone was knocking on the metallic door. The door opened and "Actin
 
 He immediately went directly to the point. "Sorry for intrude. Is emergency, so Niranira take liberty of drop by- unannounced..."
 
-Niall excused him, saw that "You certainly look troubled, Chairman. So, what is this **emergency** you speak of?"
+Niall excused him of the trouble, saw that "You certainly look troubled, Chairman. So, what is this **emergency** you speak of?"
 
 "_Well..._"
 
 ---
 
-Outside at the square, the group was still standing at the middle of the square, hadn't moved much, looking at the port where the ships parked. Zeke made the calling, "**So**, we can make our way to Tantal from here. I assume the **Praetor**- has a ship waiting for us."
+The group hadn't moved an inch from where they stood at the square. Zeke supposed, "**So**, we can make our way to Tantal from here. I assume the **Praetor**- has a ship waiting for us."
 
 "Hey, Shellhead!"
 
@@ -126,15 +124,15 @@ Zeke: "I guess I know how you feel, chum." Then, something caught the edge of hi
 
 ---
 
-After she explained what she heard from Niranira, Rex exclaimed, "**Bana's** going for the summit?"
+After she relayed info she heard from Niranira, Rex exclaimed, "**Bana's** going for the summit?"
 
 Gramps was shocked too, "On top of _everything_, an assassination attempt?"
 
-Brighid: "If blood gets spilled at the summit, **it'll** mean war."
+Brighid asserted, "If blood gets spilled at the summit, **it'll** mean war."
 
 Zeke: "War's good for business, after all. I guess he wants to **use** that- to get himself **back in**- with the Guild..."
 
-Rex was incited, "**Why, that little... I was wondering where** he'd slunk off to! What a sneaky git..."
+Rex felt betrayed, "**Why, that little... I was wondering where** he'd slunk off to! What a sneaky git..."
 
 Mòrag: "It seems Acting Chairman Niranira... wishes to take care of this incident covertly, to avoid it reflecting badly upon the Guild."
 
@@ -162,15 +160,15 @@ Mòrag expressed, "Thank you. It will be easier to focus on my duties knowing yo
 
 ---
 
-The group ran into the Mor Ardain ship through the entrance. Unbeknownst to them, they passed by a giant crate without noticing it, without feeling it being out of place. Soldiers were patrolling the place when the box started knocking, without attracting any attention. 
+The group entered the Mor Ardain ship, which the summit was expected to be held. In a hanger just past the entrance, they passed by without noticing a giant crate perhaps 3 meters tall. In fact, not even the soldiers that patrolled the place felt it unusual. The box started rattling without attracting attention. 
 
 ---
 
-At the restaurant, Tirkin chefs prepared various food for whoever was going there. The group entered and Rex called, "**Stop everything! Hold it!**"
+The diner, Tirkin chefs laid the foods they prepared on the table. Plates after plates, they'd a lot of people to serve later. Rex recalled what the Tirkins have business with Bana at the factory, immediately came to conclusion and called for a halt, "**Stop everything! Hold it!**"
 
-The tirkins turned around and one of the head was surprised, perhaps being caught, "**Craa!!!** Wh-wh-wh-wh-what? Wh-wh-wh-wh-who's you?"
+The tirkins gathered around, and one representative asked, "**Craa!!!** Wh-wh-wh-wh-what? Wh-wh-wh-wh-who's you?"
 
-"**Don't. Play. Dumb!**" He looked to the foods, immediately accused, "**POISON! THAT FOOD IS POISONED!**"
+"**Don't. Play. Dumb!**" He looked to the foods, immediately accused them, "**POISON! THAT FOOD IS POISONED!**"
 
 "P-p-p-p-poison? You kids krazy in brains!"
 
@@ -180,29 +178,29 @@ Zeke: "**We're past talking! QUICK, GRAB 'EM!!!**"
 
 ---
 
-All the tirkin fell to the floor. Someone called out, "Pleaaaaaase wait."
+All the tirkins fell to the floor. Someone called out, "Pleaaaaaase wait."
 
 Rex recognized, "**Pupunin?! What are you doing here?**"
 
 "**What silly question!** It Pupunin who hire **world-famous band of gourmet chefs**, Fire Dragons!"
 
-Rex never heard of them, scratching his head, "World... Famous?"
+"World... Famous?" Rex scratched his head. If they're so famous, why hadn't he heard of them? 
 
 Neither did Nia, "...gourmet chefs?"
 
-Pupunin explained, "Mor Ardain **very** insistent, want only **very** best food for **important** summit! Pupunin work **wings to bone finding chefs**- and now what this?!"
+Pupunin explained, "Mor Ardain **veeeeeery** insistent, want only **veeeeery** best food for **important** summit! Pupunin work **wings to bone finding chefs**... and now what this?!"
 
 Rex: "Uh... So you mean..."
 
 Pyra: "...these guys are..."
 
-Nia finished, "...just a bunch of cooks?" Can't believe it. Not the same as the tirkin groups that assisted Bana? 
+Nia finished, "...just a bunch of cooks?"
 
 Dromarch recalled, "I **did** think- they were not putting up much of a fight."
 
 Pandora: "Then this food is actually..."
 
-Zeke already went to taste one of it. Cucumber and spring rolls lined the brightly colored cake with cherry toppings. HIs eyebrows raised as he stuffed one into his mouth, closed his eyes to enhance his taste buds. Electricity struck his brain, and he felt he'd been raised to heaven, "**D-D-D-DEEEEEEE-LICIOUS!!! I COULD EAT THIS STUFF FOREVER!!!**"
+Zeke went forward to taste one of the gorgeous looking plates. Cucumber and spring rolls lined the brightly colored cake, layers upon layers, with cherry toppings. HIs eyebrows raised as he stuffed one into his mouth, closed his eyes to enhance his taste buds. Electricity struck his brain, and he felt he'd been raised to heaven, "**D-D-D-DEEEEEEE-LICIOUS!!! I COULD EAT THIS STUFF FOREVER!!!**"
 
 ![Food prepared by Fire Dragons chef.](images/235_food.jpg)
 
@@ -210,15 +208,15 @@ Pupunin wanted to know, with fluttering wings, "What friend doing?! Very expensi
 
 Rex apologized with most guilt, "**SORRY!!!** We really did think they were here to murder someone..."
 
-"Murder? What this **nonsense friends talk?!** I **demand compensation. Friends have no idea how much time and money Pupunin spent on this-**"
+"Murder? What this **nonsense friends talk?! I demand compensation. Friends have no idea how much time and money Pupunin spent on this**..."
 
-He hadn't finished when something exploding attracted their attention as they braced for impact. Rex exclaimed, "**An explostion?!**"
+An explosion pulled their attention away from him. They braced for impact while assessing their situation, "**An explostion?!**"
 
-Zeke was pulled back from his culinary delicacy heaven, "**Huh? From where?!**"
+Zeke had forgotten his culinary delicacy heaven almost immediately, "**Huh? From where?!**"
 
-Soldiers were being mobilized; they got to one of them and asked, "Hey! What's going on?"
+Soldiers were mobilized; they stopped one of them and asked, "Hey! What's going on?"
 
-The soldier shouted to them, "**Explosion in the hangar! Right when everyone was busy with Queen Raqura's arrival!!! It's really bad!!!**" He immediately dashed off to solve the problem. 
+The soldier shouted to them, "**Explosion in the hangar! Right when everyone was busy with Queen Raqura's arrival!!! It's really bad!!!**" He immediately dashed off to the location. 
 
 Rex: "The Queen is here? **This is it!**"
 
@@ -232,7 +230,7 @@ They had forgotten about the poor Pupunin, "Hey! **Heyheyhey, wait!**" But there
 
 The group found Giga Rosa at the hanger. The two sidekicks of the Queen were protecting her. The Queen asked Giga Rosa, "Who are you, villain?! Is this some **underhanded Ardainian trick?!**"
 
-Bana was controlling from inside, replying via its speaker, "**WRONG!** But also right! Truth is complicated! **ANYHOW, HERE- is where Queen die. IF IT LOOK LIKE QUEEN KILLED BY MOR ARDAIN, ME IN THE MONEY AGAIN!!!**"
+Bana was yet again docked on the head of Giga Rosa, relayed via his speaker,  "**WRONG!** But also right! Truth is complicated! **ANYHOW, HERE- is where Queen die. IF IT LOOK LIKE QUEEN KILLED BY MOR ARDAIN, ME IN THE MONEY AGAIN!!!**"
 
 The Queen recognized "_That voice..._ **Bana**, from the Argentum Guild."
 
@@ -244,17 +242,17 @@ The Queen recognized "_That voice..._ **Bana**, from the Argentum Guild."
 
 "Grrr...."
 
-"**Hold it, Bana!**" Rex had arrived with his group. 
+"**Hold it, Bana!**" Rex arrived just in time. 
 
 "**YOU!!! REEEEEEEX!!! Meeeeeh! BANA not let Rex interfere with plans! AGAIN AND AGAIN! BANA NOT STAND FOR THIS!!!!**"
 
 "Masterpon! That Artificial Blade!"
 
-"**It Rosa?! Meh-meh-meh**... Tora feel **much** greater power than before..." The docking port where Bana seated within had now a large G on her head. "Especially from mark on **forehead**!"
+"**It Rosa?! Meh-meh-meh**... Tora feel **much** greater power than before..." In front of the docking port was a large golden G. "Especially from mark on **forehead**!"
 
 ![Giga Rosa's 'G' mark on forehead](images/236_giga_rosa.jpg)
 
-"What's going on?" Niall, Aegaeon, Mòrag, and Brighid had dashed into the scene. Niall panicked, "_Wh-what's that?!_"
+"What's going on?" Niall, Aegaeon, Mòrag, and Brighid just arrived. Niall panicked, "_Wh-what's that?!_"
 
 Bana: "**Oho-ho-ho!!! EVEN EMPEROR** come straight to Bana! **CONVENIENT** little moth to flame!"
 
@@ -268,11 +266,9 @@ Rex and the others took out their weapons, he replied, "**You know- we can't let
 
 ---
 
-Electric sparkled on Giga Rosa and it failed once more. Bana climbed out of the controller's room in disbelief, "How... Even Giga Rosa defeated by these **nasty** meddling kids..."
+The surface of Giga Rosa sparkled with electricity. The docking port once again detached from its head. Bana, in full disbelief, climbed out of the controller's room,  "How... Even Giga Rosa defeated by these **nasty** meddling kids..."
 
 Mòrag walked forward, announced that "This **ends here,** Bana. You are under arrest. **The Praetorium** will handle the judgment. Assassination is a **serious** matter. Your sentence will be harsh."
-
-> (===Done Start===)
 
 The Queen decided to observe who wanted to kill her closer up, "So the mercantile genius Bana... meets an **inglorious** end before my **very** eyes. _Pitiful._"
 
@@ -372,47 +368,43 @@ Mòrag rebutted, "But... his wounds..."
 
 "_Nia..._"
 
-> (===Done End===)
-
 ---
 
-Hardhaigh palace, where Niall held court meetings, and where he met Mòrag the last time she went out for the Aegis and returned to report to him. It felt so empty now. So alone. He used to be by my side, someone to speak to, someone to accompany one. Now... it's only him...
+Mòrag found him standing alone in his palace, so lonely. Aegaeon used to be by his side, accompanying him; but now, there was nobody left. The room was big, but it felt so empty. "You shouldn't be up. It's only been one day... Please don't strain yourself." 
 
-"You shouldn't be up." He lips went up a little. He turned around and found Mòrag there. "It's only been one day... Please don't strain yourself."
-
-He looked at the table, commented laughingly, "Half a day off, and look at all this- **paperwork!** I sweeear, it's like they don't want me to **sleep** at all!"
+His lips went up a little; nice to have someone sincerely caring for him. He urged at the table, tried to laugh off all the hard work in life, "Half a day off, and look at all this- **paperwork!** I sweeear, it's like they don't want me to **sleep** at all!"
 
 "**Majesty...**" But your health is more important...
 
-"Special Inquisitor. I hereby issue you new orders. It is **my** wish- that you travel with the Aegis- as an emissary of the Empire. Guard her- and defend her against her enemies until she reaches Tantal."
+He suddenly spoke seriously, "Special Inquisitor. I hereby issue you new orders. It is **my** wish- that you travel with the Aegis- as an emissary of the Empire. Guard her- and defend her against her enemies until she reaches Tantal."
 
 "Guard... the Aegis?"
 
 "I've already discussed it with His Eminence."
 
-"Forgive me. Your Majesty, I cannot accept." Not while you need me to protect you, with no Aegaeon by your side. "Just think about what happened yesterday! It would be sheer foolishness for me to leave your side!"
+"Forgive me. Your Majesty, I cannot accept." Not while you need someone by your side. Not after Aegaeon had returned to his core. "Just think about what happened yesterday! It would be sheer foolishness for me to leave your side!"
 
-"Is that so?"
+"Is that so?" He questioned her assumptions. 
 
 "Huh?"
 
 "I can see it in your eyes. **It's clear** that the Aegis... or rather, that boy, has made a great impression on you."
 
-"That's not... I am your... **Special Inquisitor. Ensuring Your Majesty's safety** is my only concern. **To abandon that duty** and go traveling..." How could she give herself permission? 
+She tried to deny, or rather, she permit herself not, "That's not... I am your... **Special Inquisitor. Ensuring Your Majesty's safety** is my only concern. **To abandon that duty** and go traveling..." 
 
-He looked to the table, and Mòrag followed glance, saw the unlit crystal on the table, asked, "Is this... Aegaeon's?"
+He looked away at the table. Sensing his lost of attention, she followed glance, and only then did she saw the unlit crystal put beside the paperwork. "Is this... Aegaeon's?"
 
-"A Driver who cannot even protect himself is no Driver at all. Yesterday's events... have made me... **keenly** aware- that I have no aptitude for it. It'll be of more use in your hands."
+"A Driver who cannot even protect himself is no Driver at all. Yesterday's events... have made me... **keenly** aware- that I have no aptitude for it. It'll be of more use in your hands." He made up his mind. 
 
 "_Majesty..._" Then who's gonna protect you?
 
-"_The world, is changing, Mòrag._ I trust you more than anyone- to lend that boy the wisdom and strength he will need."
+"_The world- is changing, Mòrag._ I trust you more than anyone- to lend that boy the wisdom and strength he will need."
 
 "_Urgh hurrrh..._" She can't deny that. 
 
-"I miss it, you know. Lake Yewtle, in Gormott." He closed his eyes to reminisce the past. 
+"I miss it, you know. Lake Yewtle, in Gormott." He closed his eyes, as if traveled back into the past. The cool weather, the slightly cold water, the breezes that rustled the leaves, the scent of the flora, cool and refreshing. 
 
-"What?"
+She was taken aback, "What?"
 
 "Remember when the two of us would shake off the servants... and go swimming there?"
 

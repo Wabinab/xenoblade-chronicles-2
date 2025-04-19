@@ -37,6 +37,7 @@
 - [Ancestors of Tantal, Bana's Plot, Emperor Niall's Selflessness](./20_bana.md)
 - [Tantal](./21_tantal.md)
 - [Escaping](./22_escaping.md)
+- [To the Fetter](./23_omega_fetter.md)
 
 ---
 

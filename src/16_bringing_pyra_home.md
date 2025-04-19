@@ -48,7 +48,7 @@ Gramps extinguished their flames, "Don't get an inflated head. We're just follow
 
 "**Errrr...**"
 
-Suddenly, with the most excited tone, Pyra prompted, "**What about Fonsett?**" 
+"**What about Fonsett?**" asked Pyra, with mounting excitement. 
 
 "What about it?" He was considering which route was safest while close enough, and don't yet understand what she meant. 
 
