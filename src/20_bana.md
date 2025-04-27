@@ -410,15 +410,15 @@ She was taken aback, "What?"
 
 "Ahhh... Yes. Of course." How long was that ago? 
 
-"Kids from the nearby village would come too. Good times." His contentment clearly couldn't be withheld. 
+"Kids from the nearby village would come too. Good times." Oh, how they won't treat him as a higher up but just as equals, friends, playmates. He missed it. Yet before he's even grown up, he had been seated on the throne. Not what he wanted but... 
 
-"Majesty..." She was relief he was all right, physically and emotionally, not delve deep down into depression or similar. 
+"Majesty..." She felt relief. He was all right; he didn't delve into depression; he is still he, the young boy a few years ago. Her clutch on him loosen. 
 
 "If Mor Ardain... _No_, the **whole** of Alrest, could be like that again... Wouldn't it be _beautiful?_"
 
 "Is that my newwww... duty, then?"
 
-He looked at the emperor's seat, shared, "In truth, it should have been you sitting in this chair right now..."
+He looked at the emperor's seat, said, "In truth, it should have been you sitting in this chair right now..."
 
 She denied, "The imperial line- has **always** passed from father to son. On the day Your Majesty was born, that's **exactly** what happened. I knew that day would come. It came as no surprise."
 
@@ -434,7 +434,7 @@ Oops! "Urgh!"
 
 "Niall..."
 
-"You've been tied down long enough." He ordered, "**Follow your heart, Mòrag Ladair.**"
+"You've been tied down long enough." He shouted straight into her heart, "**Follow your heart, Mòrag Ladair.**"
 
 She'd been convinced, "I have no words. _Thank you, Your Majesty._" She closed her eyes for a moment to make up her mind, "Very well, then. I hereby- _accept_- the task you have assigned to me."
 

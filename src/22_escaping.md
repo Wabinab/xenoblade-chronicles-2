@@ -1,14 +1,10 @@
 # Escaping
 
-===
-
-The few-inches-thick metallic prison door was lined with many blue squares. Just how high-tech was it? The flow of ether lit the room, and the door draws ether energy to deflect attacks, like how Rex wielded his sword, banging on it right now. He didn't even leave a scratch; the deflectors on the door pushed him back. But he won't stop trying, not until he rescued Pyra. 
-
-Nia folded her arms and watched; was there any use? 
+The few-inches-thick metallic high-tech prison door was lined with many blue squares. Ether flowed in tanks surrounding the prison, drawn from elsewhere, and transferred their energy to the door. However hard Rex tried swinging his sword at it, it just wouldn't budge. A membrane on its surface prevented the sword from even touching the door, deflecting him with every yield. Yet he wouldn't stop trying, not until he rescued Pyra. Nia folded her arms and watched; was there any use? 
 
 "**UKH!!!**"
 
-Dromarch observed how the prison works, explained, "It appears the flow of ether energy is being blocked off."
+Each time he knocked, the observing Dromarch got more information, and the puzzle fits together as he explained, "It appears the flow of ether energy is being blocked off."
 
 "**DAMMIT!!!**" He sheathed his sword, seeing his action caused no avail, worriedly voiced, "While we're doing this, **Pyra is...! We have to do something!**"
 
@@ -16,7 +12,7 @@ Gramps consoled, "There is no point, Rex. You're just wasting your strength."
 
 Dromarch continued his observations, "Both the walls and floor are built to withstand great force. **We**- cannot make a dent in them."
 
-Nia urged, "Let's calm down a bit, Rex. _If we_ think calmly, we'll come up with something! Grr!" Why are the other 4 at one corner, not doing anything? "**Hey, you lot! Can you try to help us out here?!**"
+Nia urged, "Let's calm down a bit, Rex. _If we_ think calmly, we'll come up with something! Grr!" She turned to the other 4, gathered around the corner, as if they weren't the ones being captured, shouted at them, "**Hey, you lot! Can you try to help us out here?!**"
 
 Mòrag: "Your efforts are pointless. The way they built this place... It's essentially- one- giant- stasis- web."
 
@@ -32,11 +28,11 @@ She shook her head, "I said it's pointless."
 
 "We **won't** get anywhere... _with brute force, that is._"
 
-Her eyes widened. "_Huh?_" She watched the grin on Mòrag's face. 
+Her eyes widened. "_Huh?_" She watched the grin growing on Mòrag's face. 
 
 ---
 
-Zeke and Pandoria was at the top of the castle, overlooking the square alone. From what his dad revealed earlier, the only more he thought, how dark is the nation's fate, ruled by such dark royal family. The whole nation felt like a liar, a cheat. And the poor people out there don't even know a thing, yet they suffered this fate for the last 500 years! But no, he's not ready to give up. There should be a way... 
+Zeke and Pandoria was at the top of the castle, overlooking the square alone. From what his dad revealed earlier, the more he thought about it, how darkness casted the nation's fate, ruled by such dark royal family. The whole nation felt like a liar, a cheat. And the poor people out there don't even know a thing, yet they suffered this fate for the last 500 years while they feasted away their produce! But no, he's not ready to give up. There should be a way... 
 
 "So what now, my Prince?"
 
@@ -60,7 +56,7 @@ Zeke and Pandoria was at the top of the castle, overlooking the square alone. Fr
 
 "**Pro-bably... You know,** this is what I like about you."
 
-He appreciated the help, but "This won't be easy..." He warned.
+He appreciated the help, but "This won't be easy..." 
 
 "Oh, **quit it with your drama!** _When is_ anything ever easy for you?"
 
@@ -74,17 +70,17 @@ Tora: "Preparations complete!"
 
 Rex wondered, "What's going on? Tora?"
 
-Time for showing off. "**Ohoho!** Both Drivers and Blades, use- **ether energy** to deploy Arts, yes?"
+Time to show off. He started slow, "**Ohoho!** Both Drivers and Blades, use- **ether energy** to deploy Arts, yes?"
 
 Nia urged impatiently, "You can skip the lecture, Tora. _Everyone knows that._"
 
-"But right now, friends **cannot**, yes?"
+"But right now, friends **cannot**, yes?" He wasn't keen on skipping and fast-forwarding -- the punch line must be best. 
 
 Rex agreed, "**Yeah**, there's something about this room..."
 
 "**Ohohoho!** _But Rex-Rex and friends forgetting one_- **very important** thing!"
 
-Nia was losing his patience, "**Hurry up, would you? Just spit it out, furball!**"
+Nia lost her patience, "**Hurry up, would you? Just spit it out, furball!**"
 
 "Could be- _friends forgetting_, Poppi is **artificial** Blade?"
 
@@ -92,7 +88,7 @@ Rex don't understand, "Why would we forget that? She's been **with us** all this
 
 Poppi nodded, "Rex correct. Thanks to friend Mòrag, Poppi now able to generate own supply of ether energy. Nothing barrier can do anything **about**."
 
-"Tora transfer crystal from sword of Mòrag- to Biter- of- Poppi. **That** crystal have **enough** energy stored for **one use** of Arts. And **Biter** of Poppi use **Earth** element. So, through **synergy** with **Fire** element of Mòrag, power of **Arts is amplified!**"
+He finally blurted out, "Tora transfer crystal from sword of Mòrag- to Biter- of- Poppi. **That** crystal have **enough** energy stored for **one use** of Arts. And **Biter** of Poppi use **Earth** element. So, through **synergy** with **Fire** element of Mòrag, power of **Arts is amplified!**"
 
 Mòrag added, "**If we hit it straight on**, I doubt the door can withstand that."
 
@@ -114,11 +110,11 @@ Poppi walked forward to prepare herself when Rex shouted at them, "**HOLD UP! If
 
 She looked at him like looking at an idiot, "I can generate a new one from Brighid's core! Pfft! Don't tell me... you didn't know about **that.**"
 
-His eyes widened with curiosity and inner barriers, "**What...**"
+His eyes widened with curiosity, "**What...**"
 
 Nia was impressed, "Seriously? You don't even know how Blade weapons work? _Give me a break._"
 
-"**How... would I know something like that?! I've never... lost or broken my weapon!**"
+"**How... would I know something like that?! I've never... lost or broken my weapon!**"{{footnote: No he did, when Jin slashed it; but alas, he was dead before the sword was broken, and he was revived _after_ the sword recovered, so he didn't know.}}
 
 Brighid: "Then I suppose I cannot blame you."
 
@@ -142,9 +138,9 @@ Dromarch suggested their next step, "Lady Pyra was taken below. Mayhap... somewh
 
 ---
 
-On their way to where they think Pyra was, encounters with guards were inevitable. At one such hall, both sides were about to start battling when the Ultimate Lightning Fury Slash fell all soldiers. Rex eyes widened, and his lips jutted up, as he saw the two. "**Zeke! Pandoria!**"
+On their way to where they think Pyra was, encounters with guards were inevitable. At one such hall, both sides were about to start battling when the Ultimate Lightning Fury Slash fell the soldiers. Rex eyes widened, and his lips jutted up, as he saw the two. "**Zeke! Pandoria!**"
 
-They were surprised, "**Oh, what? We came all this way to bust you out! How inconsiderate!**" that you got out before we save you! 
+They were surprised, "**Oh, what? We came all this way to bust you out! How inconsiderate!**" that you got out yourself before we save you! 
 
 "**You kept us waiting!** Won't you... get in trouble- for helping us?"
 
@@ -156,7 +152,7 @@ Pandoria already mapped it out, "This way. Follow us."
 
 ---
 
-Through the hallways that bridge between one building and another, there were no guards in between. Torches along the pillars lit their way. "_Ow-ow-ow-ow-ow_" Rex was stopping and kneeling on the floor suddenly. 
+On a hallway that bridged between two buildings, no guards were coming after them yet, nor blocking their way. Torches along the pillars lit their way. Rex suddenly dropped to the floor as he puffed softly, "_Ow-ow-ow-ow-ow_"
 
 "You all right?" asked Zeke.
 
@@ -174,7 +170,7 @@ Zeke's irises tightened. Can't deny that, but... both of you feel hurt at the sa
 
 ---
 
-"_Urr... nghhhh..._" She woke up from the devastating attack earlier. She looked around at her prison, wondered, "Where...?"
+"_Urr... nghhhh..._" She woke up from the devastating attack earlier. She looked around, wondered, "Where...?"
 
 Mythra already observed earlier, answered her, "Strung up in some kind of restraint. Look ahead..."
 
@@ -190,7 +186,7 @@ Mythra already observed earlier, answered her, "Strung up in some kind of restra
 
 "He's here." The king, accompanied by some soldiers, walked along the foot of the cannon. The disk it was supported on was surrounded by a moat of ether. 
 
-The king started calm, ended unwaveringly, "I apologize for this, noble Aegis. I have no personal grievance with you. _However_, for the sake of this world, **you must be destroyed where you stand.**"
+The king started with fake guilt, ended unwavering, "I apologize for this, noble Aegis. I have no personal grievance with you. _However_, for the sake of this world, **you must be destroyed where you stand.**"
 
 "**Is that truly your desire, Your Majesty?**" Pyra cried out. 
 
@@ -200,7 +196,7 @@ The king started calm, ended unwaveringly, "I apologize for this, noble Aegis. I
 
 The king ordered, "Begin." The soldiers nodded and went to the control panel. Energy was drawn in from its reserves; the mere heat released by the mechanism shone the room bright red. The balls within the barrel gathered flames that joined with the other side. Pyra watched it gathered energy in silence. 
 
-"**PYRAAAAAAA!!!**" Her eyes lit up when Rex's voiced from the distance. 
+"**PYRAAAAAAA!!!**" Her eyes lit up when Rex's voiced echoed in the distance. 
 
 She had already prepared to die, but now she felt content. Even if he was late, at least, at least let me see him one more time. "**Rex!**"
 
@@ -214,9 +210,9 @@ Rex: "In that case, we can't let him use it!" And they prepared for battle.
 
 ---
 
-The heating up and charging up were almost finished. Brighter and brighter, the flame glows. Pyra had been looking depressed, didn't hope for anything. Rex and the group were having difficulty slicing through the soldiers, coming in waves after waves. "**Argh! There's too many of them!**" Their time is nigh!
+The time was nigh. The charging up was almost completed as the flames within the barrel grew brighter and brighter. Pyra looked depressed, abandoned all hope. Rex and the group were faced with waves and waves of soldiers, many against one. "**Argh! There's too many of them!**" 
 
-Zeke: "Hurry, **or Pyra's toast!**" But can't! Each one of them had to face several soldiers at once. 
+Zeke ushered, "Hurry, **or Pyra's toast!**"
 
 "**I know that! It's just...**"
 
@@ -224,7 +220,7 @@ The king wept an insincere tear, "_Forgive me._" He raised his hand, and the sol
 
 "**Dammit! Pyra!**"
 
-"**I won't let you..!**" With his Ultimate Lightning Fury Slash, He deftly evaded the soldiers, jumped in the air and aimed for the cannon, stuck his sword into the left barrel. Alas, the electricity he released "**IT'S NOT ENOUGH!!!**"
+"**I won't let you..!**" He deftly evaded the soldiers, jumped in the air and aimed for the cannon, stuck his sword into the left barrel with his Ultimate Lightning Fury Slash. Alas, the electricity he released "**IT'S NOT ENOUGH!!!**"
 
 Tora ordered, "**Poppi! ACTIVATE QT MODE!!! LIFT UP FROM BELOW!!!**"
 
@@ -232,7 +228,7 @@ Tora ordered, "**Poppi! ACTIVATE QT MODE!!! LIFT UP FROM BELOW!!!**"
 
 "**DO IT, POPPIIIIII!!!!!**"
 
-"**HEEEEEEAAAAAAVVVVVEEEEEE!!!! HOOOOOOO!!!!**" The angle of the cannon changed as it aimed for the ceiling, away from Pyra. The king could do nothing about it, while the soldiers by his side backed a few steps in case it toppled. Zeke pulled his sword away and jumped, while Pyra closed her eyes, just before the ether beam zwyrred through a convex lens on the ceiling to outside the castle. Where it shot, there was an even larger convex lens along the way, built on top of the mountains some distance outside the town, amplifying the beam. From an even outer view, on Genbu's head, it closed its eyes as the blindingly bright light shot through to the sky, like a beaming beacon that revealed its location to everyone else living in Alrest.
+"**HEEEEEEAAAAAAVVVVVEEEEEE!!!! HOOOOOOO!!!!**" The angle of the cannon changed as it aimed for the ceiling, away from Pyra. The king could do nothing to stop it, while the soldiers by his side backed a few steps in case it toppled. Zeke pulled his sword away and jumped, while Pyra closed her eyes, just before the ether beam zwyrred through a convex lens on the ceiling to outside the castle. Where it shot, there was an even larger convex lens along the way, built on top of the mountains some distance outside the town, amplifying the beam. From an even outer view, on Genbu's head, it closed its eyes as the blindingly bright light shot through to the sky, like a beaming beacon that revealed its location to everyone else living in Alrest.
 
 ![Magnifying lens inner](images/250_magnifying_lens_1.jpg)
 
@@ -242,9 +238,9 @@ Tora ordered, "**Poppi! ACTIVATE QT MODE!!! LIFT UP FROM BELOW!!!**"
 
 ![Shot out of Genbu](images/253_shot_out_of_genbu.jpg)
 
-When the energy finished, Poppi released her push and the cannon smashed back down on the disk, shaking it. The soldiers stopped fighting them, couldn't took their eyes off the nervous moments. Nia exclaimed, "It missed? **They did it, Rex! They stopped it!**" Only the king's gloomy outlook could explain how disappointed he felt. 
+When the energy finished releasing, Poppi released her push and the cannon smashed back down on the disk, shaking it. The soldiers stopped fighting them, couldn't took their eyes off the nervous, or rather, excited, moments. Nia exclaimed, "It missed? **They did it, Rex! They stopped it!**" Only the king's gloomy outlook could explain how disappointed he felt. 
 
-Rex: "**Yeah!**" 
+Rex exclaimed, "**Yeah!**" 
 
 Zeke launched once more Ultimate Lightning Fury Slash and sliced through the chains that held Pyra. "**HYAHHHHH!!!**" The hero of the day, he was too handsomely showing off he couldn't catch Pyra dropping to the ground. 
 
@@ -292,7 +288,7 @@ Nia wondered, "So did this Addam guy reaaaally never return?"
 
 The king was surprised, "Addam left us of his own will? But why?"
 
-Pyra removed her left earring and took it in her hands. Addam had left a holograph within it, a recorded message. "Hear me, my scions. I- am Addam- Origo. This day I seal the Aegis- away from the world. But this seal- is **not** for eternity. **In anticipation- of the day** that humanity becomes _worthy_ of the Aegis's power, I entrust her _to posterity._ She is our hope. **When mankind** has matured, and learned to live better lives, **she will answer** your call, **and return** to you. **Trusting** that day will come, I leave my _final wish_ to you..." And that's the end of the recording; she put it back on. 
+Pyra removed her left earring and took it in her hands. Addam had left a holograph within it, a recorded message. "Hear me, my scions. I- am Addam- Origo. This day I seal the Aegis- away from the world. But this seal- is **not** for eternity. **In anticipation- of the day** that humanity becomes _worthy_ of the Aegis's power, I entrust her _to posterity._ She is our hope. **When mankind** has matured, and learned to live better lives, **she will answer** your call, **and return** to you. **Trusting** that day will come, I leave my _final wish_ to you..." At the end of the recording; she put it back on. 
 
 She continued, "Addam foresaw- **much confusion** and hardship in the world ahead. *And when I seemed unsure, he told me something. **'This, is a Trial.'***"
 
@@ -304,9 +300,9 @@ The king got it, "_Live alongside..._"
 
 "To be honest, I-I still don't fully understand what he meant by that. Whether he simply meant the coexistence of humans and Blades, _or something more..._ But I think he made a- _difficult choice._ For the sake of **everyone's** survival."
 
-Suddenly, the ether flowing through the Castle turned red, stopped flowing. The ground started shaking, attracting their attention. "Whoa!" Rex wondered what happened. 
+While they were busy speaking, the ether flowing through the Castle got disturbed for a moment, and started turning red as they stopped flowing. The ground started shaking, attracting their attention. "Whoa!" Rex wondered what happened. 
 
-Looking out the window, large amount of ether started being drawn away from Genbu. The blizzard got worse. A soldier have reports, spoke quickly, "Your Majesty!"
+Looking out the window, large amount of ether started being drawn away from Genbu. The blizzard got worse. A soldier have reports, spoke quickly, "**Your Majesty!**"
 
 "What is this?"
 
@@ -380,7 +376,7 @@ Rex: "Pyra..."
 
 "**That's a- totally**- separate issue. **Isn't that what you'd say, Rex?**"
 
-Should he support her? "Wha-? Oh, **yeah**. I guess it is."
+He supported his de facto partner, "Wha-? Oh, **yeah**. I guess it is."
 
 "And that's why."
 
@@ -419,7 +415,5 @@ He already predicted the possible saliva and waste of time ahead, immediately or
 "**No time for chit-chat. Let's go!**"
 
 "**Yeah!**"
-
-
 
 ### Footnotes:

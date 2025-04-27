@@ -37,7 +37,12 @@
 - [Ancestors of Tantal, Bana's Plot, Emperor Niall's Selflessness](./20_bana.md)
 - [Tantal](./21_tantal.md)
 - [Escaping](./22_escaping.md)
-- [To the Fetter](./23_omega_fetter.md)
+- [Pyraaaa... PYYYRAAAAAAA!!!](./23_omega_fetter.md)
+
+# The Fear She Carries
+- [Where is Hope?](./24_third_aegis_sword.md)
+- [Spirit Crucible Elpys, "I love you too, Nia!"](./25_spirit_crucible.md)
+- [Stand With Me One More Time!](./26_rescue_pyra.md)
 
 ---
 

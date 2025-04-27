@@ -274,7 +274,7 @@ Her eyes widened, that's what one is to him? She eyed him from the tip of her ey
 
 "Right, let's head back."
 
-"OK." And she spoke nothing else, let the feelings sink in. 
+"OK." And she spoke nothing else, let the feelings sink in.{{footnote: [Want more story about the grave? Read more here (but do it only after you finish the first part of the next subchapter, because their final members would join only thereafter).](./96_heart_to_heart.html#rex-confessing-to-pyra)}}
 
 ---
 

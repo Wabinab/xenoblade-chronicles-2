@@ -1545,6 +1545,962 @@ Pyra: "I find it really inspiring."
 
 ---
 
-### What's in a Name?
+### What Should One Be Called?
+
+At the port of Genbu, overlooking the reddening sky and the cliff edge in the far distance, Zeke and Pandoria supported themselves on the stony fence. 
+
+![Genbu port](images/255_genbu_port.jpg)
+
+"Hey Pandy. I just had a thought..."
+
+"Oh no..." Every time you said this, something bad would happen. This time would be no different. 
+
+"Don't be **so quick to judge!** You don't even know what I'm going to **say!**"
+
+"Wellllll, you're not the most sophisticated of thinkers. _I can read you like a book._"
+
+He tried authority, "Hey, you can't talk to your Driver like that! **Go on, then!** If I'm so easy to read, what am I thinking?"
+
+Pandoria dismissed his authority call, gotten used to it, "You ARE that easy to read, annnnnnd you just came up with a new title for yourself."
+
+"_Uhhhhhh..._"
+
+"Hahah, bingo! **You** are soooooo predictable. **Go on then,** what is it **this time?** I promise **not to laugh.** You can tell your big sis."
+
+![Genbu port, from another perspective](images/256_genbu_port_2.jpg)
+
+"**Big sis?**... **Wait** a sec! What makes you think it'll be something to **laugh** at?! Listen, when I tell you my new title, you're gonna be _proper impressed._ **Zeke von Genbu, CHAOOOOOTIC- Bringer of Chaos!**"
+
+She snorted at that. "Prrrrrtttt..."
+
+"**OI! I HEARD THAT!!! You can't deny the coolness of the name, surely!**"
+
+She tried suppressing her laughters, "O-of course not. It's _very cool_. **Suits you** down to a tee. Super cool."
+
+"_You're not even_ **pretending** to be serious! **Why don't you try again?**"
+
+"Ahahahah, it's so funny watching you guys." Pyra giggled as she approached those two. 
+
+"Oh, hello Pyra! You arrived at just the right time. We're getting nowhere with Pandoria. **Pyra, lend us** your judgment."
+
+"Who, me?"
+
+"**Yes, you! What do you** think? **Zeke von Genbu, Chaotic Bringer of Chaos!**"
+
+> Choose: "That's a fantastic name!"  
+> or: "Honestly, it's kind of goofy."
+
+<details>
+<summary>"That's a fantastic name!" she exclaimed.</summary>
+
+"**Right? Obviously! I knew** you'd know what's what."
+
+Pandoria urged, "No need to worry about **hurting his feelings**, Pyra. You **can be honest.**"
+
+"**I am** being honest! I think it's a very creative name."
+
+"_Uh?_ **No way... You're kidding, right?**"
+
+Zeke was extremely proud and satisfied, "**Finally, somebody who ACTUALLY understands! At least SOMEONE does. Go on,** Pyra. **You** need a title as well."
+
+"_Huh, me?_"
+
+"**Yes!** Something that **really captures** the spirit of who you are."
+
+"Steady on, my Prince. Pyra doesn't want a stupid name."
+
+But Pyra urged on, played with the game, "**OK!** Lay it on me, Zeke! Gimme that title!"
+
+Pandoria sighed, "_Someone's gotten carried away..._"
+
+"Right then. **From now on, Pyra, you shall be... Pyra von Aegis, OMEN OF RETRIBUTION!!!**" He thought for a short moment before giving her the nickname. 
+
+She thought of it carefully, "Pyra von Aegis, Omen of... Retribution?"
+
+Pandoria: "Uhh... really, Pyra... If you don't like it, you shoulda just said so."
+
+"**I love it! To be honest**, I don't really know what it's supposed to mean? **But it's so cool!**" she exclaimed. 
+
+Pandoria can't believed what she just heard, "**What on Alrest is going onnnnn?** These two are incorrigible!"
+
+"Right? **Just like** I thought. Pyra GETS me. **In fact, maybe YOU should just be my Blade!**"
+
+"A-ahh hahahah... I think I'm good, thanks." Not on that, sorry...
+
+"Huh?"
+
+"You're very amusing, Zeke, but Drivers need to be a lot more than amusing."
+
+"What?"
+
+Pandoria finally found her laughing point, "**AHAHAHAHAHAH!!!** You're going to need an Ice Art for **that** burn. That was worth the wait. It's gonna take him some time to recover."
+
+</details>
+
+<details>
+<summary>"Honestly, it's kind of goofy. And it's redundant as well."</summary>
+
+"**URK!!!**" He went down to the floor in extreme heart pain. 
+
+"**My Prince?!**" Pandoria acted as if she's gonna lose him. 
+
+With intense heartache, he exclaimed, with barely enough oxygen to survive, "_Too... too blunt. It struck me... **right** to my very heart..._"
+
+Pandoria couldn't help joking, "Hang in there! _It's just a flesh wound! You're going to be just fine!_"
+
+Pyra don't understand the joke, worried, "Huh? Is Zeke OK?"
+
+As if he's gonna immediately pass away, he answered, "_No... Remember me well, friends..._"
+
+Pyra started panicking, "**What?! I-I'm so sorry! I-I didn't mean... I just let my thoughts SPILL out of my mouth without THINKING!!!**"
+
+"(cough cough cough)"
+
+"**My Prince?!**"
+
+Pyra: "**Um, what's happening? I, er, should I get help?**"
+
+Pandoria was so deep in the joke, exclaimed, "**Pyra, you monster! You're KILLING him here!**"
+
+Zeke agreed, "_Who would have known that- Pyra could be so **deeply** cruel..."
+
+"**That wasn't my intention at all! I-I'm sorry! I just thought-** that the joke wasn't up to your usual standard..."
+
+"**ARRRRRHHHHHCCCKKKKKK!!!**" Pinch straight to his heart twice! 
+
+"**MY PRINCE?!!! A mortal blow!** _It's going to take him some time to recover from that..._"
+
+</details>
+
+---
+
+### Curse of the Zekenator
+
+Near Three-Vein Crossroads, a location very near the outskirts of Tantal's main city. Brighid had a question for "Hey, Pandoria. Zeke's a rather unlucky guy, is he not? Isn't it difficult, being his partner?"
+
+![Three-Vein Crossroad](images/257_three_vein_crossroad.jpg)
+
+"Oh, yes. The Prince of mine, he's unlucky like you wouldn't believe. If there was an All-Alrest Unluckiness Championship, he'd win every time." Yet her tone was full of hope than despair. 
+
+Dromarch: "From the incidents I've witnessed alone, he's already been chased by- rolling rocks, fallen off cliffs... He even fell into the Cloud Sea once, as I recall."
+
+Her excitement came up, "Hnhnhnhhh, you ain't see the half of it! When he's walking in the harbor, he's always getting bitten- or smacked round the face by the Titan ships. Oh, this one time, he got caught in a blizzard, took shelter in a cave, and wound up surrounded by 100 Ignas! Hahahaha, I could keep going for hours."
+
+"Weeeell, I don't quite know how to react... Frankly, I'm impressed you both still alive."
+
+Brighid agreed, "Yes, congratulations on surviving. Or should I say, my _condolences?_"
+
+"Too far, Brighid. Too far." She got a little serious with that. Then turned her mood back to up-lived, "**Still**, I gotta admit keeping an eye on my Prince is a full-time job. You should try it yourself some time. _He drives me crazy._"
+
+> Choose: "But you love him all the same, yes?"  
+> or: "You sound almost like his mother."
+
+<details>
+<summary>"But you love him all the same, yes?"</summary>
+
+She jumped back at such inferences, "**LOVE?! Where the hell'd you pull THAT one out of?** Ehehehe...."
+
+Dromarch interpreted her reactions as, "_Ah, yes, I see._ You **pretend** to dislike him while secretly harboring **feelings.**"
+
+Brighid added to the fire, "Maybe it's time you should be more honest with yourself?"
+
+She couldn't even reject their notion, "_Oh, for the..._ you've got to be kidding me! Y-You couldn't be more wrong!"
+
+The more she tried to reject, the more sure they were of her feelings, "There's no need to be shy, my dear. As a fellow Blade, I'll be happy to keep this **just** between us."
+
+Dromarch agreed with that, "Quite so. We will keep your little secret from your _beloved Prince_- until such time as you see fit."
+
+Her voice is all weak and not getting through, "_I'm trying to tell_ you, **it's not like that!**"
+
+Brighid already convinced herself, and no other 'facts' would unconvince her, "Ohhhh, you're so cute when you get embarrassed."
+
+Dromarch too, "Hmhm! I quite agree..."
+
+"**Hey! Stop that! Don't you give me that knowing smile!** Ungghhhh, **curse you,** my Prince, and your unlucky nature!"
+
+</details>
+
+<details>
+<summary>"You sound almost like his mother."</summary>
+
+"Oh yes, he's such a frightful little sonny Jim..." She replied unconsciously, then suddenly picked it up consciously, "**WAIT, who're you calling his mom?!** At least go for big sister or something!"
+
+Dromarch: "Ahhh, what a comeback! What im-peccable comedic delivery!"
+
+"Hahah, _you like it?_ You've gotta have a sharp wit when you're dealing with that guy. But comedy aside, it all _comes back to his blasted bad luck._ If you have to deal with some of the stuff I've been through, you'd be worrying like an old maid, too. When it really counts, he can be a proper hero, _but the rest of the time... I just don't know what to do with him._"
+
+Brighid: "It wouldn't be Zeke without a little bad luck, though, would it?"
+
+Dromarch: "I quite agree. It's an integral part of his identity!"
+
+"Yep.. _and ain't that just the worst thing?_" asked Pandoria. "(sigh) **The things I put up with** for my Prince..."
+
+</details>
+
+---
+
+## Open Your Eyes To The Outside World
+
+In Theoscaldia Palace, Silvergleam Terrace{{footnote: One didn't remember where this was.}}. Two soldiers guarded each side of the door, with more soldiers within the chamber. Zeke and Mòrag were outside the chamber, where behind them were the balcony overlooking the mountains, along the corridor, he asked, "So, how d'you like this palace, eh? Just as good as your Ardainian one."
+
+![Silvergleam Terrace](images/258_within_the_palace.jpg)
+
+"For a man who abandoned his country, you're certainly proud of it." she mocked him. 
+
+"Hey. That's a low blow."
+
+"Do you think you'll _return for good_ someday?"
+
+"That's a toughie." Will he, he wondered? 
+
+"What is it that's stopping you?" She spoke straight to the core. 
+
+He didn't answer, but had a question for her, "Hey, Mòrag. **Is your country** important to you?"
+
+"That was kind of out of the blue..."
+
+"**Come on, just tell me. Would you** protect your country over **anything else** in the world?"
+
+> Choose: "Without a doubt."  
+> or: "Would you not?"
+
+<details>
+<summary>"Without a doubt." she answered without thinking twice. "Why do you ask?"</summary>
+
+"Well, I mean... As a prince, **of cours**e you're gonna want to **protect your country and your people. But**... _is that really enough?_"
+
+"What do you mean?"
+
+"**This world**, it's **stretched** to its **limit**. We've both seen that on our travels."
+
+"Mmmm?"
+
+"Now, my old man, **he closed** off our country from the outside **world. Why?** To protect his people. **But that's** not a **real solution**. That's just **running away** from reality. **Maybe you can** protect your own **people** like that, for a **while**. But when the world ends, you're just as dead. I just couldn't bring myself to agree with the way **he does things.**"
+
+She listened for him to finish without interruption, asked thereafter, "And... that's- why you left?"
+
+"**Yeah!** If I can use my power to help save the world, even a little. I figured, that's what I have to do. **Help** the people who **need** it. **Of course**, I was **younger** then, with naïve ambitions. **In the end**, I just wound up learning how powerless I really am."
+
+"But you haven't given up yet, have you? You're still trying to save the world."
+
+"**Course** I am. If you don't have the power, you gotta try even harder. If you **can't** do it alone, then you **gotta find some friends** to back you up. **Mòrag! You're one** of those people, right? **Someone I can** count on."
+
+"Hahah, I'm with you, Zeke." she supported him. 
+
+</details>
+
+<details>
+<summary>Mòrag don't understand, "Would you not? Wishing to protect your country is both a natural impulse- and a duty, is it not?"</summary>
+
+That makes him quite angry, "**THAT'S THE ONE!!!** That's exactly what my old man used to say. But, is that really enough?"
+
+"What do you mean?"
+
+"**This crazy world's** _right at its limit._ **If it carries on** like this, it's done for. My old man... He chose to **close** his eyes to the outside **world** and _only_ think of the **safety** of our country."
+
+Mòrag don't see how that's wrong, "A king's first duty is to protect his nation. _I don't think I can blame him for the choice he made._"
+
+"Well, **yeah**... **But** is it really OK to just think of yourself? **Can you** really be happy when you're **shut up** in your **own world** like that? **If we carry on** like this, our **whole world has had it.** And you **can't have a country without a world. That's why** his attitude drove me **crazy! Sitting doing nothing** as the whole shebang falls down... **That's** no way for **anyone** to live. I can't just give up on the **future** like that. **That's why** I left Tantal. And that's why I can't go back, not until the world is safe."
+
+"Ahah... You're a **remarkably straightforward** man. Honestly, I'm a little **jealous** of the way you can _follow your heart_ so freely."
+
+"Hey, what are you saying? It's **not like** it's hard. You should try it yourself -- **just say what you think!**"
+
+"Hah!" Her pride couldn't let her do that, her worries for what others might think of her couldn't do that, her position as Special Inquisitor couldn't do that. Can she? "**Straightforward guys** like you and Rex are all very well, but I think **someone** needs to attend to the **finer** details."
+
+"Jeez, you let me have it with **both barrels there**... But thanks."
+
+"You can count on me **for that**, Zeke!"
+
+</details>
+
+---
+
+### Pandoria Wondering How To Be More Feminine
+
+In the Commercial District of Fonsa Myma, the capital of Uraya, overlooking the various buildings below the balcony, and the cherry blossoms in its full strength, illuminating the night even brighter than the streetlight does, its leaves raining on the city. Pandoria wasn't looking, but she invited Mòrag to come here with her{{footnote: This one says so; actually, one don't know who invited who.}}, "This looks like as good a place as any to have a proper chat."
+
+![Fonsa Myma's Commercial District, Nighttime](images/259_commercial_district.jpg)
+
+"**So**, what did you want to discuss?"
+
+She got a little [blushy-crushy](/96_heart_to_heart.html#blushy-crushy) , asked, "Well, listen, Mòrag... What do you think of me? **Well, um**, I was wondering... _Do you think_ I'm- feminine enough?"
+
+> Choose: "I think you're perfectly fine."  
+> or: "Are you coming on to me?"
+
+<details>
+<summary>"<i>Relax.</i> You're a <b>very lovely</b> young woman."</summary>
+
+"Well, _I mean_, I'm sure **most** women look feminine and cute next to you, Mòrag, but..."
+
+Hah, she already got the comparison, "Are you _trying_ to insult me?"
+
+She jumped back, "**N-n-no, not at all!** Sorry, I'm not good with words..."
+
+"Umph!" Let you go this time. 
+
+"But, **don't you think** I'm kind of- _plain_- next to Pyra and Brighid?"
+
+"It's true that the two of them- do have a certain healthy **vigor** about them."
+
+As if she got her conformation, "**Right?** Sometimes I- feel like I- need to up my game a bit when it- comes to looks."
+
+"**I see! And you thought I** must know all the tips and tricks to keep one's appearance in tip-top shape."
+
+"**N-no, no,** I wouldn't come to you for that kind of advice." When you're not one yourself, hah! "**It's just...** you dress like a guy, right?"
+
+"Oh!"
+
+"So I figured you _probably_ have a good idea of how men think."
+
+"_Ahahah_. I see."
+
+"Yeah, I **knew** you'd understand! So tell me, from your point of view, what have Brighid and Pyra got- that I haven't?"
+
+She strictly rejected, "Forget it. We're done here." Too much insult for the day, repeated again and again and again. 
+
+She was surprised, "Huh? Wait a sec, Mòrag! Weren't you gonna help me? Oh, **c'mon**, you're such a tease!"
+
+</details>
+
+<details>
+<summary>She looked down on the floor and started barraging words to not hear back from her, "If this is a come-on, I'm <b>very</b> flattered. But... you know I'm a <b>woman</b>, right, Pandoria? <i>I must admit</i>, I didn't take <b>you</b> for, uh, <i>well...</i>"</summary>
+
+She giggled at the misunderstanding, "**Uhuhuh!!!** Oh, Mòrag, you're so funny."
+
+"_Huh?_"
+
+"That's not it at all! _I wasn't confessing my love or anything. I just wanted to ask you about my femininity._"
+
+"Really? You came to ask **me**... about femininity?"
+
+She exclaimed, "You dress like a dude but you're so pretty. You must know a thing or two. Your hair, _your skin, your nails... Always so on point._"
+
+She was impressed, "You have better eyes than I **gave you credit for.**"
+
+"I just notice that stuff. _I'm a girl Blade, after all._"
+
+"I see... _Sounds like there's **some man** that you want to notice you, Pandoria._"
+
+She strictly denied, "**NO NO NO! Nothing like that!** I was just watching youuuu and Brighid, and- wondered what kind of stuff you do to- look so sophisticated."
+
+"Is that so?"
+
+"No word of a lie!"
+
+"Huh! **Both Brighid** and myself import Elastifying Tonic and Freshening Gel specially from- Argentum."
+
+"**Mm hmm!**"
+
+"Titan-Oil Hand Cream **also** comes in very useful."
+
+"_I see, I see_..." When was the last time Zeke ran out of gold and couldn't make himself a contact lens for his other eyes ahem ahem?
+
+"**I'll ask Zeke**- _if_ he can buy some for you too, in future."
+
+She jumped on her feet, "_What?_ **No,** don't do that!"
+
+"_Ohhhh???_"
+
+"**Let's- keep this**- on the down-low, OK? Nobody needs to know!"
+
+</details>
+
+---
+
+### Who's Taking Care of Turters?
+
+Near the Sekis Pillar at the Upper Level of Tanta. The ruins of some uninhabited buildings can be seen behind the scene. Nia had a question, "Hey Zeke, Pandoria, You got a moment?"
+
+![Sekis Pillar](images/260_pillar.jpg)
+
+"**Sure, what's up?** You're not usually the **type** to start a serious discussion."{{footnote: And you're not usually the type to call 'Zeke' instead of 'Shellhead'.}}
+
+"Well, y'see, _it's- about Turters..._"
+
+"**Turters?!!**" Pandoria backed away. What does she want with our Turters! 
+
+Zeke immediately rebut without hearing what she gotta say, "Sorry, but Turters is our mascot. I know he's the **cutest** little chap in the world, but you can't have him."
+
+"You heard the Prince. *If you* ask nicely, we might allow you to pat him on the head..."
+
+"Uh-huh. Thanks- for confirming what I already guessed. You haven't even noticed, have you? He's been crawling into my bed every night."
+
+Zeke eyes widened to its max and his pupils dilated to its min, "**H-he's been... what?!**"
+
+She continued to deliver the bad news, "If I'm not super careful, I worry I'm going to **crush** the little guy in my sleep. But like you say, he's **your** precious little mascot, yeah? I figured you'd be mad if I hurt him. So it's been keeping me awake the whole damn night."
+
+"Well, I guess I should apologize on Turters' behalf."
+
+Pandoria wondered, "Honestly, weren't you meant to be keeping an eye on him?"
+
+"**Ahahahah! Well,** you know me! Once my head hits the sheets, I'm out for the count!"
+
+"Hmmm..." Not good at all... "We'd better find a way to stop him wandering off."
+
+> Choose: "He could sleep in my bed?"  
+> or: "Let's flip this whole issue on its head."
+
+<details>
+<summary>"He could... sleep in my bed?" offered Pandoria.</summary>
+
+Zeke agreed, "Yeah, that might be the best solution."
+
+She recalled, "He used to sleep in my bed back in the day, anyway. It'll be fine."
+
+Nia was relieved, "I guess that settles it. Thanks, Pandoria!"
+
+"You can count on me!"
+
+"Hang on, though. You- said- he used to sleep in your bed 'back in the day'... Just how long have you had this turtle?"
+
+She looked to Zeke for affirmation, "Ohhh... It hasn't been as long as me and old Princey here, but... it's been- quite a while, I think?"
+
+"Huh. It's just that he's so small. I always assumed he was pretty young. So what would you do if he grew up to be Dromarch-sized?"
+
+Zeke couldn't believe "The things that go through that head of yours..." Dromarch-size, do you really mean it? 
+
+"Watch it, you." she snarled at him. 
+
+Pandoria agreed that "He wouldn't be quite so portable if that were to happen."
+
+"_Right?_ It got me wondering, **would you guys**- stick together even then?"
+
+Zeke don't see anything different, "Why? I could **ride around on top of Turters instead!**"
+
+Pandoria: "You mean like Nia and Dromarch?"
+
+"Yeah! That sounds pretty **sweet**, right?"
+
+"You'd probably get left behind. _A lot._" blurted Nia sincerely and bluntly. 
+
+Pandoria: "And how?"
+
+Zeke: "Yeah, you know what? **I'm just gonna** be glad that Turters stayed _this_ size."
+
+</details>
+
+<details>
+<summary>"Let's flip this whoooooole issue on its head," suggested Pandoria.</summary>
+
+"Flip it?" Nia wondered, how do they do that? 
+
+"On its head?" Zeke wasn't sure what she meant. On Turters head? 
+
+"Yuh-huh." The message didn't get through, but she took it for granted that it did. "I mean, Turters is **one of the gang too, right?** So I figure, me and Zeke can't keep hogging him forever. He doesn't belong to any one person. _He's a precious mascot, to each and every one of us._ So what **I** say is, why don't we all pitch in on looking after him?"
+
+Zeke: "**Oh, right! Great idea!**"
+
+"Riiiight? If Nia's helping us out too, there's no problem with Turters sleeping in her bed."
+
+She was mad, "**Hold it, hold it!** This isn't solving the issue of how I get some sleep. **You can't just** lump it all on me. Get someone else to help."
+
+Zeke thought for a while, suggested, "Hmmm... Maybe Dromarch could look after him?"
+
+Pandoria agreed, "Could work. He's basically a big fuzzy pillow."
+
+Now that they thought of it, Zeke had another idea, "Actually, the same goes for Tora!"
+
+"More like a little fluffy pillow, **but yes!**"
+
+Nia was impressed, "_Hey... Are you two_ actually just fed up- of taking care of Turters?"
+
+Zeke was surprised, struggled to find reinforcements, "**HMMM?!!! P-Perish the thought! Right, Pandy?**"
+
+"Yeah, we love Turters. **Sometimes I forget to feed him,** but he's great."
+
+"I'm starting to understand why he comes running to me every night..."
+
+</details>
+
+---
+
+### Aegaeon missing His Majesty
+
+"Oh, His Majesty is absent." Aegaeon, was staring at the seat in the Throne Room where Emperor Niall usually did the paperwork. 
+
+Brighid entered the empty room and commented, "A shame. You were hoping to meet him again, weren't you?" He had returned to his core during the last Uraya-Mor Ardain summit, and now, someone else resonated with his core once again, bringing him back to life. 
+
+"It feels a little _strange_ for me to think of it as _'again'_, but I did wish to meet with him, yes."
+
+"I remember the old you, standing _tranquilly_ beside the throne. Quiet, and resolved."
+
+"I can sense it is a... good memory for you."
+
+"I had hoped some memory might linger within you too, _but alas_, it seems not."
+
+"So it would appear... Unlike you, Brighid, I did not have past records to fall back on. Without any data, it is... _difficult_- to feel any emotional connection either." Brighid kept a diary she can read whenever she get resonated; and the diary she passed on to the Imperial throne to pass it down for whoever resonated with her again. 
+
+"And now you're prohibited from reading those records that do exist, as well..."
+
+"So I am, so I am. Therefore, I know not what I had been doing, nor what my role is in the Ardainian Empire. I can- _comprehend_- some of it by talking with you or Mòrag, but I feel sure there is much of importance I do not grasp. Hence my plan: to ask Emperor Niall- why it was that he *forbade* me from reading the past records."
+
+"Do you have any idea what the reason might be?"
+
+"I wonder..."
+
+> Choose: "As a sign of demotion."  
+> or: "So I'd save the world, not the Empire."
+
+<details>
+<summary>"From what I hear, it... seems I failed to keep the Emperor safe, yes? In which case, might it not mean I have been... <i>relieved</i> of the duty to protect His Majesty?"</summary>
+
+"That's very pessimistic. You always are too hard on yourself, Aegaeon. I- think- Emperor Niall was hoping you would protect Alrest, and not- just- him. Rather than keep someone as *excellent* as you cooped up in Mor Ardain, he preferred to have you contribute to the well-being of the world at large."
+
+"Hmmm. I see. He thought my knowing of my past role in Mor Ardain would... **hinder** that."
+
+"That's what I think."
+
+"I see... I may not have been able to meet the Emperor, but... just talking to you, Brighid, has given me strength."
+
+</details>
+
+<details>
+<summary>"This may be presumptuous to suggest, but... He may have thought that I should work for the good of Alrest, rather than just for the Empire?"</summary>
+
+"You mean, that an adept Blade should serve the world, not a single country?"
+
+"Yes, precisely."
+
+Brighid was impressed, "You can be quite **brazen** sometimes."
+
+"I was hesitant to say it myself..."
+
+"But I do think you're probably right. That's why the Emperor didn't want you to know too much about your role here. He feared if you **did**, it may- _hinder_ you from achieving that purpose. "
+
+"I see... I may not have been able to meet the Emperor, but... just talking to you, Brighid, has given me strength."
+
+"Always glad to help. For what it's worth, _I can't wait_ for the day when you're back by the side of the throne."
+
+"Are you worried for him?"
+
+"Maybe somewhat. Anyone can aid the Emperor in his duties, _but to keep him safe... takes someone **truly**- special._ Up until now, I felt _secure_ knowing that His Majesty was protected by myself, Lady Mòrag, and you."
+
+He thought for a while, agreed, "Certainly... The sooner things fall back into place, the better. When all is said and done, I **will** return to the throne room. You and me both, Brighid. We **will** help see this through."
+
+"Right. I'll be counting on you."
+
+</details>
+
+---
+
+### Addam's Favorite Food?
+
+Nia looked at the black market's bazaar at Tantal. There were spices, foods, alcohol. What impressed her was what's written on the sign. "Ooh, _'A treat- fit for a hero'!_"
+
+"Snack time already, Nia? _Spot anything interesting?_" Mythra came up to her asking. Perhaps she wanted something herself. 
+
+Zeke praised, "Nice one, Nia! You **sniffed out a pretty cushty place.** Y'know, this was the great hero Addam's favorite food! They **say** it uses an authentic mix of spices passed down for 500 years. Tantal is pretty damn cold. Stands to reason that Addam would like food with a bit of **kick** to it, eh?"
+
+"A 'kick'?" What does that even mean, wondered Mythra. 
+
+Nia wondered, "Addam was into spicy stuff? Huh. Heroes have strange tastes."
+
+"**Rather rude,** don't you think? Spicy food is **delicious! Don't tell me** you're some kind of **namby-pamby** when it comes to **heat.**"
+
+"And what would be the problem with that?" She eyed him. 
+
+"**HAHAHAHAHAH**, for all your tough façade, you're really just a little kid, ain'tcha?"
+
+"**Oi, you watch it,** Shellhead. You're askin' for a fight!"
+
+"**Hey**, no need to get your ears ruffled. I'm gonna **get** some for you and you'll see how wrong you are. Mythra, you want some too?"
+
+"Errr..."
+
+"Huh? What's up?"
+
+"Um, well, you see... Addam didn't like spicy food either." she revealed. 
+
+"**Whaaaaat?**"
+
+"_Huh?_" Nia was surprised, 
+
+> Choose: "Addam didn't actually like Addam's Embercakes?"  
+> or: "So the advertising slogan is just lying?"
+
+<details>
+<summary>"Addam didn't actually like Addam's Embercakes?"</summary>
+
+"You got it! I never saw him eat anything that spicy. Even a **hint** of spice would have him **running for the latrine!**"
+
+"**Bwhmhmhmhmhm! So Addam had a little kid's tastes too.**"
+
+Zeke shot back in disbelief, "**You're kidding me!** You can't tell me stories like that! I grew up **idolizing** Addam, **and now I can't get that image out of my head!**"
+
+But not Nia, she asked in full curiosity, "Hey, Mythra. Do you have any other funny stories?"
+
+"Funny stories? I wonder if I can remember anything."
+
+"So, like, what was Addam's **real** favorite food?"
+
+"Well, that would be... Pan-Fried Tartari."
+
+"**Just like Rex!**" Nia exclaimed. 
+
+"Yeah! Addam would just **light up** at the sight of it."
+
+"I really sounds like the **Great Hero** was just a **big kid** when it came to food. Anything else?"
+
+Zeke went into depression, "**STOP! STOP! I CAN'T TAKE ANYMORE!!!** Can you **please** leave at least **some** of my admiration for him **untainted?**"
+
+Nia don't understand, "What do you care? Addam was just a guy like anyone else." Then she teased, "Look who's the big kid now, Shellhead!"
+
+"You arse, Nia. _You're loving this, aren't you?_ Dammit! I'm going to have to reread 'Addam, the Great Hero' to scrub my mind."
+
+</details>
+
+<details>
+<summary>"So the advertising slogan is just lying?"</summary>
+
+Mythra agreed, "Yep! It's a total marketing gimmick. A load of **bull**, in other words."
+
+Nia felt cheated, "**Bloody liars!** The cheek of it!"
+
+Zeke had faith, "Steady on just a second, chaps. It's not definite that they're lying."
+
+"Huh?"
+
+"**Even** if this wasn't Addam's favorite food, you've still gotta hand it to them. Keeping 500-year-old traditions alive is a pretty noble thing. **So what** if they did exaggerate? Maybe... Addam had a bite when Mythra wasn't looking and thought... **'this is jolly tasty'.**"
+
+Nia urged, "No need to get so worked up, Shellhead."
+
+"**Who's worked up? It's nothing to me. I'm just saying,** don't go around calling ancient recipes a lie **for no reason!**"
+
+Mythra seemed to read the situation, "Ahhh, OK, I see what's going on here. **I've a sneaking suspicion that** this might be Zeke's favorite food..."
+
+"**Wha-**" and he looked away, not willing to face the clever girl. 
+
+And she revealed more, "Oh, is it your favorite because **you** believed their shtick about Addam?"
+
+"Arrrrgh..." Two arrows in his heart. 
+
+Nia finally got it, laughed till her belly hurt, "**BWHMHMHMHMHMHM!!! Busted!** Is that why you took it to heart? You're like a little kid!"
+
+He started panicking, trying to protect his final image, "Wh-wh-**what's wrong with that?!** I grew up believing this was Addam's favorite **food! It's been enchanting kids for 500 years now!** I'm not gonna let the words of one Blade **take that away!**"
+
+Mythra: "**Sure!** But that still doesn't change the fact that Addam didn't like spicy food. **He'd never eat this** stuff of his own volition."
+
+"**ARRRRRRGGGGHHHH!!**" Millions of arrows in the heart, he collapsed on the ground. "You're **shattering my image of him!** My precious childhood innocence... I don't believe **anyone or anything anymore...**"
+
+Nia urged and offered, "Don't be like that, Shellhead. Cheer up, I'll buy you an embercake! Hah!"
+
+</details>
+
+---
+
+### What Happened to the Judicium Weapon?
+
+Gathered at the Judicium Titan Weapon dig site in Temperantia, Tora asked, "Mòrag, is Ardainian army still digging up Aeshma?"
+
+"No. I believe the excavation has been put on hold ever since the incident."
+
+Poppi QT noted and curiously asked, "Still many Ardainians here though. **Why not** go home to Empire?"
+
+She explained, "If we were to leave the site unguarded, Torna could misuse the artifacts **again. Even if** we were to re-bury what has been excavated so far, there's _no guarantee_ the same won't happen. So we're maintaining jurisdiction over the site... for the time being."
+
+Brighid added, "To ensure they don't fall into the wrong hands, we've bolstered the garrison and brought in a Titan battleship too."
+
+"Makes much sense."
+
+"Tora want to check out Aeshma! Never seen weapons from Judicium before. **Very** interesting technology."
+
+"My apologies, Tora. Our treaty with the Kingdom of Uraya will not allow it."
+
+Brighid added, "We have agreed not to investigate, research, or use Aeshma in **any** form."
+
+"**Meh-meh!**" He was disappointed. "**But when you** making such promise?!"
+
+"At the Mor Ardain-Uraya summit."
+
+Poppi QT questioned, "Mor Ardain take big penalty for almost starting war?"
+
+Mòrag nodded, "That's about right, yes."
+
+> Choose: "You pay Uraya big fine too?"  
+> or: "You give Uraya Tasty Sausages?"
+
+<details>
+<summary>"You pay Uraya big fine too?" Tora wondered.</summary>
+
+"We didn't end up paying monetary compensation, but- it- was a possibility."
+
+Brighid estimated, "**If we had**, it would likely have come to around- 40 billion G."
+
+"Oh! Much expensive!"
+
+"Could make 1,000 Poppis with that money."
+
+Brighid was surprised, "Wow! You're surprisingly expensive too!" 40 million G for a single Poppi? Can you imagine? 
+
+"Ehehehe!"
+
+"If not money, what did Mòrag country pay?" asked Tora. 
+
+</details>
+
+<details>
+<summary>"You give Uraya Tasty Sausages?" Tora asked, depressingly.</summary>
+
+"That **just** what Masterpon would want."
+
+"If you pay in sausages, how many years supply it take?"
+
+"_Hmmm..._" How much does a Tasty Sausages cost again? Mòrag estimated, "About a billion years' worth, I suppose."
+
+Brighid read her Driver, accused, "**You just** made up a large number because you couldn't be bothered to **calculate**, didn't you?"
+
+Hoof, not tasty sausages. That felt like a relief! "What did Mòrag country pay then?"
+
+</details>
+
+"They asked for the rights to survey Temperantia."
+
+Poppi QT wondered, "Why they want that?"
+
+"Well, as a buffer zone. But we managed to dig up _that_ Judician Titan weapon, didn't we? Perhaps- they thought Temperantia would still have- other such weapons buried within it. Uraya would love to get hold of some of this ordnance."
+
+Brighid agreed, "Surely, it would be an awesome deterrent."
+
+"Yes... And, a protection for the nation."
+
+"**Ahhhh**, such boring **geo**politics. Tora not **care** about any of that. Just want to **tinker** with Titan weapon freely on his own." complaint Tora. 
+
+"Hahah... I'm sure you do. If only **we and Uraya**- were as simple to deal with as you, Tora."
+
+"Indeed. I envy you that- simplicity of mind." agreed Brighid. 
+
+Poppi QT explained what they meant in straightforward terms, "Masterpon. They calling you simple idiot."
+
+"Tora never hear word **idiot!** _Hmph_. Now Tora go steal advanced Judicium tech and use to upgrade Poppi's **respect** for Masterpon."
+
+Mòrag warned strictly, "**Don't. Do. That. Please.**"
+
+---
+
+### Where's your grave gonna be at?
+
+Looking at the giant crest on the wall in Spirit Crucible Elpys, Mòrag exclaimed, "These ruins are **quite** remarkable."
+
+Brighid agreed, "Indeed. This style of architecture **cannot** be found in Mor Ardain."
+
+Zeke: "There's **plenty** of ruins in Tantal too, but nothing quite like this."
+
+Pandoria hypothesized, "Must be something to do with the Titans here."
+
+"How would you even build a place like this **anyway**?" Zeke wondered. 
+
+"I explained before, did I not?" Gramps scratched his head. 
+
+"_Probably_ wasn't listening."
+
+Rex hypothesized, "Maybe it was before he joined up with us?"{{footnote: Ahem, recall, some broken fence...}}
+
+"Hmm? Was it? I can't recall. _In any case_, no harm in repeating myself. The Leftherian Archipelago- consists of a mountainous Cloud Sea formation- and numerous Titans gathered like islands. All of those smaller Titans- are circling around a much larger one. But that larger Titan is hidden- deep within the cloud mountains."
+
+Zeke guessed, "So... looking at the size of these ruins, we must be inside that big Titan right now?"
+
+"**Yes, precisely.**"
+
+Pandoria exclaimed, "Wow, what a crazy sort of place!"
+
+Rex complaint, "That doesn't answer the question of how anyone **made all this, though.** I mean, I doubt they carried all this rock through the Village Guardian..."
+
+Mòrag hypothesized, "Perhaps it was built before this- large Titan submerged itself in the Cloud Sea?"
+
+Zeke convinced himself with such 'common sense': "Ahhhh, that'd make sense. So back on the surface, it was just like any other Titan. **Then** at some point, those cloud mountains formed around it, creating the Archipelago we know today."
+
+"Yes, that would explain- how this place came to be. But even so, it would be very difficult to build structures of this size today."
+
+"Indeed..." Brighid agreed. "We have neither the labor forces required, nor sufficient land available. I doubt Mor Ardain, Uraya, or Tantal could construct something like this in today's climate."
+
+Zeke instructed, "Pandy... When I die, you don't have to build a monument this grand for me, OK?"
+
+"I'm gonna be gone as soon as you are, you know! Besides, I don't think you need a gravestone. A snowman'll do for you, heheh!"
+
+"When am I being buried, Theosoir Rear Gate? _Though a snowman does sound pretty nice._"
+
+"You're fine with that?" Rex was surprised. 
+
+"Anyway, while we're talking about graves..."
+
+> Choose: "Where's your grave gonna be, Rex?"  
+> or: "Where's your grave gonna be, Mòrag?"
+
+<details>
+<summary>"Where's your grave gonna be, Rex?"</summary>
+
+"**My grave?!**" He jumped on his feet. So sudden... "I-I... guess I've never thought about it."
+
+"You're still pretty young, after all." Pandoria explained him away. 
+
+"You're calling me old?!" Zeke complaint. 
+
+Rex had thought while they fought, continued, "I guess I'd probably like to be buried alongside my parents in Fonsett."
+
+Zeke asked, "How would you fancy here- in Elpys?"
+
+Scratching his head, "Uhhhhhhh... I don't know about that..."
+
+Pandoria don't like it either, clutched herself as if she felt very cold, "Yeah, this place is so big and empty, you'd die of loneliness."
+
+Zeke: "After he's already dead?" Can he even feel loneliness then? 
+
+Rex agreed, "I think I'd rather stay close to the people I love. Though it's still pretty weird to think about."
+
+"Wellll, that's a nice way of looking at it."
+
+</details>
+
+<details>
+<summary>"Where's your grave gonna be, Mòrag?"</summary>
+
+She calmly and immediately answered, "My manner of burial is already decided. There is a proud Ardainian tradition to-"
+
+He immediately cut her story short, "**Yeah, OK,** I'm gonna stop you there. Thanks for the predictable answer."
+
+"_Wha-?!_ Then ask me again. **I will endeavor** to make my response more entertaining."
+
+"_Lady Mòrag, I don't think there is any need to..._"
+
+"_You **are** aware of how I dislike to be outdone, are you not?_"
+
+Zeke agreed to her proposal, "All right, let's do this. Where's your grave going to be?"
+
+Without a moment hesitation, she answered, her hands flung around that almost hit Brighid, and she looked up in the sky full of pride, answered, "A snowman at Theosoir Rear Gate!"
+
+"**WHA?!!!**"
+
+Pandoria: "Waaaaaaiiiitttt, _are you gonna marry into Tantal royalty or something?_"
+
+"**Wha?! Of course I will not! I-I was just imitating Zeke's amusing remark!!!** Perhaps I should have chosen a graveeee (then an idea came to her mind) **in Fonsett instead!**"
+
+"**Whaaaaa?!**" Now Rex jumped on his feet. 
+
+Brighid face-palmed herself, "That's also not exactly, er..."
+
+"Ugh!" Mòrag gave up. 
+
+Zeke laughed, "**HAHAHAHAH!!!** Looks like Mòrag's got a thing or two to learn when it comes to the _funnies!_"
+
+Gramps exclaimed, "Ah, _to be young and carefree gain_. To think they can joke around in a place like this..."
+
+</details>
+
+---
+
+### Rex confessing to Pyra?
+
+Pyra wished for some time with Rex's parents at the cemetery. Rex waited for her for a while before asking, "Well, Pyra? Did you manage to talk to them?"
+
+"**I did!** We had a pleasant chat."
+
+He was eager to know, "**What did you talk about?**"
+
+"Everything that's happened since I met you. And I told them **not** to worry- _because I'm going to do_ everything in _my power to look after you._"
+
+Rex was surprised, "**I'm sorry, what? I can look after myself,** thank you very much."
+
+"I think not. **If you** go off on your own, you'll **just** get yourself into trouble."
+
+Gramps was excited listening to them, "**Hohohoh!** Already bickering like you're a married couple, eh?"
+
+"**Heeeeyyyy! Gramps!**"
+
+Pyra was taken aback, "C-couple?! But really, I-I didn't mean to..."
+
+"Ahahahah! It was just a joke. Besides, (he whispered) _you have to have that sort of mettle- to deal with Rex._"
+
+She felt a little shy, "Hm, come on, Azurda, cut it out!"
+
+Rex changed the topic, "Anyhow, we've done what we have to here, right? Time we should be getting back."
+
+"Oh, we're leaving already? _Can't we talk for a little more?_"
+
+"_We can do that when we get_ back, can't we?"
+
+"That's true, but the two of us rarely get the opportunity _to talk alone like this._"
+
+"I'm not sure you can say 'alone' when we've got Gramps tagging along..."
+
+Gramps, with tearful tone, "_Eh? This old fogey getting in the way?_ You want me to shove off?"
+
+Pyra cheered him, "No one's telling you to shove off, Azurda. Stop being such a child!"
+
+"Hohoho! Youth is a beautiful thing."
+
+Rex don't have anything in his mind right now, so he asked, "All right, what was it you wanted to talk about?"
+
+> Choose: "Do you miss your mom and dad?"  
+> or: "Have you always sent money home?"
+
+<details>
+<summary>"Do you miss your mom and dad?"</summary>
+
+"Ermmmmmm... I don't really know. What makes you ask?"
+
+"Well, I'm a Blade, so I don't really know much _about parents_. I was wondering what it's like to have them."
+
+He scratched his head, "Mmmm... I'm not sure- how to explain it. All I know about my parents, is what Gramps and Auntie Corinne have told me. Honestly, I have hardly **any** memory of them myself. It doesn't **really** feel real."
+
+"Isn't that sort of sad?"
+
+"Not _'sad'_ exactly... I've just never really thought much about them."
+
+"Oh, I see..."
+
+"I mean, it's Gramps and the villagers who've looked after me this whole time. They're my family. **Everyone** in the village is. And when you've got all these mums, dads, brothers, and sisters, it's kind of hard to feel sad, you know?"
+
+Gramps teased, "The downside to a big family is that you can't go a day without getting an earful from someone, eh!"
+
+"Hey, give it a rest!"
+
+"Hahahah!" Pyra love to see how they tease each other. 
+
+</details>
+
+<details>
+<summary>"Have you always sent money home?"</summary>
+
+"Yeah, I've been sending money back pretty much ever since I left the village to set off to become a salvager. I mean, take a look around. There's nothing here. Trade with other countries doesn't really cut it, and being self-sufficient only goes so far. What I earn is a pittance, but it's better than nothing, I think."
+
+Pyra was heartfelt, "But it can't be easy for you, either, living the way you do. You shouldn't push yourself _so hard._"
+
+"Mmmm, I guess. But I can't really leave my family out in the lurch either."
+
+"Your family? you mean the villagers?"
+
+"That's right. **Everyone** in the village is like family to me. I'll do everything in my power to help them!"
+
+Gramps added, "They're all very grateful to Rex for his work. Never thought a mischievous brat like you'd grow some backbone!"
+
+"**Who are you calling a brat?!**"
+
+"Hahahah!" Pyra love to see how they tease each other. 
+
+"**What? What's so funny?**"
+
+"Sorry, I didn't mean to be rude. I just couldn't help but _admire your way of thinking._ I'd love to have _a family as big as yours, Rex._"
+
+"**What are you talking about**, Pyra? **You're already part** of the family."
+
+Gramps finally found the best moment, took his chance, "So can we take this as **confession of love?!!!** (He literally jumped on his feet.) Very bold of you to do so in front of your parents, my boy!"
+
+Blood rushed up Pyra's cheeks, "_Wha-?!_ Rex, h-hold on a second!"
+
+He tried to deny, busy explaining to Pyra that he don't have the attention to teach Gramps a lesson, "N-no, that's not what I was trying to say! You, Nia, Mòrag, Zeke, and Tora too. You're all... family to me. So there's no reason to feel sad orrrrr lonely, that's what I'm trying to say!"
+
+Gramps cut in _again_, disappointed at the failed confession, "Uh, so much for the boy having backbone. (Whispering to her). _Sorry, Pyra, this one's going to be hard work._"
+
+"Heheheheh! That's all right. I've got a surprising amount of _patience._"
+
+He who cannot hear what they were talking wasn't happy of being left out, "**Oi! What are you two** going on about? _Jeez..._"
+
+</details>
+
+---
+
+### Family Ties
 
 ### Footnotes:
