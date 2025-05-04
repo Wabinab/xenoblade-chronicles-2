@@ -2501,6 +2501,544 @@ He who cannot hear what they were talking wasn't happy of being left out, "**Oi!
 
 ---
 
-### Family Ties
+### Reconnecting Familial Ties
+
+On the grassy thin path along the edge of the cliff, Mòrag stood alone, watching the Cloud Sea plunging into the Great Void far below. Wind reached the speed of hurricanes, and lightning struck when clouds rubbed against one another. 
+
+"So there you are, Mòrag." Pyra approached her, asked, "Is- something wrong?"
+
+"No, not at all. I've just been thinking."
+
+"Any particular worries?"
+
+"_Ah, it's just_... my brother."
+
+"Emperor Niall? Is he OK?"
+
+"I'm... concerned- he'll wear himself out."
+
+"The Emperor is quite young, isn't he..."
+
+"_Yes._ The weight of responsibility is a heavy burden for someone his age."
+
+"Have you two spoke recently?"
+
+"**Well**, as Special Inquisitor, I send him reports almost daily..."
+
+"No, I mean, just... talk, like siblings do. Chat about family stuff, things like that."
+
+"Talk like siblings do? It may shock you, **but** neither me nor the Emperor are great at small talk."
+
+"Don't overthink it. You can talk about anything, so long as it's not work. You should just go drop in."
+
+"_Ah_, the Emperor- is a very busy person..." she didn't realized she's raising excuses. "Engaging in idle chit-chat with me... That would be a waste of his time."
+
+> Choose: "Surely he'd be happy to see his big sis."  
+> or: "Sounds like you don't want to see him."
+
+<details>
+<summary>"Surely even the great Emperor Niall would be happy to see his big sis!" Pyra was insistent.</summary>
+
+"Thank you, Pyra. Alas, my brother and I are hardly your average family." She turned around to look at the Great Void, or perhaps, she just don't want to face her, "His Imperial Majesty andddd his retainer, the Special Inquisitor; our stations differ greatly, as- do our ways of life. We couldn't possibly expect to talk like normal siblings..." At least that's what she believed. Though, she'd never asked the emperor herself, and make assumptions based on her own extrapolations instead. 
+
+Mythra had instead replaced Pyra, feeling irritated, "**Ugggh, give me a break!** You think your 'stations' trump your relationship as brother and sister?"
+
+Mòrag jumped on her feet as she turned around, "**Mythra?! When did you...**"
+
+"I couldn't listen to you anymore. You're family, aren't you? You and Emperor Niall. Emperor or not, _he's your brother_, first and foremost. What more is there to think about?"
+
+"_Urgh_. **Even so**, it has been a long time since we've acted as siblings..." and it felt weird if she were to go back to the past times, she thought. It felt awkward trying to reconcile 'childish' relationship with him. 
+
+"**Look at me and Pyra!** We haven't exactly been in touch all that much. **And now?** We're rock-solid."
+
+She rebutted, "That's not exactly-"
+
+"**Shut it!**" She poached at her, stopped her from generating more excuses, "You've been worried about your brother- makes you family enough. Your stations don't come into it! Just **woman up**, and be a good sister already!"
+
+"**Hmm!!!** Maybe you're right."
+
+"_Of course I'm right. Obviously._ Just enjoy some time with your little bro and spoil him rotten. That's it."
+
+"Very well. Then I will strive to be the sister Niall deserves."
+
+"You **better be ready** the next time you two meet."
+
+"I will. I promise."
+
+"_Finally, we've made some progress._ You and Rex both get **so stuck** in your heads, it's infuriating."
+
+"Hahah! Thanks for the pep talk, Mythra."
+
+"You're very welcome!"
+
+</details>
+
+<details>
+<summary>"Hang on, Mòrag. Could it be that you don't want to see him?" Pyra sensed something else.</summary>
+
+"**No!** That's not it. I would like to spend time with him, no question. **But** I'm afraid our respective stations- would get in the way..."
+
+"Stations? You mean- because he's Emperor?"
+
+"Indeed. When my little brother took the throne, I volunteered to **become** his shield. It was then that we **cut** the familial bonds- between us."
+
+"_You poor thing..._" How awful is that, she thought. 
+
+"Please don't misunderstand. I-I-I do not regret choosing this life. To protect my brother and all of Mor Ardain? There is no higher joy for me."
+
+"_Huh..._ As a Blade, I **have** _no family_. But I do looooong for the kind of relations that a family brings. You and Emperor Niall are _already connected_, and more closely than you might think. **But still**, y-you don't goooo to see him...? _Why?_ Surely there wouldn't be any harm in just- talking and enjoying each other's company? In all honesty... there's nothing I'd want _more._"
+
+"_Hmm..._" That put Mòrag in deep thoughts. 
+
+"I think Emperor Niall would enjoy a chance to talk with you, too. I mean, isn't that what family's about? I don't think bonds can be **cut** as easily as that, you know?"
+
+"I... that is..." She don't know how to rebut. 
+
+Pyra urged, "**Just try! Go see him!** Emperor, retainer... That isn't what counts. You don't need some special reason to go talk to your brother, Mòrag! And I bet he'd appreciate it, too."
+
+She brightened up, "**Hah!** Indeed. It may well be as you say. **It's possible** that **I** was the one who **built**- a wall between us."
+
+Pyra was excited to help, "You know where to start, right? Tear down that wall!"
+
+"_Yes._ I'll do my best. Thank you, Pyra."
+
+</details>
+
+---
+
+### What's with Zeke?
+
+At the Cliff of Morytha, Runo Cave-in, which is some place that looked like surrounded by a V-shaped cliff walls, Rex asked, "Say, Mòrag, have you known Zeke for a long time?"
+
+"Indeed. We'd never spoken directly, but I knew of him."
+
+Brighid added, recalling, "The Prince paid a visit to Mor Ardain, did he not? _It must- have- been- not- long-_ after his departure from Tantal."
+
+"Yes, now that you mention it..."
+
+> Choose: "How was he, back then?"  
+> or: "You weren't really interested, Mòrag?"
+
+<details>
+<summary>Rex was curious, "How was he, back then?"</summary>
+
+Brighid: "Well, let's see... As I recall, the guards reported capturing a suspicious man, dressed all in black, and with a- funny accent."
+
+Mòrag agreed, "That's right! They'd stopped him at the palace gates and were about to throw him in jail."
+
+"He was already a shady customer back then, huh?"
+
+Brighid: "It's a good thing the Prince was feeling generous, **otherwise** it could have been a major diplomatic incident."
+
+Mòrag agreed, "Most certainly. Thanks be to his forbearance."
+
+"That's just _like Zeke, though._ I can almost picture it now..."
+
+"**Heheheheh**. That isn't even the worst of my Prince's heroic tales!" The eavesdropping Pandoria came out of nowhere because she could no longer keep quiet. Yet the group weren't surprised. 
+
+Brighid wanted to know, "There are worse ones yet?"
+
+She excitedly shared, "Oh yeah, loads! He's pretty much misfortune on legs. Like, when he visited Uraya, they mistook him for a rookie guard, and made us drill for 72 hours straight. My Prince was happy as a clam, said it was a **rarrrrre chance** to see other countries' training regimens. **If you ask me**, though, it was beyond awful." She shivered even thinking about it, carted complaining about it, **"The grub was worse** than Armu kibble, and they **didn't even have baths!**"
+
+"Calamity indeed."
+
+Mòrag: "Yet, despite that treatment, he let it pass without creating an uproar! Quite the gracious personage, our Zeke."
+
+Pandoria don't see it that way, "**Gracious?** I think he was just doing whatever he felt like..."
+
+</details>
+
+<details>
+<summary>"You weren't really interested, Mòrag?"</summary>
+
+"No, I was curious! I had heard him praised as the _greatest Driver in Tantal, after all._ I would have liked to spar with him, **but** at the end of the day I had my duties..."
+
+Brighid: "I was curious about him myself. _Truly, a shame._"
+
+"And now? You don't wanna spar anymore?"
+
+"No. There is no need. Now I can see him in action at my side. And he is as reliable as they come."
+
+Brighid agreed, "Quite... His personality may be _somewhat- unique_, but his prowess cannot be questioned."
+
+"Still, that's a shame! I would like to see the two of you go at it!"
+
+"**Hmmm...**" Mòrag agreed, "**Well**, if the opportunity arises, I would not **mind** facing him. Rivalry can benefit both parties. And it can only be **helpful** to grasp one's allies' **strengths**, and weaknesses."
+
+Brighid got nearer and whispered while Mòrag was busy considering the options, "Rex, a word of advice... _Try not to egg Lady Mòrag on. She tends to take people very- seriously._"
+
+"My bad..."
+
+</details>
+
+---
+
+### Mythra vs Brighid
+
+In the Land of Morytha, amidst the top of a fallen skyscraper's balcony, Mythra commented, "Seems like a good place to rest."
+
+Brighid walked up to her, asked, "Hey, Mythra... May I ask you something?"
+
+"Huh? Something up?"
+
+"I read over my journal again. We used to fight each other quite a lot during training, didn't we? Andddd it looks like- I usually came off worse..."
+
+"Don't take it too hard. **You really** gave it all you had; but I guess I've just got certain attributes. Sorry, what did you want to ask?"
+
+"Well, according to my journal... it looks like there was one time where I got the better of you."
+
+"Huh?"
+
+"I doesn't go into much detail. But still, besting the Aegis is- quite the achievement, don't you think? I really need to know how it happened, how I- managed to beat you."
+
+"That's bull."
+
+"_Huh?_"
+
+She panicked, stomping her feet on the (still rigid) ground, "Your journal is lying to you, Brighid! I never lost to you, not once!"
+
+"I don't think so! W-Why else would I have written it down?"
+
+"When exactly? What kind of match was it?"
+
+Without hesitation, she answered, hoping it would incite her memories, "It was in a camp in the Tornan borderlands, on the last day of training."
+
+"**That doesn't sound right at all! It's nonsense!**"
+
+> Choose: "You're saying my journal is mistaken?"  
+> or: "Are you calling me a liar?"
+
+<details>
+<summary>"You're saying my journal is mistaken?"</summary>
+
+"Ngh, **I meant... _that_ fight didn't count!**"
+
+"Didn't- count? Explain."
+
+"**That fight was right after I'd gone up** against Haze. **You begged** me to take you on! **So that's why it doesn't count!**"
+
+She came to a different conclusion, "I see. You- just don't want to acknowledge your defeat."
+
+"**I- told- you, you didn't beat me!**"
+
+"This is really childish, Mythra. It seems that you only won narrowly, in most of our other bouts. I don't know how you can be so stubborn!"
+
+"Hmmm... **Are you sure** your journal isn't just a load of fantasy trash-talk written down?"
+
+That incited her, "Mythra! You want a piece of me? **Come** get it!"
+
+Dromarch immediately rushed between them, acted as the middle men vowing for peace, "**Ladies, please!** Making a mountain out of a molehill here, aren't we? **There's no need** to brawl!"
+
+"We're not brawling." disagreed Mythra. 
+
+Brighid agreed, "That's right! We're just training. **OK!** Ready yourself! After so many years, let me set you straight!"
+
+"I'll make it **clear** this time. **You'll know I'm the better fighter once and for all!**" She's determined. 
+
+Dromarch saw his attempt failed, tried to convince yet again, seeking help, "Now, hold on! Not so fast! Will someone please intervene?"
+
+</details>
+
+<details>
+<summary>"Are you calling me a liar?"</summary>
+
+"The truth hurts, Brighid. **You purposefully** waited for a time when I was tired out for that fight! _That's a cowardly tactic._"
+
+"**Shut it!** We were pretty evenly matched, **my journal said!** We're almost level in terms of ability! There's nothing strange about me winning once in a while!"
+
+"Hang on. Why were you recording stuff like that in so much detail anyway? **Let me get a look** at that journal! I bet it needs a few corrections!"
+
+She felt incensed, "**Cut that out! Don't you dare try to taint the truth!**"
+
+"Ah... Erm..." Dromarch became the third party trying to calm their quarrels. 
+
+"**What?**" Mythra was shock. 
+
+"**Speak up!**" Brighid ordered. 
+
+"Do you really think it's wiseeeee to quarrel like this?"
+
+"This is not- a- quarrel, Dromarch. **Withdraw, if you want to retain your _whiskers._**"
+
+Mythra agreed, "That's right. This is just a friendly bit of rivalry. So keep your **nose** out of it! **Brighid! You will know my power today. For real.**"
+
+"**Mythra! You're going to EAT those words!**"
+
+"**Well now...** You two certainly have strangeeee concept of friendship."
+
+</details>
+
+---
+
+### Morytha the Unknown
+
+The storms continued to rage while the group observed the abandoned city. Nia sighed, "Who would've thought a place like this existed under the Cloud Sea?"
+
+"Yeaaaaaaah... Us salvagers die deep, but I've never dreamed there'd be this enormous space down here."
+
+"You'd be hard-pressed finding another place as vast as this, that's for sure." 
+
+Nia wondered, "Did people live here once, d'you think? If the whole space is filled with buildings like the ones around here, there must've been a **heck** of a lot of people living in them."
+
+"True, that. And the number of people aside, **can you imagine** the work it would take to cover this whole place in buildings?" His own country, Tantal didn't built much, reused from the ancient civilizations that left it. 
+
+"I can hardly imagine! I've salvaged a **whole bunch** of treasures over the years with functions we could **never** figure out! If this world is where they came from, I've gotta say it makes sense."
+
+"In any age, the ambitions of men build civilization _up_, and those same ambitions bring it _crumbling_ down."
+
+"That's so tragic..."
+
+"Why is this place in ruins anyways?" Nia wondered. 
+
+> Choose: "Because of the Cloud Sea?"  
+> or: "There must have been a war."
+
+<details>
+<summary>"Because of the Cloud Sea?" Rex hypothesized.</summary>
+
+"You think the Cloud Sea appeared one day and **covered** the whole thing up?" Zeke wasn't very convinced. 
+
+"Yeaaaaah. The crops wouldn't have grown any more, so people would have had to leave. And everyone would've wound up living above the Cloud Sea **instead**! Does that make sense?"
+
+"**I've** got the feeling it's the other way round. **You're saying** the Cloud Sea caused problems **here**, so people wound up living on the Titans. **But I think** the problems **here** came **first**, and that's how the **Cloud Sea** and the Titans were made. And **once** it became uninhabitable, they went and made a **new** place to live."
+
+"Hmmm..." Rex considered the possibility of that theory, couldn't come up with a conclusion. So, he turned his attention, "What do you think, Nia?"
+
+"Well, let's see... _Who freaking knows?!_ I mean, *this stuff* must've happened more than just centuries ago. How're we meant to have any idea?"
+
+"Well, that's why we're speculating, right?" Zeke nudged. 
+
+"Yeah, but I reckon _it's a waste of time!_ We still know barely anything about this place. **If we want to work** stuff out, we should search for more clues."
+
+"Well, that's a fair point. This place is beyond **anything** we've imagined, after all."
+
+</details>
+
+<details>
+<summary>"There must have been a war." said Rex confidently.</summary>
+
+"I think you hit the nail on the head. Some **terrible** war sounds pretty likely." Zeke agreed. 
+
+"But would a war cause THIS much devastation?" Nia wondered. "Maybe it was- some natural disaster or other?"
+
+"**Not out of the question**, but a **natural** disaster's not gonna level everything. It **wouldn't** be this widespread. Take a look outside. **Ruin** as far as the eye can see."
+
+"_Hmm..._ You could say the same about war, though. _What kind_ of a war could destroy _a city this big?_"
+
+Rex hypothesized, "Maybe... they had some kind of incredible weapon we've never seen."
+
+Zeke added, "Or just one hell of a lot of 'em. I hear a **crazy** number of **Blades** fought in the war 500 years ago."
+
+"You think something like that happened before?" Nia asked. 
+
+"Hard to say for sure. **I think maybe we need** to explore a bit further. This place is beyond **anything** we've imagined, after all."
+
+Rex: "To be honest, I think it's actually kind of exciting." To salvage not just parts but history, eh!
+
+</details>
+
+---
+
+### Growing Up
+
+There was a giant jellyfish island that Poppi QT looked at, accompanied by Tora, and they remained silence, enjoying their time. 
+
+![Giant Island](images/286_growing_up.jpg)
+
+That's until Pyra approached and called for her attention, "Hey, Poppi..."
+
+"Yes?"
+
+"I was just thinking how... **curious** it is. Even though you look completely different, y-you're still the same Poppi."
+
+"Poppi very strange! _Even Tora think so sometimes!_"
+
+"Even though you made her?"
+
+"That right! She grew so much, **BAM!** All at once!"
+
+"Perhaps friends could call Poppi by her model name?" she suggested. 
+
+"Very good idea." Tora thought so. 
+
+"What do you mean by model name?"
+
+He explained, "Well, Poppi's smallest mode actually has name: 'Poppi \\\(\alpha\\)'."
+
+Pyra was surprised, "**Oh really?** I didn't know that."
+
+"And this form called 'Poppi Quixotic Tutelar'."
+
+"**Wowwwwww**, that is a **very** impressive name!"
+
+Then she suggested strongly, "If friends refer to Poppi as- 'Poppi Quixotic Tutelar' when in this form, Poppi- **very**- happy."
+
+"T-that's a little bit of a mouthful!" Can't it be simplified? 
+
+"Quixotic Tutelar..." Tora tried it out for a while, then snapped, "**True true**, it difficult to say! Distinction of Poppis _may-be_ too hard now."
+
+"Really?" She doesn't find it so. 
+
+"Yes. In fact, Tora work _secretly on even more improved_ mode for Poppi. **When that finished**, must differentiate between whole three different modes. But that far too much bother! **'Poppi'!** That nice and simple, best way to call."
+
+> Choose: "I agree."  
+> or: "What's Poppi's third mode like?"
+
+<details>
+<summary>"I agree. Yeah, I think Poppi suits her just fine. It's short, and easy to understand. And <b>besides</b>, no matter how she looks, she's still the same Poppi."</summary>
+
+"That is what you said before." noted Poppi QT. "Poppi has no problem with being called Poppi."
+
+"Good good!"
+
+"We came full circle..."
+
+"Masterpon, **Poppi is curious**. What is new mode of Poppi like?"
+
+</details>
+
+<details>
+<summary>"What's Poppi's third mode like?"</summary>
+
+(Nothing here)
+
+</details>
+
+"That **excellent** question! It called... 'Quantum- Technochampion \\(\pi\\)."
+
+"That is another very impressive name!" Pyra was impressed. 
+
+"It sound powerful." Poppi QT was eager. 
+
+Tora confessed, "Name came to Tora **suddenly** when he decide whether to enter swimming pool with **left.. or right foot.**"
+
+"Name origin story sound **completely** irrelevant."
+
+"So... how exactly are you going to remodel Poppi?"
+
+"Mmm... _Tora not decided yet._"
+
+"Oh really?"
+
+"Name only **first step** in process."
+
+"Sound like it **not** happen any time **soon**." Poppi QT was disappointed. 
+
+He reassured, "It not take that long. **Tora brainstorm day and night.** Suddenly one day new design will appear like **ether bulb** over head. That- just how inventors do."
+
+"If Masterpon say so..."
+
+"When inspiration strike, Masterpon power up Poppi **ASAP**. Please, **trust** in Masterpon!"
+
+"Understood. _But if Poppi_ had breath, Poppi would not hold it."
+
+Tora was disappointed, "_You not trust Masterpon at all!_"
+
+"Hahaha! Appearances may change, but Poppi will always be Poppi, huh?"
+
+[Read more of Quantum Technochampion \\(\pi\\) mode here](./95_QT_pi.md)
+
+---
+
+### Creation of Tora: Poppi's armor
+
+"So, this is the abode of the mighty Tora?" Brighid who'd never visited his house observed, standing before the cabinet where Poppi was before she's awaken. 
+
+"**HEEEEEEYYYY!!! Careful with hands!** Lots of breakable and valuable things!"
+
+As if she never heard, she took something on her hand and felt it, "Huh? W-What's this?"
+
+"**AHHHHH!!! That more than enough fiddling! Don't handle Tora's stuff!**"
+
+Pyra was curious too: "What's this? It's all fluffy... Is this a... Bunnit costume? Doesn't look very scientific..."
+
+"That armor for Poppi!" She immediately recognized. 
+
+Brighid doubt, "Armor? It's got _eaaaaars_ and everything."
+
+Pyra too: "**This won't** provide protection. It's more like something from a beauty pageant."
+
+"This Cutie Bun-Bun Armor!" Poppi introduced. 
+
+"Cutie Bun-Bun Armor?"
+
+"Correct! This state-of-the-art armor. Everyone wish they had such good defense!" Oh my God, what had you done to her, Tora? "Additional function is to cheer up Masterpon with extreme cuteness."
+
+Brighid was convinced that "It looks like _that's_ its primary function..."
+
+"Cheer-up effect can be boosted by initiating tail-wiggle dance protocol."
+
+Turning to him, she strictly spoke, "Tora, I think you have a little explaining to do here."
+
+"_Mehmeh..._" Sweat started flowing down his furs like rain rolling down the windshield during a heavy downpour. 
+
+> Choose: "Try to explain"  
+> or: "Be defiant."
+
+<details>
+<summary>With panicking voice, "Erm... if you listen to Tora's explanation, it make <b>perfect</b> sense!"</summary>
+
+"I'm all ears, Tora."
+
+His confidence came back as he speak without blushing, "This not thing that Tora make! Nothing to do with Tora really! This creation of Dadapon and Grampypon. Tora never used!" Ahem, what about the cabinet to your right that's now closed, Tora? 
+
+"Is this true, Poppi?"
+
+"Correct. This armor was designed by Masterpon's Grampypon. Masterpon's Dadapon improve design further and perfect its defensive capabilities."
+
+"Huh? Is that right?" Pyra wasn't very convinced. 
+
+"That **entirely right! Tora not fib-teller!**"
+
+But he said too early. With wings widespread, the most shocking revelation came. With arms on both side of her waist, Poppi proudly revealed, "Masterpon put finishing touches in form of **tail-wiggle dance** protocol."
+
+Brighid and Pyra took a step back from this jerk... "Meeeeehhhhh..."
+
+"Masterpon work **feverishly** on this feature. **Tail-wiggle protocol** consume Masterpon's waking hours until he perfect wiggle angle and ear flap rate."
+
+Brighid looked at him, "**Oh**, is that so? That's... **very interesting**... Tora!"
+
+Panicked, he reminded, "Poppi! Poppi! Don't reveal _Masterpon's secrets!_"
+
+She don't understand. "Why not? This excellent opportunity to share Masterpon's research with group."
+
+Brighid agreed, "Poppi's right! Really, this- is- fascinating. Do continue, Tora! I'd especially like to hear about your views on **women**."
+
+"Mehmeh?!!!"
+
+</details>
+
+<details>
+<summary>"Ahem! This armor that Tora build based on <b>Dadapon and Grampypon's</b> design! This fruit of three generations of <b>research!</b></summary>
+
+"Tora, this is indefensible!"
+
+Poppi shared, "Also, tail-wiggle dance protocol created entirely by Masterpon."
+
+"**ARRRRRGGGG-Indeed! Tora's scientific passion!**"
+
+"I don't think this has much to do with **scientific** endeavor, Tora! You can't dress Poppi up like this!"
+
+Pyra also don't agree, commented, "Tora, that's not cool."
+
+"Masterpon. Poppi not understand." She dropped her head  in confusion. 
+
+Panickingly, he warned, "**Don't listen, Poppi!** Poppi should be proud of very special, one-of-kind armor!"
+
+Brighid can't take it anymore, "Tora, you should get rid of this horrible thing. Pyra, maybe you could just... reduce it to ashes for us?"
+
+Not sure why she don't do it herself, but "OK! I'd be happy to!"
+
+"**NOOOOO!!! Do not destroy Tora's wonderful creation!**"
+
+Brighid was searching the room when she found the wardrobe. "Come here, Tora! **Come here and explain yourself** properly!"
+
+"**No, no! Stop! Hot! Hot! Meh!** Urgh! **AHAH It Burns!!!**" What happened to his creation or his fur after that we do not know. 
+
+</details>
+
+---
+
+### Quantum Technochampion \\(\pi\\)
 
 ### Footnotes:

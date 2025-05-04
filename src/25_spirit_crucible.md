@@ -1,18 +1,16 @@
 # Spirit Crucible Elpys, "I love you too, Nia!"
 
-===
+The group, on medium alert, was quietly traversing the tunnels thud sound attracted them. They turned around and saw Dromarch collapsed. Nia wondered, "Dromarch! What're you stumbling for?"
 
-The group walked deep into the tunnels when Dromarch collapsed. Nia asked, "Dromarch! What're you stumbling for?"
+"Sorry, my lady. I've been feeling... a little dizzy..." He effortfully sat up. 
 
-"Sorry, my lady. I've been feeling... a little dizzy..." He sat up. 
-
-"You too?" asked Brighid. 
+"You too?" 
 
 "**You** too, Lady Brighid?"
 
 "Yes, for a little while now. Though I'm still capable of standing."
 
-"Hey, same here!" Pandoria added in. "What's up with this place? _It's kinda_ creepy."
+"Hey, same here!" Pandoria joined in, rubbing her hands on her shoulders, "What's up with this place? _It's kinda_ creepy."
 
 "What is going on here?" Mòrag wondered. 
 
@@ -24,9 +22,9 @@ The group walked deep into the tunnels when Dromarch collapsed. Nia asked, "Drom
 
 Zeke: "I say..."
 
-Poppi checked her meter readings, "Ether flow scarce in this area. **That** may be cause of problems."
+Poppi analyzed her meter readings, "Ether flow scarce in this area. **That** may be cause of problems."
 
-"Like that time in the Tantalese palace?" asked Nia.
+"Like that time in the Tantalese palace?" Nia compared.
 
 "That not only thing. Glowing particles in air... **They absorb ether!** That is source of light."
 
@@ -40,27 +38,27 @@ Zeke concluded, "So not only do you have less **power**, the power you **DO** ha
 
 ---
 
-Deeper into the cavern, on an ancient-looking platform, there was another tunnel leading to their destination up ahead, across the hanging bridge. Rex exclaimed, "We have to cross that?"
+Diving deeper into the tunnel, they stood on an ancient-looking platform, an interlude cave between 2 tunnels. The tunnel ahead was across a hanging bridge. Rex exclaimed, "We have to cross that?"
 
 "Yes. But we must- proceed with caution. Once we enter, the Blades will be sapped- of most of their power. If they- run out of energy, they might be forced- to return to their- core state. And there's a chance they could never be reawakened."
 
-"**Pandy, you'd better just stay here** and guard the fort."
+"**Pandy, you'd better just stay here** and guard the fort." Zeke strongly urged. 
 
-"**Why just me? Don't you want me?**"
+She started panicking, "**Why just me? Don't you want me?**"
 
 "**Don't ask dumb questions. You know very well why**, don't you?"
 
-"**If I'm staying, you ought to stay-**"
+But she won't abide, "**If I'm staying, you ought to stay-**"
 
-"**I'll be fine! When am I**- ever not?"
+"**I'll be fine! When am I**- ever not?" Yet the tone of his voice wasn't as confident. 
 
-She panicked, "**If you're going, I-**"
+"**If you're going, I-**"
 
 "**I'M ORDERING YOU TO STAY HERE!**" 
 
-Mòrag and the others hand been listening for a while now, wondered, "Is there something- wrong?"
+Mòrag and the others hand been listening for a while now, she wondered, "Is there something- wrong?"
 
-Zeke wasn't going to explain, "Pan-doria was just agreeing to stay behind." 
+Zeke refused to explain, concluded, "Pan-doria was just agreeing to stay behind." 
 
 "**Nuh-uh! I'm going WITH you!** We made a promise, didn't we?! Don't you dare say you've forgotten!"
 
@@ -72,29 +70,29 @@ Reluctantly, "Fine!"
 
 On the other side, "My lady."
 
-"I'm fine. We *can't* give up now we've come this far. **Don't!** I _know_ what you're gonna say."
+"I'm fine. We *can't* give up now we've come this far. (Before Dromarch could say anything, she snapped) **Don't!** I _know_ what you're gonna say."
 
 "I... _Understood._"
 
-Mòrag turned to her, say, "I don't know what's in there. But, apart from Tora and Poppi, we're all going to find our abilities severely weakened. Be careful, Rex."
+Mòrag commented, "I don't know what's in there, but, apart from Tora and Poppi, we're all going to find our abilities severely weakened. Be careful, Rex."
 
 Zeke added, "Yes... **Healing Arts are going to be less effective,** too. **One nasty wound** and that'll be the end of you."
 
 "**Yeah, I get that. Tora, Poppi, we'll need you**- on the front line."
 
-"**You got it, Rex-Rex!** Poppi is **artificial** Blade, so **request** is **very extremely not a problem! Technology save the day! Three cheers for Nopon know-how!**" He fluttered his wings high in the air and danced. 
+"**You got it, Rex-Rex!** Poppi is **artificial** Blade, so **request** is **very extremely not a problem! Technology save the day! Three cheers for Nopon know-how!**" He punched his wings high into the air while doing the Nopon dance. 
 
-"Where are Poppi's cheers?" she wondered. 
+"Where are Poppi's cheers?" she too wanted her artificial Blade dance. 
 
-"Hahahah! Thanks, guys!"
+At least that cheered him up, "Hahahah! Thanks, guys!"
 
 ---
 
-As they get on deeper and deeper, Pandoria stopped behind, hugged herself, feeling the cold. Brighid and the others noticed her anomaly, Mòrag asking, "Are you... all right?"
+As they dived deeper and deeper, Pandoria stopped and crossed her arms across, rubbing herself. Her anomaly did not go unnoticed, and Mòrag was exploratorily asking, "Are you... all right?"
 
-She tried to hold herself together, trying to look normal, "Never... better! I'm... right as... rain!"
+She tried holding herself together, trying to act normal, but her voice betrayed her, "Never... better! I'm... right as... rain!"
 
-"The deeper we go, the thicker these particles get. You can still turn back."
+She strongly encouraged, "The deeper we go, the thicker these particles get. You can still turn back."
 
 "Thanks. Your concern is touching."
 
@@ -102,7 +100,7 @@ Zeke urged, "Worry about yourself, yeah? **I can**- look after her."
 
 Rex observed, "Zeke, you don't look so good yourself. Is something wrong?"
 
-"Huh? Oh, yeah... I didn't think it was worth mentioning, but uh..." He untied his shirt and showed his left chest. An isosceles triangle rotated to the left 90° was implanted on his chest. Notice closely, it fits into the missing triangle pieces on Pandoria's rectangular core. 
+"Huh? Oh, yeah... I didn't think it was worth mentioning, but uh..." He untied the upper buttons on his shirt and showed his left chest. An isosceles triangle-shaped crystal rotated to the left 90° was implanted on his chest. If you notice closely, it fits into the missing triangle pieces on Pandoria's rectangular core. 
 
 ![Blade eating](images/271_blade_eater.jpg)
 
@@ -110,33 +108,35 @@ Rex observed, "Zeke, you don't look so good yourself. Is something wrong?"
 
 "I- told you about the time I almost- bloody died, right?"
 
-> "**My Prince! Zeke! Not like this! Not here! Not far now! Just a little further! You can do it!**" Pandoria cried as she tried doing CPR to Zeke. 
+> "**My Prince! Zeke! Not like this! Not here! Not far now! Just a little further! You can do it!**" Pandoria cried out loud. The CPR she's doing to him wasn't resuscitating him, but what else could she do?  
 > 
-> "_Just... leave me... Go on... without me..._"
+> He breathed in less than breathing out, "_Just... leave me... Go on... without me..._"
 > 
-> "**No!**" She pumped harder. "**If you die, ungh, I'll turn back into a Core Crystal! I don't want to forget everything!**"
+> "**No!**" She pumped harder and faster. "**If you die, ungh, I'll turn back into a Core Crystal! I don't want to forget everything!**"
 > 
-> "_Pandy... I'm sorry... I hope... your next Driver... is better... than me..._" With every breathe in less than breathing out, his words were no longer strong. 
+> "_Pandy... I'm sorry... I hope... your next Driver... is better... than me..._" 
 > 
-> "**I don't WANT another Driver! You're... you're good enough!**" His hand that held on her collapsed on his torso. "Prince! **ZEKE!**" Her CPR wasn't working. 
-> 
-> ---
-> 
-> Among grassy plains, Pandoria carried him on her back, putting one heavy step after another, "I **refuse** to forget our 10 years together! It's **not** going to happen! I'm not... letting you die... _here..._" She ran out of energy and collapsed, his weight pressing on her. 
-> 
-> As she was losing consciousness, she heard footsteps. Opening her eyes, her blurry vision saw some figures walking towards them. "_Uh... Wha... Bandits?_" The soldiers with swords on their side got to the side as Amalthus walked in between them. "_Sucks... I don't want to be a bandit's Blade... But... I guess I won't- remember... anyway... Prince..._" Her vision went dark with her last view of Amalthus. 
+> "**I don't WANT another Driver! You're... you're good enough!**" His hand that held on her collapsed on his torso. "Prince! **ZEKE!**" Her CPR had failed her Prince. 
 > 
 > ---
 > 
-> "**Prince?**" She woke up on a white fluffy bed in the Praetorium. Looking around, she saw Zeke unconscious on the bed to her right. She walked over to check him out. 
+> Her vision was blurry. Every step seems to plunge into the soil below. But she walked on, "I **refuse** to forget our 10 years together! It's **not** going to happen! I'm not... letting you die... _here..._" 
 > 
-> "Fear not. He is going to be fine." assured Amalthus.
+> Till she reached her limit and his weight overburdened her, and they collapsed. She thought she saw stars. She thought tinnitus occupied her ears. She thought she saw figures. She thought she heard footsteps. Sure, some silhouette walking towards them from her left.  "_Uh... Wha... Bandits?_" 
+> 
+> The soldiers carrying swords formed an alley for Amalthus to walked in between towards them. "_Sucks... I don't want to be a bandit's Blade... But... I guess I won't- remember... anyway... Prince..._" Darkness overtook her vision with Amalthus's face occupied her final impression. 
+> 
+> ---
+> 
+> "**Prince?**" She looked around. White fluffy bed, white walls. These decorations looked so familiar, but she had not the attention to care. She scanned for the figure that occupied her mind till her last stage, and found him laid unconscious on the bed to her right. She walked over to check him out. 
+> 
+> "Fear not. He is going to be fine." assured Amalthus, walking into the room. 
 > 
 > "You... you saved him?"
 > 
 > "The fact that you're alive... is **proof of that**, is it not?"
 > 
-> "Urgh!" She suddenly felt a pain in her chest. She looked down and saw her rectangular core being incomplete. 
+> "Urgh!" Now that she had time to think otherwise, she felt a searing pain in her chest. She looked down and saw a dent in her rectangular core, missing a piece.  
 > 
 > Amalthus explained, "I had to transplant... part of your Core Crystal into his heart. His wounds were grave. It was the only way... to save you both." 
 > 
@@ -144,7 +144,7 @@ Rex observed, "Zeke, you don't look so good yourself. Is something wrong?"
 > 
 > ---
 > 
-> Zeke walked out of the Praetorium with Pandoria trailing behind. A few soldiers at the edge of the square watched the inhabitants play and gathered around the center. He stopped and looked at them, "_I'm sorry. It's all my fault._"
+> Zeke walked out of the Praetorium with Pandoria trailing behind. A few soldiers at the edge of the square watched the inhabitants play and gathered around the center. He stopped and looked at them, but his mind wasn't on them, "_I'm sorry. It's all my fault._"
 > 
 > She shook her head. exclaimed excitedly, "Actually, I'm glad!"
 > 
@@ -158,7 +158,7 @@ Rex observed, "Zeke, you don't look so good yourself. Is something wrong?"
 > 
 > He looked away and spoke something to her; she beamed with contentment after listening. 
 
-Rex wondered, "They do **that**, in Indol?"
+Rex was surprised, "They do **that**, in Indol?"
 
 "I guess you and I are more alike than you thought, chum. Though, mine was- _just a_- surgical procedure."
 
@@ -166,7 +166,7 @@ Mòrag: "You make it sound so simple. I'm still trying to wrap my head around it
 
 "You know the people of Indol- can trace their roots back to Judicium?"
 
-Nia: "Ju-dicium? The creators of that Titan weapon thing from Temperantia?" She hasn't yet joined the dots. 
+Nia: "Ju-dicium? The creators of that Titan weapon thing from Temperantia?" 
 
 "Yeah, them. They carried out experiments, fusing Blade and- human cells, _creating- Flesh Eaters._"
 
@@ -174,15 +174,13 @@ Mòrag: "So... those practices **persist**- in Indol?"{{footnote: She was not th
 
 "Hey, so they took advantage of Blade regeneration... and **patched** me up with- Pandy's Core Crystal, right? Since I have part of her core in me... **I'm a Flesh- no, a Blade Eater!** Or something! Huhuhuhuh!"
 
-"A Blade Eater..." Nia wondered, touching her chest. Was she that different? It occupied her attention so fully she hadn't had time to link the dots! 
+"A Blade Eater..." Nia wondered, touching her chest. Was she that different? It occupied her attention so fully she hadn't had the attention to join the dots! 
 
 Pandoria agreed, "That's right. _That's gotta be why this place is getting to you, too..._"
 
 Zeke tried to rough it out, "_It's... all good. Let's just- **push on!**_" And they lead the way. The others didn't say anything. Nia stayed back for a little; we know not what she was thinking. 
 
 ---
-
-> (===Done Start===)
 
 There was a wall with torches{{footnote: Why does an ether lamp surrounded by ether-drawing particles still have ether to lit it? One don't know!}} installed on it blocking their way. Nia's breathe was shallow, and she kept touching her chest, feeling her losing strength. 
 
@@ -434,6 +432,8 @@ The deepest portion of the Spirit Crucible was a giant crest carved out on the w
 
 He looked up and his eyes lit up as he saw the crest that looked like fire. "That seal... It's the same as the one on the ship."
 
+[Crest/Seal in the depth of Spirit Crucible Elpys](images/276_crest.jpg)
+
 Before they could do anything or search for anything, dark clouds swirled around them, concentrated into a few blocs, and formed into a figure that looked like Addam wielding his sword and his cloak over his head, all of them, with only their red eyes as distinguishable features. Brighid wondered, "Who? Or- what?"
 
 Gramps urged, "**Heeeeey! Watch out there, Rex!**"
@@ -512,15 +512,13 @@ While he looked around, searching for the voice of Addam, it continued asking, "
 
 "**Whuh?**" Everyone was wondering what just happened when the light engulfed them.
 
-> (===Done End===)
-
 ---
 
-Elysium in the dream. Rex still stand before the plains at the top of the hill, but she no longer stood below the tree. Instead, replaced by Addam. "My name is Addam. I am long departed from this world."
+Elysium in the dream. Rex stood near the top of the hill, but she no longer stood below the tree. Instead, the hooded guy that do introduced himself, "My name is Addam. I am long departed from this world."
 
-He thought for himself, "That voice... before..."
+He recognized, "That voice... before..."
 
-Addam looked at the church and town at the horizon, giving him a back to see, asked, "What is your name, boy?"
+Addam was looking at the church and town at the horizon, back facing him, asked, "What is your name, boy?"
 
 "Rex. I've been here before. This is Elysium! Pyra was standing under that tree, over there. _She looked... lonely._"
 
@@ -536,7 +534,7 @@ A ding in the distance. "It is beautiful," he said.
 
 "_Yeah._"
 
-He turned around and asked, "Rex, what is it that you seek?" Under the hood, he cannot see how he actually look like. "Wealth? Power? Dominion?"
+He turned around and asked, "Rex, what is it that you seek?" Under the hood, he cannot see his face. "Wealth? Power? Dominion?"
 
 He went into his thinking mode, "_Errr..._ None of those, _really._ Though, power might be useful."
 
@@ -554,19 +552,19 @@ He went into his thinking mode, "_Errr..._ None of those, _really._ Though, powe
 
 "It is not _necessary to protect everything_. **There is- a limit-** to what- one man- can do."
 
-"_That's true..._" Perhaps he shouldn't be so greedy after all, he thought. But he don't felt like giving up anyone on his list, all those dear and beloved he wanted to keep close to. 
+"_That's true..._" Perhaps; but he's not so sure about giving up anyone on his list, all those he wanted to keep close to, he wanted them to be safe. 
 
 "But, **there is** _something granted to you especially._"
 
 "Please, tell me what it is."
 
-"_The power- to accept her._ She is afraid. Of her own _power... and her terrible destiny._ And I, too, _was afraid._ **I feared**- _the true power of the Aegis. Hmm..._ Your will to fight comes- _from your will to protect._ Blades and mortals are _linked._ **When you take** on _the weight of all the... fear she carries,_ then you... will be her true Driver." A bright turquoise light engulfed the Elysium in the dream. 
+"_The power- to accept her._ She is afraid... of her own _power... and her terrible destiny._ And I, too, _was afraid._ **I feared**- _the true power of the Aegis. Hmm..._ Your will to fight comes- _from your will to protect._ Blades and mortals are _linked._ **When you take** on _the weight of all the... fear she carries,_ then you... will be her true Driver." A bright turquoise light therefore engulfed the Elysium in the dream. 
 
 ---
 
-"Rex! **Rex!**" His consciousness returned from the dream, hearing Nia calling for him. She asked, "What happened? You- haven't- said anything since the _ghosts_ disappeared."
+"Rex! **Rex!**" His consciousness just returned from the dream, hearing Nia calling for him. She asked, "What happened? You- haven't- said anything since the _ghosts_ disappeared."
 
-He reassured her, but didn't talk about Addam, "Yeah, I'm fine. **Never better!**" He turned and walked towards the tombstone below the crest. The group wondered what had he got to do. At one signal, the top of the tombstone opened up, and the whole tombstone external layer descend into the ground below, revealing the third sword of the Aegis. 
+"Yeah, I'm fine. **Never better!**" He reassured her, but didn't talk about Addam, then turned and walked towards the tombstone below the crest. The group watched the top of the tombstone opened up, and the whole tombstone external layer descend into the ground below, revealing a transparent sword plucked into the middle of it, previously encased. 
 
 ![Third Sword of the Aegis](images/275_aegis_sword.jpg)
 
@@ -574,11 +572,11 @@ His eyebrow clenched looking at it. Zeke exclaimed, "_That's..._"
 
 Mòrag: "_The third sword. Ugh!_"
 
-Rex put his fingers around its hilt and pulled it out with ease. No, no story of Excalibur. The crystal in the sword shone bright when he looked at it. His eyebrows raised, what happened? 
+Rex put his fingers around its hilt and pulled it out with ease. No, no story of Excalibur. The crystal in the sword shone bright when he looked at it. His eyebrows raised as memories flooded through him. 
 
 > Along the equator, a comet-like object flew along the solid path. An explosion swallowed some planet in deep space. The hexagon we saw in the previous page in the dark room. 
 
-His surprised dimmed, as if he'd expected the sword to disintegrate before his eyes. The group was shocked, looking it turned into dust. 
+The more memories transferred to him, the more the sword disintegrate before him. The group cannot believe why would it turned to dust. 
 
 Brighid exclaimed, "**What?**"
 
@@ -586,13 +584,13 @@ Dromarch: "**The Aegis Sword.**"
 
 Tora don't understand, his wings fluttered, and Poppi mirrored his movements, "_Why? Why did sword break?_"
 
-Mòrag thought, "Perhaps it was just... down here too long."
+Mòrag hypothesized, "Perhaps it was just... down here too long."
 
 Zeke cannot believe, "**You're bloody kidding me, right? After we trudged ALL the way down here?**"
 
-"It's OK!" Rex reassured with confidence. He already knew where the sword was. 
+"It's OK!" Rex reassured them full of confidence. The sword was always in his heart, he believed. 
 
-But not Nia, "How can it be OK? Pyra's one true sword just broke!"
+But Nia can't fathom, "How can it be OK? Pyra's one true sword just broke!"
 
 "This was never about the sword. **We have everything we need!**"
 
@@ -600,18 +598,16 @@ But not Nia, "How can it be OK? Pyra's one true sword just broke!"
 
 "I know now. What I have to do. **Let's go! We've got rescuing to do!**"
 
-Nia don't understand, tried to convince, "Rex, look-..."
+Nia tried to convince the one whom had gone mad from her point of view, "Rex, look-..."
 
 "**Nia**, do you trust me?"
 
 "Yeah, _but-_"
 
-Mòrag was more observant, "You've realized something, haven't you, Rex? Something important, that the rest of us... **can't see.**"
+Mòrag was more observant and compassionate, "You've realized something, haven't you, Rex? Something important, that the rest of us... **can't see.**"
 
 His confidence unwavering, nodded. 
 
 "I'm with you. I've seen... that look in your eyes before."
-
-
 
 ### Footnotes:

@@ -39,15 +39,19 @@
 - [Escaping](./22_escaping.md)
 - [Pyraaaa... PYYYRAAAAAAA!!!](./23_omega_fetter.md)
 
-# The Fear She Carries
+# Chapter 7: The Fear She Carries
 - [Where is Hope?](./24_third_aegis_sword.md)
 - [Spirit Crucible Elpys, "I love you too, Nia!"](./25_spirit_crucible.md)
 - [Stand With Me One More Time!](./26_rescue_pyra.md)
 
+# Chapter 8: World Tree
+- [Together with Rex, Jin's Sadness, A Promise](./27_a_promise.md)
+- [The Hubris of Mankind, Unborn Blades, Jin's Story](./28_torna.md)
+
 ---
 
 [Heart to Heart](./96_heart_to_heart.md)
-
+[Poppi QT \\(\pi\\)](./95_QT_pi.md)
 
 [Postscript](./97_postscript.md)
 [References](./98_references.md)
