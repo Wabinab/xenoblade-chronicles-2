@@ -3041,4 +3041,493 @@ Brighid was searching the room when she found the wardrobe. "Come here, Tora! **
 
 ### Quantum Technochampion \\(\pi\\)
 
+On the lower levels while climbing the World Tree, Zeke and Tora was at a balcony overlooking giant support beam in the distance; nothing else interesting could be seen in the foggy mist. Zeke commented, "I don't know what I was expecting in here but this jolly well- isn't it."
+
+"Tora surprised too! Insides of World Tree make Tora's head go all swirly-whirly!"
+
+"When it's even getting to Tora, you **know** it's serious business!"
+
+"No need for surprise. Masterpon lacking in **many** regards." out came Poppi QT\\(\pi\\) from nowhere and commented. "In particular, **common sense** level close to **0**%."
+
+Masterpon trembled, and answered with a trembling voice, "_Errr_, Poppi! It- it go without saying, but Blade should not diss Masterpon! _Poppi get very impudent since activating **QT\\(\pi\\) mode**._ **She is difficult girl!**"
+
+"Difficult?" Zeke don't understand, "Didn't you- **make her**, though?"
+
+"**Yes**, in manner of speaking, but- Poppi is result of work of threeeee generations. Actually, there plenty in Poppi that Tora not know or understand."
+
+She added herself, "Poppi's components contain elements from Professor Soosoo and Professor Tatazo in addition to Masterpon. Poppi comprise hopes and dreams of alllll three. Any one might be stronger at **any** given time!"
+
+"You're obviously a lot more _complex_ than I gave you credit for, Popster. **So**, hey, Tora. **Does that mean** even you don't know everything she's capable of?"
+
+"That right. Basis of mode change function was laid down by Grampypon Soosoo. So, part of **system core** is sealed mystery, or 'black box'."
+
+> Choose: "Can't you, like, investigate?"  
+> or: "Are you also in the dark here, Poppi?"
+
+<details>
+<summary>"Can't you, like, investigate?"</summary>
+
+"Unfortunately no. _Even Dadapon not able to fathom what going on in there. That because the box have note on it saying_ **'Do not open!'**"
+
+Zeke was awestruck, "The... box? **I thought 'black box'** was some kind of fancy **engineer** term or something!" Now you're telling me it's a physical black box? 
+
+"You want to see?" Poppi QT\\(\pi\\) asked. 
+
+"So, the box is in Poppi's stomach or something? Why don't we open it and see?" Zeke encouraged. 
+
+Tora fluttered his wings, "Nooooooo **way!** That might activate **self-destruct mode of Poppi.**"
+
+Zeke jumped back, "Se-sel-**self-destruct?!** You can actually do that?"
+
+"Of course." Tora answered for her. "Grampypon thought self-destruct was hero's most _daring_ and noble act. So... **best not tamper.**"
+
+Zeke gloomily commented, "Your Grampypon had some **very** strange ideas, Tora. **Are you OK with that, Poppi? Having a bloody great bomb** in your stomach, I mean!"
+
+"**Oh, yes.** No problem. Bomb is **comparatively safe** next to Poppi's other functions."
+
+"**MEH!!!**" Zeke jumped even further, Tora voice trembled at how she spoke so calmly at such. 
+
+"Hmm..."
+
+"Meh? What happen?" Poppi QT\\(\pi\\) was surprised at their reactions. "Zeke? Masterpon? Why you suddenly make selves far from Poppi?"
+
+</details>
+
+<details>
+<summary>"Are you <b>also</b> in the dark here, Poppi?</summary>
+
+"In the dark about functions?" she clarified. 
+
+"Right. **Sure you've not got any** hidden abilities kicking about in there?"
+
+"Uh let me see..." She scanned her panels for any more information about it. After a while, she confidently commented, "Function identified!"
+
+Zeke was impressed, "**Oh, excellent! Let's see it, then!**"
+
+Suddenly, Poppi QT\\(\pi\\) started barking like a dog, "Woof, woof, woof, woof! Orgh orrrrrrgh, Grrrr, orgh orgh orh..."
+
+"What's going on?"
+
+"Woof woof, orghhh orrrrgh. Dog Mode orrrgh."
+
+Tora fluttered his wings, tried to remind her, "**Poppi!** _That mode is only for park!_ Tora sealed Dog Mode so people not think Tora some kind of... weirdo!"
+
+Zeke agreed, "Yyyyyyeah. That is more than a little bit weird! I mean, come on, Tora, _why don't you just get a real dog?_"
+
+"**Tora not have time for real dogs.**"
+
+"**Aaaaaaaanyhow, Poppi, surely** that's not the only ability you've got? **You don't have any** hidden function we could use for battle or exploring? Something like that? Even without Tora, you must be able to do **a bit** of digging around in that black box of yours, no?"
+
+She answered without hesitation, "Negative."
+
+"**Negative?**"
+
+</details>
+
+---
+
+### Tora's Families
+
+In the Old Factory of Mor Ardain, Tora stood on top of the control panels, looking outside the window panes at the three giant ether cylinders. Rex approached and asked, "**Hey, Tora! What's up?** You look a little bit spaced out, looking at the view like that."
+
+He turned around and answered effetely, as if all energy had been drained from him, "_Ohhhh, Rex-Rex!_ Tora was just thinking about when they captured Dadapon."
+
+"_Right..._ Come to think of it, this was the place where he had to create all those artificial Blades."
+
+"**Dadapon always** was bit of a scaredy-pon. Shy. Couldn't do bad thing, even when needed to do bad thing. _What happened to Dadapon was..._"
+
+"Tora?"
+
+"How could they make him make so many rubbish Blades... Tora **can-not i-ma-gine how bitter it was** for Dadapon!"
+
+"Huh? **Hang on a moment**, Tora."
+
+"What is it, Rex-Rex?"
+
+"**I thought you were sad because your dadapo- I mean, your dad, he got captured?**"
+
+"**Nooo!** Not that!{{footnote: So you love your dad being captured?}} Dadapon **happy whenever working**. Dadapon **love his work very much!**"
+
+"Really?!"
+
+"Really! Just look at **Lila and Rosa**. Dadapon's noponality is written all over them."
+
+He scratched his head, "**Ahhhhh, yeah, it really comes through.**" Coming to think of it. 
+
+"But... These new generic ones... No spirit. No- verve. Maybe most important things for artificial Blade!"
+
+"_Hmm..._"
+
+"Something wrong, Rex-Rex?"
+
+"Ahhh, no, just... (How to put it) Passions sure run high in your family."
+
+"Why, of course! Spirit of adventure like **air** we breathe!"
+
+> Choose: "What kind of person was Soosoo?"  
+> or "What kind of person was Tatazo?"
+
+<details>
+<summary>"What kind of person was Soosoo?"</summary>
+
+"Soosoo? My Grampypon?"
+
+"Poppi interested too! Tell us, Masterpon!" They weren't too surprised at the newly arrived guest, and Tora continued the conversation without much hassle, 
+
+"Hmm... Honestly, Tora not remember much about Grampypon."
+
+"Oh?" But why?
+
+"Grampypon always locked away in lab, **all by self.**"
+
+"Soosoo make lots of experiment and research?"
+
+"No, usually look at photo books of Blades." Rex don't know what to say about that weird hobby. "Grampypon real stickler for appearance and mannerisms of creations. Grampypon really hung up on details."
+
+"What kind of details, Tora?"
+
+"This not sound very _scientific_, Masterpon."
+
+"Ah on contrary. **Because** of Grampypon's book-looking, Poppi is Blade she is today. Grampypon **work very hard** to get style and poise _just right._ He had to **perfect ether furnace** to make his _dreams_ real. Other detail Grampypon **liked** is self-destruct feature, and hidden devices. Grampypon **always** **hunched** over plans, _snickering_ to self. (He proudly said) **To little Tora, looked very much like CRAZY mad scientist.**"
+
+"**Butttt**, I guess when he invented the ether furnace, his drive and passion paid off." Rex supposed. "There's a **lot of talent** in your family, Tora. No doubt about it! Poppi's a walking testament to his genius."
+
+"Poppi experiencing very complex emotion right now." Spokes she in very emotionless way. 
+
+</details>
+
+<details>
+<summary>"What kind of person was Tatazo?"</summary>
+
+"Dadapon?"
+
+She approached beside them and added, "Poppi- also want to hear about Masterpon's Dadapon."
+
+"Huh! Dadapon **quite an introvert** Nopon. Not expert in communication."
+
+"Tatazo always busy with research?"
+
+"**Yes! Every day full of research.** From morning to night. At graduation party{{footnote: They had a graduation party? They had college?!!!}}, _was very lonely. Not many friends to talk to._ **But brave enough to ask my Mamapon to dance!** Very lucky for Tora. This how Tora get born. Mamapon said- _Dadapon was so true_ to self, couldn't say no to him."
+
+"That... (He had to think how to voice his opinions) That's **really** heartwarming."
+
+"Masterpon, where is your mamapon now?"
+
+"In end, said Dadapon was **too** true to self, _so-_ Mamapon went away."
+
+"So, it's like they got together and broke up for the same reason." Rex concluded.
+
+"Grampypon and Dadapon **always** together, **working on artificial Blades.** Never spend **any** time with Mamapon. _Make her unhappy._"
+
+Poppi QT\\(\pi\\) can relate, "This makes sense to Poppi. Poppi have same problem with Masterpon sometimes."
+
+"**Sorry, but** there _no other way_. Very busy making dreams real, **living life to max.** That what Dadapon always say. But always get _very sad when Tora ask him about it._ (He dropped his head) _When Mamapon left, Dadapon eat and drink like_ **wild beast for 3 days,** to... To try to fix sadness."
+
+"That not sound too healthy. Poppi must make sure Masterpon _never get that sad, ever..._"
+
+"Seems that your dad made a lot of sacrifices for his work. But it was _those sacrifices_ that made Poppi a reality. I guess we have to be **grateful** for that."
+
+"This give Poppi a _funny feeling in ether furnace_. Thanks for sharing, Masterpon."
+
+"**Ohhh! Poppi!** That nice of you to say!"
+
+"Funny not always mean _good_, Masterpon."
+
+"**EXCUSE TORA?!!!!**"
+
+</details>
+
+---
+
+### Trying So Hard To Preserve One's Self
+
+"Masterpon was in good mood today. Talked with Poppi 16 times. Poppi also talked with Pyra 31 times today!" She was keeping the good feelings to herself when Brighid approached her, asked, 
+
+"What are you doing, Poppi?" They were inside their room at the inn in Argentum Trade Guild. 
+
+![Lemour Inn](images/301_lemour_inn.jpg)
+
+"Oh, Brighid! Poppi just writing diary. Poppi decided to leave records of **life,** just like Brighid!"
+
+"But you can't be returned to a Core Crystal like us, so you're not in danger of losing your memories, are you?"
+
+She don't agree, "Poppi's body is **very** complex device. If important part damaged by attack, memory could be corrupted."
+
+"Ah, I see! At a glance, your body seems practically flawless, but I suppose it comes with its own troubles."
+
+"Brighid right. It like Masterpon often say -- Poppi's _delicate_ body _always in need of TLC._{{footnote: Stands for 'tender loving care'. [TLC](https://dictionary.cambridge.org/dictionary/english/tlc)}}"
+
+"Tora- says that to you, _does he?_ **Remind me** to have a word with him later."
+
+"Um, Brighid... Can Poppi ask why Brighid care **so much** about preserving past memories? Poppi started diary, but **never know what to write. Maybe Brighid** can help."
+
+> Choose: "I don't want to lose myself forever."  
+> or: "I want to keep being the same person."
+
+<details>
+<summary>"I don't want to lose myself forever."</summary>
+
+Poppi QT jumped backwards, shockingly asked, "If Brighid not have diary, no more Brighid? Poppi thought, even if Brighid go back to Core Crystal, just need to find new Driver, and then Brighid come back!"
+
+"But- is that really true? If I were to return to my Crystal and remain that way for a long time, by the time I was reawakened, all who knew me could be long gone. If the Brighid who lived through that time no longer exists in my memories, or the memories of others, who's to say that I existed in that time at all?"
+
+"Hmmmmm... Might be difficult to **prove**, that true."
+
+"if nobody knows of my existence, I may as well **not** have existed. That thought, it- troubles me. After all, it's the time I spend with those **dear** to me that makes me who I am. The happy memories, the sad ones; **all of them together**. Without them, I don't think I would be myself. To lose all of that forever, it would be like denying not only myself, but the people I spent those times with."
+
+"Masterpon teach _Poppi many things_. Poppi not want to forget all that. Masterpon pour **everything** into making Poppi!"
+
+"Precisely. So, if you hold him dear, a diary filled with **memories** of him- should be **just** as precious, because memories are what connect us to others, and to the world we live in."
+
+"Poppi think Poppi understand. Will try **best** to write good diary! Will fill diary with memories of **everyone! Even Brighid!**"
+
+"That's very kind of you, Poppi. _I'm sure_ your diary will be _wonderful._"
+
+</details>
+
+<details>
+<summary>"I want to keep being the same person."</summary>
+
+Poppi QT don't understand, "Meh-meh? Brighid is Brighid. Why would Brighid be somebody else?"
+
+"Well, _imagine_ if one day you were to forget **all** of your memories of Tora, and start working for a new master. Would that Poppi still be the same Poppi I am talking to right now?"
+
+"Hmmmmm... Poppi- is Poppi, _but_ **that** Poppi would be **new Masterpon's** Poppi. **Not the same as Tora's Poppi.** Probably would not even _wear frilly maid outfits._"
+
+"I- see. _Well,_ maid outfits aside, d-do you see what I'm getting at? While my _past selves_ are all Brighid, they are all **different** Brighids, living different lives, with different people. They're not directly connected to the person I am today."
+
+"_Yes._ Poppi think- Poppi understand. Brighid want to keep being this Brighid. **That why** leave diary full of memories."
+
+"Precisely. Even if I return to my Core Crystal and lose my memories, by reading my diary, my new self can hold on to **some part** of the person I am today. Though of course, this relies on the assumption that Mor Ardain will pass my diary on to my new self."
+
+"Brighid... How can Poppi make sure Poppi's diary gets passed down?"
+
+"A- good question... Tora _isn't_ the most _reliable_ fellow, is he?"
+
+"Masterpon would use diary as pillow for naps and for prop up wobbly table.{{footnote: Better than toilet paper.}}"
+
+"Perhaps you should take the time to think of the best solution to that problem yourself."
+
+"_Not only_ writing memories every day, but _also_ finding _best way_ to preserve... Diary is quite difficult task!"
+
+</details>
+
+---
+
+### Zeke's Past, and the Peaceful Village
+
+Within the gates outside Corinne's house one evening, Zeke announced, "Coming to this place alllllways calms me _right_ down."
+
+![Outside Corinne's house](images/302_corinne_house.jpg)
+
+Pandoria felt so too, "I know what you mean. _It's so empty_... in a good way."
+
+Zeke shared, "They've got a good salvaging business going, **but the place** isn't _bustling_ like Argentum. And they don't have a super-developed primary sector like Gormott. If you just want to live out your days in peace, there's really no better place."
+
+"**You talk** like an old man sometimes. What d'you think, Mòrag?"
+
+"I would like to live here awhile."
+
+"**Ohhh?** Wasn't expecting that from you."
+
+"Seeing such hospitality has been a refreshing experience for me. It's lovely to learn how the common folk live."
+
+"I quite agree." said Brighid. 
+
+"It's very different from staying at a city inn."
+
+"I guess you two are used to the high life, huh..." said the poorest Prince on Alrest.
+
+"Are you so different yourself?" Mòrag don't understand. 
+
+Pandoria discussed with her partner, "Since we left Tantal, we've been spending a lot of our nights roughing it up outdoors, huh?"
+
+"Sure have." He agreed. "It was **pretty tough** when we were camping out waiting for you lot in Uraya and Mor Ardain. Always on our toes, thinking you might show up any moment."
+
+"Yyyyeah, I don't miss those hungry camping days. We came pretty close to eating Turters..."
+
+"Let's not talk _about that_. It's painful to remember. **Waiting in the port** here was pretty all right, though."
+
+"**Yeahhhhhh!** We could rest up in the ship, at least."
+
+Mòrag: "It sounds like you've been through a lot."
+
+Brighid was compassionate, but "Stakeouts are one experience I would **rather** avoid."
+
+Zeke: "Anyway, **that's enough** about the past! There was something I wanted to ask you, Mòrag. You've seen how **smashing** this place is, right? _I'm just worried_ that Mor Ardain and Uraya- might wind up fighting over it or something."
+
+"Not any time **soon**, I should hope. If either nation were to make a move on these islands, it would be _tantamount_ to a _declaration of war._ Mor Ardain, at least, has **no desire** for such conflict."
+
+"Ahhh, right. **Well**, that's pretty reassuring at least."
+
+"Why are you so invested in the fate of these islands, anyway?" wondered Brighid. 
+
+> Choose: "'Cos it's where Rex grew up."  
+> or: "'Cos there's no place like it in Alrest."
+
+<details>
+<summary>"'Cos it's where Rex grew up. Ain't it natural to worry about your friend's hometown?"</summary>
+
+Mòrag can't deny, "I suppose so."
+
+"As long as this place is safe, our chum can focus on the task he's gotta do. **Don't want** to let other worries start **creeping** in to distract him, do I?" He convinced himself.
+
+"**Real** thoughtful, that is." Pandoria accepted his explanation. 
+
+"**You said it! I'm the best! Hahahah!**"
+
+Brighid: "..._and_ he just had to go and ruin it."
+
+</details>
+
+<details>
+<summary>"'Cos there's no place like it in Alrest."</summary>
+
+"That's _quite_ the grand statement." Brighid was impressed. 
+
+"**I reckon** an environment like this is the only place a chap like Rex could grow up."
+
+"Oh?" That piqued Mòrag's curiosity. 
+
+"**Like, if a kid** grows up in Alba Cavanich, he's gonna want to join the *army*, right? **Not saying that's bad** _or anything_, but I don't think a kid like that would wind up as the Aegis's Driver. **Can't be easy** raising the kind of _boy_ who could change the future of Alrest. All the world's nations and establishments aren't gonna foster _that kind of_ potential. But **this village?** It's cut off from all that. A place of _freedom_ and possibilities."
+
+"Ahhh, I see..."
+
+Pandoria was impressed too, "**Once in a while**, you _actually_ say some **princely stuff!**"
+
+"**Shut it, you!**"
+
+Mòrag: "I have to say, I agree with Zeke. Villages like this have an important **place**- in Alrest. We must do our utmost to _keep them all from harm._"
+
+</details>
+
+---
+
+### Five Centuries of Memory
+
+At the depth of Spirit Crucible Elpys, standing in front of the bridge, Rex asked, "Hey, Gramps! You were protecting this place for years and years, right?"
+
+He was flying himself than reside inside his helmet, answered, "That I was. Five hundred of them, in fact."
+
+"But all that time I was a kid in Fonsett, I never noticed you doing anything **like** that."
+
+"Well, things have been quiet for the past few centuries. Given two hundred years or so, rumors pass into legend, and people stop taking them so seriously. Looooong ago, Drivers used to enter this place **quite often**, but their numbers have long since fallen off. **Besides**, the entrance itself will not open for any but a Leftherian. And sad though it may be, the population of Fonsett is on the decline. Fewer and fewer people _are even aware of this place._"
+
+"**I see!**"
+
+"So you actually had work to do back in the day, huh?" Nia was surprised. She thought he'd been just bathing in the sun all days long for the past half a millennium. 
+
+"I'm no layabout now, either! I was the one who told you of this place, if you recall!"
+
+"Sure, whatevs."
+
+"Honestly, Nia, _you're just like Corinne- when she was younger._"
+
+Rex jumped on his feet, "**Huh?! Really?!!!**"
+
+"I'm not sure if that's a compliment..."
+
+"She was quite the little firecracker. _Even came in here once_, as a child."
+
+"Wow, pretty gutsy." Nia was impressed.
+
+"Though, she turned back upon reaching the bridge. _She must have sensed that this was a place to be feared._"
+
+Rex reasoned it, "It's protected by the village's guardian spirit after all. Anyone in Fonsett would know it's not a place to enter lightly."
+
+"**_To fear and to respect- are two sides of the same coin, you know._** The people of Fonsett understand the importance of this place- _on an instinctive level._"
+
+> Choose: "Only thanks to you, Gramps."  
+> or: "How would outsiders feel about it?"
+
+<details>
+<summary>"Only thanks to you, Gramps. You've been protecting this place for <b>centuries</b>, right? I think it's probably thanks to <b>you</b> that the villagers have such a powerful <b>respect</b> for the Village Guardian."</summary>
+
+Zeke agreed, "Yeah, you can't have respect without someone to keep it alive."
+
+Mòrag too, "If it were not for the Titan Azurda, this place may truly have been forgotten by the world completely."
+
+Gramps felt his face red, "Weeeellll, _I don't think anyone's put it to me **quite** like that before._"
+
+Even Nia praised, "You've done good, these past 500 years."
+
+"Yeah! **Good job**, Gramps!"
+
+"_Ohhh!_" Such heartfelt words! "More than anything, at times like this, I just feel thankful that I'm able to travel- with you all- in this form. If I'd remained in my old body, I might never have come here and heard those words!"
+
+Zeke: "I thought you were gonna say something **profound**, not just **baskkkk** in the praise!"
+
+"Hohohohohohoh!"
+
+</details>
+
+<details>
+<summary>"How would outsiders feel about it?"</summary>
+
+"People from outside of Fonsett village?" Gramps clarified. "None have entered in recent years, but 400 years ago, visitors did sometimes venture in here- with Fonsett youths. **It seems** people from **outside** see this place as little more than another ruin to be explored. _I tried_ to talk them out of entering, but they _never appreciated_ my words. Still, I didn't feel it was right to stop them by force. They stood precious little **chance** of reaching the end, at any rate. Thus it was- that many adventurers entered, never to return."
+
+![The bridge](images/303_the_bridge.jpg)
+
+Mòrag hypothesized, "I daresay their sacrifice **also** contributed- to the healthy respect the villagers now hold for this place."
+
+Zeke agreed, "Yeaaaah, you don't treat a ruin lightly when folks go in and never come out."
+
+"I don't doubt that that is indeed _a part of it._"
+
+Nia asked and commented, "You've been watching for _500 years as all this stuff happened, right?_ I guess that must've been tough going. Sorry for being all... _disrespectful and stuff before._" 
+
+"No need to apologize, Nia. We are all quite used to your foul mouth at this point. **And we know** you have a _kind heart- underneath._"
+
+Why do you have to say it so straightforwardly? Nia jumped on her feet, her claws first aim at Gramps but she pulled back at the last moment, said to herself, "_I wanna make a snappy comeback, but that would ruin my apology!_"
+
+</details>
+
+---
+
+### Legendary Land
+
+At the Central Deck of lower level World Tree, Mòrag asked, "Say, Rex. Do you really think that place is Elysium?"
+
+They had just passed through it, and they couldn't believe their eyes, "It's a tough sell, for sure. That barren wasteland is **nothing** like the paradise in the fairy tales." said Zeke.
+
+"To be honest, I'm not even sure myself. The Elysium I saw first was a warm place, full of sunlight and... greenery." He recalled the Elysium in her dream. 
+
+"Do you think that Elysium still exists somewhere else?" Mòrag probed. 
+
+"**No!** uh... **We definitely made it to the right place!**"
+
+"Then what, you think the paradise Elysium was never anything more than a dream?" Zeke asked. 
+
+Mòrag hypothesized, "I don't think we can say that _for sure._ **Perhaps** what Rex **saw** was how Elysium truly was, long ago."
+
+"Long ago?"
+
+"Yes. A vision of an older Elysium, taken from within someone's memories."
+
+"So our chum here was dreaming about... **someone else's** memories? That's pretty freaky stuff." Getting more and more confused here. Meanwhile, Rex was kept thinking while they were debating. 
+
+"Yes, it's- certainly far from an ordinary phenomenon."
+
+"_Hmm..._ If the passage of time could turn the Elysium I saw into... **that... Maybe Alrest** could end up like that too someday."
+
+Mòrag agreed, "Indeed. It is the same as the Tornan Titan we saw in Morytha. All things deteriorate, over time."
+
+"**But time isn't the threat right now.** Malos could turn Alrest into **a wasteland like that any time!!!**"
+
+"True enough. And i daresay neither we humans nor even the Titans themselves could survive in such a world."
+
+"That's why we **have to stop him, no matter what!**"
+
+"**That's the spirit I like to see, CHUM! I thought you might** be depressed that Elysium wasn't all you'd hoped, but **I guess I needn't have worried.**"
+
+Mòrag had her faith in him, "**Rex** is **not so weak** as to let something _like this_ set him back. His **strength of will** is what has carried us all this far."
+
+"**What?! What's up with you two all of a sudden?!** There's no point in flattering me, you know!"
+
+"**Don't fret, chum!** You just keep doing what you always do."
+
+"Yes. Keep forging our path ahead. We're _counting_ on you."
+
+---
+
 ### Footnotes:

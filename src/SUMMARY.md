@@ -1,7 +1,5 @@
 # Summary
 
----
-
 [Preface](./00_preface.md)
 
 # Chapter 1: Encounters
@@ -47,6 +45,14 @@
 # Chapter 8: World Tree
 - [Together with Rex, Jin's Sadness, A Promise](./27_a_promise.md)
 - [The Hubris of Mankind, Unborn Blades, Jin's Story](./28_torna.md)
+- [Titan Death Throes, Ascending the World Tree, Amalthus](./29_amalthus.md)
+
+# Chapter 9: Rain
+- [Amalthus's Desperation](./30_amalthus.md)
+- [That Day, When a Desolate Man Trusted a Con Artist](./31_the_journey.md)
+
+# Chapter 10: And Thus, Boy Met Girl
+- [This is... Elysium???](./32_elysium.md)
 
 ---
 

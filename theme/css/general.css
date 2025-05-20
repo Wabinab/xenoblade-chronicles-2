@@ -253,3 +253,7 @@ details:not([open]):hover {
 summary:hover {
 	color: #007bff; /* Change the text color on hover */
 }
+
+blockquote > blockquote {
+    background-color: rgb(212, 246, 205);
+}

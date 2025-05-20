@@ -9,3 +9,19 @@
 
 What fears do you carry? Nia carried the fear of her past, afraid of revealing her true identity, afraid of being talked behind her back, afraid of the Praetorium. Pyra and Mythra carried the fear of their powers, afraid that no one would stood by their side, that they were lonely by themselves, that they bear burden for what secrets they held. It rings true, because one, too, had fears. Fears that one's not willing to speak out, not even to one's friends, for fear of being abandoned. Smaller fears included fear of getting out of one's comfort zone, acquired from my mom by living too long with her, _her_ fear. What about you? What are your fears? Your fears that hold you back? 
 
+7 years ago, when one first watched Xenoblade 2, there were things one felt different back then than now. One was Jin. Actually, one was so putting oneself into Rex's shoes, and one was so envious at that time, that when Jin hugged Pyra (took her into custody) and Mythra (when she helped him blocked Amalthus attacks) one's mind was so focused on rage -- how dare you hug _my_ Pyra/Mythra! 7 years later, when one watched it back, the jealousy had dimmed to nothingness, and one could finally watched them from a 3rd person point of view, feeling not empathy but compassion. What she had done _for_ him; what he had did in his final moments. 
+
+There's a poem one took from chapter XI of _Joys and Sorrows: by Pablo Casals as told to Albert E. Kahn_ that one wanted to share, 
+
+> _O friends, friends, no more of those sad tones!_  
+> _Instead, let us all raise our voices_  
+> _In a joyful song!..._
+>
+> _Praise to Joy, daughter of **Elysium**,_  
+> _Born of God!_  
+> _Goddess, merging love and laughter,_  
+> _To thy shrine we come!_  
+> _By this magic is united_  
+> _What the harsh past held apart._  
+> _All mankind are sworn brothers_  
+> _Where the gentle wings abide!_
