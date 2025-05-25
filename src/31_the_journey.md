@@ -230,27 +230,25 @@ She thought she tossed a pebble into a stagnant pool; but he felt a pebble was d
 
 Zeke, full of compassion, started walking towards him softly, speaking softly, "_You're weak, old man. The weakest of us all..._"
 
-===
+The death of his partner was too much for him. Shiveringly, he stumbled towards Patroka, hoping that she'd only fallen asleep, that at the next moment, she would open her eyes and greet him, telling him it's April's Fool. But no, she did not wake up. Not when he reached her. Not when he dropped on his knees in front of her. "Patroka..."
 
-Akhos still didn't grow out of the death of his friend. He stumbled step by step towards Patroka, hoping that she'd only fallen asleep, that at the next moment, she would open her eyes and greet him, telling him it's only April's Fool. But no, she's not waking up. Not when he reached her. Not when he dropped in front of her. "Patroka..."
-
-> Jin killed the last of the soldiers inside a metallic ship before turning his attention to a man and a woman, looking down at the floor, as if all hope had lost. With trembling voice, Akhos concluded, not looking at Jin, "You wanna... **kill us, huh?**"
+> In a metallic ship, Jin sliced the last of the soldiers before turning his attention to the depressingly-looking man and women; the whole time he killed, they were looking at the floor. This wasn't the first time someone killed someone else for them. But every time they thought they had hope, every time they concluded, "You wanna... **kill us, huh?**"
 > 
 > Jin took a closer look at him, "You're not human... Flesh Eaters?"
 > 
-> "We were on our way to be transferred to- Indol." He stood up, "My sister and I, from- Tantal." She was still looking at the floor, not moved a bit. 
+> "We were on our way to be transferred to- Indol." He stood up, "My sister and I, from- Tantal." She did not move a bit. 
 > 
 > "Sister?"
 > 
-> "Here." He took out a pendant and opened it up, revealing a picture. Jin's attention turned to it, and he explained, "The boy on the left, _that_- was my Driver. The right is Patroka's."
+> "Here." He took out a pendant from his pocket and opened it up, revealing a picture. While Jin was looking at it, he explained, "The boy on the left, _that_- was my Driver. The right is Patroka's."
 > 
 > ![Akhos and Patroka's Driver](images/300_akhos_and_patrokas_driver.jpg)
 > 
 > "Patroka... Is that her name?"
 > 
-> Tucking it back into his pocket, he replied, "Yes. I'm- Akhos. Our Drivers were- brother and sister. _That's why._" He quickly looked down on the floor again, his self-abasement overwhelmed his courage. 
+> He snapped it shut and tucked it back into his pocket, introduced, "Yes. I'm- Akhos. Our Drivers were- brother and sister. _That's why._" Feeling self-abased, he wished he would say something that support him. Oh, how he wished for recognition; but again and again, his pride was smashed on the floor, crunched with their heels, till he no longer feel optimistic. 
 > 
-> Patroka finally looked up at Akhos, spoke very confidently, "We're siblings too, you're saying? What a dumb notion. They're _them_, and we're **us**. No relation- whatsoever."
+> Patroka seemed to not be affected much, at least on the outside, looked up at Akhos and spoke confidently, "We're siblings too, you're saying? What a dumb notion. They're _them_, and we're **us**. No- relation- whatsoever."
 > 
 > "Even so! _These bodies- contain the lives of two humans... We are... connected._"
 > 
@@ -264,59 +262,59 @@ Akhos still didn't grow out of the death of his friend. He stumbled step by step
 > 
 > "That I don't know. But... it's better than having... nothing... It's important to me, and that gives me a reason... _to go on... To live for her._"
 > 
-> Patroka's eyes flickered; "Hmph!" And she turned her head even more away from him; then she stood up. 
+> Patroka's eyes flickered; "Hmph!" She would not give in to such corny words. She stood up anyways, to face Jin. 
 
-Akhos stood up and drew his bow, "**YAAAAHHHHHH!!!**" aimed it at Amalthus, pulled it to its maximum. 
+Akhos stood up and his bow materialized in its full crest, "**YAAAAHHHHHH!!!**" aimed it at Amalthus, stretched its string till it creaked. 
 
-Jin panickingly ordered, but he couldn't stand up with his injuries, "Akhos, stop! He's..." 
+No, he had no fight for Amalthus.  Jin, still on the floor, panicked, "Akhos, stop! He's..." 
 
-Akhos already fired the arrow; Amalthus's tentacles easily blocked it without a scratch. "**YAHHH!!!**" His tentacles stretched and knocked his bow away before wrapping around his body, bringing him up in the air closer to him. 
+Akhos cannot hear. He fired the arrow; his tentacles easily wiped it away, didn't leave a scratch. "**YAHHH!!!**" It reached out for him, knocked his bow away, and wrapped around him, bringing him up closer for a look. 
 
 "Akhos!"
 
-"L-l-let me go, you monster!"
+"**L-l-let me go, you monster!**"
 
 "How dare you! How dare you look down on me! You, a mere Blade- whose very existence depends upon ours!"
 
-"**Rex! He's got Akhos!**" Nia quickly tossed her Blade weapon at him and transferred power. 
+"**Rex! He's got Akhos!**" Nia swiftly tossed her Blade weapon at him and transferred power. 
 
-"**I'm on it!**" Two swords in hand, he crossed them and combined their powers, launched a ranged attack at Amalthus. "**Not on my watch!**"
+"**I'm on it!**" Two swords in hand, he crossed them, launching a ranged attack with combined powers. "**Not on my watch!**"
 
-"Hmph!" His other 'free' tentacles blocked the incoming. Every step he took toward Rex shook the floor; his body was so heavy he had difficulty walking. 
+His other tentacles easily blocked the incoming, without releasing Akhos. He took heavy steps toward Rex, the floor shook with every; "Hmph!"
 
-"Ngh! **Let him go, pal!**" Nia could take it no longer, dashed forward and took her weapon from Rex, went past him, "**AH!**" immediately get knocked back by his tentacles. Mòrag created a blue flame wall that stops the tentacles from pursuing her. 
+"Ngh! **Let him go, pal!**" Nia panickingly dashed through, snatching her weapon from Rex, but before she could do anything, "**AH!**" the tentacles reached her and knocked her back. Mid-air, the tentacles tried to do something, if not for a wall of blue flames that prevented him. 
 
-"This is a strange situation. Fighting so hard to save a member of Torna." An attack came for her; she trusted Brighid to use her whip and blocked it for her. 
+"This is a strange situation. Fighting so hard to save a member of Torna." She wasn't very convinced with what Torna did to her people, but she trusted her friends, and she was willing to fight to save her friends. Amalthus turned his attention to her, swiping his tentacles at her. She trusted Brighid to block it with her whip. 
 
 "Indeed, but it seems like the right thing to do."
 
-"**His aim is clear, and so is ours! Ngh!**" They adeptly dodged the whipping tentacles, blocking when they couldn't. The tentacles changed direction faster than they could react; Mòrag was defenseless when a tentacle was coming from above her head. She would've been killed if not for Poppi's drill flying past from above. 
+"**His aim is clear, and so is ours! Ngh!**" The tentacles whipped faster, and they adeptly dodged in between, blocking when they couldn't. The tentacles changed direction faster than they could react; at last, Mòrag laid defenseless against an incoming. She watched it grew larger and larger, aiming for her chest, heard some drilling sound getting louder and louder from her left, and they met. She watched Poppi's drill drilled at the tentacles above her. 
 
 "Thanks!"
 
 "Friend welcome!"
 
-"Poppi! Now not time for kind manners!" Tora ushered to a tentacle aiming straight at her. She turned her head just in time to see it growing larger and larger, just enough time for her to raise her hand to block. Before it could reach her, electric sparkles numbed the tentacles and it coiled back. 
+"Poppi! Now not time for kind manners!" Tora pointed at a tentacle aiming straight at her. She turned her head just in time to see it growing larger and larger. Her force hadn't yet rejuvenated, there's no time to react. She raised her noodle arms to block. Just an armlength away, thunder struck from above, numbed the tentacles, and it coiled back. 
 
 "I believe in returning favors. You **owe me** for that one!"
 
-"Much thanks!" She appreciated her help. 
+"Much thanks!"
 
-"Grh! **How?! Who do you people think you are?!**" He released the stored energy in the cores and released a tremendous amount of heat energy. The mere shockwave brought the unprepared group to the ground. 
+"Grh! **How?! Who do you people think you are?!**" The stored energy in the Core Crystals were tremendous, and he had difficulty putting them under control; but it seems the limit he'd set himself wasn't enough to wipe out these worms. He increased the threshold, immense energy emanated from his body; its mere shockwave forced the group to shield their faces while their feet dragged backwards. 
 
 "**WHOOAAAAA!!!**"
 
-The energy didn't last long, "Incorrigible whelps... Why would humans side with Blades?!"
+The shockwave was short-lived, Amalthus spit at them, "Incorrigible whelps... Why would humans side with Blades?!"
 
-Zeke don't understand, "Is he slow? He thinks it's a _side_ to pick? **We share a bond... you numbskull!** We're all friends here! We're in this thing together!"
+Zeke was getting annoyed at his blindness, "Is he slow? He thinks it's a _side_ to pick? **We share a bond... you numbskull!** We're all friends here! We're in this thing together!"
 
-"Bonds? Of friendship? **With these trinkets?!**" He looked at Akhos, still curled in one of his tentacles, raising his left hand up as if trying to do something. 
+"Bonds? Of friendship? **With these trinkets?!**" He held up the unconscious Akhos, looked at him, and with his left hand, punched into his chest and removed his core crystal, 
 
-"Ugh! **UGH!!**" Amalthus punched into his chest and removed his core crystal, throwing his husk back at the group. 
+"Ugh! **UGH!!**" He then threw his useless husk back at the group. 
 
 "Akhos!"
 
-He could feel his life draining quickly from him; he no longer had energy to move a finger, complaint, "_Tch... That was... surprisingly painful..._" Jin dropped to the ground, tears aggregate in his eyes; the last of his kin were going soon. "_If I were... still a Blade... this- wouldn't..._" His hands tried to reach out for him. 
+He felt his life draining quickly, his energy losing fast. He could no longer move his finger, though the remaining energy was enough to move his mouth. "_Tch... That was... surprisingly painful..._" Jin dropped to the ground, tears aggregate in his eyes; the last of his kin were going soon. "_If I were... still a Blade... this- wouldn't..._" His hands tried to reach out for him. 
 
 > After a long silence, Jin invited, "Join me."
 > 
@@ -328,7 +326,7 @@ He could feel his life draining quickly from him; he no longer had energy to mov
 
 His hand dropped to the ground, his last breathe puffed out. 
 
-"**AKHOSSSSSS!!!**" He immediately turned his attention to "Amalthus..." But his strength and injuries were too heavy. Rex slowly walked sideways and blocked his vision of Amalthus, instructed, 
+"**AKHOSSSSSS!!!**" He immediately turned his attention to "Amalthus..." But his strength and injuries were too heavy. Rex, slowly walking towards him like a crab, sideways, blocked his view of Amalthus, instructed, 
 
 "You stay right there! He's human. So we should be the ones to kick his arse."
 
@@ -340,15 +338,15 @@ His hand dropped to the ground, his last breathe puffed out.
 
 "**We're gonna break the 500-year-long curse... right here!**"
 
-"**Yeah!**" Pneuma came beside him. 
+"**Yeah!**" Pneuma came up beside him. 
 
 "**Let's do it!**" And the rest came forward. The battle started yet again. 
 
 ---
 
-"I cannot end like this... Not until I've met the Architect... **Not until I've ERASED EVERYTHING WITH MY OWN HANDS!!!**" He overclocked his powers, the tentacles stretched straight and wiggle. 
+"I cannot end like this... Not until I've met the Architect... **Not until I've ERASED EVERYTHING WITH MY OWN HANDS!!!**" He lost his mind, wiggle his tentacles like a giant squid trying to wrap its tentacles around a ship. 
 
-"What?!" Rex watched him stretches his tentacles and grabbed every single walls he found he could wrapped on, trying to melt his body into the building walls. 
+"What?!" Rex watched as his tentacles punched into the building, melting every walls, trying to make himself and the walls a singular entity. 
 
 Dromarch noted, "This is bad! The World Tree **cannot take it!**"
 
@@ -362,9 +360,9 @@ Zeke: "**How?! How's that BASTARD still STANDING, after the INCREDIBLE thrashing
 
 "**Jin!**" Pneuma too. 
 
-"**Ahhhh!!!**" The attack hit Rex first, the tentacles knocked him away. 
+Their attention floundered. "**Ahhhh!!!**" One of the tentacles knocked hard on his hip and sent him flying. 
 
-"**Ahhhh!!!**" Pneuma's body came in contact with the tentacles next, and she flex into Jin's hug. 
+"**Ahhhh!!!**" It continued to swiped Pneuma, she flew directly towards Jin. He hugged her. 
 
 "**Pyra! Rex!**"
 
@@ -376,15 +374,15 @@ She looked away, "D-don't... get me wrong, OK?! _I couldn't let him get your cor
 
 "_Thank you._"
 
-Meanwhile, Nia, Mòrag, and the others were fighting the incoming tentacles. "All the cores, all the **Architect's WORDS, BELONG TO ME!!!**"
+Meanwhile, the group were busy with the other tentacles, Amalthus went crazy and announced, "All the cores, all the **Architect's WORDS, BELONG TO ME!!!**"
 
-Jin sensed the numerous tentacles aimed at him, "**HUAAAHHHHH!!!**" He raised an ice crystal shield and, upon contact, froze all of them. Amalthus was surprised he couldn't move them anymore. 
+He needed more power! Numerous tentacles aimed at Jin, "**HUAAAHHHHH!!!**" With the rest of his energy, he raised an ice crystal shield. Upon contact, all the incoming tentacles froze. His other tentacles were still busy dealing with the others. 
 
 "_Nia... Take care of them both..._"
 
-She subconsciously replied, "_I- I will._" She ran towards him and catch Mythra from his arms, while using her healing powers on the unconscious Rex that dropped two arm lengths neighboring her. Jin stood up and started walking towards Amalthus when she asked, "_Jin!_ Why- didn't you kill me when I joined Rex and the others?"
+She subconsciously replied, "_I- I will._" She exited the battlefield and ran towards him, he handed Mythra to her. She held out her arm and started healing both her and Rex, whom was about 2 arm lengths away. Jin stood up and slowly walked towards Amalthus, stopped when hearing she asked, "_Jin!_ Why- didn't you kill me when I joined Rex and the others?"
 
-He stopped and peered through his shoulders, "_It wasn't a mistake, was it? Becoming a Blade- of someone you **trust**..._"
+He peered through his shoulders, "_It wasn't a mistake, was it? Becoming a Blade- of someone you **trust**..._"
 
 "Jin." Rex had regained consciousness from the healing, slowly climbing on his feet, while Mythra had went to sleep. 
 
@@ -392,21 +390,21 @@ He stopped and peered through his shoulders, "_It wasn't a mistake, was it? Beco
 
 "_Jin..._"
 
-He turned around, and the freezing mist started to rise around him. Amalthus said, "You should have died with Torna!"
+He no longer attend to them. There was something he had to do, here and now. Freezing mist started to rise where he went. Amalthus eyed him, commented, "You should have died with Torna!"
 
 "_Let's end this now. Our duty- has been handed down._ **AMALTHUS!**"
 
-His eyes stared big at Jin, "Your duty- is as dust in the wind compared- to- my- destiny!" The tentacles gathered around, its tip facing each other in a circle, the center of the circle around his chest. A dark ball of anti-ether energy grow, shooting rays towards Jin; he raised ice and froze it, broke it, shattered it. 
+His eyes stared big at Jin, "Your duty- is as dust in the wind compared- to- my- destiny!" The other tentacles were now free; it stopped attacking, and the group did nothing to attract its attention. It gathered around its chest, forming a circle. A dark ball of anti-ether energy grew, shooting rays towards Jin; he froze it, broke it, shattered it. 
 
-More and more, ice spears forming around him, he launched all of them and pricked on his humanoid body; his tentacles had not blocked any. "**ARRRRGGHHHHH!!!**" 
+More and more, ice spears forming around him, he launched all of them and stabbed his humanoid body; his tentacles couldn't block any. "**ARRRRGGHHHHH!!!**" 
 
-"**ARRRRRRRGGGGGHHHHH!!!**" Millions icicles in continuous stream flowed past, speared every single part of his skin, freezing him from the bottom to the top. 
+"**ARRRRRRRGGGGGHHHHH!!!**" Millions of icicles in continuous stream flowed past, spearing every single part of his flesh, freezing him from bottom to top. 
 
-In pain, Amalthus screamed, the rest listened to his speech{{footnote: including the awaken Mythra}}, "**O ARCHITECT!!! I- SHOULD HAVE BEEN. YOUR. CHOSEN. ONE!!! I LIVED AS YOU WANTED ME TO!!!**" Red motes were floating out of Jin's core crystal. "**I DID!!! I ALWAYS!!!**" The ice had reached his neck, he looked up, hoping his mouth would retained mobility slightly longer. 
+In pain, Amalthus screamed while not forgetting to give his speech, "**O ARCHITECT!!! I- SHOULD HAVE BEEN. YOUR. CHOSEN. ONE!!! I LIVED AS YOU WANTED ME TO!!!**" Red motes started floating out of Jin's core crystal. "**I DID!!! I ALWAYS!!!**" His flesh froze from bottom up to his neck already; he looked up at the sky, hoping to slow down the growing ice from covering his mouth too quickly. 
 
 Zeke lowered his sword and sighed, "_Ohhhhh..._"
 
-> "Bandits?" Amalthus asked him when they were discussing about who's weak'. 
+> "Bandits?" Amalthus asked.
 > 
 > "**Probably!** After all, **Pandoria** looks pretty damn human for a Blade. She'd be worth **a lot** to _some people._ They sell 'em. Line up the cores with pretty pictures of the Blade inside."
 > 
@@ -420,42 +418,48 @@ Zeke lowered his sword and sighed, "_Ohhhhh..._"
 > 
 > "Oh, some give up _prematurely_, but the feeling is there, I assure you."
 > 
-> "Well, in that case, why bother protecting _them_?" He looked to the refugee camps. "**Why not** let people do **whatever**?"
+> "Well, in that case, why bother protecting _them_?" He nudged at the refugee camps. "**Why not** let people do **whatever**?"
 > 
 > "_To remind myself._ I must never forget what kind of beings humans are."
 > 
 > "Is that what helping _me was, too?_"
 > 
-> "Hmph..." He turned his head and looked at the sky, "_A long time ago, I seemed to recall seeing a very similar scene._"
+> "Hmph..." He looked up at the sky, thought for quite a long time, answered, "_A long time ago, I seemed to recall seeing a very similar scene._"
 > 
 > > Pandoria carrying Zeke on his back.  
-> > Young Amalthus taking his mom's hands and ran, looking back, trying to spot the pursuers.
+> > Young Amalthus taking his mom's hands and ran, frequently looking back, trying to spot the pursuers.
 > 
 > "Hmm?"
 > 
 > "_Perhaps... That **too** was one face of humanity..._"
 
-"Why did you look- sooooo sadddd back then?" He looked at him, already wholly frozen, starting to disintegrate into pieces, answered himself, "That was... _you_ too, wasn't it?"
+"Why did you look- sooooo sadddd back then?" He looked at the chunk of ice, frozen up to his chin, his body starting to disintegrate, and he answered himself, "That was... _you_ too, wasn't it?"
 
-Through the ice on the surface of his body, Amalthus raised his only free arm, the ice started spreading from his elbow up to his fingertips; the ceiling of the building were shrouded by total darkness, he seemed unable to see where it reaches, but he thought, he might be looking, "_Father... Why did you not answer when I call..._" 
+One of his arm was still free. He raised it high, trying to reach for the top of the building. The ice grew along his limb towards his fingertip. The ceiling he saw was shrouded in total darkness; he could not see where it ends, but he thought the one looking at them, "_Father... Why did you not answer when I call..._" 
 
-Before his eyes were frozen, he finally saw the light gleaming from the darkness above. "Ugh..." He felt an invisible hand brushed past his neck, "_Mother, I've... missed you..._"
+Before the ice covered his eyes, he finally saw a gleaming light grew amidst the darkness, brighter and brighter, descending from the cold dark sky. "Ugh..." He felt an invisible hand brushed past his neck, and he remembered feeling it a long, long time ago. 
 
-No trace of Amalthus was left behind, except the motes that floated up the sky. Mythra looked at "_Jin..._", standing there all alone, looking up, as if he's all right. She closed her eyes, a ceremony of sending off. The rest watched the blue motes growing brighter and brighter, gaining enough energy to break free from its form, and floated up. His eyes closed, and he dropped to the ground in a knelt position. Within a second, he was no longer. 
+"_Mother, I've... missed you..._"
+
+No trace of Amalthus was left behind, except the motes that floated up the sky. Mythra looked at "_Jin..._", whom was standing there all alone, looking up, feeling that someone was waiting for him; yes, she had been waiting for him for 500 years. For their journey to continue where it stopped here. Mythra closed her eyes, a ceremony of sending off. The rest watched his flesh turning into blue motes, gaining enough energy to escape his body, and break away from his form, floating up. He closed his eyes, dropped to the ground in a knelt position. Within a second, he was no longer. 
 
 Gramps acknowledged, "What a splendid soul you were, Jin..."
 
-"Jin..." The motes sucked up along the building into oblivion. Perhaps up there was _his_ Elysium; perhaps, he could finally live with her, _their_ Elysium.
+"Jin..." The motes floated up to the cold dark sky above. Perhaps up there was _his_ Elysium waiting for him; perhaps, he could finally live with her, in _their_ Elysium.
 
 ---
 
-> Heavy downpour in a city. Most inhabitants were already inside their room, though some were oblivious of the rain, walked without an umbrellas and without rubbing the water off their face as if it didn't. 
+> People rushed into their dwellings and closed their doors behind them. Some of them continued speaking, walking casually on the street, oblivious to the heavy downpour, didn't even bother carrying an umbrella nor wiping the annoying flow off their face. 
 > 
-> In one of the house, with baby crying and glass breaking in the background, Malos complaint, "Urgh, what a **stench**! They let **beggars** roam **free in this town?**" Slowly, he took steps in the rural alleyway. He didn't first notice who the beggar was, but when he got closer, he sensed some wavelengths emitted, called out, "You... _You're a Blade, aren't you?_ **Where is your Driver? Dead drunk in a ditch?** (And without a pause, changed his mind) No, _somehow I don't think that's it._"
+> He could hear the baby crying and glass breaking behind the walls he leaned on. But it was none of his business -- his mind was on something else, and he couldn't get out of it. "Urgh, what a **stench**! They let **beggars** roam **free in this town?**" Malos complaint as he entered the rural alleyway. 
 > 
-> His eyes squinted as the silence fell. He raised his head and looked at the figure's leg through the hood he's wearing; expecting something to come from him but no. The silence lasted for some 10 seconds before another voice rung, "The name's Malos. I'm the same as you..." 
+> He didn't notice who the beggar was, but as he got closer, he felt some wavelengths emitting from him, he called out to the beggar, "You... _You're a Blade, aren't you?_ **Where is your Driver? Dead drunk in a ditch?** (And without a pause, changed his mind) No, _somehow I don't think that's it._"
 > 
-> He held out his hand softly towards him. He watched rainwater fell and gathered into a small stream, dripping through his pinky. For a long time there was no words exchanged; but a desperate person would trust any charming con artist that brings hope to one when all others were oblivious to his situation. He is his _light_; the light called hope. Slowly by slowly, he raised his hand, and patiently Malos waited. 
+> Silence fell. His eyes squinted hard. The beggar don't know why he stopped speaking. Sounded familiar, this guy. He recalled hearing it not long ago; but unlike the rage he felt then, he now felt numbed. Yes, numbed. Nothing. He raised his head and looked at the figure's leg through the hood he's wearing. What had he got to do with him? 
+> 
+> The silence lasted for some 10 seconds before another voice rung, "The name's Malos. I'm the same as you..." 
+> 
+> Malos offered his hand to him. He watched as rainwater gathered and flowed off his pinky. No wards was exchanged for a long time. Yet it was the right time, the right moment, for a person so desperate, in need of someone, and that someone came out right in front of him, offered him consolation when all others took no notice of him. If she was a girl, she would have married this man right away. You see it in newspaper -- people getting married after an accident, or they found their loved ones by such accident. The charm of the con artist brought no end. For Jin, _he_ is his _light_ -- the light called hope, future. Malos waited patiently for him to held out his hand, slowly by slowly raising them, to meet with his. 
 > 
 > The rain just got heavier. 
 

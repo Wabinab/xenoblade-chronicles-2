@@ -53,6 +53,7 @@
 
 # Chapter 10: And Thus, Boy Met Girl
 - [This is... Elysium???](./32_elysium.md)
+- [The Architect](./33_architect.md)
 
 ---
 

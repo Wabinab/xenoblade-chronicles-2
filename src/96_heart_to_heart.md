@@ -3484,7 +3484,7 @@ Why do you have to say it so straightforwardly? Nia jumped on her feet, her claw
 
 ---
 
-### Legendary Land
+### Elysium in One's Heart
 
 At the Central Deck of lower level World Tree, Mòrag asked, "Say, Rex. Do you really think that place is Elysium?"
 
@@ -3529,5 +3529,138 @@ Mòrag had her faith in him, "**Rex** is **not so weak** as to let something _li
 "Yes. Keep forging our path ahead. We're _counting_ on you."
 
 ---
+
+### Finding Needles in Haystack From the Top of the World
+
+"How remarkable..." Standing at the glass floor at the edge of Rhadamanthus Portal, looking down at the Cloud Sea from the First Low Orbit Station, Brighid exclaimed. "**That view down below is the world where we live, isn't it?**"
+
+"So it would appear." her Driver answered. "I had no idea it was possible for humans to reach these kind of heights." As she was speaking, more and more of Malos's artifices were descending towards the bottom. 
+
+Zeke reminded them, "And this World Tree's been around since forever, too. I'm not sure I can keep up with what we're finding out here."
+
+Turning to her right, Pandoria called out, "Hey, Prince! **LOOOKKK!!! OVER DOWN THERE!!!**"{{footnote: The lift door was behind them; but that wasn't of interest to us except to know their current position.}}
+
+"What is it? You see something?" His eyes scanned for it, but he couldn't make out anything with his shortsighted only eye. 
+
+She excitedly exclaimed, "**Look! Right over there! It's Genbu! That's gotta be Genbu!**"
+
+"**Seriously?!!!**" But however he scanned, he couldn't make it out. But he, as he, always need to be confident, so he seconded her, "**WOW, you're RIGHT! That DOES look like Tantal!!**"
+
+Brighid felt like a fool, "What are you talking about? **Of course** we can't see Tantal from all the way up here."
+
+Pandoria disagreed, she invited, "**We totally can, though! Come over and take a look!**"
+
+> Choose: "I'm sure it's just a cloud or something."  
+> or: "Frankly, I'm not interested."
+
+<details>
+<summary>"I'm sure it's just a cloud or something. I don't see ANY sign of Tantal ANYWHERE." But she moved not a step to where Pandoria stood.</summary>
+
+Zeke urged, "Not over **there**, over **here!**"
+
+Pandoria: "Look, **right there!**"
+
+"It's so small, it's **difficult to judge**. _Are you sure_ you're not imagining it?"
+
+"No imagining **going on here!** That's Genbu, no doubt about it."
+
+"Hmmmmmm... Is it, though?"
+
+"Brighid?"
+
+"What is it, Lady Mòrag?"
+
+"_Well... it's just... I think I may have spotted Mor Ardain down there. Do you think that's really it?_"
+
+"What?" Now her driver got infected by their disease of illusion too?
+
+Zeke welcomed, "**Oh hey, you found your place too?!**"
+
+"Where do you mean?" Brighid was eager. Was she the only one that can't see it? Though, if we consider her eyes were always closed, perhaps we can't complain, though. 
+
+Mòrag pointed to a direction, nudged, "Over there -- _next to that strangely-shaped cloud.._."
+
+"Ah, I see the one you mean."
+
+"Doesn't that distinctive shape look just like Mor Ardain?"
+
+"I- do believe you're right... Those wide plains look **just** the right shape. **And those shapes flying around it- MUST be Titan battleships!**" She played along. 
+
+"I thought as much... Incredible how one can feel the majesty of Mor Ardain from- **all** the way up here..."
+
+"Quite right, Lady Mòrag!" she cheered her. 
+
+Zeke broke their excitement, "Hold on, you two. Take a closer look. I'm **pretty sure** that's the **Leftherian** islands. **Mor Ardain** doesn't have all that **greenery**, does it?"
+
+"_Ahhh..._" Now that it reminded her. 
+
+"Urk..." Brighid felt hearthurt. 
+
+</details>
+
+<details>
+<summary>"Frankly, I'm not interested."</summary>
+
+"**Awwwwww, c'mon!!! You're no fun!!!**"
+
+Zeke added, "**We've come ALLLLL the way to a crazy place like this, the LEAST you can do is ENJOY yourself a bit!**"
+
+"I'm in the wrong here? _Might I remind you_, we did not come here to have fun."
+
+Even Mòrag was persuading her, "Everyone needs to let their hair down _once_ in a while, Brighid."
+
+She turned to her, even her??? "Lady Mòrag?"
+
+"**Myself**, I have already spotted the Leftherian Archipelago."
+
+"Huh **What?!!** Those- tiny little islands?!"
+
+Pandoria was excited, "**Welllll, WHADDYA KNOW!!! Mòrag's really getting into this! C'MON, PRINCE, we can't let her beat us!**"
+
+"No chance of that. Take a look over there."
+
+She turned to where he pointed, puzzled, "Huh? I can't see anything..."
+
+"Look _reaaaaalll close_. There's a tiny **dot** right there, see? I'm pretty sure that's Goldmouth, the Argentum HQ!"
+
+Mòrag can't believe what she'd heard, "**GOLDMOUTH?!!! Are you certain?!!!**" You have such telescopic eyes? 
+
+Brighid urged, "**Where is this dot? I'm not seeing anything.**"
+
+But Mòrag answered, "**Yes, that must be Goldmouth! I'm sure of it!!!**"
+
+Her confidence confused her Blade even more, "You can see it, Lady Mòrag?!"
+
+"_Brighid! We must find something new ourselves, else I fear we have lost!_"
+
+"_When did this become a competition?_"
+
+She immediately turned back to the dot, persuadingly spoke, "**If that is Goldmouth... Would that be the Maelstrom next to it?!!!**"
+
+Brighid had to play by her note, "**Um... Well... (I can't see it but) I suppose it COULD be?**"
+
+As if she's getting excited, she pointed to somewhere else, urged, "**Oh! Look down there, Brighid! The Nopon sailors on board the Maelstrom are waving to us!**"
+
+"_Whaa...?!!!_"
+
+Even Zeke felt a little too... "Urgghhhh, Mòrag, I think you might be pushing it a bit with that one."
+
+Full of confidence, she answered without a blink, "I tell you no lie, I saw it with my **own** eyes!"
+
+"_Seriously?_" Her Blade no longer understand whether she's speaking the truth or not. Con artist, bro, con artists! "_Ah, Lady Morag..._ I think- you may just- be seeing Tora's reflection in the window..."
+
+"**No, you're wrong! I'm certain it was the crew of the Maelstrom!**"
+
+"Hmmm..."
+
+Zeke concluded the competition, "**Well, that was a bunch of fun!**"
+
+Pandoria added, "**Yeeaaaaaahhhh. If I learned one thing today, it's that Mòrag- HATES- to lose.**"
+
+</details>
+
+---
+
+### Before the Storm
 
 ### Footnotes:
