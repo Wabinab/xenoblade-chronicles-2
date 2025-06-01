@@ -53,7 +53,9 @@
 
 # Chapter 10: And Thus, Boy Met Girl
 - [This is... Elysium???](./32_elysium.md)
-- [The Architect](./33_architect.md)
+- ["Please, Father?"](./33_please_father.md)
+- [The Architect](./34_architect.md)
+- [Defeating Malos, "I'm Sorry, Rex!"](./35_confronting_malos.md)
 
 ---
 
