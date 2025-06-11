@@ -3663,4 +3663,26 @@ Pandoria added, "**Yeeaaaaaahhhh. If I learned one thing today, it's that Mòrag
 
 ### Before the Storm
 
+Outside the door leading to Aion, Rex commented, "Malos is a powerful foe..."
+
+Nia: "But we can't afford to give up now."
+
+Mòrag agreed, "Indeed. If we give up hope here, there will be nothing left of Alrest."
+
+Zeke added, "That'd leave all the people we **care about dead**, and a whole bunch of innocent folk besides."
+
+Tora thought "That worst possible outcome..."
+
+Nia reassured,  "But we're not in this alone. **Jin,** the Tora guys, and everyone back on Alrest are counting on us."
+
+Zeke reminded them, "We've run into **all kinds of trouble on the way, but we made it this far.**"
+
+Mòrag: "This may be the most formidable obstacle yet, _but we can surpass it like **any** other._"
+
+"When friends all together, **nothing** impossible!" Tora cheered. 
+
+Rex concluded, "This is it. This is our _final_ battle! Let's show him what **Drivers and Blades** can do **together!**"
+
+And everyone else chant, "**YEAH!!!**" Together they marched unwaveringly through the door. 
+
 ### Footnotes:

@@ -56,6 +56,13 @@
 - ["Please, Father?"](./33_please_father.md)
 - [The Architect](./34_architect.md)
 - [Defeating Malos, "I'm Sorry, Rex!"](./35_confronting_malos.md)
+- [Finale](./36_finale.md)
+
+# Torna: The Golden Country
+- [Preface for Torna: The Golden Country](./37_preface_torna.md)
+- [Where It All Started](./38_lora_and_jin.md)
+- [The Other Aegis, Where's Mother?](./39_addam_mother.md)
+- [New Friends, Bluefist](./40_brighid_bluefist.md)
 
 ---
 
@@ -65,3 +72,4 @@
 [Postscript](./97_postscript.md)
 [References](./98_references.md)
 [Terms](./99_terms.md)
+

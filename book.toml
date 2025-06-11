@@ -3,7 +3,7 @@ authors = ["wabinab"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Xenoblade Chronicles 2"
+title = "Xenoblade Chronicles 2 (Including Torna)"
 description = "Xenoblade Chronicles 2 translated from video to book."
 
 [preprocessor.footnote]
