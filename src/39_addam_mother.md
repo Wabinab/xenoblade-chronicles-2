@@ -1,32 +1,30 @@
 # The Other Aegis, Where's Mother?
 
-===
+"**CHAAAAYRKKK!!!**" Lora whipped at the guy, whom, wielding a non-Blade sword, sliced at the tip, let it rolled around, and pulled it tight. It became a tug of war. 
 
-"**CHAAAAYRKKK!!!**" Lora launched her whip at the guy, he sliced at the tip with a non-Blade sword, it rolled around. When she tried to pull it back, he twitched it and it stuck tight. It became a tug of war therefore. 
+Jin came up from behind, jumped into the air, slashing at the guy; the blonde girl the same. Halfway, she shockingly watched Jin threw his sword that plunged and stuck into the soil beside Lora while raising a shield, coming at her. Mid-air, there's nothing else she could do. 
 
-Jin jumped into the air, slashing towards the guy; the blonde girl came up from behind and launched herself up. He threw his sword down. The girl, halfway in air, hadn't had time to react, for Jin simultaneously launched himself at her, raised a shield; and mid-air, she can't change direction. 
-
-"**HYARRRGH!!!**" She put down her whip and took his sword, launched herself at him. One slash, and Jin already landed beside her, took his sword from her, and made another slash at the guy. The girl landed in front of the guy, dueling with Jin, annoyed, 
+"**HYARRRGH!!!**" She released her whip and took the sword, launching herself at him. After one slash, she released the sword, which Jin, whom just landed beside her, took it, and made another slash. The girl came a round late, made Jin her opponent, but clearly annoyed, 
 
 "**The hell ARE these two?!** They're just a Driver and Blade, where's this strength coming from?"
 
 "**Well, he IS- the Paragon of Torna.**"
 
-"Hrh... I've had enough." Jin aimed his palm at those two, gathered icy particles. 
+"Hrh... I've had enough." Jin aimed his palm and prepared the icicles. 
 
-Lora, however, was surprised, tried to stop him, "_What?_ No! There's no **need** for you to-" 
+Lora, whom felt these guys were just enjoying the fight rather than really wanted to catch them so far, was caught in surprise, trying to stop him from escalating the situation, "_What?_ No! There's no **need** for you to-" 
 
-She launched herself at him, but it's too late, and he isn't listening. Ice spears aimed at the guy; the girl pointed her sword forward at a location in front of the guy, the turquoise crystal on the headband she wore on her forehead shone bright, and a beam from above the clouds struck down, creating a giant field dome that swallowed his icy spears. 
+She launched herself at him, but it's too late, and he wasn't listening. Ice spears materialized and launched in hundreds at the guy. The girl, seeing the situation dire, the turquoise crystal attached to the front of the headband she wore on her forehead started shining emerald brightly, and in a moment, a particle beam struck down from behind the clouds, creating a giant field dome that swallowed his spears. 
 
-"Whoa..." Lora was surprised. The girl now moved in front of the guy, putting her sword to her side, shielding him. The guy, surprised, sheathed his sword by sticking it to his back, excitedly exclaimed, 
+"Whoa..." Lora was even more surprised. The girl moved herself in front of the guy, shielding him. The guy was frozen for a moment, before he sheathed his sword on his back and exclaimed, 
 
 "**YOU!!!**"
 
-Jin backed down, prepared for another attack from what he deemed the mentally retarded. Lora eyes opened wide, mouth gaped, perplexed,  "W-what?"
+Jin backed down, wondered why would this weird guy started walking towards them fast, prepared to launch another attack if he did anything suspicious. Lora eyes opened wide, mouth gaped, perplexed,  "W-what?"
 
 He walked closer towards them, all the while holding his right arm straight at them, exclaimed, "**Incredible! You... Both of you!**" He opened his arms wide, as if to embrace. 
 
-"Huh?" Lora was so confused at what's happening. She turned to look at Jin, hoping he would have a better idea of what's happening, but he's confused himself. The girl, whom'd already sheathed her weapon, crossed her arms and shook her head. Not the first time she saw him doing this, one supposed. 
+"Huh?" Lora was perplexed beyond saving. She looked to Jin, trying to gauge the situation, trying to see if he understood what's going on, but the look on his face betrayed him -- equally confused. The blonde girl too sheathed her weapon and crossed her arms and shook her head. This isn't the first time the guy did this kind of thing, and she just got tired of it. 
 
 "**That last attack? The force behind it was absurd! I'm amazed.**"
 
@@ -36,15 +34,15 @@ He walked closer towards them, all the while holding his right arm straight at t
 
 Her face grew redder, eyes widened, "Oh, well..." (The guy waited in patience, with a smile on his face, for her answer. Lora looked to the side, blinked, and said) "We were... _broke._"
 
-"_Ahhh???_" He bent his head closer, what an answer from her? 
+"_Ahhh???_" He bent his head closer, trying to make sure he just heard what he just heard. 
 
-Lora put her hands on her waist, put up an annoyed face, explained in an annoyed tone, "**We couldn't afford meals, let alone another sword.** And so we made do."
+Lora, feeling challenged, raised her chest and put her hands on her waist, put up an annoyed face and talked in an annoyed tone,  "**We couldn't afford meals, let alone another sword.** And so we made do."
 
-And this is the guy's face: eyes wide opened, mouth gaped wide, frozen. The same for the girl. 
+His eyes wide opened, mouth gaped wide, muscles frozen in place. The girl the same. 
 
 ![Mouth gaping wide](images/373_mouth_gaped_wide.jpg)
 
-Jin didn't have the chance to prevent her from saying that, gritted his teeth, facepalmed himself, and shook his head. 
+Jin couldn't stop her from revealing their financial conditions, gritted his teeth and facepalmed himself, shaking his head. 
 
 "**AHAHAHAHAHAHAH!!!! You're kidding?!**"
 
@@ -58,19 +56,19 @@ Jin didn't have the chance to prevent her from saying that, gritted his teeth, f
 
 "Urrrrr...."
 
-Meanwhile, outside, Mikhail watched as a boy wearing gray rags with gray-brown hair and tanned skin, accompanied by a girl wearing robes and big red long trousers, having long dark-brown hair dragging behind her as the wind blew while she ran, holding onto a short staff with both hands, dashing into the scene. The boy shouted, "**Master Addam! SIRRRRRRR!**"
+Meanwhile, outside, Mikhail watched as a boy wearing gray (rags???) with gray-brown hair and tanned skin, accompanied by a girl wearing white robes and big red long trousers, dragging along long dark-brown hair that wavered as she ran, holding on to a short staff with both hands, dashing into the scene. The boy shouted, "**Master Addam! SIRRRRRRR!**"
 
 ![Haze and Milton](images/374_haze_and_milton.jpg)
 
-Addam and the girl looked back, he waved back at the boy and the girl whom stopped at the edge of the pit, "**Milton!**"
+Addam and the girl looked behind, the boy, standing at the edge of the pit, waving furiously at Addam and the blonde girl. Addam called out, "**Milton!**"
 
-As they were running into the pit, Lora's eyes widened. Milton immediately jumped and hugged Addam. "_Ohhhhh, thank goodness you're all right! Master Addam_, are you hurt at all?"
+They quickly descended into the pit. Lora's eyes widened as she saw her. Finally here! Milton, meanwhile, jumped and hugged Addam. "_Ohhhhh, thank goodness you're all right! Master Addam_, are you hurt at all?"
 
 "Master... Addam...?" Lora gaped. "You **can't be THE** Addam Origo?!"
 
 Jin shared what he knew, "The lord of Aletta... And fourth in line to the throne of Torna."
 
-The girl gingerly walked closer, said in slightly annoyed voice, "Ohhh, come on, Milton. I've been **with him** the whole time. You really think these two would cause any harm?" She bent forward and looked at him wide-eyes. 
+The blonde girl gingerly walked closer, said in slightly annoyed voice, "Ohhh, come on, Milton. I've been **with him** the whole time. You really think these two would cause any harm?" She bent forward and looked at him wide-eyes. 
 
 He bent forward with arms on his waist, argued back, "You've been using your dumb Artifice again, **haven't you?**" Milton had some freckles on his cheeks, emerald-green irises, and long cat-like ears. A three-leaf-clover-knot attached to his waiter-like shirt{{footnote: It really looked like rags earlier, so one'll not change the description.}}, which had green straps pulling up his trousers wrapped around his shoulder, and he carried a bag with a strap flung around his left shoulder. 
 
@@ -80,7 +78,7 @@ He bent forward with arms on his waist, argued back, "You've been using your dum
 
 "So yeah, sure, nothing to worry about, right?"
 
-She stomped her foot; Addam put his arm to prevent the incited Mythra from escalating the argument. She looked annoyed at her Driver. Addam went down with a smiling face, asked, "Milton. Who's this, then?"
+She stomped her foot; Addam put his arm in between her and Milton, to prevent the incited Mythra from escalating the argument. She stayed annoyed, but stopped all right. Addam went down with a smiling face, asked, "Milton. Who's this, then?"
 
 "Ah, this is Haze. She rescued me from the _jaws of some nasty mosters._"
 
@@ -98,11 +96,11 @@ Haze walked closer and apologized, bowed to Lora, "I'm sorry to keep you waiting
 
 ---
 
-Camping on the outskirt of the destroyed village for the night, someone put a pot on top of the campfire while they sat on the rocks arranged in a circle, sharing stories. 
+Camping on the outskirt of the destroyed village for the night, someone hung a pot on top of the campfire while they sat on the rocks arranged in a circle, sharing stories. 
 
 "I see... So that's when... _What a sad, sad tale, Lora... Nghuh nghuh..._" Tears started overflowing Addam's eyes. He covered it with his palm. 
 
-Milton sighed, "_Ohhhh, here we go again..._" He got up and offered him his handkerchief. He took it and cover his eyes with it. 
+Milton sighed, "_Ohhhh, here we go again..._" He got up and offered him his handkerchief. He took it and covered his eyes with it. 
 
 While Mikhail was watching, wondering why he would cry so emotionally, someone told him, "Don't let it get cold, now." His attention diverted, seeing Milton passing him a bowl. He took it from him. 
 
@@ -122,17 +120,17 @@ She lightly commented, "**Huh.** A Blade siding with humans... You don't see tha
 
 She seemed to take it as a praise, folded her arms and pushed her nose high, "Well, **duh!** You do **know**- what I am, right?"
 
-He emotionlessly expanded, "Lacking in compassion."
+He emotionlessly explained his words, "Lacking in compassion."
 
-"**HUH?!!!**" She snapped into position, her eyes widened. 
+"**HUH?!!!**" Her head snapped into position, her eyes widened. 
 
-He folded his arm, not changing his mind, "**Blades like you**- really _are_ a rare sight. That may be for the best."
+He folded his arm, ignoring her eyes that wanted to tear him down, "**Blades like you**- really _are_ a rare sight. That may be for the best."
 
 "**Pfft URGHHH...**" She tsunderely looked to the side, refused to argue with him. 
 
-Lora watched them finished their conversation, turned to Addam to continue theirs, "So about Jin... _I suppose you have to take him away from me._" Jin looked at her. 
+Lora watched them finished their conversation, turned to Addam, "So about Jin... _I suppose you have to take him away from me._" Jin looked at her. 
 
-Addam sternly answered, "I **could** try to slay you _right here..._" Jin turned his head at him. 
+Addam sternly answered, "I **could** try to slay you _right here..._" Jin turned his head to look at him emotionlessly and calmly. 
 
 "But?" She looked to the ground, wishing what's ahead won't be worse. 
 
@@ -140,15 +138,15 @@ Addam sternly answered, "I **could** try to slay you _right here..._" Jin turned
 
 "Huh?" That came as a surprise. Her depressed mood lessened. 
 
-He suggested, "**How about... you two** join up, **lend us** your strength? **Your incredibly** powerful. **There's loads** I want to pick up from you... **like that trick** from before! Let's see..." He reminisced for a while how to deal with the situation. "**We'll say** I found the Paragon on my journey, **and decided** to entrust him to you. **To help** with Malos. **Well? Sound plausible?**"
+He suggested, "**How about... you two** join up, **lend us** your strength? **You're incredibly** powerful. **There's loads** I want to pick up from you... **like that trick** from before! Let's see..." (His brain worked hard to come up with a solution) "**We'll say** I found the Paragon on my journey, **and decided** to entrust him to you. **To help** with Malos. **Well? Sound plausible?**"
 
 Her eyes widened, her mood uplifted, "That's just..." He gave her a smile. The girl just shook her head; always hearing this kind of stuffs every day. 
 
 ---
 
-The night's getting colder, even with the flames, now without the pot, burning bright and huge. Addam and his Blade had went somewhere else, leaving Lora sitting next to Jin, happily conversing, while Mikhail quietly resided in his inner thoughts even when he sat next to Milton, whom put his hand on the back of his head and looked at him sit-sleeping, while Haze sat closer to those two and observed. Perhaps he sensed their fiery gaze, opened his eyes to look at what the spark they were having their attention on him. 
+The campfire, shining bright and high without the pot hovering over it, couldn't prevent them from feeling the cold seeping in at night. Addam and his Blade went somewhere else, leaving Lora sitting next to Jin, happily conversing, while Mikhail quietly resided in his inner thoughts even when he sat next to Milton, whom put his hand on the back of his head and looked at him sit-sleeping (ahem, meditating), while Haze sat closer to those two and observed their reactions. Perhaps he sensed their fiery gaze locked on him, opened his eyes and wonder what the spark were they wanting from him. 
 
-Outside the fence, Addam and the girl watched them interact. The girl sniped, "**How dare** he speak to me _like that?_ **He thinks he knows me!**"
+Outside the fence, Addam and the girl watched them. The girl sniped, "**How dare** he speak to me _like that?_ **He thinks he knows me!**"
 
 "'Coarse' is the word."
 
@@ -158,17 +156,17 @@ He turned to look at her, corrected her, "I meant you."
 
 "**ME?!!!**"
 
-"**He meant you're** unpolished. **After you return** to your core, you lose your memories. However, **as you gain experience** with people, gradually the nature of a Blade... rather, their _feelings_... **they change** and grow. **You become** more- and more human." (She's thinking hard; we don't know what's going on her mind.) "But **you**- purposely keep yourself _apart._"
+"**He meant you're** unpolished. **After you return** to your core, you lose your memories. However, **as you gain experience** with people, gradually the nature of a Blade... rather, their _feelings_... **they change** and grow. **You become** more- and more human." (She's thinking hard; we don't know what's going on in her mind.) "But **you**- purposely keep yourself _apart._"
 
 "**Oh, so now** it's my fault?!"
 
 "**Nooo, not at all!**" (Her eyes widened.) "**I respect** that part of you."
 
-She blushed and looked away, don't know how to reply except to keep her tsundere. 
+She blushed and looked away, don't know how to reply except to keep up with her tsundere. 
 
 ---
 
-Meanwhile, at the camp, Lora saw that Jin was bending forward with his elbow on his knees, closing his eyes as if sit-sleeping, asked, "**Hey**, are you... angry?" (He looked at her for further explanation.) "About _this whole Malos thing..._"
+Meanwhile, at the camp, Lora saw that Jin was bending forward with his elbow on his knees, closing his eyes as if sit-sleeping, asked, "**Hey**, are you... angry?" (He looked at her for further clarification.) "About _this whole Malos thing..._"
 
 He shook his head. "I'm not. Whatever happens, _I'll protect you._ Be sure of it. We **cannot** simply ignore- what's **happening**- in the world. But..." He looked back at the floor. 
 
@@ -176,11 +174,11 @@ He shook his head. "I'm not. Whatever happens, _I'll protect you._ Be sure of it
 
 He turned to her, "**Please say** you'll _be careful._"
 
-"Hmph! I will." That's a promise. 
+"Hmph! I will." And that's a promise. 
 
 ---
 
-The morning bird rose and ate the mating worms. The sun shone through the clear sky, casted its warmth on the nearby hills and mountainous structures. Addam, the girl, and Milton were gathering around for a refreshing chat. The irregular wind blew past swayed the piece of loose cloth that stretches on her back. 
+The morning bird rose and ate the mating worms. The sun shone through the clear sky, casted its warmth on the nearby hills and mountainous structures. Addam, the girl, and Milton gathered around for a refreshing morning chat. The irregular wind blew past swayed the piece of loose cloth that stretches behind her back. 
 
 "Erm, Your Highness?" Lora approached and disturbed. 
 
@@ -192,15 +190,15 @@ The morning bird rose and ate the mating worms. The sun shone through the clear 
 
 "I... Well, yes."
 
-He folded his arm, waiting for an explanation. Haze took over, "You see... Lady Lora seeks the whereabouts of her mother. Unfortunately, **she has** her mercenary duties to perform. **Therefore, I** often go out and conduct these searches myself."
+He folded his arm, waiting for an explanation. Haze took over to explain, "You see... Lady Lora seeks the whereabouts of her mother. Unfortunately, **she has** her mercenary duties to perform. **Therefore, I** often go out and conduct these searches myself."
 
 "I see... Then, you've found her?"
 
 "Y-yes." She turned to Lora, "With all that happened yesterday, I did not have the opportunity to say{{footnote: What's with all the nighttime???}}... M-my lady, your mother is currently residing in a small hamlet called Torigoth."
 
-"Torigoth." She repeated the word, as if she held on to hope itself. 
+"Torigoth." She repeated the word, as if she held on to hope itself. Finally, after years of waiting, she finally heard about her. 
 
-"That's on the edge of Gormott." Addam heard about the whereabouts before. Both turned their attention to him. "Ardainian and Coeian forces clash out there _frequently. It's very dangerous._"
+"That's on the edge of Gormott." Addam had heard of the whereabouts before. Both turned their attention to him. "Ardainian and Coeian forces clash out there _frequently. It's very dangerous._"{{footnote: Unsure though, wasn't Coeia capital being felled by the Praetorium already?}}
 
 "Indeed." She who did the research agreed. 
 
@@ -228,41 +226,43 @@ His smile broadened, "**Hmmm!** That's the general idea. **I'll send** my people
 
 Her eyes widened in disbelief, questioned out loud, with clearly a tone of friendliness, "Is this normal princely behavior?"
 
-The girl gave them a eyelid-half-closed look, "Mmm you think this is bad, just stick around for a bit."
+The girl gave them a half-closed-eyelid look, "Mmm you think this is bad, just stick around for a bit."
 
 Milton argued back, "Nobody's, like, _making you come along, you know?_"
 
 She folded her arm, "Un-fortunately (with a thick sigh), a Driver and Blade are one in body- _and soul._"
 
-"_As if you don't do whatever you feel like anyway..._" And they looked at each other, locked in an eye-staring contest to who will back down first. Addam smiled at their interactions; he really thought she'd changed quite a lot ever since he resonated with her. And that he felt glad. 
+"_As if you don't do whatever you feel like anyway..._" And they stared at each other, locked in an eye-staring contest where whoever backs down first lose. Addam smiled at their lovely interactions; he really thought she'd changed quite a lot ever since he first resonated with her. And that he felt glad. 
 
 He turned his attention back to Lora, "I _know this is all very sudden._ **Still**, we don't know where we'll run into Malos next. It makes sense _to stick together_... **as much** as we can."
 
 ---
 
-Unbeknownst to them, hidden behind the tall grass some distance away, staying low-profiled was a guy with short gray hair and slightly tanned skin with some paintings on his eyes to thicken his eyebrow, and deep sacs below his eyes, plus some moles randomly placed on his face. His crimson iris locked on to one of the figure in the group, recognized, "_Isn't that...?_"
+Unbeknownst to them, hidden behind the tall grass the overgrew the side of the path, was a low-profiled guy with short gray hair and slightly tanned skin with some paintings on his eyes to thicken his eyebrow, and deep sacs below his eyes, plus some moles randomly placed on his face. His crimson iris locked on to one of the figure in the group, recognized, "_Isn't that...?_"
 
 ![Lora's father](images/377_loras_dad.jpg)
 
-He remembered, a long time ago, when the young girl touched the crystal and he materialized, kneeling before her while he regained consciousness, he, wearing nothing on top, ignored him for the moment, taking a knife and going after the little girl, whom was awashed with fear, stabbed deep into an unknown part before he could land his hand on her. 
+He remembered, a long time ago, when the young girl touched the crystal and he materialized, kneeling before her while he regained consciousness, he, wearing no shirt, carried a big beer belly, ignored him for the moment, taking a knife and went after the little girl awashed with fear, and the guy he ignored sliced and stabbed on him before he could land his hand on her. 
 
 He wore some leather jacket so small it left most of his body parts naked, and a blue-purple strap strapped over his chest. His bellow was forever wrapped with thick bandage, as thin as ever. And his right arm had been replaced by a mechanical one. A necklace with 4 animal fangs he wore. "_No mistakin' it. That's the Blade... And_ that little brat, _too!_"
 
-Even though she had grew up to be different, for 17 years, he had lived in agony ever since. Oh, he thought, if he had not let the little girl born into this world, how rich would he now be. But all for her he now in this situation. He turned around and looked at a common Blade{{footnote: Common Blade, unlike rare Blades, are Blades that had nothing that resembles a human or an animal, mostly looked like humanoid robots or animistic robots in appearance.}}. The Blade immediately know what he wanted, pushed his arms and summoned some ether, materialized the hologram of a person's head and neck. Communications established, the guy spoke through, "Hey, it's Bluefist."
+Even though she had grew up to be different, for 17 years, he had lived in agony ever since. Oh, he thought, if he had not let the little girl born into this world, how rich would he be now from selling his core crystal. But because she resonated with the crystal, he couldn't sell it and make them, no, him, rich, he now have to worked day and night in this current situation for meager income{{footnote: At least, he considered it meagre compared to selling the Paragon.}}
 
-Some communications exchanged before he reported, "Yeahhhhh, the **whooooole village**{{footnote: He didn't shout it out, only emphasized.}} was wiped out. Found myself some **great Core Crystals**, though." He looked at the sac laid on the floor with darkened Core Crystals. 
+He turned around and looked at a common Blade{{footnote: Common Blade, unlike rare Blades, are Blades that had nothing that resembles a human or an animal, mostly looked like humanoid robots or animistic robots in appearance.}} that stood quietly behind him. The Blade immediately knew what he wanted, pushed his arms and summoned some ether, which materialized a hologram of a person's head and neck. Communications established, the guy reported, "Hey, it's Bluefist."
+
+Some communications exchanged before he reported, "Yeahhhhh, the **whooooole village**{{footnote: He didn't shout it out, only emphasized.}} was wiped out. Found myself some **great Core Crystals**, though." He looked at the sac laid on the floor filled with darkened inactive Core Crystals.{{footnote: Inactive core crystals can't be resonated yet. They'll regain their activity after some time.}} 
 
 "And... _I found somethin' else, too. Somethin'_ reaaaaal interesting."
 
-On the spot, Jin took out his mask and covered his face, as if that would prevent the others from recognizing him. The guy watched as they were leaving the destroyed village, said to the hologram, "Uh-huh. Gimme some time to take care of this, OK?... _I'll be in touch._"
+He watched as Jin took out his mask from his pocket and put it on his face, as if that prevent others from recognizing him; but not he. They were leaving the track, leaving the destroyed village. He turned to the hologram, said, "Uh-huh. Gimme some time to take care of this, OK?... _I'll be in touch._"
 
 The hologram dissipated. He glanced at their shadows, exclaimed, "**Hah!** _Fate's a funny thing._ **Never thought** I'd get to take back that Paragon- what I stole in the first place..." The last sentence he speak through his teeth gritted, his tongue twisted. 
 
 ---
 
-The ship, a cabin hung below a fish Titan, parked at the edge of their journey, took off for the sky. 
+The ship, a cabin hung below a fish Titan, parked at the edge of their journey on this current Titan, took off for the sky. 
 
-Some journey passed before they arrived at the meadow-covered port. The land stuck out so little you could safely jumped off the ledge and dived below the clouds; or if you're afraid, there were some roots that you could climb down along. 
+Some time passed before they arrived at a meadow-covered port on another Titan. The land stuck out so little you could safely jumped off the ledge and dived below the clouds; or if you're afraid, there were some roots that you could climb down along. 
 
 ---
 
@@ -270,7 +270,7 @@ A raindeer-shaped turquoise Titan, its head stuck high, with scales on its neck,
 
 ---
 
-The group waited for Lora, whom stood on the path leading to a burnt-down village. Only traces of its pillars remained where it hadn't been burnt down. Lands were abandoned. Trees within were devoid of leaves, probably suffocated to death. Its ground barren. She took a few steps closer. It was like two worlds within the perimeter and without. 
+The group waited for Lora, whom stood on the path leading to a burnt-down village. Only traces of its wooden pillars remained. Lands were abandoned. Trees within the perimeter were devoid of leaves, probably suffocated to death. Its ground barren. She took a few steps closer. It was like two separate worlds. 
 
 "Oh no..."
 
@@ -280,11 +280,11 @@ The girl wasn't too compassionate either, brushed it off, "Whether it was Malos,
 
 "**Mythra!**"
 
-"**Uphrhhh???**" She stopped speaking mindlessly, looking at the shadow of the girl whom was immersed in her loss. Jin was worried for her, called out, 
+"**Uphrhhh???**" Did she spoke something wrong again? Clearly she didn't realize, but when she saw the figure immersed in her sadness, worried about her loss, she somewhat understood why she shouldn't have said that. 
 
-"Lora..."
+Jin was worried about her state, called out, "Lora..."
 
-"It's... It's OK. Mother... could have run away somewhere safe..." Though she wasn't so sure herself, deep down. Though she don't want to believe what she feels deep down. 
+"It's... It's OK. Mother... could have run away somewhere safe..." She tried to persuade herself, although deep down in her gut, she felt the probability dwindling, but she yet don't want to believe, not until she receive the exact news. 
 
 ---
 
@@ -292,28 +292,28 @@ Entering the village and exiting from the other side, the group found some woode
 
 They scanned left and right. Haze's eyes fixated on a man whom laid dead between the graves. "This kind soul must have dug them all..."
 
-Mythra focused on the guy, closed her eyes and quietly cried, making sure she doesn't let out too loud a sound to attract attention. But her Driver heard her, wondered, "What's wrong?"
+Mythra focused on the guy, tears rolling down her cheeks as her eyes fixated on the figure. Addam seem to caught her shoulder shuddering, looked towards her and asked, "What's wrong?"
 
 "Should... Should we maybe bury _him, too?_"
 
-"_Huh!_" His eyebrow raised; the girl that depreciate people, speaking openly without an act of compassion, have no feel for what people feel, started to feel something herself? Had what he planned to teach her started to get through? His smile broadened more and more, decided to go with her, "Mm. Yes, let's."
+"_Huh!_" His eyebrow raised; the girl that depreciate people, speaking openly without an act of compassion, have no feel for what others feel, started to feel something herself? That was another step forward that she learned the art of compassion. His smile broadened more and more, decided to go with her, "Mm. Yes, let's."
 
-Meanwhile, Lora's eyes caught something; caught in a surprise, she ran toward one of the wooden stick and looked at it. She looked at it clearly, the texture, the shape, the color; her eyes widened. A necklace of red string, some parts damaged you can see the white underneath. Two beads tightened the secondary layer of string wrapped around its middle parts. Directly in between was a 4-leaves clover connected by a circular button in the middle, like a cliché flower, and another circular ring smaller than the clover's circumference placed in front of it. 
+Meanwhile, Lora's eyes caught something; caught in a surprise, she ran toward one of the wooden stick and looked at it. She looked at it clearly, the texture, the shape, the color; her eyes widened. A necklace of red string, some parts of the string worn out that you can see the white underneath. Two beads tightened the secondary layer of string wrapped around its middle parts. Directly in between was a 4-leaves clover connected by a circular button in the middle, like a cliché flower, and another circular ring smaller than the clover's circumference placed in front of it, hung around the middle in between the two beads. 
 
 ![Necklace](images/378_mothers_necklace.jpg)
 
-She carefully took it off the post and examined it closely, trembles as she feels the texture she long reminisced, last felt when she was way younger. 
+She carefully took it off the post and examined it closely, trembled as she feels the texture she long reminisced, last felt when she was way younger. 
 
 "_This..._"
 
-> The young Lora happily wrapped the strings aroundthe final part of the necklace. After tightening it and making sure it does not fall off, she took it up, viewed it against the wooden walls, and smiled. A pendant for her mother! 
+> The young Lora happily wrapped the strings around the final part of the necklace. After tightening it and making sure it does not fall off, she took it up, viewed it against the wooden walls, and smiled. A pendant for her mother! 
 
 "_I made this for her myself... She... kept it, all this time..._"
 
-She took it with both hands and placed it near her heart, tears overflowing the tip of her eyes. She closed her eyes, trying to feel her warmth through all those years of memories. Jin sighed. Haze put her left fist on her heart. Jin walked forward and put one arm on her head, wrapped around her shoulder with another, and gently bring her head close to her chest. He felt his chest getting wetter and wetter, and closed his eyes, sharing her moments. The rest of them gave her the time and space she needed. 
+She took it with both hands and placed it near her heart, tears overflowing the tip of her eyes. She closed her eyes, trying to feel her warmth that lingered via the necklace through all those years of memories and the years she wasn't with her. Jin sighed. Haze put her left fist on her heart. Jin walked forward and put one arm on her head, wrapped around her shoulder with another, and gently bring her head close to his chest. He felt his chest getting wetter and wetter, and closed his eyes, sharing her moments while she took her time. The rest gave her the time and space she needed. 
 
 ![Jin becalming Lora](images/379_lora_and_jin.jpg)
 
-Perhaps the tranquility and peacefulness of this barren, abandoned land was what she need to rest. 
+Perhaps the tranquility and peacefulness of this barren, abandoned land was where she hope to rest. 
 
 ### Footnotes:

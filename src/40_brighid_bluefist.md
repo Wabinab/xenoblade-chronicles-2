@@ -1,5 +1,0 @@
-# New Friends, Bluefist
-
-===
-
-### Footnotes: 

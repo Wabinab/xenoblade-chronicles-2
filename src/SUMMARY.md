@@ -62,7 +62,8 @@
 - [Preface for Torna: The Golden Country](./37_preface_torna.md)
 - [Where It All Started](./38_lora_and_jin.md)
 - [The Other Aegis, Where's Mother?](./39_addam_mother.md)
-- [New Friends, Bluefist](./40_brighid_bluefist.md)
+- [New Friends](./40_brighid.md)
+- [Gort the Bluefist](./41_bluefist.md)
 
 ---
 
