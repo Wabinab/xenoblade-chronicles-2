@@ -64,6 +64,12 @@
 - [The Other Aegis, Where's Mother?](./39_addam_mother.md)
 - [New Friends](./40_brighid.md)
 - [Gort the Bluefist](./41_bluefist.md)
+- [Going to Torna](./42_torna.md)
+- [Journey to the Capital](./43_capital.md)
+- [Malos is Here](./44_attacking_capital.md)
+- [The Peace Before the Storm](./45_peace_before_storm.md)
+- [The Battle with Malos, The Fall of Torna](./46_battle_malos.md)
+- [Aftermath, The End](./47_finale.md)
 
 ---
 
@@ -71,6 +77,7 @@
 [Poppi QT \\(\pi\\)](./95_QT_pi.md)
 
 [Postscript](./97_postscript.md)
+[Postscript (Torna)](./94_postscript_torna.md)
 [References](./98_references.md)
 [Terms](./99_terms.md)
 
