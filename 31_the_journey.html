@@ -1,0 +1,492 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>That Day, When a Desolate Man Trusted a Con Artist - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="that-day-when-a-desolate-man-trusted-a-con-artist"><a class="header" href="#that-day-when-a-desolate-man-trusted-a-con-artist">That Day, When a Desolate Man Trusted a Con Artist</a></h1>
+<p>Jin and Malos were well ahead of the group; the former stopped and the latter felt it, turned around and asked, "What's up, Jin?"</p>
+<p>Jin's head turned to the entrance they came in from, "So this is where it ends."</p>
+<p>"<em>Huh?</em> You say something?"</p>
+<p>"No." Peering over his shoulder, he instructed, "I'll stay here. <strong>You</strong>- go fulfill our goal."</p>
+<p>"<em>What're you saying?</em> We promised we'd go <em>together</em>, didn't we?"</p>
+<p>He breathed in and out 3 times, answered, "We did... <em>once...</em>"</p>
+<blockquote>
+<p>In the City, Jin sit in a rural alleyway, Malos approached him and held out his hand to him.</p>
+</blockquote>
+<p>"You OK?"</p>
+<p>"I'm just waiting..."</p>
+<p>Half a second passed, "For the boy?"</p>
+<p>"I was... <strong>told</strong>- to wait..." He seemed to saw Lora standing by the entrance, watching at him with teary eyes. He closed his eyes and sighed, his attention returned to Malos, "I'll be watching... all of you."</p>
+<p>Malos looked into his eyes for a few seconds, "Are you sure?"</p>
+<p>Without hesitation, "I am."</p>
+<p>He took a deep breathe and sighed, then walked up and hugged Jin, whispering into his ears. He then released him and, without looking back, walked towards the door. Jin eyes looked to the side, we don't know what he was thinking; after Malos disappeared behind the door, he turned around and faced the entrance they came in from, waiting.</p>
+<hr />
+<blockquote>
+<p>She stood by the window, the drizzle weigh on the leaves, plop back up, and formed puddles on the muddy ground. Jin wondered where did his Driver's mind wandered...</p>
+<p>"<strong>Hey, you!</strong>" They turned and saw an old-guy coming in, observed Jin from head to toe, exclaimed, "You wouldn't happen to be Ornelia's former Blade, would you?"</p>
+<p>"Ornelia? No, I'm..."</p>
+<p>"<strong>From the Territorial Defense Corps! It's you!</strong>"</p>
+<p>"What?" He was ever more puzzled.</p>
+<p>"<strong>Ooooo, I remember 'em well! Even though I was- knee-high to a grasshopper back then; with that sword slung across your back, you were so cool! If you hadn't come when you did, our village would've been...</strong>" Something plopped into his mind "<strong>Oh yes! The house you used to live... is still out there on the outskirts.</strong>"</p>
+<p>Lora, now stood beside Jin, wondered if that sparks some memories in her companion's mind, "<em>House?</em>"</p>
+<hr />
+<p>He stood in front of the wardrobe, tremblingly held on to a portrait of him with some others, that proved he'd existed before.</p>
+<p><img src="images/298_portrait.jpg" alt="Ornelia and Jin" /></p>
+<p>For a long time, he observed, one by one, hoping their expression would give him more info. Perhaps he did find something, perhaps he don't, we don't know. He tucked it back where it was, took out the only book he found in it and started reading.</p>
+<p>"This long war for independence- will soon come to an end. It is not only the war- that will soon be over. Her life, too, is about to end. And when she meets her end, so too- will I."</p>
+<p>He imagined himself sitting by a table, dispensing ink on the pages with a quill pen. "Unsullied by her death, I will merely- return to my core, to await my eventual reawakening. I will sleep, as at the end of <strong>any</strong> other day. When I awake, will I be the same <strong>person</strong>- as before? If the Architect <strong>does indeed</strong> exist, I wish I could ask him... <strong>Who-</strong> am I, truly? <strong>Whence</strong>- did I come, <strong>whither</strong>- am I headed? If- <em>I were a praying man</em>, I'd pray this journal- <strong>finds</strong>- its way to you. Trusting that it will, I will use these last words- to pass down..."</p>
+<p>There was an empty space left between the words, and his eyes moved on to the next paragraph, "... a means of carving the bond between myself- and my partner- into this flesh. <strong>This</strong>- is how it is done."</p>
+<p>His irises constricted, his breathe unsteady, cold sweat soaked the cover of the diary and ran down his spine.</p>
+<p>"My..." Immediately he snapped the book close, turned around while putting the hand holding the diary behind his back as she continued, "How terribly desolate... I heard it's been 90 years, but..." Walking towards him, her eyes can't stop scanning left to right at every possible trace of memories. She saw him looked troubled, asked, "What is it? Did you-remember something?"</p>
+<p>"N-no. I-It's nothing."</p>
+<p>"Really? That's too bad. I would've liked to have learned about the old you." His fingers pressed on the cover even tighter; Lora seemed to not notice, or if she did, she chose not to voice it out.</p>
+<p>"I am... who I am. <strong>I. Do. Not.</strong> Change." He convinced himself.</p>
+</blockquote>
+<hr />
+<p>Jin felt his arms over his chest, feeling her heart pumping. He knew she wouldn't agree, but there's no going back. He prayed for her forgiveness, he would soon go and find her.</p>
+<p>The door creaked open, bringing back his attention, "You came."</p>
+<p>The group dashed in and stopped before him. "Jin!"</p>
+<p>Pyra: "Are you alone? Where's Malos?"</p>
+<p>"He... went ahead."</p>
+<p>"Well then, what are <strong>you</strong> doing here?" Rex was curious.</p>
+<p>"Waiting. For you."</p>
+<p>"For us? Are you trying to stop us going after Malos?"</p>
+<p>"Perhaps..." They waited for his explanation. "I want to see for myself. If this world- has any will of its own, which one would it choose, you- or Malos?"</p>
+<p>Mythra took over and reasoned, "Then... you should let us pass."</p>
+<p>"That I cannot do."</p>
+<p>"<strong>But why? In your state</strong>, you should <strong>barely</strong> be able to stand! You know <strong>if we fight now</strong>, you'll..."</p>
+<p>He calmly answered, "You see right through me, Mythra; but I made a promise. I'll do whatever it takes to fulfill his desire."</p>
+<p>"<em>Even if it means your <strong>death</strong>?</em>"</p>
+<p>His eyes unwavering, "<em>Gladly.</em>"</p>
+<p>"<em>Jin...</em>"</p>
+<p>Jin entered his true form, freezing the surrounding to absolute zero. Zeke declared, "It looks like we won't get past without a fight, chum."</p>
+<p>"Seems so. We'll <strong>give it all we've got! C'mon!</strong>"</p>
+<p>"As it should be. <strong>Come at me, boy!</strong>" And the battle began.</p>
+<hr />
+<p>"<strong>He's still got it! But so do we!</strong>" Rex watched Jin approached them step by step, the ground froze under his feet. He launched a series of ice stalagmites at Rex when Mythra was busy transforming. "<strong>Oh no you don't!</strong>" Imperfect timing; Rex broke it, the fragments brushed past them both.</p>
+<p>"The power to manifest- what you imagine... Truly awesome. That power comes from the Architect. <strong>Why do you wield it for mortals' sake?</strong>" He redacted the icy field, concentrating the ether on his sword, and started sparring with Rex, their conversations didn't stop,</p>
+<p>"<strong>To get to Elysium!</strong>"</p>
+<p>"And then what?" (His voice getting desperate) "Open it up to humans? <strong>Share it out between them?</strong>"</p>
+<p>"<strong>Do you even need to ask?! Obviously!</strong>"</p>
+<p>He stood still, looked into his eyes, "<strong>And. Then. What? Can't you see where that leads?</strong>"</p>
+<p>"<strong>What are you saying?!</strong>"</p>
+<p>"<strong>Humans will make Elysium into another Morytha... Just as they did with Torna, 500 years ago.</strong>"</p>
+<p>"<strong>I won't let that happen!</strong>" The sparring continued.</p>
+<p>"<strong>And after you die? What then? WHO will stop the inevitable?!</strong>" He jolted his head to look into Rex's eyes.</p>
+<p>"<strong>Isn't that... Isn't that the reason that you Blades exist?!</strong>"</p>
+<p>"Huh?" They stopped sparring.</p>
+<p>"<strong>And... when I'm not around to stand by you in that effort...</strong>" He turned to Pneuma, whom was busy transferring power, and looked back at Jin,  "<strong>SOMEONE ELSE WILL!!!</strong>" Their sparring continued.</p>
+<p>Despite Rex's heightened power, 500-years of muscle memories allowed him to focus on digesting what he'd heard concurrently. Their role is to stop the inevitable? How? Were their current resurrection and memories and behavior not dependent on their current Drivers, that if the humans die, they die? And if the humans had passed on their vice, how are they to live with virtue?</p>
+<p>"Huh?" The boy certainly had learnt a lot; his muscle memories had its limits. He felt a strong force exerted on his fingers; he subconsciously released it, and it flew away, landed some distance behind him. Jin peered at it, but did not move, turned his head back at Rex, whom continued, "<strong>That's right! When a person dies, that's it for them...</strong> (Pointing his sword at Jin) <strong>But their- THOUGHTS and MEMORIES- will always be passed on</strong> to someone else!" Rex redacted his power. "<strong>Isn't that the same- with you Blades? Your past selves- get passed down to someone else- to become your new selves?!!! Isn't that how you've always lived?!! WE'RE NO DIFFERENT!</strong>"</p>
+<p>Jin looked to the side at the floor, his mind flung back to the beginning of this resurrection:</p>
+<blockquote>
+<p>Child Lora clutched her hands tightly, covering her mouth, fearfully pulled away a few broken steps as she watched him coming to life.</p>
+<p>Her hands placed on both side of her head, like she always did when she suffered blows; she thought now would be the same, but when she heard, "From now on, I'll protect you."</p>
+<p>She slowly opened her eyes, carefully twisted her head to look at him, still covering her head with her feeble arms. A big palm grew larger, her muscle tensed and she curled more inward. She could feel the calluses on his hand brushing against the side of her head, her cheek. Still trembling, she looked into his eyes, it twinkled with light and stars, "I'll keep you safe, always..."</p>
+<p>He held out his hand, and she took it; perhaps she can trust again.</p>
+</blockquote>
+<p>Jin's attention returned to Rex, "Blades become Titans when their time is up, and those Titans give birth to many new Blades. All while forming the world beneath our feet. <strong>It's awesome!</strong> It's enough to make me envious."</p>
+<p>"<strong>Envious... of us?</strong>"</p>
+<p>"So I'd like to ask the Architect. Pyra, Mythra, all of you... <em>Why did he</em> create all these <em>incredible people</em>? Actually, I think I might already know the answer. But- I'd still like to <strong>check</strong> with the man himself." He put down his sword, walked closer and looked into his eyes.</p>
+<p>"To check your answer?" Jin couldn't yet fathom.</p>
+<p>"Yeah."</p>
+<p>"<strong>You... believe... you know the reason we exist?</strong>" The answer he'd been trying to find for the past 500 years, a child merely the remainder of his age already had an answer? What... what had he been living all those years? His heart raced faster and faster until "<strong>ARK!!!</strong>" He felt a jab in her heart{{footnote: a heart attack}}.</p>
+<p>"<strong>Jin!</strong>"</p>
+<p>Rex heard footsteps not belonging to his group; Nia watched "<strong>Akhos! Patroka!</strong>" closing in. Akhos went down and wrapped one of his arm around him, while Patroka sliced at Rex, forcing him back with her halberd.</p>
+<p>"Patroka?"</p>
+<p>"I won't let you kill Jin."</p>
+<p>Despite his pain, he ordered, "<em>Stand down, Patroka.</em>"</p>
+<p>"<strong>Butttttt...</strong>"</p>
+<p>"<em>It is over for us now. There is nothing more. We've done- ALL that we have to.</em>"</p>
+<p>"Jin." She gritted her teeth, clenched her fist tight on the weapon. Admitting defeat now? Fight on and disregard Jin's order? Admit defeat? Fight on? Air entered her lungs while her mind switched between the choices until her lungs was filled to the top. She felt her weapon bending slightly under torsion, and her teeth creaked from biting too tight. And then she puffed it out, her clenched fist relaxed, her chin muscles softened, her energy drained away. "<em>Nia...</em>"</p>
+<p>"M- me?"</p>
+<p>"<strong>Your power. Can you use it on Jin?</strong>"</p>
+<p>"Well, sure... <strong>It'll only be a temporary measure, but...</strong>" She transformed and started running towards them.</p>
+<p>Patroka looked away, stubbornly explained, "Don't expect any thanks. We'll go back first- and prep Jin for treatment. <strong>Akhos!</strong> Make yourself useful."</p>
+<p>"<strong>Yeah, yeah! I got 'im!</strong>"</p>
+<p>Patroka was making her way towards the exit; a dark shadow lurked in the corner made its move; and "<strong>UHUH!!!</strong>" Her eyes jutted out, feeling hot liquid running down her front and her back, and the cold from some muscular worm-like organisms contracting within her. She mechanically tilted her head down, inch by inch{{footnote: 'digitally', in quantum steps, rather than continuous/analogue}}, and saw a blue-glowing tentacles poked through her flesh. Before she could say anything, her visions got blurrier and blurrier, darker and darker, till they finally blackened, and she closed her eyes forever, collapsed with the removal of the tentacles.</p>
+<p>"<strong>PATROKA!!!</strong>" Akhos jumped up on his feet; the girl that was alive and kicking seconds ago was now a piece of meat. Even as the room started shaking, his eyes, jittering, remained fixated on her, oblivious to the various tentacles that wavered in the air around her. The rest of them traced the tentacles to the back of a humanoid creature, whom started to rose from the ground, and announced,</p>
+<p>"You will climb... no further..."</p>
+<p><img src="images/299_creature.jpg" alt="Creature" /></p>
+<p>Zeke and Pandoria eyes opened wide, cold sweat trickled down their skin, "Wh-! <strong>Amalthus? HERE?!</strong> And... why does he look like that?!"</p>
+<p>Amalthus immediately turned his attention to her corpse, pulled out her core crystal from her chest and crunched it with his fist, its (ether) power began flowing through every single Core Crystal implanted on the surface of his body, glowing brighter as they digested it, releasing shockwaves that pushed even Rex and Pneuma back.</p>
+<p>"If the Architect- did send Blades down to this world... <em>it was for <strong>my</strong> sake.</em> <strong>To find and raise cores containing more powerful, WONDROUS, UN-PARALLELED DATA...</strong> That- is why I <strong>created</strong>- the cleansing procedure. <strong>Behold- THE CULMINATION OF MY WORK!!!</strong>"</p>
+<p>Jin cursed effetely, "<em>You lunatic... He took the cores- from all those Blades. So that was the reason for the cleansing...</em>"</p>
+<p>"<strong>I am an agent of the Architect's will!</strong>"</p>
+<p>"<em>What is he saying?</em>" Mòrag was so confused.</p>
+<p>"Delusions of grandeur..." Dromarch supposed.</p>
+<p>"<strong>You can't just decide stuff like that, dude!</strong>" Pandoria shouted at him. "You're out of your damned mind!"</p>
+<p>"<strong>It is</strong> no delusion! Have you forgotten the Aegis's power? <em>That power...</em>" He turned his attention to Pneuma. "Is it not the Aegis's power to <strong>erase</strong>- worthless things from existence?!"</p>
+<p>Rex eyes turned to Pneuma; she was deep in thought, not replying. Amalthus pointed his finger at her, forcibly asserted, "Is that <strong>not</strong>- the Architect's very <strong>will</strong>?!"</p>
+<p>"Pyra and Mythra aren't like that!" Rex stood for her.</p>
+<p>"I just realized." Pneuma started, with Mythra's voice. "<strong>I</strong> know why Malos- is so intent on scouring the world... <strong>It's you, Amalthus.</strong> Malos has become <strong>tainted</strong> by your influence..."</p>
+<p>She thought she tossed a pebble into a stagnant pool; but he felt a pebble was dropped on a concrete ground, his heart stone solid{{footnote: Technically speaking, a stone dropping on a ground does create vibration, but let's ignore that in this analogy}}, "So what if he has? What's the problem? You've had your little trip around Alrest. You witnessed the state of Morytha! Mankind will never change, <strong>no matter HOW MANY millennia pass!</strong>"</p>
+<p>"You're the one who won't change." Rex rebutted, his grip on the sword's hilt tightly, "That's <strong>exactly</strong> why you <strong>hate those who try to!</strong>"</p>
+<blockquote>
+<p>Guns blaring at the defenseless Tornan inhabitants. Flames raged as they dropped to the ground, one by one. Lora tried to protect Jin. Jin saw Lora weep in front of him, died in front of him, he couldn't change anything.</p>
+</blockquote>
+<p>"<strong>And why should I have to change?</strong> <em>If I change, I lose <strong>everything</strong>.</em> <strong>I lose my very self!</strong> Who in their <strong>right mind would accept</strong> such a fate?! <strong>That's</strong> why!" He'd already convinced himself; no amount of evidence would change his mind.</p>
+<p>Zeke, full of compassion, started walking towards him softly, speaking softly, "<em>You're weak, old man. The weakest of us all...</em>"</p>
+<p>The death of his partner was too much for him. Shiveringly, he stumbled towards Patroka, hoping that she'd only fallen asleep, that at the next moment, she would open her eyes and greet him, telling him it's April's Fool. But no, she did not wake up. Not when he reached her. Not when he dropped on his knees in front of her. "Patroka..."</p>
+<blockquote>
+<p>In a metallic ship, Jin sliced the last of the soldiers before turning his attention to the depressingly-looking man and women; the whole time he killed, they were looking at the floor. This wasn't the first time someone killed someone else for them. But every time they thought they had hope, every time they concluded, "You wanna... <strong>kill us, huh?</strong>"</p>
+<p>Jin took a closer look at him, "You're not human... Flesh Eaters?"</p>
+<p>"We were on our way to be transferred to- Indol." He stood up, "My sister and I, from- Tantal." She did not move a bit.</p>
+<p>"Sister?"</p>
+<p>"Here." He took out a pendant from his pocket and opened it up, revealing a picture. While Jin was looking at it, he explained, "The boy on the left, <em>that</em>- was my Driver. The right is Patroka's."</p>
+<p><img src="images/300_akhos_and_patrokas_driver.jpg" alt="Akhos and Patroka&#39;s Driver" /></p>
+<p>"Patroka... Is that her name?"</p>
+<p>He snapped it shut and tucked it back into his pocket, introduced, "Yes. I'm- Akhos. Our Drivers were- brother and sister. <em>That's why.</em>" Feeling self-abased, he wished he would say something that support him. Oh, how he wished for recognition; but again and again, his pride was smashed on the floor, crunched with their heels, till he no longer feel optimistic.</p>
+<p>Patroka seemed to not be affected much, at least on the outside, looked up at Akhos and spoke confidently, "We're siblings too, you're saying? What a dumb notion. They're <em>them</em>, and we're <strong>us</strong>. No- relation- whatsoever."</p>
+<p>"Even so! <em>These bodies- contain the lives of two humans... We are... connected.</em>"</p>
+<p>She looked at his eyes for a second and quickly looked away, "I don't get why you bother..."</p>
+<p>"Are you happy?" Jin suddenly asked.</p>
+<p>"Huh?"</p>
+<p>"I'm asking if it makes you happy, <strong>clinging</strong> to things like <strong>that</strong>."</p>
+<p>"That I don't know. But... it's better than having... nothing... It's important to me, and that gives me a reason... <em>to go on... To live for her.</em>"</p>
+<p>Patroka's eyes flickered; "Hmph!" She would not give in to such corny words. She stood up anyways, to face Jin.</p>
+</blockquote>
+<p>Akhos stood up and his bow materialized in its full crest, "<strong>YAAAAHHHHHH!!!</strong>" aimed it at Amalthus, stretched its string till it creaked.</p>
+<p>No, he had no fight for Amalthus.  Jin, still on the floor, panicked, "Akhos, stop! He's..."</p>
+<p>Akhos cannot hear. He fired the arrow; his tentacles easily wiped it away, didn't leave a scratch. "<strong>YAHHH!!!</strong>" It reached out for him, knocked his bow away, and wrapped around him, bringing him up closer for a look.</p>
+<p>"Akhos!"</p>
+<p>"<strong>L-l-let me go, you monster!</strong>"</p>
+<p>"How dare you! How dare you look down on me! You, a mere Blade- whose very existence depends upon ours!"</p>
+<p>"<strong>Rex! He's got Akhos!</strong>" Nia swiftly tossed her Blade weapon at him and transferred power.</p>
+<p>"<strong>I'm on it!</strong>" Two swords in hand, he crossed them, launching a ranged attack with combined powers. "<strong>Not on my watch!</strong>"</p>
+<p>His other tentacles easily blocked the incoming, without releasing Akhos. He took heavy steps toward Rex, the floor shook with every; "Hmph!"</p>
+<p>"Ngh! <strong>Let him go, pal!</strong>" Nia panickingly dashed through, snatching her weapon from Rex, but before she could do anything, "<strong>AH!</strong>" the tentacles reached her and knocked her back. Mid-air, the tentacles tried to do something, if not for a wall of blue flames that prevented him.</p>
+<p>"This is a strange situation. Fighting so hard to save a member of Torna." She wasn't very convinced with what Torna did to her people, but she trusted her friends, and she was willing to fight to save her friends. Amalthus turned his attention to her, swiping his tentacles at her. She trusted Brighid to block it with her whip.</p>
+<p>"Indeed, but it seems like the right thing to do."</p>
+<p>"<strong>His aim is clear, and so is ours! Ngh!</strong>" The tentacles whipped faster, and they adeptly dodged in between, blocking when they couldn't. The tentacles changed direction faster than they could react; at last, Mòrag laid defenseless against an incoming. She watched it grew larger and larger, aiming for her chest, heard some drilling sound getting louder and louder from her left, and they met. She watched Poppi's drill drilled at the tentacles above her.</p>
+<p>"Thanks!"</p>
+<p>"Friend welcome!"</p>
+<p>"Poppi! Now not time for kind manners!" Tora pointed at a tentacle aiming straight at her. She turned her head just in time to see it growing larger and larger. Her force hadn't yet rejuvenated, there's no time to react. She raised her noodle arms to block. Just an armlength away, thunder struck from above, numbed the tentacles, and it coiled back.</p>
+<p>"I believe in returning favors. You <strong>owe me</strong> for that one!"</p>
+<p>"Much thanks!"</p>
+<p>"Grh! <strong>How?! Who do you people think you are?!</strong>" The stored energy in the Core Crystals were tremendous, and he had difficulty putting them under control; but it seems the limit he'd set himself wasn't enough to wipe out these worms. He increased the threshold, immense energy emanated from his body; its mere shockwave forced the group to shield their faces while their feet dragged backwards.</p>
+<p>"<strong>WHOOAAAAA!!!</strong>"</p>
+<p>The shockwave was short-lived, Amalthus spit at them, "Incorrigible whelps... Why would humans side with Blades?!"</p>
+<p>Zeke was getting annoyed at his blindness, "Is he slow? He thinks it's a <em>side</em> to pick? <strong>We share a bond... you numbskull!</strong> We're all friends here! We're in this thing together!"</p>
+<p>"Bonds? Of friendship? <strong>With these trinkets?!</strong>" He held up the unconscious Akhos, looked at him, and with his left hand, punched into his chest and removed his core crystal,</p>
+<p>"Ugh! <strong>UGH!!</strong>" He then threw his useless husk back at the group.</p>
+<p>"Akhos!"</p>
+<p>He felt his life draining quickly, his energy losing fast. He could no longer move his finger, though the remaining energy was enough to move his mouth. "<em>Tch... That was... surprisingly painful...</em>" Jin dropped to the ground, tears aggregate in his eyes; the last of his kin were going soon. "<em>If I were... still a Blade... this- wouldn't...</em>" His hands tried to reach out for him.</p>
+<blockquote>
+<p>After a long silence, Jin invited, "Join me."</p>
+<p>"Huh?" Both of them looked at him.</p>
+<p>He held out his hand, "My name- is Jin. I am... just like you."</p>
+<p>They looked down to think for a moment, then looked at each other for consensus; he waited patiently for them to grab his hand. Slowly by slowly, Akhos reached out for it.</p>
+</blockquote>
+<p>His hand dropped to the ground, his last breathe puffed out.</p>
+<p>"<strong>AKHOSSSSSS!!!</strong>" He immediately turned his attention to "Amalthus..." But his strength and injuries were too heavy. Rex, slowly walking towards him like a crab, sideways, blocked his view of Amalthus, instructed,</p>
+<p>"You stay right there! He's human. So we should be the ones to kick his arse."</p>
+<p>"I have- <em>a heart- no less human than...</em>"</p>
+<p>"<strong>Then you better take good care of it!</strong>" He was surprised. "<strong>That's why you came here, right?</strong>"</p>
+<p>"<em>Rex...</em>"</p>
+<p>"<strong>We're gonna break the 500-year-long curse... right here!</strong>"</p>
+<p>"<strong>Yeah!</strong>" Pneuma came up beside him.</p>
+<p>"<strong>Let's do it!</strong>" And the rest came forward. The battle started yet again.</p>
+<hr />
+<p>"I cannot end like this... Not until I've met the Architect... <strong>Not until I've ERASED EVERYTHING WITH MY OWN HANDS!!!</strong>" He lost his mind, wiggle his tentacles like a giant squid trying to wrap its tentacles around a ship.</p>
+<p>"What?!" Rex watched as his tentacles punched into the building, melting every walls, trying to make himself and the walls a singular entity.</p>
+<p>Dromarch noted, "This is bad! The World Tree <strong>cannot take it!</strong>"</p>
+<p>Zeke: "<strong>How?! How's that BASTARD still STANDING, after the INCREDIBLE thrashing we gave him?</strong>"</p>
+<p>"<strong>We must stop him!</strong>" Mòrag ushered. Together, they closed in their distance with Amalthus.</p>
+<p>"Ahhh!"</p>
+<p>"What?!" Rex quickly changed direction.</p>
+<p>"<strong>Jin!</strong>" Pneuma too.</p>
+<p>Their attention floundered. "<strong>Ahhhh!!!</strong>" One of the tentacles knocked hard on his hip and sent him flying.</p>
+<p>"<strong>Ahhhh!!!</strong>" It continued to swiped Pneuma, she flew directly towards Jin. He hugged her.</p>
+<p>"<strong>Pyra! Rex!</strong>"</p>
+<p>Pneuma could no longer retained her form, transformed back to "Mythra... You..." Jin softly put her down.</p>
+<p>She looked away, "D-don't... get me wrong, OK?! <em>I couldn't let him get your core too, that's all. With it, he'd be unstoppable...</em>"</p>
+<blockquote>
+<p>Lora passed away in front of him.</p>
+</blockquote>
+<p>"<em>Thank you.</em>"</p>
+<p>Meanwhile, the group were busy with the other tentacles, Amalthus went crazy and announced, "All the cores, all the <strong>Architect's WORDS, BELONG TO ME!!!</strong>"</p>
+<p>He needed more power! Numerous tentacles aimed at Jin, "<strong>HUAAAHHHHH!!!</strong>" With the rest of his energy, he raised an ice crystal shield. Upon contact, all the incoming tentacles froze. His other tentacles were still busy dealing with the others.</p>
+<p>"<em>Nia... Take care of them both...</em>"</p>
+<p>She subconsciously replied, "<em>I- I will.</em>" She exited the battlefield and ran towards him, he handed Mythra to her. She held out her arm and started healing both her and Rex, whom was about 2 arm lengths away. Jin stood up and slowly walked towards Amalthus, stopped when hearing she asked, "<em>Jin!</em> Why- didn't you kill me when I joined Rex and the others?"</p>
+<p>He peered through his shoulders, "<em>It wasn't a mistake, was it? Becoming a Blade- of someone you <strong>trust</strong>...</em>"</p>
+<p>"Jin." Rex had regained consciousness from the healing, slowly climbing on his feet, while Mythra had went to sleep.</p>
+<p>"<em>I did that too, once...</em>" He turned around and looked at him, "Rex, you have to <strong>stop</strong>- Malos. He's still <strong>searching-</strong> for his <strong>own</strong>- identity. Tell him- the answer- you found."</p>
+<p>"<em>Jin...</em>"</p>
+<p>He no longer attend to them. There was something he had to do, here and now. Freezing mist started to rise where he went. Amalthus eyed him, commented, "You should have died with Torna!"</p>
+<p>"<em>Let's end this now. Our duty- has been handed down.</em> <strong>AMALTHUS!</strong>"</p>
+<p>His eyes stared big at Jin, "Your duty- is as dust in the wind compared- to- my- destiny!" The other tentacles were now free; it stopped attacking, and the group did nothing to attract its attention. It gathered around its chest, forming a circle. A dark ball of anti-ether energy grew, shooting rays towards Jin; he froze it, broke it, shattered it.</p>
+<p>More and more, ice spears forming around him, he launched all of them and stabbed his humanoid body; his tentacles couldn't block any. "<strong>ARRRRGGHHHHH!!!</strong>"</p>
+<p>"<strong>ARRRRRRRGGGGGHHHHH!!!</strong>" Millions of icicles in continuous stream flowed past, spearing every single part of his flesh, freezing him from bottom to top.</p>
+<p>In pain, Amalthus screamed while not forgetting to give his speech, "<strong>O ARCHITECT!!! I- SHOULD HAVE BEEN. YOUR. CHOSEN. ONE!!! I LIVED AS YOU WANTED ME TO!!!</strong>" Red motes started floating out of Jin's core crystal. "<strong>I DID!!! I ALWAYS!!!</strong>" His flesh froze from bottom up to his neck already; he looked up at the sky, hoping to slow down the growing ice from covering his mouth too quickly.</p>
+<p>Zeke lowered his sword and sighed, "<em>Ohhhhh...</em>"</p>
+<blockquote>
+<p>"Bandits?" Amalthus asked.</p>
+<p>"<strong>Probably!</strong> After all, <strong>Pandoria</strong> looks pretty damn human for a Blade. She'd be worth <strong>a lot</strong> to <em>some people.</em> They sell 'em. Line up the cores with pretty pictures of the Blade inside."</p>
+<p>"It's the same as it <em>ever was...</em>"</p>
+<p>"<strong>What?</strong>"</p>
+<p>"As soon as people <em>denied something they desire, they try to take it by force.</em>"</p>
+<p>"Not everyone's like that."</p>
+<p>"Oh, some give up <em>prematurely</em>, but the feeling is there, I assure you."</p>
+<p>"Well, in that case, why bother protecting <em>them</em>?" He nudged at the refugee camps. "<strong>Why not</strong> let people do <strong>whatever</strong>?"</p>
+<p>"<em>To remind myself.</em> I must never forget what kind of beings humans are."</p>
+<p>"Is that what helping <em>me was, too?</em>"</p>
+<p>"Hmph..." He looked up at the sky, thought for quite a long time, answered, "<em>A long time ago, I seemed to recall seeing a very similar scene.</em>"</p>
+<blockquote>
+<p>Pandoria carrying Zeke on his back.<br />
+Young Amalthus taking his mom's hands and ran, frequently looking back, trying to spot the pursuers.</p>
+</blockquote>
+<p>"Hmm?"</p>
+<p>"<em>Perhaps... That <strong>too</strong> was one face of humanity...</em>"</p>
+</blockquote>
+<p>"Why did you look- sooooo sadddd back then?" He looked at the chunk of ice, frozen up to his chin, his body starting to disintegrate, and he answered himself, "That was... <em>you</em> too, wasn't it?"</p>
+<p>One of his arm was still free. He raised it high, trying to reach for the top of the building. The ice grew along his limb towards his fingertip. The ceiling he saw was shrouded in total darkness; he could not see where it ends, but he thought the one looking at them, "<em>Father... Why did you not answer when I call...</em>"</p>
+<p>Before the ice covered his eyes, he finally saw a gleaming light grew amidst the darkness, brighter and brighter, descending from the cold dark sky. "Ugh..." He felt an invisible hand brushed past his neck, and he remembered feeling it a long, long time ago.</p>
+<p>"<em>Mother, I've... missed you...</em>"</p>
+<p>No trace of Amalthus was left behind, except the motes that floated up the sky. Mythra looked at "<em>Jin...</em>", whom was standing there all alone, looking up, feeling that someone was waiting for him; yes, she had been waiting for him for 500 years. For their journey to continue where it stopped here. Mythra closed her eyes, a ceremony of sending off. The rest watched his flesh turning into blue motes, gaining enough energy to escape his body, and break away from his form, floating up. He closed his eyes, dropped to the ground in a knelt position. Within a second, he was no longer.</p>
+<p>Gramps acknowledged, "What a splendid soul you were, Jin..."</p>
+<p>"Jin..." The motes floated up to the cold dark sky above. Perhaps up there was <em>his</em> Elysium waiting for him; perhaps, he could finally live with her, in <em>their</em> Elysium.</p>
+<hr />
+<blockquote>
+<p>People rushed into their dwellings and closed their doors behind them. Some of them continued speaking, walking casually on the street, oblivious to the heavy downpour, didn't even bother carrying an umbrella nor wiping the annoying flow off their face.</p>
+<p>He could hear the baby crying and glass breaking behind the walls he leaned on. But it was none of his business -- his mind was on something else, and he couldn't get out of it. "Urgh, what a <strong>stench</strong>! They let <strong>beggars</strong> roam <strong>free in this town?</strong>" Malos complaint as he entered the rural alleyway.</p>
+<p>He didn't notice who the beggar was, but as he got closer, he felt some wavelengths emitting from him, he called out to the beggar, "You... <em>You're a Blade, aren't you?</em> <strong>Where is your Driver? Dead drunk in a ditch?</strong> (And without a pause, changed his mind) No, <em>somehow I don't think that's it.</em>"</p>
+<p>Silence fell. His eyes squinted hard. The beggar don't know why he stopped speaking. Sounded familiar, this guy. He recalled hearing it not long ago; but unlike the rage he felt then, he now felt numbed. Yes, numbed. Nothing. He raised his head and looked at the figure's leg through the hood he's wearing. What had he got to do with him?</p>
+<p>The silence lasted for some 10 seconds before another voice rung, "The name's Malos. I'm the same as you..."</p>
+<p>Malos offered his hand to him. He watched as rainwater gathered and flowed off his pinky. No wards was exchanged for a long time. Yet it was the right time, the right moment, for a person so desperate, in need of someone, and that someone came out right in front of him, offered him consolation when all others took no notice of him. If she was a girl, she would have married this man right away. You see it in newspaper -- people getting married after an accident, or they found their loved ones by such accident. The charm of the con artist brought no end. For Jin, <em>he</em> is his <em>light</em> -- the light called hope, future. Malos waited patiently for him to held out his hand, slowly by slowly raising them, to meet with his.</p>
+<p>The rain just got heavier.</p>
+</blockquote>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="30_amalthus.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="32_elysium.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="30_amalthus.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="32_elysium.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

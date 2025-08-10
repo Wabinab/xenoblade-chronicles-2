@@ -1,0 +1,426 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Bringing Pyra Home, To See His Parents (Leftherian Archipelago) - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="bringing-pyra-home-to-see-his-parents-leftherian-archipelago"><a class="header" href="#bringing-pyra-home-to-see-his-parents-leftherian-archipelago">Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></h1>
+<p>Dawn. The group gathered at the front deck, overlooking the Leftherian Archipelago. Pyra exclaimed, "Amazing... It looks like a mountain of clouds."</p>
+<p>"The Leftherian Archipelago. Indol is currently positioned beyond the Cloud Ridge." That's the Great Waterfall of Clouds! The Leftherian Archipelago composed of multiple jellyfish floating mid-air, connected by their tentacles. Some other islands floated on the sea, weren't connected. "It would take quite some time to sail around, so we'll be traveling over land- from here." explained Fan.</p>
+<p>Dromarch: "I suppose, not even a Titan ship could surpass- such an obstacle."</p>
+<p>Mòrag urged: "If we have to walk, we'd best get moving now." She'd freed herself from the burdens of the Empire temporarily to join the Aegis on her adventure.</p>
+<p>"<strong>It's been a while!</strong>" All the time he'd spent near Argentum Trade Guild, salvaging just to get most of the money back home. When was the last time he came back?</p>
+<p>Gramps counted, "<strong>Mmm! Must be five years!</strong>"</p>
+<p>Pyra wondered, "Rex, have you been here before?"</p>
+<p>He proudly replied, "It's where I grew up! Me and Gramps are from Fonsett Village, just over the ridge here."</p>
+<p>Nia was surprised, "Hmph! I wouldn't have pegged you for a Leftherian."</p>
+<p>Pyra got excited, "So <strong>this</strong> is your home..." So now she's a guest to her partner's home,eh! The ship sailed straight for Home Sweet Home.</p>
+<hr />
+<p><img src="images/185_leftherian_archipelago.jpg" alt="The Leftherian Archipelago" /></p>
+<p>Trees grew on little islands carved by moats within each giant jelly fishes. Or purely sandy beaches with some pools of water near its center and almost nothing else of interest except rocks, not even having a top to cover it from the sun! The tentacles formed roads to travel from one jelly fish to another. Some of these jelly fishes even stuck their body within the Great Cloudfall! This, is the <strong>Leftherian Archipelago.</strong></p>
+<hr />
+<p>The ship docked, and Rex first touched ground again. He took the lead as a host, "<strong>Well, I guess... it'd be quickest for me to lead the way from here. We just need to get</strong> over the ridge, right?"</p>
+<p>"Indeed. The delegation from Indol- will meet us there." agreed Fan.</p>
+<p>"<strong>Roger that!</strong>"</p>
+<p>"Will leave it to Rex-Rex! Lead the way!"</p>
+<p>"<strong>Ha-ha!</strong>"</p>
+<p>Gramps extinguished their flames, "Don't get an inflated head. We're just following the islands, you know."</p>
+<p>"<strong>Hey! It's still dangerous!</strong>" rebutted Rex. "There's a lot of <strong>tough monsters around these parts.</strong>"</p>
+<p>"Well, I won't deny that..."</p>
+<p>"So how we going?" asked the can't-wait Tora.</p>
+<p>"<strong>Errrr...</strong>"</p>
+<p>"<strong>What about Fonsett?</strong>" asked Pyra, with mounting excitement.</p>
+<p>"What about it?" He was considering which route was safest while close enough, and don't yet understand what she meant.</p>
+<p>"<strong>Will we pass it?</strong>"</p>
+<p>"I mean, we <strong>could</strong> go that way."</p>
+<p>"<strong>Let's do it! I mean, l-let's visit your village!</strong>" she exclaimed, full of excitement.</p>
+<p>Nia: "OK, calm down."</p>
+<p>Dromarch noted, "Someone's... rather excitable..."</p>
+<p>Poppi $\alpha${{footnote: Oh, just as a sidenote, Poppi had reverted back to its $\alpha$ form than staying in QT form, to save energy, and because it's cute! And yes, we won't be adding the $\alpha$ to the back after this. For normal Poppi, which took up most of the speeches, we'll use 'Poppi' to refer to her. On occasions when she does changed form, we'll specifically refer to that form, e.g. 'Poppi QT'. But if one remembered correctly, she almost never speak in that form throughout the whole cutscenes.}} commented: "Not like normal Pyra."</p>
+<p>"Uhhhh, I mean..." Opps, awkward... She excitedly invited, asked for others' opinions, "<strong>Don't you want to see the place where Rex grew up?</strong>"</p>
+<p>Nia: "<strong>Sure!</strong> But I'm not getting my ears in a twist..."</p>
+<p>Rex, coming to think of it, commented, "Actually, that's not a bad idea. That route's probably one of the safest we could take. <strong>How about it?</strong>"</p>
+<p>Fan had no worries on getting back too quickly, decided to "I leave the decision to you."</p>
+<p>"<strong>Then let's DO IT!!! We'll head off as SOON as we're ready!</strong>"</p>
+<p>In unison, "<strong>YEAHHHH!!!</strong>"</p>
+<p>Nia had more questions for someone whom gave her a bad first impression, "Hey, what are <strong>you</strong> still doing here, anyway?"</p>
+<p>Mòrag answered, "I <strong>volunteered</strong> to come along. I'm acting as a representative of the Empire. Is- there- a problem?"</p>
+<p>"No, not at all." Fan had the authority. "The Praetorium has extended an invitation to the Aegis. <em>We would not wish to conceal this information from the other nations.</em>"</p>
+<p>Gramps noted: "<strong>Oh, yes</strong>, that's- the- Praetorium- for- you. Impartial to the last, eh?"</p>
+<p>"Indeed."</p>
+<p>"That's not a problem for you, is it, Nia?" Brighid eyed her.</p>
+<p>She answered against her will, "<strong>Sure, we're best friends now.</strong> <em>I'll get over her throwing me in jail one day.</em>"</p>
+<p>Dromarch tried to calm her down with logic, "Now, now, my lady, Mòrag and Brighid... are on our side. That's... much safer than the alternative."</p>
+<p>She impatiently replied, "<em>Yeah, yeah</em>, I <strong>suppose.</strong>"</p>
+<p>Rex urged, "Come on, Nia, lighten up! <strong>It was all a big misunderstanding! They helped us out and everything, remember?</strong>"</p>
+<p>"<strong>You're such an idiot sometimes!</strong>"</p>
+<p>"I'm an optimist-"</p>
+<p>She halted him, "<strong>Call it what you want.</strong> You're still an idiot! <strong>UGH! OK, FINE.</strong> It's water under the bridge." Reluctantly, she held out her hand to Mòrag, impatiently urged, "<strong>GO ON! Friends, YEAH?</strong>"</p>
+<p>Mòrag: "Hmph. Very well. Friends it is." And she softly took her hand and shook. Whatever their internal story and emotions, they'd be on the same side, at least on the surface, for now. What remnants emotions required to be solve, time will tell.</p>
+<p><img src="images/186_friends_it_is.jpg" alt="Friends it is" /></p>
+<hr />
+<p>They were walking inside a tunnel paved with white sand and straight tiny-cap luminescent glowing mushrooms and tiny stones, when Pyra noted, "I've never seen anything like this. A tunnel through the clouds..."</p>
+<p><img src="images/187_cloud_tunnel.jpg" alt="A tunnel through the clouds" /></p>
+<p>Rex explained scientifically, "It's because this archipelago is formed of many smaller Titans. The forces between the Titans <strong>bend</strong> the Cloud Sea <strong>into</strong> this shape."</p>
+<p>Gramps reminded, "<strong>There is a large</strong> Titan as well, at the center of the cloud mountains. Though, being within the Cloud Sea itself, you won't find humans living on it."</p>
+<p>Rex agreed with him, continued, "The small Titans seem to like clustering around the larger one, and <em>that's what</em> forms the archipelago."</p>
+<p>Tora was amazed, "<strong>Wooowww!!!</strong> So many amazing <strong>things to see in world!</strong>"</p>
+<p>Poppi lectured, "Masterpon- should get out more often! Working inside all day- bad for mind and body, you know."</p>
+<p>"Tora on wonderful adventure with <strong>Rex-Rex right now though!</strong>" he objected. "<strong>Days of staying inside all day are long gone!</strong>"</p>
+<p>Rex agreed, "<strong>Yeah!</strong> You're a Driver... <strong>just</strong> like us now, Tora."</p>
+<p>"<strong>Mehmeh! Tora appreciate support</strong> from friend Rex-Rex!"</p>
+<hr />
+<p>The island where Fonsett was located had trees and grass and flowers and white sandy beaches. Rex was overwhelmed when he saw, "Hahah! That takes me back!"</p>
+<p>They looked to the left, where there was a cliff, and children were lining up and jumping off it. Nia was shocked, "What the hell? You wouldn't catch me <strong>dead</strong> doing that."</p>
+<p><img src="images/214_jumping_off_the_cliff.jpg" alt="Kids jumping off the cliff" /></p>
+<p>"Don't knock it off till you try it. It's how we all learned to swim in the clouds!"</p>
+<p>"<strong>You mean, you did that too?!</strong>" Pyra was excited to learn something from his childhood.</p>
+<p>"<strong>Yeah, of course!</strong> It came in really handy when I became a salvager."</p>
+<p>Nia was still reluctant, "I can't stand it down there. It's not like water, feels like the clouds are wrapping around you."</p>
+<p>"And you don't like heights, either." added Dromarch.</p>
+<p>"You get used to it really quick." Then Rex urged, "Hey, <strong>you want to give it a go?!</strong>"</p>
+<p>"<strong>Wha- Hey, no! You get away from me! Don't touch me!</strong>" Her fur tinged on her ends and got defensive as Rex tried to catch her.</p>
+<p>Pyra came to her rescue, "Stop that, Rex! Don't tease her."</p>
+<p>"All right, all right." What a lost of excitement. But anyways, let's get to the village, built of stony bricks in dome-like stony houses up the hill, with tiny windows.</p>
+<p><img src="images/215_fonsett.jpg" alt="Fonsett houses" /></p>
+<p>"Honestly, when are you gonna grow up a little?" Nia wondered.</p>
+<hr />
+<p>Temperantia. Soldiers were lining behind Senator Roderich as he read through the manuscript on his hand, "Very impressive."</p>
+<p><img src="images/216_senator.jpg" alt="Senator Roderich" /></p>
+<p>The special soldier, perhaps a captain, explained, "We've refitted the drivetrain to use Ardainian technology. <strong>All</strong> of the control mechanisms have been beautifully preserved, so we should be able to finish- <strong>relatively</strong> soon."</p>
+<p>"Finally, we will be able to compensate for our forces' depletion. The Gormott struggle takes its toll."</p>
+<p>"Sir."</p>
+<p>"And there are no safety concerns, I trust? The explosion three months ago was most unfortunate. <strong>Orrrr</strong> had you forgotten?"</p>
+<p>"We've been running a sedative drip through the Titan's fluids since then. No further difficulties. We've... <strong>also</strong> encased the back end in composite steel. That- <strong>should</strong> withstand sustained enemy fire. Even if it were to be blown up; well, it'll be in enemy territory."</p>
+<p>"A pyrrhic victory, I'd say."</p>
+<p>"<strong>Well</strong>, the crew will have escape pods."</p>
+<p>"<strong>Escape pods?</strong> Are you sure you don't mean coffins?"</p>
+<p>"<em>I mean urgh...</em>"</p>
+<p>"Hmph!" And he walked away, while the soldiers followed him.</p>
+<hr />
+<p>There was a space in front of a machine, the Judicium weaponry Jin was after, and the Senator commented, "Judicium, the dead nation that realized Flesh Eater technology. I cannot say... I find their creations tasteful."</p>
+<p><img src="images/217_judicium_weapon.jpg" alt="Judicium weaponry" /></p>
+<p>The captain followed behind him, commented, "I'm aware you do not agree with the principles of fusing Blades- with- human- cells. Few people do."</p>
+<p>"Not what I mean."</p>
+<p>"I'm- sorry, sir? Then what exactly do you...?"</p>
+<p>"It's said that Flesh Eaters were created in the quest for ever- stronger- Blades. But is- that- really- true? What I see in them... is the shadow of a people <strong>scrabbling</strong> to <strong>prolong</strong> their existence. I look at them and see ourselves. That is what I despise. I will leave for Indol shortly. Much remains to be done."</p>
+<hr />
+<p>The main entrance into the village was over an arch. While the children were busy playing, they immediately caught eyes with strange clothes. One after another, they recognized the one leading, "<strong>REX!!!</strong>", and all started dashing towards him, surrounded him with questions. The group paused their steps and let them reunite for themselves.</p>
+<p><img src="images/188_home.jpg" alt="Fonsett Village Entrance" /></p>
+<p>Rex still recognized them, "<strong>Whoa! Kirk? Kazuna? You guys sure have grown! And hey, is that really?</strong>"</p>
+<p>"That's our Mark." Rex looked at the elder whom approached. A female with short gray hair and dark skin, with some bracelets around her neck, and giant earrings. "He'll be going away to school in Indol soon, <strong>thanks to the help</strong> you've been sending us."</p>
+<p>"Auntie Corinne, good to see you!"</p>
+<p><img src="images/189_auntie_corinne.jpg" alt="Auntie Corinne" /></p>
+<p>The group stood nearer behind. Pyra felt such hospitality warm and exciting, exclaimed, "Wow, this is <strong>quite a</strong> welcome..."</p>
+<p>Dromarch noted, "I didn't realize... <em>you were sending your money home.</em> That's very... <strong>admirable</strong> for such a young man."</p>
+<p>"<em>Home, huh?</em>" Did Nia have one? When was the last time she felt like home? With Jin, maybe? But that's nothing like here.</p>
+<p>Tora exclaimed, "Old lady have lots of littlepons!"</p>
+<p>Poppi blandly corrected him, "<em>Masterpon, these <strong>clearly</strong> not all littlepons of same parent.</em>"</p>
+<p>Corinne's eyed the little Titan tucking out his head from behind Rex's helmet, "<strong>My word!</strong> Is that old Azurda there? What have you gone and done to yourself?"</p>
+<p>Gramps: "That would take some explaining. I-Incidentally, is there some way you could put us up for the night? Long day and all."</p>
+<p>"<strong>'Is there some way?'</strong> <em>Don't give me that!</em> Stay for as long as you like! What's mine- is yours."</p>
+<p>"Thank you."</p>
+<p>Rex: "<strong>Auntie, thank you so much!</strong> I think I'll go for a bit of a walk first, though."</p>
+<p>She understood immediately. "Ahhhh, yes. Leave your friends... with me."</p>
+<p>"<strong>Pyra, could you come along too?</strong>" He invited.</p>
+<p>That surprised her, "<strong>Hm? Oh, of course!</strong>"</p>
+<p>Corinne wavered to the rest of the group, "Right then, <strong>come with me</strong>, all of you!" And she lead the rest to their homes, including Gramps.{{footnote: You may not see Gramps following in the video, but later on, you'll see Gramps gone. Just some minor bugs.}}</p>
+<hr />
+<p>A land with various tombstone, a graveyard. Rex faced two of them, buried side by side; Pyra trailing behind.</p>
+<p><img src="images/190_graveyard.jpg" alt="Rex&#39;s parent&#39;s tombstone" /></p>
+<p>"Where are we?" wondered Pyra.</p>
+<p>"These are my parents' graves."</p>
+<p>"<em>What?!</em>" she was surprised.</p>
+<p>"Sorry. I guess I never properly told you about myself. I..."</p>
+<p>"N-no, it's fine. I'm sorry... I never thought to ask..."</p>
+<p>"I wanted you to meet them, though."</p>
+<p>Her nervousness grew, and words stuck in her throat, it took a moment for her to be able to voice again, "To meet them? How- do- you... mean?"</p>
+<p>He nodded to her, spoke with action. Walking close by the two tombstone, he knelt on one feet, "Hey, Mum... Dad... It's been a while. A ton happened, you know -- I became a Driver! And this girl... is Pyra. My new partner."</p>
+<p><img src="images/191_my_new_partner.jpg" alt="My new partner" /></p>
+<p>Her eyes widened, that's what one is to him? She eyed him from the tip of her eye, full of tenderness. Rex continued, "I know you'd love her... We- we're going to Elysium. Pyra- and me. I don't- know- what's coming next, but... You'll be watching over us, <strong>right guys?</strong>"</p>
+<p><img src="images/192_wondering.jpg" alt="Pyra wondering about Rex" /></p>
+<p>"Rex..." He embraced for a little while, and Pyra followed.</p>
+<p><img src="images/193_embracing.jpg" alt="Embracing and wishing and hoping" /></p>
+<p>"Right, let's head back."</p>
+<p>"OK." And she spoke nothing else, let the feelings sink in.{{footnote: <a href="./96_heart_to_heart.html#rex-confessing-to-pyra">Want more story about the grave? Read more here (but do it only after you finish the first part of the next subchapter, because their final members would join only thereafter).</a>}}</p>
+<hr />
+<p>Corinne had got a standalone home just for them. Poppi was punching his masterpon's shoulders, Nia napping on Dromarch, Rex chatting with Fan, Brighid with Mòrag. Pyra helped washing the dishes in the kitchen, with Corinne. "I'm so sorry, making you wash up like this."</p>
+<p>"<strong>No, no, don't worry about it!</strong> I don't- have to be in a fight- to be able to help people. I like it."</p>
+<p>"You're a dear. Rex is <strong>very lucky</strong> you're around. He's never brought a girl- to meet me before!"</p>
+<p>"<strong>HUH?! Oh No, n-no no no, it's not like that! I'm just Rex's Blade!</strong>" She jumped a step back in surprise, blood rushed up her cheeks as she tried to deny, but her heart raced fast.</p>
+<p><img src="images/194_meeting_guardian.jpg" alt="Corinne thought she was his girlfriend" /></p>
+<p>Corinne saw through her, "Is that so? You do hear of Blades and Drivers getting married <strong>a lot</strong> in the old stories!"</p>
+<p>"Err..." She don't know what to say.</p>
+<hr />
+<p>After all the washing and all, Corinne prepared tea for them, as a reward for her help, but perhaps, she wanted to speak a bit more to her. Ether lamps illuminated the interior of housing so bright we could see the light from the windows{{footnote: In the past, using candles or better oil lamps, you can't really see that clearly, unless there's a LOT of candles to light up the whole room -- at the expense of feeling very hot inside.}}. They were enjoying the cloudy night, though it would be better if there's some breeze.</p>
+<p>Pyra commented, "This is a lovely village. Everyone's so warm and... <em>carefree.</em>" She hoped she could be one of them, perhaps.</p>
+<p>"It's removed from everything, you see. I think if <strong>everyone could live like</strong> this... the world might be a happier place. You know, between you and me... <strong>I think, deep down</strong>, Rex still misses his mother a little. In a way, <strong>you</strong> remind me of her. Just... a tad."</p>
+<p>"Of Rex's mother? Really? A-actually... He took me to say hello to his parents." she shared, feeling heartwarming.</p>
+<p>"<em>Ahhh...</em> You know, Rex wasn't born here in Fonsett. He must have been- two years old when he came ashore here with his poor- mother."</p>
+<blockquote>
+<p>One day, a young woman effetely entered the village entrance, Rex in her hugs. She struggled forward, until she could take no longer, collapsed to the floor. The villagers rushed to her help.</p>
+</blockquote>
+<p>"Maybe it was war, or a- dying Titan... But they'd lost their home, sure enough."</p>
+<blockquote>
+<p>She never recovered. Corinne, as the guardian of the village's children, took the role to care for young Rex.{{footnote: Unlike today, some Indian tribes in the past, including in Latin America, they take everyone's child in the village as their child, and hospitality was extended so it's not separated into 'my child' and 'their child', but 'everyone's child'.}}</p>
+</blockquote>
+<p>"I gather it was a great struggle to get here. <em>She was so weak</em>... She asked me to look after Rex, and... <em>That was the last thing</em> she said."</p>
+<blockquote>
+<p>Corinne brought Rex with her and other villagers to the funeral; many people visited, despite not knowing her more than that, paying tributes. Corinne consoled the boy who'd just lost his parents; he wasn't even crying, but more blank, standing there, purpose lost.</p>
+</blockquote>
+<p>"She seemed so lovely, too... And his father... We found his body about... three- titanpeds away from here. He came <strong>so far</strong>, If only he'd made it a little farther... Such a sad business."</p>
+<p>"<em>How awful</em>..."</p>
+<p>"That boy has suffered enough loss for one life." Corinne started crying, feeling sorry for his fate. "<strong>That's</strong> why he became a salvager, you know. To find some way up to Elysium."</p>
+<blockquote>
+<p>Pyra recalled how he always treated the dead -- his mentor Vandham, his parents -- with so much care and reminiscent, the little feelings he emanated that she can feel.</p>
+</blockquote>
+<p>Her guilt awash her, she felt so sorry, depressing, and self-deprecating, "<em>In that case, maybe- it's not good for me to be by Rex's side after all...</em>"</p>
+<p>Brighid was searching for her, came around the corner, hid behind the walls, overhearing their conversations starting from here. Pyra looked up in the sky; perhaps one day, she'll bring him more sadness, staying beside her. And he may one day even lose her!</p>
+<p>"<strong>Why?</strong> Are you not... fond of him?" asked Corinne.</p>
+<p>"<strong>Oh, I am!</strong> But... <em>with me- here... he'll suffer even more, lose- even more. So maybe... Maybe Rex is better off without me. Rex... and the whole world. They don't need me. That's just how it feels.</em>"</p>
+<p>"Now, dear..." The conversations ends here; Brighid had no need to hear more. What worries lies in their future journey?</p>
+<hr />
+<p>The next day, Corinne and a few children sent the group at the village entrance. Rex announced, "OK, time to move out!"</p>
+<p>"<strong>See you soon, Rex!</strong>" one children exclaimed.</p>
+<p>Corinne: "You take care now. And keep yourself out of trouble, Azurda!"</p>
+<p>"Ah, you know me. I prefer the quiet life."</p>
+<p>Pyra expressed her gratitude, "Thank you for everything."</p>
+<p>Corinne: "Pyra, dear -- I don't know what you've been through before, but you should know you're not alone- anymore. Rex is a strong boy. You can depend on him, <strong>whenever</strong>, and <strong>wherever</strong> you need him."</p>
+<p>"I know. I'll try."</p>
+<p>"Huh? What was... all that about?" says he whom was so out of sync.</p>
+<p>"Nothing at all. Right?"</p>
+<p>Corinne: "Nothing for your ears, Rex. You just concentrate on what you're doing. <strong>Work hard</strong>, and do your best!"</p>
+<p>Scratching his head, "Sure, I will." And he went with the others away. Pyra stayed back for a while, gave Corinne a bow of gratitude, before catching up with them.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="15_history.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="17_to_indol.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="15_history.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="17_to_indol.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

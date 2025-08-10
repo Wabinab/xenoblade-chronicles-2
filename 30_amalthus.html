@@ -1,0 +1,467 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Amalthus&#x27;s Desperation - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="amalthuss-desperation"><a class="header" href="#amalthuss-desperation">Amalthus's Desperation</a></h1>
+<blockquote>
+<p>The young Amalthus put his hands on his chest and bowed before the various soldier husks that littered the battlefield. He turned around and arrived some time later at a campsite. Adults were chatting. Children were playing; two of them, seeing him, stopped playing and bowed to him seriously, which he returned, seeing them off to resume play.</p>
+<p>Their temporary shelter were short-lasting; in no time, they migrate once again, forming a long line, walking 'tirelessly' through a barren land devoid of grass, decorated with few dead trees. Occasionally, they settled down for the night, setting up camps. Every night, people gathered around the campfire, listening to the morale-heightening speech of Amalthus. Food was scarce, but they had barely enough to go around.</p>
+<p>When he had nothing else to do, Amalthus doctored the patients. Once, he helped a man with the bandage around his cranium. After making sure it's tightened and carefully treated, the injured looked at him in the eyes, thanked him, and he returned a nod. His eyes turned around to the World Tree, blurred in the distance, wondered if He is watching them suffer.</p>
+<p>Alone, Amalthus hiked uphill through thick dense vegetation area. Atop, he found straw houses in dilapidated state. Possibly abandoned, though some houses were still in good form, at least, livable. No sight of any inhabitants strolling outside.</p>
+<p>Inside one of the houses, a baby was wailing amidst glass smashing in the background. The adult searched the crate, throwing away things he don't need, oblivious to the cry. The door opened and light shone it, but he was too focused he didn't realize that Amalthus had entered the room. Digging deeper and deeper, he finally found what he needed -- a knife. Leaving the materials to their being, he strengthened his grip on the hilt, walked slowly over to the baby. Still crying, the baby would never know what fate had awaited him/her. The adult reached the baby, opened his eyes wide, and jabbed hard; the knife never came in contact with the baby -- Amalthus hand gripped on his wrist hard, giving the adult an indifferent look.</p>
+<p>The adult turned around to look who was stopping him; Amalthus recognized he was the soldier he'd treated earlier, the bandage still wrapped around his cranium. Amalthus's grip was strong; there's no way he could let it slip. After a shrieking painful (adult) cry, the baby stopped crying.</p>
+<p>Amalthus, carrying the baby with one hand, walked out of the house towards the edge of the cliff. He looked into his/her eyes, than turned his attention to the everlasting World Tree that loomed high and blurred in the distance. The baby was about to start crying again, and Amalthus put one index finger over his mouth, and the baby seemed to understand, muffed his cry, letting out snorts that (s)he cannot snuffed out by sheer will. He removed the index finger from his mouth and put his palm over the baby's face, covering it, while his solemn eyes turned to the World Tree.</p>
+<p>"O Architect! Is this the world that you intended?"</p>
+</blockquote>
+<hr />
+<p>The beam left a hole in the World Tree. The group stopped moving. Tora, his hearts racing, exclaimed with relief, "<strong>That too close, meeeeeh! If we just a bit higher, it would have hit us!</strong>"</p>
+<p>"Where did..." Rex eyes wandered until he saw the new Titan that emerged 'out of nowhere', its chest as tall as their current position.</p>
+<p>Mòrag couldn't believe it, "Mor Ardain?! <strong>Impossible!</strong>"</p>
+<hr />
+<p>The capital city of Mor Ardain was shaking, the pipes bellowing steam. Its streets had been emptied of inhabitants, taking shelter in their sturdy earthquake-safe houses. In the palace, a soldier worryingly asked, "<strong>Your Majesty! Are you hurt?!</strong>"</p>
+<p>"What happened?"</p>
+<p>"<strong>The Titan</strong>- just released- a vast amount of energy from its <strong>chest</strong>! We think the brownout may be linked to that." Niall dropped his head, perhaps thinking about what to do next, or perhaps trying to absorb the new information. So he had been right; he was not imagining things earlier. At this point of the year, the sky don't look right, the World Tree's position wasn't where it was. While he was thinking, a low-ranking soldier rushed in and reported to the captain, whispering into his ears. Once finished, the captain relayed the compressed information to Niall, "Majesty! We <strong>strayed</strong> off course- but we've managed to <strong>confirm our current position!</strong>"</p>
+<p>"Where are we?" He nervously asked.</p>
+<p>"<strong>Look!</strong>" Niall turned his head along the parallels where the captain pointed at. The World Tree loomed huge and tall; he shockingly took a step back.</p>
+<p>"<em>T-that's...</em>" Just then, the Mor Ardain Titan raised its head, looking at the World Tree. "Again? <em>Curses</em>. Mor Ardain can't afford to lose more energy!"</p>
+<hr />
+<p>"It's glowing..." Rex watched the cannons on the titan's chest.</p>
+<p>Gramps climbed out of the helmet, wondered, "Is it going to shoot again? That is not good! The Ardainian Titan is said to be at the end of its lifespan. If it were to release any more of the ether energy stored within its body..."</p>
+<p>"What would happen?" Nia interrupted.</p>
+<p>Gramps didn't let her wait long, "It would collapse. Its joints giving way under its own weight." And with it, taking with it the City, plunging into the depth of the Cloud Sea.</p>
+<p>Not like anyone except Amalthus could stop it. A second beam was fired at the World Tree in a larger range. Flames raged and smoke bellowed as leaves and wood burnt. The Marsanes, parked nearby, shook with the shockwaves. Energy leaked into the bridge, electrically shocking Akhos and Patroka's hand. Automatically, the giant screen focused on the source of the attack, but the screen whiteout temporarily during the leakage.</p>
+<p>Akhos: "<strong>Urgh!</strong> Now he summons even <strong>Titans?!</strong>"</p>
+<p>"<strong>Akhos, over there!</strong>" The screen changed target to a patch of Cloud Sea, where there was a jutted out from between the clouds. As it emerged, tons after tons of water displaced the empty space it left, smashing against each other, creating mist. The mist wasn't thick enough to prevent them from distinguishing the Titan that raised its head high above sea level.</p>
+<p>"What?! Uraya?! <strong>CURSE THAT</strong> Amalthus. <strong>Is every Titan under his control?!</strong>"</p>
+<hr />
+<p>The floor was shaking. The Queen, accompanied by her sidekicks and some soldiers, were standing just outside the entrance to her palace, watching the outer world through the translucent membranes. One of the soldier asked, "My Queen! Is <strong>that</strong>-?!"</p>
+<p>"The World Tree... Mor Ardain, Indol... What the blazes is going on out there?"</p>
+<hr />
+<p>The Uraya launched various targeting beams from its myriad eyes at the World Tree, blasting a huge portion of its trunk, this time targeting the group, giving up accuracy for quantity. "<strong>AAARRRGGGHHHH!!!</strong>"</p>
+<p>Their location was shrouded by black smoke; the balcony collapsed.</p>
+<p>"<strong>Pandy!!!</strong>" Zeke reached out to her while holding onto the edge with another.</p>
+<hr />
+<p>Akhos had his hands back on the controls, Patroka too, he exclaimed, "This is <strong>madness</strong>! Does he mean to gather all the Titans in <strong>one place?</strong>"</p>
+<p>"Akhos! Patroka!"</p>
+<p>"Mik?!" The giant panel changed to show his face; still controlling from the chamber below.</p>
+<p>"Go! Go keep Jin and Malos safe!"</p>
+<p>"What- is- <strong>this</strong>- all of a sudden?" Akhos asked.</p>
+<p>"We must be ready for the worst."</p>
+<p>Patroka: "<strong>But- what about Indol?! They're gathering Titans from-</strong>" She stamped her feet.</p>
+<p>"I'll deal with it."</p>
+<p>Akhos can't believe what he'd just heard, "<strong>DEAL with it? Alone? Don't be a fool!</strong>"</p>
+<p>"It's fine. I put this all together in the first place, remember? I can control everything from here. <em>Besides...</em>" He peered over his shoulder; she was there, Jin had asked him to take care of her. "I'm not exactly <em>alone here.</em>"</p>
+<p>"<em>Mik...</em>" Patroka was perplexed, and she felt something off, but she can't tell what it was.</p>
+<p>"<em>Go. And do what I can't</em>." His eyes unwavering, his voice stern.</p>
+<p>It took Akhos 5 seconds to abide, "<strong>OK... Patroka!</strong>"</p>
+<p>"Urrrrgh...." Together, they went for the hatch.</p>
+<p>"<strong>Patroka!</strong>" She turned around and looked at him, wondering what he had to say. "<strong>I love you!</strong>"</p>
+<p>She froze for half a second before stomping on her feet, "<strong>You are so gross, Mik! Make sure you come back alive- s-so I can punch you for saying that!</strong>"</p>
+<p>After she left, he rubbed his chin with his hand, "That's... <em>a deal.</em>" He hoped. Then, he turned his attention back to the task at hand, putting his hand on the control panel, and activated the final mode of the Marsanes; its joints started detracting, transforming into a humanoid form.{{footnote: The transformed Marsanes looked like a 'faced Mechon' from XC1.}}</p>
+<p><img src="images/297_marsanes_humanoid_form.jpg" alt="Marsanes&#39;s humanoid form" /></p>
+<p>The transformation didn't escape the group's attention, Rex exclaimed, "<strong>Their ship, it's...!</strong>"</p>
+<p>Gramps noted, "That shape... It is <strong>just</strong> like a Titan."</p>
+<p>With Lora behind him, and Indol in front of him, he snapped, "<strong>You old fool! Here I come!</strong>" He powered up the several boosters attached to the back and below the legs of Marsanes, accelerating towards Indol. While transiting, it clenched its right fist slowly, rotating its body to bring the fist back once it got near the Titan, swung around and aimed for its face, hit it hard in its eyes. Injured, the Titan bellowed while Marsanes took the chance to back away a short distance.</p>
+<p>Zeke announced, "<em>So- it begins.</em> <strong>Now's the time! Let's get after Jin!</strong>"</p>
+<p>Rex: "<strong>But, the Titans...</strong>"</p>
+<p>Mòrag calmly redirected his attention, "Rex, let's focus on what we can do right now."</p>
+<p>"Mòrag..."</p>
+<p>"Don't worry. The Emperor's <em>my brother, after all.</em>" And she trusted him.</p>
+<p>"I'm on it."</p>
+<hr />
+<p>A beam shot straight from Mor Ardain's chest at Marsanes, the latter raised an ether shield on its palm and caught it, firing its boosters to resist Newton's Third Law. "<strong>YARGHHH!!! I've HAD IT!!! You're done!!</strong>" He aimed Marsanes's cannon at it, firing a beam that sliced the Titan starting from its waist and ended on its shoulders. The perplexed Titan temporarily regained control of itself, perplexed as to why it was raging in flames, before its remaining leg break under its own weight.</p>
+<hr />
+<p>"<strong>Your Majesty!</strong>" The ground shook.</p>
+<p>When everyone panicked, he remained calm, emanating confidence, "I'm OK. Issue the evacuation order across the capital. All army vessels can be used, including my private ones. <strong>Save as many</strong> as possible!"</p>
+<p>"You first, sire!" The captain insisted.</p>
+<p>"<strong>Don't mind me! Hurry, now!</strong> Mor Ardain <strong>cannot hold</strong>, unfortunate though it may be..."</p>
+<p>"Majesty..."</p>
+<p>"<strong>Go!!!</strong>"</p>
+<p>"<strong>Sir!</strong>" The captain and soldier quickly bowed to Niall before running out of the room.</p>
+<p>Niall's eyes turned to the World Tree, his body trembled slightly, with teary eyes, pleaded, "Dear sister, <em>if you're there, please. Please. Save Mor Ardain and the world...</em>"</p>
+<hr />
+<p>"Your Eminence, the foes have been sighted."</p>
+<p>"The lost technology of old Torna? How astounding it is that it still works..."</p>
+<p>Mikhail established communication with Amalthus, "Surprised, eh? There are still a few of us hanging on."</p>
+<p>"A survivor. Flesh Eater. You followed him down that daaaark path."</p>
+<p>He flipped his hair, "Hah!"</p>
+<p>"In that case... " Amalthus knew exactly what to do, activating Fan's Core Crystal to the max. The green tornado outside the Praetorium emanated a shockwave that brushed through Marsanes. His eyes fixated on the screen, resisting the urge to blink, just to see how his opponent would knell before him. But when he don't, "Hm?"</p>
+<p>Mikhail wasn't affected a single bit, "Oh, nice try! But that's not gonna work on me! (Handsomely flipped his head back) And that's because... <strong>you and I</strong>- are the same!"</p>
+<p>"<strong>WHAT?!!!</strong>"</p>
+<p>"I am... <strong>a Blade Eater!</strong>"</p>
+<p>"<strong>IMPOSSIBLE!!! The Blade Eater technology- is not known outside the Praetorium!</strong>"</p>
+<p>"You're right. <strong>But that doesn't mean you're the <em>only</em> one. Or have you FORGOTTEN WHAT YOU DID BEFORE implanting <em>your</em> Core Crystal?!</strong>"</p>
+<p>"<em>Hmph.</em>"</p>
+<blockquote>
+<p>Outside the room with the Praetorium symbol carved on the wall was another cylindrical chamber with platforms like that of the audience chamber, allowing soldiers to stand on its end outside the circumference of the circle formed from their transferred ether. At the center of the circle laid a boy floating in mid-air, and Amalthus lowered the Core Crystal floating above the boy into his chest. At the other end of the entrance, several laymen bordered by warrior monks stood worried about the process, hoping their conversations could ease their anxiety. Young Mikhail stood quietly, putting up a sad face, interact not with another person.</p>
+</blockquote>
+<p>Biting his tongue, Amalthus spitted out, "You don't mean... you are one of the refugees from back then? <strong>But</strong>- all of them- were..."</p>
+<p>Mikhail finished his sentence, "Disposed of, right? <strong>Sure, you tried.</strong> But some of us weren't about to <strong>die</strong> that easily. <strong>I- lived on!</strong>"</p>
+<p>With that, the Marsanes grabbed on the neck of the Indol Titan with both hands. The Indol refugees and inhabitants were running for their dear life, watching the giant Marsanes looming behind them, tearing the place up, searing it in flames. Mikhail clenched his fist. "You didn't even evacuate them. You're the same as ever, Amalthus!"</p>
+<p>But they're not stopping him from pushing the Indol Titan away, readying another punch at it. "<em>I'm sorry...</em> But this is a fight- I can't back down from!"</p>
+<p>He revved up its thrusters, trying to push the Indol Titan, when a beam struck its back, slightly damaging its thrusters. "Ugh!" The bleeping sound came online while he get back on his feet, the screen changed to show its source. Genbu was just floating from beneath the cloud sea, swimming towards the Marsanes.</p>
+<p>Zeke watched and shouted, "<strong>DAD!!!</strong>"</p>
+<p>Brighid: "Tantal too?"</p>
+<p>"<strong>WHY?! PANDY!!!</strong>"</p>
+<p>"<strong>It's no use. M-my words can't reach him anymore.</strong>" she cried.</p>
+<p>"<strong>Dammitall... What the hell is the Praetor thinking? At this rate, he'll destroy Alrest before Malos does!</strong>"</p>
+<p>"Desperation." Mòrag can only think of.</p>
+<p>"<strong>WHAT D'YOU MEAN?!!!</strong>"</p>
+<p>"Desperation at not- getting the Aegis. <em>That man...</em> What's his plan? Why would he be so intent on obtaining the Aegis?"</p>
+<p>Rex felt that "<strong>We've... We've gotta do something to stop the Titans fighting!</strong>"</p>
+<p>Zeke: "That's <strong>easy to SAY, but what can we DO about it when they're ALL the way OUT THERE?!!!</strong>"</p>
+<p>Rex scanned the scene, his brain running through possibilities, until he realized they all had one similarity, one single source, and that one thing he probably could do something about it. "<strong>Got it! The glowing pillars!</strong> Just then, when one of the pillars got wrecked, Amalthus's power got weaker for a moment!"</p>
+<p>Nia extrapolated, "So if we smash the pillars, he'll lose control over the Titans?"</p>
+<p>"It's worth a shot!" He looked to Pyra, asked, "OK. Mythra?"</p>
+<p>Mythra replaced Pyra and worked on the math in her brain, asking for confirmation, "And we only want to hit the pillars?"</p>
+<p>"Yeah."</p>
+<p>"I-It's moving far too much. I can't get a clear shot." She shook her head. "<strong>This isn't going to work!</strong>"</p>
+<p>"<strong>Ohhhhh mannnn...</strong>" He felt disappointed.</p>
+<p>But Pyra had another idea, "I know, Mythra."</p>
+<p>"What?"</p>
+<p>Pyra came out and voiced her thought, "If we can get a little closer, w-we might be able to do something."</p>
+<p>"Is that true, Pyra?" Rex hopes were up yet again.</p>
+<p>"P-Probably! Think back, do you remember our fight against Jin? By rewriting the physical laws of the surroundings, we were able to match Jin's speed. If we rewrote them in the same way, in the midst of battle between those two..."</p>
+<p>Mythra came out again, taking that into account, redoing her calculations, "From our point of <strong>view</strong>, it'll be like they've frozen in place, huh...? OK..."</p>
+<p>Nia asked the most important question, "But, how do we get there?"</p>
+<p>"Ha! Tora have good suggestion! Poppi! Think- you could grab <strong>Mythra</strong> and Rex-Rex and carry up there?"</p>
+<p>"Yes! Poppi can carry two people <strong>no problem!</strong>"</p>
+<p>"<strong>Ta-daa!!!</strong>" Problem solved!</p>
+<p>"OK, let's do it! Everyone else after Jin!" Rex ordered.</p>
+<p>"Hang on!" Zeke stopped him.</p>
+<p>He immediately rebutted, "We don't have time to argue here. Don't worry. We're going to make this work. Right?"</p>
+<p>Mythra agreed, "Right!"</p>
+<p>"Rex-Rex! Pleaseeeee remember, Poppi booster time- limited!"</p>
+<p>"Understood! We'll get as close as we can!"</p>
+<hr />
+<p>"<strong>Poppi! You're up!</strong>"</p>
+<p>"Poppi got it!" She jumped off the ledge and activated her boosters, tucking her hands behind, signaling, "Both friends hollllld tight!"</p>
+<p>"<strong>Let's go!</strong>" After they grabbed, she revved up its thrust to maximum, swerved along the sky, watching the Titan and Marsanes exchanging punches meat to meat while they closed in.</p>
+<p>Despite his main attention on the Marsanes, Amalthus kept an eye on the group. When they moved, his screen refocused on "Rex and the Aegis? What are they doing?" He tried to think of the possibilities of what they can do; in a sudden, he froze, his iris constricted, cold shivers ran down his spine, and he shouted atop his lung, "<strong>Unless!!!... Open fire! Don't let them near!</strong>"</p>
+<p>Without delay, bullets launched from invisible barrels hidden inside the Titan wings's sweat pores in the tens of thousands, covering a massive part of the air between the Titan and the incoming Poppi. She calculated the trajectories, goes on evasion track. Rex gritted his teeth, feeling the strain on his skin and muscles. The nearer they get, the more concentrated the bullets were, and finally, Mythra suffered a shot. Poppi realized they couldn't get any nearer, shouted, "<strong>REEEEEEEEEEXXXXX!!!</strong>"</p>
+<p>Rex nodded. She did a somersault in place, and with full force, launched them straight.{{footnote: Meanwhile, there were no bullets firing at them, either because they're reloading, or because they're cooling down their overheated barrels, for a few seconds.}} Mythra raised a shield in front of both of them, blocking any incoming bullets; though, she couldn't hold for long, "<strong>REX!!!</strong>"</p>
+<p>They had no choice but "<strong>Just do it from here, OK?</strong>"</p>
+<p>"OK."</p>
+<p>"We're in a good spot! Let's go!"</p>
+<p>Forecasting that the bullets won't hit them for the next 2 seconds, Mythra removed her shield and transformed into Pneuma. Rex pulled out his sword and raised it over his head, "<strong>YAAAAARRRRGGGHHHHH!!!</strong>" slashed at the Titan mid-air; a field grew and engulfed it.</p>
+<p>Mythra used the growing field as a beacon, double-backed the locations with her eyes. "I've locked on. <strong>Siren!</strong>" Multiple particle beams descended the air, accurately engulfing every single one of the towers in bright light. The towers fell, short-circuiting the ether flow; the vast amount of energy leaked formed a bright ball that expanded, engulfing the whole Titan, eventually pushing beyond towards where Rex and Pneuma floated.</p>
+<p>"<strong>URGH!!!</strong>" It pushed them in the direction of the World Tree, but the force wasn't enough to get them to its trunk. They accelerated faster and faster under gravity's pull, "<strong>Pyra!!!</strong>"</p>
+<p>"<strong>Rex!</strong>" Pneuma held out both her hands wide, increasing the drag thus slowing her down{{footnote: Actually, it's 'decreasing her acceleration', but one thought the non-physicist might get confused with such words and 'relative velocity' so one'll just say 'slow her down'.}} enough to get them closer inch by inch. When their fingers touched, he pulled hard and embraced her, swirling around so he now faced up and she down. His effort of memorizing the locations of the protruding objects before he had Pneuma now come useful, and without looking, he shot his anchor straight at a protruding metal bar.</p>
+<p>"<strong>Come onnnnnnn!!!</strong>" Would the anchor, working against gravity, swerved faster than they fall? Just before the reel come to an end, the anchor finally stuck tight; he felt the tug on his hand and they stopped falling, instead swung around like a pendulum; he calculated they will land on the protruding platform along their trajectory. "<strong>ARRRGHHH!!!</strong>"</p>
+<p>He released Pneuma, and together immediately, they ran to the edge, she transformed back to Mythra, eyes fixated on Indol. "<strong>Did it work?!</strong>"</p>
+<p>Mythra scanned Uraya, Genbu, and Mor Ardain. None were preparing any cannons nor attacks; all were perplexed by what they were doing earlier. Nia, coming along with the group that'd somehow predicted where they would've land, stopped behind Rex and Mythra and noted, "It's- stopped?"</p>
+<p>Zeke was impressed, "<strong>Our chum's only gone and done it!</strong>"</p>
+<p>"<strong>Poppi do Tora proud!</strong>" He turned around; Poppi was lowering herself like a reusable rocket booster docking back on its port.</p>
+<p>"<strong>No problem at all, Masterpon!</strong>"</p>
+<p>Inside the audience chamber, the atmosphere was chilly. The warrior monks could feel the suppressed volcano that was about to erupt. As if Amalthus is blind, one of them had to remind him, "<strong>Eminence! The amp towers are-</strong>"</p>
+<p>"<strong>Curse those fools!</strong>" He effetely backed a few steps; all his hard work had come to waste, with those towers gone. He put one hand on his head, feeling the throbbing and migraine, "Do you even <strong>KNOW what you've done?!</strong>"</p>
+<p>With him swinging his hand, Indol received the instruction, its main cannon fired straight at the group. Their iris grew larger as they watched the light growing brighter and brighter, awestruck, unable to do anything. Mikhail saw it and gritted his teeth. Dromarch subconsciously went in front and arranged his body horizontally, hoping his meat shield could reduce such impact enough to safe His Lady and their friends.</p>
+<p>A bright light shone, they covered their eyes with their arms. Nia was the first to feel something wrong. She opened her eyes and looked over her arm, "<strong>HUH!!!</strong>" The Marsanes blocked the beam for them with its back, "<em>Wh-why?</em>"</p>
+<p>Mikhail's voice echoed through the external speaker, "<strong>What are you hanging around here for? GO!!!!</strong>"</p>
+<p>"<em>That voice</em>... Mik? That you?"</p>
+<p>"<strong>You're chasing Jin and Malos, right? I SAID GO!!!</strong>"</p>
+<p>"Why would you..."</p>
+<p>"Beats me. I don't even know any more." He scratched his head.</p>
+<p>"Mikhail...?"</p>
+<p>"<strong>I</strong> really hate this world. Like, really. And humans most of all."</p>
+<p>"You used to BE human!"</p>
+<p>"But you know what? There were people I loved, once."</p>
+<blockquote>
+<p>The place where Addam and Lora sparred, tents set up like refugee camp; the child Mikhail sat on his log, drinking his soup alone, watching how Lora and Haze had girly talks and hugged each other happily. Merely watching them interact he felt satisfied.</p>
+</blockquote>
+<p>"When I look at you guys, it reminds me of them. I wonder... if the people I loved- <em>were still around</em>, would things be... different? I wonder that, and- I- start doubting myself."</p>
+<p>Rex: "Mikhail?"</p>
+<p>"It's Rex, right?"</p>
+<p>"Yeah!"</p>
+<p>"<em>Have you found your answer?</em>"</p>
+<p>"<strong>I have, and it's pretty spectacular.</strong>"</p>
+<p>"<strong>I see!</strong> Well then... I'll leave Jin- to you." He yawed the Marsanes around to face Indol, instructed, "Now go! <strong>Get after him</strong> already! <strong>Tell him</strong>- your answer!" The group left without hesitation.</p>
+<p>"Hm." He sighed.</p>
+<p>Indol had gone crazy, kept overclocking their Titan's cannon, blasting it at the Marsanes beam after beam, even if it left no dent on it. Marsanes powered up its boosters, give up all other form of offense and defense, and launched itself on a collision trajectory with the Titan. Mikhail gripped tight on the control panel as the Marsanes shook, "Amalthus... <strong>Time- to end- this!</strong>"</p>
+<p>The final shot missed; Marsanes went under its neck and grabbed it with all fours. The emergency siren bleeped louder after he deactivated all safety lock on ether throughput, channeling all to its boosters. "<strong>HAH!!!</strong>" The Titan swung in a circle, Marsanes released and it flung and smashed into the World Tree Trunk, whom groaned in extreme pain. "<strong>WARRRRRGGGHHHHHH!!</strong>"</p>
+<p>"Fool. Who do you take me for?!" Think you could finish easily me like this? He commanded the Titan to turned its head around, preparing the cannon inside its throat, aiming at Marsanes.</p>
+<p>Mikhail gritted his teeth and flew straight for its mouth, feeling Lora behind him, his mind drifted back 500 years,</p>
+<blockquote>
+<p>Black smoke bellowing from a burning village; the scent of lush green grass brought by the wind{{footnote: that replaces the thick choking fumes}} cannot soothe the mind of the child, mourning for the loss of his parents and guardians.</p>
+<p>"What happened? Are you alone?" O Architect, had you descended an angel for one's salvation? He keep rubbing his tears, but they kept coming out; he couldn't face his angel.</p>
+<p>"Looks like the only survivor." Jin exited Sherlock mode and reported back, "These burn patterns- don't look like Malos's handiwork. Must've been humans. (Expressing disdain) <strong>Looting</strong> and <strong>pillaging</strong> while the <strong>world burns.</strong>"</p>
+<p>Lora's attention flung back to the still crying Mikhail, bent down and leveled her eyes with his, softly spoken, "Hey, it's okay. Would you like to come with us?"</p>
+<p>His felt his tears drying up, looked up. Still blurry, but he can see the beautiful angel; her voice ring with hopes and dreams, friendliness and warmth and welcoming, "You don't have to worry, really. We're all good people, promise." She turned to Jin.</p>
+<p>Jin knelt down before Mikhail and looked into his eyes, asked, "Can you walk?" Mikhail took his time; they seemed friendly enough for him to trust again. He nodded. "You can. Good going." He pat Mikhail's head, then urged him to follow. He trailed a step behind, and Lora last, continued on their journey with a new friend.</p>
+</blockquote>
+<p>A bright light engulfed the core crystal room, he sighed,</p>
+<p>"Forgive us, Jin. We're going on ahead."</p>
+<p>Reaching its mouth, he activated the self-destruct mechanism, energy released so strong it engulfed Indol and the neighboring World Tree's trunk.</p>
+<hr />
+<p>Akhos and Patroka were tracking the trail Jin and Malos made inside the building when a giant explosion shook the floor beneath them. "Ah!" They stopped, trying to figure out its source. She turned around, feeling a jab in her heart; something seemed to gone forever, though she don't yet know what. She was worried, but there's no turning back, "Mikhail..."</p>
+<hr />
+<blockquote>
+<p>On a balcony overlooking the refugees camp, Amalthus asked,  "What do you see?"</p>
+<p>"What do I see? I see a bunch of people- struggling to stay alive." Adults walked up and down like lifeless corpses. Children were more cheerful and playful, even splashing water at each other at the nearby fountain. "<strong>Same as most everyone else on Alrest</strong> right now."</p>
+<p>Amalthus faced "Zeke. Have you ever taken a person's life?"</p>
+<p>"<strong>Can't say</strong> I have. <strong>Never seen the need</strong> for it, myself."</p>
+<p>"Oh?"</p>
+<p>"<strong>Why does</strong> anyone kill others? Because they're in your way, or because you can't bear the sight of 'em. You kill because <em>you're weak.</em> But I'm not weak. So I don't need to kill anyone. And I don't mean physically, yeah?" (Pointing at his heart) "<em>I mean it here.</em>"</p>
+<p>Amalthus turned his head away from him, said, "I suppose... that makes me weak, then. <em>But that weakness is why I'm standing here today...</em>"</p>
+<p>"So you <strong>hate</strong> them? Humans."</p>
+<p>"<em>No... I hate this world.</em>"</p>
+<p>Zeke don't know why he did; but he never asked.</p>
+</blockquote>
+<hr />
+<p>The lights inside the tunnel they traversed shone at the ceiling; the reflection wasn't enough to lit the bottom part. Zeke suddenly called out, "<strong>Chum!</strong>"</p>
+<p>He turned around, "Huh?"</p>
+<p>"<strong>Do you</strong> like this world?"</p>
+<p>"Urrrr, <strong>what?</strong>"</p>
+<p>"Just- give me a straight answer."</p>
+<p>"<strong>Yeah! Sure, there's plenty of room</strong> for improvement, <strong>but then, there's also plenty of stuff that's awesome!</strong>"</p>
+<p>"<strong>What about us?</strong>" Zeke put a foot forward, looked at him straight into his eyes.</p>
+<p>"<strong>Huh?</strong>" What do you mean?</p>
+<p>Nia teased, "<strong>Ahhhh, I think Shellhead's about to propose!</strong>"</p>
+<p>"<strong>WHAT?!!!</strong>" Pyra jumped.</p>
+<p>The seriousness he raised collapsed, "<strong>Fleabag! I mean, how do you feel about US?</strong> People."</p>
+<p>"Phew, I was worried then!"</p>
+<p>"You should be so lucky. <strong>Anyway! What's</strong> your answer?"</p>
+<p>"Ooo, that's a tough one." He reasoned inside his mind, spoke it out loud, "<strong>People</strong> can be fun to be around, but sometimes they're hard to deal with. And then there's mean types- like that Bana..."</p>
+<p>"For sure...." Nia agreed. That kept Pyra thinking.</p>
+<p>Rex: "<strong>But</strong>... Life's about taking the good with the bad, right? So <strong>yeah, I like people!</strong> Andddddd, I like myself, and I'm people."</p>
+<p>"All right, bid 'ead." Nia agreed too!</p>
+<p>Zeke: "<strong>AHAHAHAHAHAHAH!!! I SEE!!!</strong> Well, that's you all over. I'm relieved."</p>
+<p>"Wh-whaattt???"</p>
+<p>"Welllll..."</p>
+<p>"Mm?"</p>
+<p>"<strong>Suppose</strong> a guy who <strong>hated</strong> himself... had the power that you do." (He looked up, hopefully seeing him) "If someone like that <em>were to meet the Architect</em>, I wouldn't be... surprised... if they wished... for the <strong>whole world</strong> to disappear."</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="29_amalthus.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="31_the_journey.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="29_amalthus.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="31_the_journey.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

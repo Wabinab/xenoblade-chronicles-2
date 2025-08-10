@@ -1,0 +1,535 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Vandham of Uraya - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="vandham-of-uraya"><a class="header" href="#vandham-of-uraya">Vandham of Uraya</a></h1>
+<p>Exiting the tunnel, the surrounding now lit brighter. Nia noted, "There's some kinda <em>dim light...</em>"</p>
+<p>Gramps: "If I remember, the Urayan Titan... has a translucent hide. I bet that'll be the light filtering through."</p>
+<p>Rex: "So... the Titan must be above the clouds now?"</p>
+<p>"I dare say!"</p>
+<p>Pyra suggested, "If we can make it to the source of the light, maybe we'll find a way out of here."</p>
+<p>"Hold it!" Who's voice was that? With tense muscles, they turned and saw the guys standing atop the ledge. He jumped and landed in front of the group. His blade, a bird standing on two legs with pouches on its breast, trailed behind. And his colleagues followed him behind, "Looks like a bunch of mushes I ain't seen yet. You gotta have pretty <strong>damn bad luck</strong>, ending up in a Titan's guts like this. <em>Huh? That Blade...</em> An emerald <strong>Core Crystal!</strong>"</p>
+<p><img src="images/081_vandham_in_the_dark.jpg" alt="Vandham too dark to see clearly" /></p>
+<p>Rex was triggered. Whoever mentioned that so far hadn't brought them good news.</p>
+<p>"<strong>BWAHAHAHAHAHAH!</strong> So, the rumors are true!"</p>
+<p>"Huh? What rumors?" wondered Rex.</p>
+<p>"The tale that every Driver worth his <em>salt knows</em>. The legendary <strong>Aegis</strong>. Folks been saying she just woke up from a 500-year nap. Wouldn't have thought... she'd show up with a pencil-neck <strong>shrimp like you for a Driver, though.</strong>" He ridiculed at Rex's size.</p>
+<p>"<strong>You think I don't have what it takes?</strong>" He felt provoked.</p>
+<p>"<strong>Nah</strong>, I mean... Maybe you could handle a <em>normal</em> Blade. <strong>But a greenhorn like YOU, with a beaut like HER?</strong> <em>Don't kid yourself.</em> C'mon boy. <strong>Hand her over to a grown-up.</strong>"</p>
+<p>"This crap is getting old. Leave her alone!" They got ready for battle.</p>
+<p>"Y'got heart, kid. <em>I like that.</em> Yew, Zuo, you take care of the others. <em>I wanna squash the kid.</em>"</p>
+<p>"Heheh. Leave it to us, boss."</p>
+<p><img src="images/082_yew.jpg" alt="Yew" /></p>
+<p>"We'll take <strong>real</strong> good care of 'em." And the battle begins.</p>
+<p><img src="images/083_zuo.jpg" alt="Zuo" /></p>
+<hr />
+<p>"What's the matter? Are you the Aegis or aren't ya?!" Pyra was having difficulty transferring her power to Rex. The buff guy was slamming his dual scythe at Rex as he complaint, knocking Rex off balance as he defended his speedy slices. One more attack he realized his hand won't be fast enough to block; Pyra sensed his danger and blocked it for him.</p>
+<p>She sensed something out of place. In her mind, "<em>Huh? Something feels... different. This man, he's...</em>" There's... no... She hadn't got time to think; he'd knocked her off.</p>
+<p>"That all ya got, mate? Pathetic."</p>
+<p>Being provoked, Rex drew more power, "<strong>We'll show you! We'll show you what me and Pyra are made of!</strong>" Continuously, he threw fireballs at the guy, which he adeptly dodged, and he gaped in surprise, "He dodged?"</p>
+<p>"Course I did, kid. <em>Any slower, you'd bore me to death.</em>"</p>
+<p>"How about <strong>THIS, THEN?</strong>"</p>
+<p>"Hmph." More tighter controls, he got slightly more serious, dodging most; and those he cannot dodge, he sliced it aside, redirecting them to behind him.</p>
+<p>Power were sucked at a speed that "<strong>REX, WAIT!!! I can't supply power this fast!</strong>" But he wasn't listening; he'd locked his attention to teach the guy whom sneered at him a lesson. Seeing the guy's back on the rocks, he knew that's his chance.</p>
+<p>"<strong>Nowhere left to run! Eat this!</strong>" One more Burning Sword and the fight would end! More and more power he drew, and suddenly, snuffed out. "Huh?"</p>
+<p>The guy was waiting for his moment, his eyes fixated on Pyra's condition, and realizing his chance, "Playtime's over. Take this!" And he launched himself real fast at the defenseless Rex.</p>
+<p>"<strong>AHHHHH!!!</strong>" He closed his eyes, awaited his destiny. After so many lucky feats, this time is the unlucky ones, eh! Gonna die, but, one really don't want to die. The World Tree, our dreams. Sorry, Pyra. Goodbye, World.</p>
+<p>"<strong>Hah! If you're a Driver, you're a new one for sure.</strong> Drivers, see. We borrow our Blades' energy... channel it into our weapons... And let rip with an Art!" The scythe is on his neck, but it did not land. The guys sheathed his weapon after he opened his eyes, and continued lecturing, "<strong>But you gotta be careful</strong> -- there's a <strong>limit</strong> to it. If you go in all bull-headed like that, kid, even that Aegis of yours, is gonna run out of energy before long."</p>
+<p><img src="images/084_pyra_exhausted.jpg" alt="Pyra exhausted" /></p>
+<p>He nudged towards Pyra, and Rex turned and saw her panting ceaselessly to recover her breath. More confusingly, wasn't he about to die? "W-what???"</p>
+<p>On the other battlefield, Yew and Zuo sheathed their weapons. All were confused.</p>
+<p>Nia: "Huh? Uh?"</p>
+<p>"<strong>The name's Vandham.</strong>" the buff guy introduced himself, knocked his chest hard. "I run a little firm, out of the nearby village."</p>
+<p>"A... 'firm'?" Rex wondered what that means.</p>
+<p>He invited, "<strong>Come on! I'll treat you to some</strong> grub, as thanks for letting me take a whack, at the legendary Aegis! <strong>BWAHAHAHAHAHAH!!!</strong>"</p>
+<p>Pyra regained her breathe, stood beside Rex once again, shared, "Just then... I realized- while we were fighting, I sensed from the very start, that... he didn't mean us any real harm."</p>
+<p>They looked at the group leading the way up ahead, Rex commenting, "<em>Hmm, he sure is a strange old goat, that one...</em>"</p>
+<hr />
+<p>As they approached the village, Vandham had listened to their story during the traversing, exclaimed, "Helluva story! So you headed to the World Tree to reach Elysium, but got swallowed up whole <strong>instead</strong>? You got some crazy luck."</p>
+<p>Rex asked, "So, er, what were you doing back there, then?"</p>
+<p>"Y'know, this Titan... It ain't too fussy about what it eats. I went down there to see if anything we might need in the village, washed up. <strong>But mostly I only found, YOUR sorry mushes.</strong>"</p>
+<p>"Yeah, sorry about that..."</p>
+<p>"<strong>Here we are.</strong> Welcome to Garfont. Ain't much but it's home." Several people doing push ups with instructor sitting there overlooking them. Nopon and kids playing together at other places.</p>
+<p><img src="images/085_garfont_village.jpg" alt="Garfont Village" /></p>
+<p>Pyra noticed, "The village has... a lot of children."</p>
+<p>Tora added, "Lots of Drivers and Blades here too!"</p>
+<p>Vandham explained, "We're in the business... of dispatching <strong>Drivers</strong> and Blades... <strong>all across</strong> the world. Most of the kids are war orphans. Took 'em in while on the job."</p>
+<p>Dromarch rephrased, "So you're saying, that you, take them under your wing."</p>
+<p>Yew supplied an answer, "Just till they're able to make it by themselves."</p>
+<p>Zuo added, "Some of 'em, <strong>might grow up to be Drivers</strong>, like ourselves. <strong>But then others might become</strong> tailors."</p>
+<p>Vandham: "Doesn't matter what they wanna do with their lives. We leave it up to them to decide."</p>
+<p>Yew: "Aye. Us 'Justice Busters' just wanna help."</p>
+<p>Nia commented, "Good eggs, huh?"</p>
+<p>Vandham wasn't angry with the labeling, "You said it. I've been called worse. Come one. Let's eat! All this egg-talk is making me hungry." And he lead the way. Rex's head was on something else... this military thing... hmm...</p>
+<hr />
+<p><img src="images/086_eating.jpg" alt="Eating" /></p>
+<p>The group sat around 2 tables at the canteen. Nia, Dromarch, Poppi, and Tora took up one table. Yew and Zuo were gone to do their work. Vandham, his bird Blade, Gramps, Rex, and Pyra at another table. Pyra then said, "I'm going to get some water. Vandham?"</p>
+<p>"Cheers, love! Gimme a beer!" He finished swallowing before replying.</p>
+<p>"<strong>Beer? Coming right up!</strong>" Cheerfully she called before leaving for the dispenser.</p>
+<p>Rex was touching nothing on the table for long; his place still as they were. Vandham asked, "<strong>What's up?</strong> The grub don't suit you?"</p>
+<p>"So... do you fight in wars too, Vandham?"</p>
+<p>"You got a problem with mercenaries?"</p>
+<p>"Are you <strong>trying to get us to join up?</strong>"</p>
+<p>"<strong>Hah! Shrimps like you?</strong> We're not THAT desperate. <strong>Relax!</strong>" So not with mercenaries. Then it's with wars, soldiers, then.</p>
+<p>"OK. Good to know."</p>
+<p>"Hmmm... Rex, you're a salvager, ain't ya?"</p>
+<p>"Yeah."</p>
+<p>"You musta fished out your share... <em>of military supplies, right?</em> You fine with that?"</p>
+<p>"Naaaahhh. <strong>I don't wanna get involved with it.</strong>"</p>
+<p>"<strong>It's all the same.</strong> Compasses, <strong>valves for ether stoves... Armies need</strong> all these things. <strong>The bread you're eating?</strong> It's made from ruska flour. Supplied by the Ardainian government. <strong>This world's full of war.</strong> Don't matter if you're a soldier or not. As long as you're <strong>alive</strong>... you're in the war, <strong>some way or another. Don't you think?</strong>"</p>
+<p>Heavier and heavier his chest felt, shallower and faster his breathe. Just thinking about all the mechanical he'd salvaged up being repurposed, distributed to soldiers; he felt his hand stained with the blood of those hoping to live one more day. Guiltiness grew within, and desolation awash him, like a giant rock attached to his chest. "<em>Um, I...</em>"</p>
+<p>"<em>Life can be cruel. Crueler than you know. That's why I set up this little band, so I could <strong>protect</strong>, the people I care about.</em>" He listened, though yet not enlightened. "Rex. <em>You're the Driver of the Aegis. The whole world's gonna try and <strong>scalp you</strong>, you realize that?</em> How ya gonna live, <em>when you got everyone... <strong>gunning</strong> for ya? It'd be easy to run. All you'd need to do is ditch that girl.</em>"</p>
+<p><img src="images/087_pyra_preparing_drinks.jpg" alt="Pyra preparing drinks for them" /></p>
+<p>They looked at the girl whom were preparing the solutions behind the counter some distance away.</p>
+<p>"Ugh!" But he could not, not after all the adventure and friendship and dependency on each other and promises he'd made with her. He'll bring her to Elysium, he swear. His de facto partner he'd attached himself to, the various ups and downs they went through together, stirred their lives from the repetition and boringness of money money money for those back in Fonsett his mind was fixated on before meeting her. She made his days no longer the same anymore.</p>
+<p>Vandham could only help so much; he had to walk out of it himself. "<em>Hmmm...</em>" Then he abruptly stood up{{footnote: Even before his beer had came back.}}, shouted, "<strong>C'mon! Gotta get ready!</strong>"</p>
+<p>"What? Where are we going?"</p>
+<p>"Just <strong>follow me, kid!</strong>" And he and his blade walked off. Rex stood up, watched by Dromarch, while his other companions were still scarfing down whatever's on the table.</p>
+<hr />
+<p>"We just got a job to go check out some kinda crazy energy effect. Somewhere up around the blowhole. Whaddya say? Fancy bein' a mercenary for a day?" The group had gathered just outside the village.</p>
+<p>Rex, with some hesitation, "Ummmmmm, OK? But, I mean, we don't work for free..."</p>
+<p>"Don't worry, kid, you'll get paid." Together they head for their destination.</p>
+<hr />
+<p>A giant ball of wind swirling on their path blocked their rights of way. "Ahhh..." They wondered what was that...</p>
+<p><img src="images/089_ether_miasma.jpg" alt="Ether Miasma" /></p>
+<p>Vandham introduced it, "An ether miasma. Take it this is ya- first one."</p>
+<p>"Ether miasma?" Rex wanted to know more.</p>
+<p>"It's a load of poisonous waste products, spewed from the Titan's <strong>guts</strong>. Y'know, when you get gassy? Kinda like that."</p>
+<p>Nia: "<em>Erm, is there a way</em> through this thing? I can't see any way round it."</p>
+<p>"Hey, no fear. Roc, mate! You're up!" He took out his twin scythe, while his bird Blade, Roc, flew into the air and slashed some air fang at the ether miasma, dissipating it.</p>
+<p>Rex noted, "Miasma's died down!"</p>
+<p>"<strong>Heheheheh! Yup, nothing to it. Let's roll!</strong>" And they continued on their journey.</p>
+<hr />
+<p>Exiting the tunnel entrance, they saw "An Ardun... Just what we need. Rex, any good with that anchor?"</p>
+<p><img src="images/090_ardun.jpg" alt="Ardun and the new environment" /></p>
+<p>He looked at his anchor for a moment, assertively answered, "<strong>Yeah</strong>, I get by!"</p>
+<p>"Hand that here." He agreed, detached it and gave it to Vandham. "Now watch." He point the anchor at the Ardun's leg; it swirled around, and he pulled, toppling the Ardun.</p>
+<p>"<strong>Awesome!</strong> I never thought of using it that way!" Rex was impressed.</p>
+<p>"The trick is to pull it taut at just the right moment." He then threw it back to Rex, instructed as the Ardun turned its attention to them, "Now you try!"</p>
+<hr />
+<p>After the battle, Vandham praised, "You got it after seeing it once. Not bad, kid."</p>
+<p>"Heheheh!" Felt high from the praise of an adult.</p>
+<p>"<strong>Listen up</strong>, kid. Drivers, use Arts. But that doesn't just mean <em>using the powers your Blade gives you.</em> There are Arts that use your own strength, <em>or take advantage of your enemy's.</em> <strong>There are all sorts. A Driver's</strong> job... <em>is to be smart with his Arts, and <strong>protect</strong> his Blade.</em>"</p>
+<p>"Protect my Blade?" Rex hadn't yet understood. If they could fight better than him, why do they need his protection? Plus, in Dughall's words, if Blades can regenerate, isn't it <em>logical</em> to use them as meat shield?</p>
+<p>"<em>Yeah.</em> It's a two-way thing, kid. <strong>You gotta be aware of the power</strong> comin' out of her. <em>Don't waste it</em>, channel it through your Arts, and protect her. <em>If you can do that, then you're a true Driver, kid.</em>"</p>
+<p>"'A true Driver'? <em>I don't know. Am I ready?</em>" He questioned himself.</p>
+<p>"'Course you are. That thing from before? Took me <strong>five years</strong> to learn that."</p>
+<p>"Five years?!" He was surprised.</p>
+<p>"<em>Yeah. But you saw it once, and then you aced it like it was <strong>nothin'</strong>.</em> And, you got Nia and Tora in tow. <em>Those guys are pretty handy.</em> Kid, <em>you got a bright future.</em>"</p>
+<p>Aww, so sweet that "I think I'm gonna spew," exclaimed Nia.</p>
+<p>Tora: "Biggipon has scary face, but he very nice!"</p>
+<p>"<strong>BWAHAHAHAHAHAH!!! Sussed me out, furrypon!</strong>"</p>
+<hr />
+<p>They'd arrived at their destination. A small Titan was lying beside the cliff walls, dying.</p>
+<p><img src="images/091_dying_titan.jpg" alt="Dying Titan" /></p>
+<p>"Like I thought..."</p>
+<p>"<strong>A Titan?!</strong>" exclaimed Rex. "<strong>So that weird power effect</strong> they clocked... <strong>Maybe this is the cause?</strong>"</p>
+<p>"Yeah, sure looks like it." Vandham agreed.</p>
+<p>Gramps inspected, "I'll hazard it wasn't death by old age, either. Might have been an accident... On the other hand, it might have been attacked..."</p>
+<p>He was right.{{footnote: Actually, not. Just for the sake of causation, we said that. But they had probably nothing link whatsoever. Debunked in the next paragraph.}} The ground shook, and the source of the shockwaves was a giant arachnid with red coral-like veins growing out of its head, stampeding its pillar-like feet as it walked out from behind nowhere to face the group. Beside it was a humanoid bull-shaped face muscular Blade beside the Arachno.{{footnote: The Driver of the Blade is the arachno. Don't ask me why a monster can wield a Blade. Scary thoughts. They're so strong themselves and they can gain more power from their Blades???}}</p>
+<p>Vandham noted, "Hey, look! Seems like this Titan dying off has stirred up something else!"</p>
+<hr />
+<p>After felling the arachno and the Blade, the Blade returned to its Core Crystal; but unlike the Core Crystal that shone crystal blue, this one's dark, emitting no light. Rex noted: "The Blade returned to its core..."</p>
+<p>Pyra: "So that monster was in- resonance with the Blade..."</p>
+<p>Tora felt jealous, "Tora cannot resonate, <em>stinky monster <strong>can</strong> resonate.</em> <strong>Not fair!</strong>"</p>
+<p>"But... Masterpon have Poppi!"</p>
+<p>"<em>Ohhh, Poppi...</em>" So sweet they embraced.</p>
+<p>Vandham brought their attention back to the Core Crystal, "<em>If a Blade loses its Driver, it winds up like this.</em>"</p>
+<p>Rex: "So, is it, like, dead?"</p>
+<p>"Nah! The crystal'll start glowing again after a bit of time. Then a new Driver can resonate with it. But..."</p>
+<p>"There's a but?"</p>
+<p>"<em>Its memory will be totally zapped.</em> It'll be <strong>reborn</strong>, as a new Blade. <strong>Won't remember</strong> a thing."</p>
+<p>"Yeah? That's pretty rough... To have all your past wiped out like that..." Rex agreed.</p>
+<p>Hah. How she wished her memories are wiped out, "But memories can be... painful as well. They can be a terrible burden. And... a Blade- can live forever, as long as the crystal exists. It's just as well. Eternity is a loooong time to collect bad memories."</p>
+<p><img src="images/092_the_background.jpg" alt="Beautiful background" /></p>
+<p>"Pyra..." Is that what she had been holding on to herself for so long, unwilling to yet share with him or anybody else? If the Titan had not triggered her, will not she hold on for longer, refused to voice it out, shouldering all by herself?</p>
+<p>"<em>I'm sorry.</em> I was just thinking, sometimes being able to forget, is a... blessing."</p>
+<p>Vandham urged, turned their attention to the task at hand, "<strong>C'mon! Leeeet's get finished up here!</strong>" He walked up to the Titan alone while the others waited. Blue flames and motes had been evaporating off the Titan, similar to Gramps not so long ago before he metamorphosed and returned to his larval state. Except, this Titan had no ability to metamorphosis like Gramps did.</p>
+<p><img src="images/093_evaporating_titan.jpg" alt="Titan Dying" /></p>
+<p>Vandham returned with a glimmering light blue cubic Core Crystal. Rex exclaimed, "That's..."</p>
+<p>Tora: "<strong>A Core Crystal!</strong>"</p>
+<p>"<strong>What?!!</strong>" Rex was surprised. But how?</p>
+<p>Vandham explained, "Well that's where they come from. <em>Out of Titans.</em> This one's brand new and ready to resonate. <em>Like a big steak, right before you take that first <strong>bite</strong>.</em> It'll probably end up <strong>buddying</strong> up- with a <strong>bunch</strong> of Drivers. <em>Every time the Driver dies</em>, it'll forget everything, and return to its core. <strong>Eventually, it'll resonate with a new</strong> Driver. Drivers dyin', <strong>Titans dyin'</strong>... <em>The Blade- just keeps on livin' through it all...</em> It's a never-ending cycle. An eternal history. <em>As mortals,</em> we'll <strong>never</strong> be able to understand."</p>
+<p>"It's incredible!"</p>
+<p>She's a Blade herself; she can relate. Worse, her previous Driver's long gone, but she had not entered a new cycle. She stood behind him; her current driver don't notice yet. How could he, when he only lived for 12, relate to one living for more than 500? Perhaps she felt herself related to the dying Titan, walked towards it closer while it was evaporating, prayed with closed eyes. Titan, O Titan, may your resurrection in the other World, live a more peaceful life, free of pain.</p>
+<p><img src="images/094_titans_dying.jpg" alt="Titan Dying" /></p>
+<p><img src="images/095_pyra_praying.jpg" alt="Pyra praying for the Titan" /></p>
+<blockquote>
+<p>Meanwhile, in Rex's head, he wondered, "<em>But... Pyra already had a body when we found her... Could her old Driver still be alive somewhere?... Perhaps...</em>"</p>
+</blockquote>
+<hr />
+<p>A long day's work deserves some rest. Back at the camp, Tora was jumping up and punching Poppi's palm held out, training. Nia was combing Dromarch's fur, while Vandham sat with his blade observing Rex and Pyra.</p>
+<p>"Owowowowowo... ah..." Both had cotton balls on the end of a stick on their hand, helping each other cleaning their wounds.</p>
+<p>Pyra: "<strong>Hey</strong>, hold still. I thought you were a <strong>tough</strong> salvager, Rex!"</p>
+<p>"Gimme a break. Pain is pain, isn't it? How about you? Are you hurt?"</p>
+<p>"Don't worry, it's just a scra-..." He 'gently' pushed the cotton ball at her wounds, and she lost her coolness, "<strong>AAARRRGGGGGGHHHHH!!! That was on purpose! You were hurting me on purpose, weren't you? Well?</strong>"</p>
+<p>He shook his heads and hands vibrantly in denial. "<strong>I wasn't, honest! I was just rubbing the lotion in...</strong>"</p>
+<p>She backed away from the incoming cotton ball, cried, "<strong>Rex! You rubbed it too hard! It hurts, see!</strong>"</p>
+<p>And she got her 'revenge' with the 'same' force back at his wounds, "<strong>ARGGGHHHH!!!</strong>"</p>
+<p>Vandham had got up and walked in front of them while they were teasing each other, shouted, "<strong>Hey, you two!</strong>" Their attention jolted back at him, as he instructed, "<strong>Gimme a look</strong> at that." And he loomed close to them.</p>
+<p>They stiffen as he eyed Pyra's wounds, then Rex's. To and fro a few times confirmed his hypotheses. He can't believe what he saw, "<em>What, is this?</em> Haven't seen this before. Dunno why a Blade would be stuck... with a bunch of wounds... <em>And they're exactly the same as Rex's!</em>"</p>
+<p><img src="images/096_innocent_looking.jpg" alt="Innocently looking at each other" /></p>
+<p>The two hadn't thought about that before, eyed each other innocently, and so the storytelling continued.</p>
+<hr />
+<p>With all others, including Yew and Zuo, around them, Vandham exclaimed, "Incredible. Never heard of such a thing."</p>
+<p>"It's all true." The X crystal in his heart shone the most brightly.</p>
+<p>"I just thought <em>it was an accessory.</em>"</p>
+<p>"Vandham, that's not my style."</p>
+<p>"<strong>Blades are supposed to heal up</strong> right away, no matter what the wound. <em>If the crystal's in one piece and the Driver's alive, nothing can touch 'em.</em> So why's she all bashed up?"</p>
+<p>"That's just how the chips fell. It is what it is." He took it for granted, assuming it's something to do with the Aegis special entity.</p>
+<p>"What it is, <em>is a problem.</em> It means if one of you kicks the <strong>bucket</strong>, you both do."</p>
+<p>"You told me that a good Driver, <strong>always</strong> protects his Blade. So that's what I'll do. I'm gonna protect her."</p>
+<p>"<em>Eaaasier said than done, kid.</em>"</p>
+<p>"Listen... Pyra... <em>She saved my life, brought me back from the dead.</em> So I won't die again! I've got to live, for her sake! Until we... get to Elysium, at least. We can make it together."</p>
+<p>"Rex, you mean..."</p>
+<p>"Going to Elysium? I can't let that stand." Whose voice was that? Vandham turned around and saw strangers in his village. "It. Won't. Do. <em>A bunch of amateurs stealing the show?</em> The <strong>script</strong> exists for a <strong>reason</strong>!"</p>
+<p>"Akhos!" exclaimed Nia.</p>
+<p>"Please <em>speak only when you're spoken to, <strong>traitor</strong>.</em>"</p>
+<p>Obrona chimed, "<strong>Traitor traitor TRAITOR!!! Nia, you're one of the baddies now. You villain! Teehehehe!</strong>"</p>
+<p>"<strong>I didn't betray <em>anyone</em>!</strong>"</p>
+<p>Akhos: "Then why do you stand with them? You think that is where you <em>belong</em>?"</p>
+<p>"B-b-but I-I..."</p>
+<p>Vandham was angry, "Hmph! Who are these <strong>goons</strong>?"</p>
+<p>Rex explained, "Torna. They're <strong>trying</strong> to get their hands on Pyra."</p>
+<p>That enraged him further, "<strong>TORNAAAA!!!</strong>"</p>
+<p>Nia: "<strong>Akhos! Just, tell us, what you're here for!</strong>"</p>
+<p>"Well, the Aegis, of course. I just had to come and see the leading lady with my own eyes."</p>
+<p>"Jin put you up to this?"</p>
+<p>"Well deduced. <strong>Oh</strong>, by the way... His orders were to deal with you <em>in whatever manner I see fit. So... you know what that means.</em>"</p>
+<p>"<em>He wouldn't...</em> <strong>You're lying!</strong>"</p>
+<p>"<strong>Why the surprise? Did</strong> you think he would still <em>care about you?</em> <strong>Ohhh</strong>, to live in your <em>reality</em>..."</p>
+<p>"Angh!{{footnote: Like a cat non-meow crying out.}}"</p>
+<p>"Well well. Your <strong>part</strong> in this <strong>play</strong> is <em>coming to an end.</em> So! <em>Time for you to shuffle off the stage.</em>"</p>
+<p>"<strong>HRRRRRNNNGGGHHHH!!!</strong>" How dare he treated this place as his home. He's not welcomed here, enraged Vandham even further.</p>
+<p>Rex asked, "What's wrong?"</p>
+<p>"I know the name Torna. They've taken the lives of too many Drivers. Including some of <strong>my</strong> crew. Good people. <em>Rumor says it's because they're collecting Core Crystals. So... if this Akhos is one of them.</em> <strong>Yew! Zuo! Get everyone out of the village!</strong>"</p>
+<p>"<strong>Yes, sir!</strong>" both chanted.</p>
+<p>"<strong>You ready?</strong>"</p>
+<p>Rex: "<strong>Ready.</strong>" And they had to fend them off before the others get to safety.</p>
+<p>Pyra: "Got it."</p>
+<p>Nia: "<em>Thanks for this.</em>"</p>
+<p>Rex: "<strong>No problem.</strong>"</p>
+<p>"It'll be tough. His Blade, Obrona... <em>She can manipulate the ether in the air. It lets him counter elemental attacks by generating <strong>fields</strong> of the opposing elements!</em>"</p>
+<p>Vandham: "<strong>Finally</strong>, a decent opponent for a change! <strong>Let's go!</strong>" And the battle began.</p>
+<hr />
+<p>Halfway through the fight, Akhos was excited, "<strong>Such an honor! Sharing a stage with the legendary, AEGIS!</strong>"</p>
+<p>He dashed forward quick, slashed Pyra's torso. "<strong>ARRRRGHHHH!!!</strong>" as she bashed against the rocky walls, hurting him as well.</p>
+<p>"Ugh!"</p>
+<p>Akhos noticed, felt confused, "<em>Huh? Why would the Driver...</em>"</p>
+<p>Obrona noticed, "It seems... that they're taking each other's damage, somehow." The red particles filled the vicinity, controlling the ether. That observation excited Akhos more. He deduced,</p>
+<p><img src="images/097_obrona_releasing_red_particles.jpg" alt="Obrona releasing red particles" /></p>
+<p>"<em>Ahhh... So that means that the Aegis... Is a mere mortal right now...</em>" She clung to her pain, struggled to stand. But she could not yet fall, lest the enemy took her away. Step by step, he aimed at her, "In that case, a little more damage, and she'll be <strong>easy to deal with!</strong>"</p>
+<p>He ran towards her; she reacted quickly, dodged a thrust that ended deep into the rocks behind her. Against the rock he slashed, as if it were made of tofu, running after her despite all the frictions. "<strong>Hah!</strong>" She dodged once more, but he went back for her. Her body wasn't listening to her commands; she could not dodge the next slashes.</p>
+<p>"Ungh!" Straight at her, an X cut. "<strong>ARRRRGGGGHHHHH!!!</strong>" And she temporarily went unconscious, fell to the ground.</p>
+<p>"<strong>Pyra!</strong> Ungh!" He tried to went after her, but felt a jolt in his chest, dropped and knocked his head on the ground. Akhos clashed his dual swords together, sharpening them, and desired to finish her. The slash was blocked by a growing shield, which grew into huge winds and pushed him back.</p>
+<p>"Hngh!"</p>
+<p>"Kids these days, I swear! Can't leave you alone for a minute!" Vandham entered the scene.</p>
+<p>Rex: "<strong>Could use a hand!</strong>"</p>
+<p>"Leave it to me. I'll take this dog <strong>down</strong>!" And he launched a sandstorm at Akhos and Obrona.</p>
+<p>"Hngh!" Akhos easily sliced the sandstorm to nothingness. He saw Vandham threw his dual scythe up into the air, which Roc caught, swirled, and launched a giant sandstorm tornado at the two.</p>
+<p>"Ugh!"</p>
+<p>Obrona: "<strong>UAAHHHHHHHHH!!! What's happening?!</strong>" The swirling was so strong she started swirling with the tornado. Her red particles had dissipated to nothingness.</p>
+<p>Akhos was even more surprised, "What? <strong>The ether flow's disturbed!</strong> Grh! How am I supposed to deflect <strong>now?!</strong>"</p>
+<p>Vandham: "You and your fancy moves. You lack- grit." No deflecting, he aimed to attack him face to face. Passing through the sandstorm, he did not see Dromarch biting Nia's ring in his mouth poached, sliced at him just after he exited the sandstorm.</p>
+<p>With a handsome roll and getting back on the ground, Obrona joined him, he complaint, "Huh... Just too many of these bit-players..." All had been facing him alone. It's time to leave. "<strong>My interest has waned. Obrona! Perhaps its time for another tale.</strong>"</p>
+<p>"Meeerggghhh... Sure, sure." And they escaped.</p>
+<p>"Tch." Vandham was unwilling to let him go, but he could not easily fell him; plus, they had burdens with them. Nia, on the other hand, had more time thinking about Akhos's words from  Jin, now that the battle's over and it took over her mind. Dromarch sensed her sadness, didn't disturb her.</p>
+<p>Pyra temporarily regained consciousness, lumped forward, seeing everything around as stars and blurry, one step by another, like a dehydrated person in a desert whom cannot find water. She fainted a few steps later, the sound of her dropping to the ground alerted Rex, and she ran for her, "<strong>Pyra!</strong>" embracing her within his arms, "<strong>Pyra! Pyra!</strong>"</p>
+<p><img src="images/098_pyra_fainted.jpg" alt="Pyra fainted" /></p>
+<hr />
+<p>No sign of her waking up. They'd brought her back to her bed, and his team gathered around, looking after her. He was on the alleyway outside the room{{footnote: Enter the alleyway through a door from the outside, and the alleyway had access to rooms.}}, looking afar, turning around and walked over to Vandham waiting inside the door.</p>
+<p>"How is she?"</p>
+<p>"She's not badly hurt. Dromarch... thinks she just needs rest."</p>
+<p>"That's good to hear."</p>
+<p>He blamed himself, "<em>Maybe... I used too much power again...</em>"</p>
+<p>"<em>Hey, Rex...</em>"</p>
+<p>"Hmm?"</p>
+<p>"Know what the difference is... between me and the Akhos fella?"</p>
+<p>"Well, he's a bad guy, trying to get Pyra... <em>and you're</em>... not?"</p>
+<p>"<strong>Hahahah!!!</strong> Thanks for the vote of confidence, kid. <em>What if I told you... that we weren't that different?</em>"</p>
+<p>"Huh?"</p>
+<p>"My crew at the village, <strong>we think</strong> we're fighting for <strong>justice</strong>. <em>But a just fight? I'm tellin' you now, there's no such <strong>thing</strong>.</em> What people call justice? It's just <strong>an excuse</strong> to fight. <strong>War</strong> is war. The more you stand up for yourself, <em>the more people wanna fight you. Before you know it, you're in a war...</em> Listen. <em>All I'm saying is</em>, we got our fight, and he's go this."</p>
+<p>He can't put himself in Akhos's shoes, nor view Vandham the same as Akhos, rebutted, "But what he's doing is-"</p>
+<p>"<em>Yeah, it's bad. But war ain't about right and wrong. Power. That's all it is.</em> And power can take many different forms. <em>It depends on the heart of its wielder.</em> If we don't use our power, just 'cos we're scared of it, we're <strong>done for.</strong> <em>As for who's right... and who's wrong...</em> No one knows for sure. <em>So</em>, all we can do, is <strong>protect</strong>... what's important."</p>
+<p>"I think I understand." He turned around and looked through the door where Pyra laid.</p>
+<p>"<strong>We all got our own war, kid.</strong>"</p>
+<p>"My... war?" The seeds had been planted, though it needs time to germinate. He may not yet understand, but it won't be long. The roads they walked were the water and nutrients cultivating the seed. Only in continuing the walk can he understand, what does she means for him, and he for her.</p>
+<hr />
+<p>"<strong>Good morning!</strong>" Pyra walked into the boys' tent with Nia and Poppi.</p>
+<p>Rex was overwhelmed, "<strong>Pyra! Feeling better?</strong>"</p>
+<p>"<strong>Yeah</strong>! I slept- <strong>so</strong> much!"</p>
+<p>"Good. Glad to hear."</p>
+<p>"Also... Nia's got something to talk to you about."</p>
+<p>"She does?"</p>
+<p>"Yeah. Go ahead, Nia."</p>
+<p>"Ah, erm..." In front of so many people? She felt shy. "I... Rex... I-I-I want you to come help me."</p>
+<p>"Ermmmm, come where?"</p>
+<p>"To Vandham. I need to tell him about... my past with Akhos and all that lot."</p>
+<p>"Ah, <strong>sure</strong>! If you'd like me to, <strong>I will!</strong>"</p>
+<p>"Thanks!"</p>
+<p>Pyra shared, "Nia... originally said, she was going to go alone. But I said- maybe it'd be better- if you went along too."</p>
+<p>"Er... Maybe I should explain... Vandham... <em>He... kind of scares me a bit...</em>"</p>
+<p>"<strong>Hahah! I get it!</strong>"</p>
+<hr />
+<p>Vandham was at the training ground overlooking the new recruits training when everyone approached. He shouted out, "<strong>Oh, it's you guys? What got you out of bed</strong> so early?"</p>
+<p>Rex urged, "Nia?"</p>
+<p>She walked forward and took the stage, "Thanks for yesterday. You saved our skins. That guy, A-Akhos, I mean... I wanted to tell you about him... you see... <strong>Thing is, we used to be...</strong>"</p>
+<p>He cut her off, "Being a mercenary, you meet all kindsa different folks."</p>
+<p>"Huh?"</p>
+<p>"<em>Your country, family, money</em>... People got plenty of reasons to fight. <em>Like fightin' for a special girl.</em> I see that a lot. <em>Though not every girl has a strange crystal in her chest, eh?</em>"</p>
+<p>Rex stuttered, "Y-y-you mean Pyra? W-we're just..."</p>
+<p>Vandham assured, "Nia, <em>you're with these guys right now.</em> <strong><em>That's what matters.</em></strong>"</p>
+<p>"<strong>But... aren't you...</strong>" Feeling so confused. She came to share her story, to find his apology; but found out he'd apologized her for being a member of Torna before she had the chance to explain.</p>
+<p>Vandham changed the topic, "<strong>Anyway. Rex, weren't you saying you wanted</strong> to get to Elysium?"</p>
+<p>"Yeah... But, we hit a snag... With a monster like that in the way, it's impossible. No Guild ship's getting close to it- without going down."</p>
+<p>"Well, I've got an old mate. In the Urayan capital. Got a feeling he might know a way through."</p>
+<p>"<strong>Really?!!</strong>"</p>
+<p>"<strong>Yeah!</strong> I gotta go there anyhow. So I could introduce you."</p>
+<p>"<strong>Vandham! Thank you!</strong>"</p>
+<p>"Nah! <strong>It's destiny</strong> or something. Don't sweat it. <strong>Get your stuff together,</strong> and meet me by the village entrance." And he walked away.</p>
+<hr />
+<p>At the village entrance, the group and Vandham met Yew and Zuo, biding farewell. Vandham: "Time to head out. <strong>Yew! Zuo!</strong> Take care of this place, yeah?"</p>
+<p>"Nae worries. Leave it to us, Boss!"</p>
+<p>"<strong>Boss. You're in a good mood, somehow!</strong>"</p>
+<p>"<strong>Eheheheh!!</strong> I guess so. Well, take care!" And they took off, with Yew and Zuo watching them off.</p>
+<p>Unbeknownst to them, behind the rocks outside the entrance hid 2 people also silently following them. Hoods over their head, one buff muscular guy strapped the weapon behind him; presumably he's a Driver. The other green hair, wearing huge glasses, presumably his Blade. They silently trailed behind.</p>
+<p><img src="images/099_eavesdropping_two.jpg" alt="The overwatching two" /></p>
+<hr />
+<p>Going to the other side, a Titan ship was flying above the Cloud Sea. Emergency alarms blared as the ship was unstable, tilting to its side, on the verge of shipwreck. Soldiers gathered from all chambers and laid out their defense; but Jin sliced through them all without a second chance. Every step he walked, at least one soldier will go down, paving a path of meat. So quickly his sword sliced through each of them they didn't feel their flesh cut into pieces. The Blades had not yet reacted, returned to their Core Crystals as their driver dies without a chance.</p>
+<p>He arrived at the door which he came for. Multiple slices cut it into pieces; he entered and saw all the crystals, rows upon rows, cabinets upon cabinets. A few moments later, the whole Titan ship explode, went down, and plunged straight into the ocean, never to be heard again.</p>
+<p><img src="images/100_jin_and_core_crystals.jpg" alt="Jin and the room full of Core Crystals" /></p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="07_a_ship.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="09_journey_to_capital.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="07_a_ship.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="09_journey_to_capital.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

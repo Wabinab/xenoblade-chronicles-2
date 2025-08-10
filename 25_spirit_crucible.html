@@ -1,0 +1,555 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Spirit Crucible Elpys, &quot;I love you too, Nia!&quot; - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="spirit-crucible-elpys-i-love-you-too-nia"><a class="header" href="#spirit-crucible-elpys-i-love-you-too-nia">Spirit Crucible Elpys, "I love you too, Nia!"</a></h1>
+<p>The group, on medium alert, was quietly traversing the tunnels thud sound attracted them. They turned around and saw Dromarch collapsed. Nia wondered, "Dromarch! What're you stumbling for?"</p>
+<p>"Sorry, my lady. I've been feeling... a little dizzy..." He effortfully sat up.</p>
+<p>"You too?"</p>
+<p>"<strong>You</strong> too, Lady Brighid?"</p>
+<p>"Yes, for a little while now. Though I'm still capable of standing."</p>
+<p>"Hey, same here!" Pandoria joined in, rubbing her hands on her shoulders, "What's up with this place? <em>It's kinda</em> creepy."</p>
+<p>"What is going on here?" Mòrag wondered.</p>
+<p>"I feared as much..."</p>
+<p>"<strong>Gramps! You knew</strong> this would happen?"</p>
+<p>"The tales say that Spirit Crucible Elpys- saps the strength- of Blades. It's- one of the reasons- why none- have ever returned- from its depths."</p>
+<p>Zeke: "I say..."</p>
+<p>Poppi analyzed her meter readings, "Ether flow scarce in this area. <strong>That</strong> may be cause of problems."</p>
+<p>"Like that time in the Tantalese palace?" Nia compared.</p>
+<p>"That not only thing. Glowing particles in air... <strong>They absorb ether!</strong> That is source of light."</p>
+<p>Zeke concluded, "So not only do you have less <strong>power</strong>, the power you <strong>DO</strong> have is being <strong>absorbed</strong>? Well, that's jolly tragic."</p>
+<p>"You all right, Poppi?" Nia wondered.</p>
+<p>"<strong>Poppi just fine! Poppi never better!</strong>"</p>
+<p>"Of course, you're an <strong>artificial</strong> Blade, ain'tcha?"</p>
+<hr />
+<p>Diving deeper into the tunnel, they stood on an ancient-looking platform, an interlude cave between 2 tunnels. The tunnel ahead was across a hanging bridge. Rex exclaimed, "We have to cross that?"</p>
+<p>"Yes. But we must- proceed with caution. Once we enter, the Blades will be sapped- of most of their power. If they- run out of energy, they might be forced- to return to their- core state. And there's a chance they could never be reawakened."</p>
+<p>"<strong>Pandy, you'd better just stay here</strong> and guard the fort." Zeke strongly urged.</p>
+<p>She started panicking, "<strong>Why just me? Don't you want me?</strong>"</p>
+<p>"<strong>Don't ask dumb questions. You know very well why</strong>, don't you?"</p>
+<p>But she won't abide, "<strong>If I'm staying, you ought to stay-</strong>"</p>
+<p>"<strong>I'll be fine! When am I</strong>- ever not?" Yet the tone of his voice wasn't as confident.</p>
+<p>"<strong>If you're going, I-</strong>"</p>
+<p>"<strong>I'M ORDERING YOU TO STAY HERE!</strong>"</p>
+<p>Mòrag and the others hand been listening for a while now, she wondered, "Is there something- wrong?"</p>
+<p>Zeke refused to explain, concluded, "Pan-doria was just agreeing to stay behind."</p>
+<p>"<strong>Nuh-uh! I'm going WITH you!</strong> We made a promise, didn't we?! Don't you dare say you've forgotten!"</p>
+<p>"Urgh!"</p>
+<p>"<strong>I go where you go. End. Of. Story.</strong>"</p>
+<p>Reluctantly, "Fine!"</p>
+<p>On the other side, "My lady."</p>
+<p>"I'm fine. We <em>can't</em> give up now we've come this far. (Before Dromarch could say anything, she snapped) <strong>Don't!</strong> I <em>know</em> what you're gonna say."</p>
+<p>"I... <em>Understood.</em>"</p>
+<p>Mòrag commented, "I don't know what's in there, but, apart from Tora and Poppi, we're all going to find our abilities severely weakened. Be careful, Rex."</p>
+<p>Zeke added, "Yes... <strong>Healing Arts are going to be less effective,</strong> too. <strong>One nasty wound</strong> and that'll be the end of you."</p>
+<p>"<strong>Yeah, I get that. Tora, Poppi, we'll need you</strong>- on the front line."</p>
+<p>"<strong>You got it, Rex-Rex!</strong> Poppi is <strong>artificial</strong> Blade, so <strong>request</strong> is <strong>very extremely not a problem! Technology save the day! Three cheers for Nopon know-how!</strong>" He punched his wings high into the air while doing the Nopon dance.</p>
+<p>"Where are Poppi's cheers?" she too wanted her artificial Blade dance.</p>
+<p>At least that cheered him up, "Hahahah! Thanks, guys!"</p>
+<hr />
+<p>As they dived deeper and deeper, Pandoria stopped and crossed her arms across, rubbing herself. Her anomaly did not go unnoticed, and Mòrag was exploratorily asking, "Are you... all right?"</p>
+<p>She tried holding herself together, trying to act normal, but her voice betrayed her, "Never... better! I'm... right as... rain!"</p>
+<p>She strongly encouraged, "The deeper we go, the thicker these particles get. You can still turn back."</p>
+<p>"Thanks. Your concern is touching."</p>
+<p>Zeke urged, "Worry about yourself, yeah? <strong>I can</strong>- look after her."</p>
+<p>Rex observed, "Zeke, you don't look so good yourself. Is something wrong?"</p>
+<p>"Huh? Oh, yeah... I didn't think it was worth mentioning, but uh..." He untied the upper buttons on his shirt and showed his left chest. An isosceles triangle-shaped crystal rotated to the left 90° was implanted on his chest. If you notice closely, it fits into the missing triangle pieces on Pandoria's rectangular core.</p>
+<p><img src="images/271_blade_eater.jpg" alt="Blade eating" /></p>
+<p>"How did you get that?"</p>
+<p>"I- told you about the time I almost- bloody died, right?"</p>
+<blockquote>
+<p>"<strong>My Prince! Zeke! Not like this! Not here! Not far now! Just a little further! You can do it!</strong>" Pandoria cried out loud. The CPR she's doing to him wasn't resuscitating him, but what else could she do?</p>
+<p>He breathed in less than breathing out, "<em>Just... leave me... Go on... without me...</em>"</p>
+<p>"<strong>No!</strong>" She pumped harder and faster. "<strong>If you die, ungh, I'll turn back into a Core Crystal! I don't want to forget everything!</strong>"</p>
+<p>"<em>Pandy... I'm sorry... I hope... your next Driver... is better... than me...</em>"</p>
+<p>"<strong>I don't WANT another Driver! You're... you're good enough!</strong>" His hand that held on her collapsed on his torso. "Prince! <strong>ZEKE!</strong>" Her CPR had failed her Prince.</p>
+<hr />
+<p>Her vision was blurry. Every step seems to plunge into the soil below. But she walked on, "I <strong>refuse</strong> to forget our 10 years together! It's <strong>not</strong> going to happen! I'm not... letting you die... <em>here...</em>"</p>
+<p>Till she reached her limit and his weight overburdened her, and they collapsed. She thought she saw stars. She thought tinnitus occupied her ears. She thought she saw figures. She thought she heard footsteps. Sure, some silhouette walking towards them from her left.  "<em>Uh... Wha... Bandits?</em>"</p>
+<p>The soldiers carrying swords formed an alley for Amalthus to walked in between towards them. "<em>Sucks... I don't want to be a bandit's Blade... But... I guess I won't- remember... anyway... Prince...</em>" Darkness overtook her vision with Amalthus's face occupied her final impression.</p>
+<hr />
+<p>"<strong>Prince?</strong>" She looked around. White fluffy bed, white walls. These decorations looked so familiar, but she had not the attention to care. She scanned for the figure that occupied her mind till her last stage, and found him laid unconscious on the bed to her right. She walked over to check him out.</p>
+<p>"Fear not. He is going to be fine." assured Amalthus, walking into the room.</p>
+<p>"You... you saved him?"</p>
+<p>"The fact that you're alive... is <strong>proof of that</strong>, is it not?"</p>
+<p>"Urgh!" Now that she had time to think otherwise, she felt a searing pain in her chest. She looked down and saw a dent in her rectangular core, missing a piece.</p>
+<p>Amalthus explained, "I had to transplant... part of your Core Crystal into his heart. His wounds were grave. It was the only way... to save you both."</p>
+<p>Pandoria turned to look at her prince. She willingly accept their fate.</p>
+<hr />
+<p>Zeke walked out of the Praetorium with Pandoria trailing behind. A few soldiers at the edge of the square watched the inhabitants play and gathered around the center. He stopped and looked at them, but his mind wasn't on them, "<em>I'm sorry. It's all my fault.</em>"</p>
+<p>She shook her head. exclaimed excitedly, "Actually, I'm glad!"</p>
+<p>"<em>What?</em> Why?"</p>
+<p>"Knowing that a part of me is keeping you alive... I dunno, it's just nice."</p>
+<p>"<em>Pandy...</em>" No smile on his face, only thin sorrow.</p>
+<p>"What is it?"</p>
+<p>He looked away and spoke something to her; she beamed with contentment after listening.</p>
+</blockquote>
+<p>Rex was surprised, "They do <strong>that</strong>, in Indol?"</p>
+<p>"I guess you and I are more alike than you thought, chum. Though, mine was- <em>just a</em>- surgical procedure."</p>
+<p>Mòrag: "You make it sound so simple. I'm still trying to wrap my head around it."</p>
+<p>"You know the people of Indol- can trace their roots back to Judicium?"</p>
+<p>Nia: "Ju-dicium? The creators of that Titan weapon thing from Temperantia?"</p>
+<p>"Yeah, them. They carried out experiments, fusing Blade and- human cells, <em>creating- Flesh Eaters.</em>"</p>
+<p>Mòrag: "So... those practices <strong>persist</strong>- in Indol?"{{footnote: She was not there when Cole was with them.}}</p>
+<p>"Hey, so they took advantage of Blade regeneration... and <strong>patched</strong> me up with- Pandy's Core Crystal, right? Since I have part of her core in me... <strong>I'm a Flesh- no, a Blade Eater!</strong> Or something! Huhuhuhuh!"</p>
+<p>"A Blade Eater..." Nia wondered, touching her chest. Was she that different? It occupied her attention so fully she hadn't had the attention to join the dots!</p>
+<p>Pandoria agreed, "That's right. <em>That's gotta be why this place is getting to you, too...</em>"</p>
+<p>Zeke tried to rough it out, "<em>It's... all good. Let's just- <strong>push on!</strong></em>" And they lead the way. The others didn't say anything. Nia stayed back for a little; we know not what she was thinking.</p>
+<hr />
+<p>There was a wall with torches{{footnote: Why does an ether lamp surrounded by ether-drawing particles still have ether to lit it? One don't know!}} installed on it blocking their way. Nia's breathe was shallow, and she kept touching her chest, feeling her losing strength.</p>
+<p>"My lady?"</p>
+<p>She impatiently puffed out, "For the last time, I'm fine. Why don't you just worry about yourself?"</p>
+<p>"But..."</p>
+<p>"You gotta admire Shellhead over there. He just put it right out there."</p>
+<p>"Mm?"</p>
+<p>"And here I am..." She had thought for it very long, but only now did she made her decision, "<em>Dromarch.</em> I'm gonna put myself to the test. <strong>Right here</strong>. I've decided."</p>
+<p>"<strong>My lady...</strong> (But her eyes was unwavering, and he could see no way of convincing her otherwise). <em>Very well.</em>"</p>
+<p>There was an evaporating current near the wall. Gramps exclaimed, "This mist- makes me feel like I'm- swimming through the Cloud Sea."</p>
+<p>Mòrag explained, "This mist is produced when a fossilized- Titan body reacts with the atmosphere. It's why it's so hard to breathe down here."</p>
+<p>Rex turned around, scanning the group, when he saw Nia clutching to her chest. He walked up to her, asked, "Nia?"</p>
+<p>She took a while to breathe heavily, effetely whined, "<em>What now?</em>"</p>
+<p>"Are you in pain?"</p>
+<p>Why is everyone asking me this? She impatiently shot out, "<strong>I'm strugglin' to breathe</strong> like everyone else! And I'm a little dizzy, that's all."</p>
+<p>He didn't think much, nor did he try harder to read her, immediately lectured, "<strong>Oh, right! When that happens</strong>, it's best to just try and <strong>empty your head</strong> of all thoughts."</p>
+<p>"<em>What?</em>"</p>
+<p>"<strong>It's an old salvager trick.</strong> When you swim down deep, you feel like your head's gonna implode. <strong>You just go with it! Don't fight it!</strong> Then you stop noticing the pressure. Why not give it a go?" He urged.</p>
+<p>"Empty my head, eh? (Despite feeling effete, she teased) You mean... I have to start acting as daft as you? Tall order."</p>
+<p>"<strong>Hey! That's not very nice!</strong>"</p>
+<p>"<strong>Everyone! OVER HERE!!!</strong>" Tora called for their attention. "<strong>Tora think THIS way lead down.</strong>" There was a small hole 1.5 meters tall that goes deeper in.</p>
+<p>"It certainly doesn't look like a natural formation." observed Brighid.</p>
+<p>"Maybe it was grave robbers?" hypothesized Zeke.</p>
+<p>Gramps: "There's not too much worth stealing round here. Well, apart from..."</p>
+<p>Rex finished, "Whatever it was that Addam hid down here."</p>
+<p>"Just a guess. It's- possible- that Jin- and his accomplices- have been here."</p>
+<p>Pretty much explain it, Rex thought. "Then, they found out about the sunken ship, and went to Argentum."</p>
+<p>"Still just a guess, but a pretty good one."</p>
+<p>Disappoint Nia. "Then- there won't be anything left to find, will there? Sheesh."</p>
+<p>"<strong>Well, if that was the case</strong>, then you'd expect them to already have the third sword."</p>
+<p>Mòrag noted: "But... <em>they clearly don't have it.</em>" Gramps agreed.</p>
+<p>"No, I do not think Addam- would let the sword- be so easily found."</p>
+<p>Rex urged: "No point in worrying. Let's just press on!"</p>
+<hr />
+<p>Thick mucus covered the side walls, like spider webs. The deeper they walk, the weaker Nia felt, her breathe becoming more shallow. Mòrag took her attention to check on her once in a while, sensing that she's reaching her limit, called out, "Rex." He stopped and turned around, "<em>We've come a long way. I think it's time for a break.</em>"</p>
+<p>"<strong>What? But-</strong>"</p>
+<p>"Hold your horses. There's a long way to go yet." Zeke, whom had been keeping at it for long, agreed with Mòrag, effetely interrupted him and sat down. Ahhhh, the relaxation! Then he called out, mocked, "<em>Hey, you too, Nia. Come rest your head on my lap if you like.</em>"</p>
+<p>"Why don't you rest your head in your arse?" And she sat down where she stood.</p>
+<p>"<strong>I'm sorry</strong>, everyone. <strong>I had</strong> no idea."</p>
+<p>Mòrag: "There is no need to apologize. <em>I understand.</em>"</p>
+<p>Tora: "Poppi, now is good time to cool drive furnace!"</p>
+<p>"Aye-aye Masterpon!" She immediately raised her hands into the air and started rotating without a second thought, releasing steam from under her feet, giving Tora the pleasure of a bone-softening sauna.</p>
+<p>"<strong>MEEEEEHMEHMEHMEH!!!! HOTHOTHOTHOT!!! MEEEHMEH!!! HOT! HOT!</strong>"</p>
+<p>Maybe she did it on purpose? Maybe she did it to cheer the group up? Or maybe she just don't realize it? She stopped immediately, and innocently said, "Masterpon! <em>Poppi is sorry!</em>"</p>
+<hr />
+<p>They sat around in a circle. Brighid can still stand. All were too exhausted to have any conversations. Rex just came back from area scouting, approached Nia whom were hugging her feet together. "Huh?"</p>
+<p>He handed her an oxygen tank, introduced, "Emergency air. It might help."</p>
+<p>"Oh, thanks." She took it, found the only button to press, and put the cone over her nose and mouth.</p>
+<p>"Ah, not like that! You have to hold your nose, and then inhale- really deeply. Now stretch out, and puff out your chest."</p>
+<p>"<em>Is this... another of your salvager tricks?</em>"</p>
+<p>"Go on, just try it!" He urged. She therefore pinched her nose and put it over her mouth, following his instructions.</p>
+<p>"Wow, that really did the trick." Her eyes lightened, her voice immediately became more energetic.</p>
+<p>"Right?" He sat down next to her, "When I was starting out, this was one of the <strong>first things</strong> the other salvagers taught me. <strong>Even though</strong> they acted like my parents, they <strong>never really</strong> taught me anything worthwhile. I <strong>did manage</strong> to pick up- a couple of useful tricks, though."</p>
+<p>"Parents, <em>bleeeeeh.</em> My da was real enough, but... I can't- say he really taught me anything either. He was a well-known lord in Gormott. A reaaaaal biggggg cheese. He made me study hard, <em>but it was all- how to be a proper lady. Which- fork- to use.</em> Nothing that's doing me any good now. Just useless shite."</p>
+<p>His eyes widened, "You were some kinda high society princess? I can't picture it."</p>
+<p>"Shut it, you... I hated studying. (She turned to look at the top of the ceiling). <strong>But</strong>, looking back... Those were the happiest times of my life. There was my da... And... My big sis! The three of us."</p>
+<p>"You had a sister?"</p>
+<p>"Yeah. She was very frail. I spent a lot of time at her bedside. My da brought doctors from all over to try and help her. He tried- <em>so hard.</em> It was <strong>all</strong> he thought about. After that point... my memories <em>aren't so happy.</em>"</p>
+<p>"Nia..." He could sense the heaviness in those last few words. She must've tried very hard to say it calmly, devoid from immersing herself in her emotions.</p>
+<p>"Da- spent all his money on chasing a cure, and- lost his position as a lord. From then on, we became drifters."</p>
+<p>"<em>Whooh...</em>"</p>
+<p>"It was a tough life. It- <em>took its toll on my sister.</em> She died, not- long after." She tried suppressing her tears. "<strong>Anyway</strong>, I'm sorry for talking your ear off." And she took another breathe from the oxygen tank, hoping that squeezing her nose would snuff out her tears. "<strong>Thanks</strong> for the salvager trick. It <strong>really</strong> worked. <em>Sneaky git.</em> <strong>If you had this all along, why did you hold out on me?</strong>"</p>
+<p>The sorrows behind the smile, she may try hiding, or just brush it away. He let her be, let her express her feelings. She stood wobbly, shook her feet, stretched her arms and body, said, "I feel much better. Shall we go, Rex?" She lead the way, the others followed. He stayed back a little, thought, despite being partners for so long, he still had a lot to learn about her.</p>
+<hr />
+<p>Spiky-ice criss-crossed in front of them blocked the entrance. Mòrag: "Hmph. Looks like the only way through, is by force."</p>
+<p>Tora ordered, "<strong>Poppi, incendiary barrage!</strong>"</p>
+<p>"Roger roger!"</p>
+<p>Zeke's heart rate tripled on the instance, his voice raised 3 octaves with each word spoken, squawked like a duck, "Whoa <strong>stop stop stop!!! You wanna</strong> bring the whole <strong>cave- down- on top of us?</strong>"</p>
+<p>Tora turned to face him, calmly said, "It was joke."</p>
+<p>She added, "Poppi has <em>no such weaponry.</em>" Rex looked at them with distrustful eyes.</p>
+<p>"<em>That. Wasn't. Funny.</em>" Zeke seriously said.</p>
+<p>Then, the ground started shaking and Rex's core crystal shone brightly. The ice started retreating to behind the mucus, opening up the tunnel. Mòrag came up beside him, wondered, "Does- this <em>also</em> have something to do with your connection to the Aegis?"</p>
+<p>"No idea! <strong>But look! No footprints.</strong> <em>We're the first people here.</em>"</p>
+<p>"Then there could <em>still</em>- be- hope." Zeke concluded. He and Pandoria lead the way. Nia stayed on for a very short while, still struggling with her internal voices, before catching up.</p>
+<hr />
+<p>They were heading to a brick-made bridge without fences. Her symptoms weren't getting better. The more she walked, the weaker she felt. Step by step, she slumped forward. The only reason she kept moving is wishing not to be left behind, to not fail her friends. She could see the rectangular tunnel up ahead, but everything was blurring, getting darker, and a voice from deep memory filled her head.</p>
+<p>"<em>Her life- is tied to yours.</em>"</p>
+<blockquote>
+<p>In a pitch black room, the lens focused on the setting sun behind the silhouette of the leaves. A tall, buff, silhouette figure stood beside the window, said, "<em>You have... a life within you now...</em>"</p>
+<p>A girl with Nia's face lifelessly sleeping inside the coffin. "<em>A life?</em>" She, or someone else with Nia's voice, wondered.</p>
+<p>"She lives on- inside you... Her life- is tied to yours..." After a bright light engulfing the room and died down, he continued, "Nia. Say it for me now. Address me as...'Father'."{{footnote: Not sure who those long, tall ears belonged to.}}</p>
+<p>"<em>Yes... Father...</em>"</p>
+<hr />
+<p>Nia was curling up beside the table with only an ether lamp on it, crying. "<em>Father... Father...</em>" She cried and cried and cried, arms wrapped around her legs. When she looked up to her left, all she could see is the Core Crystal.</p>
+<p><img src="images/272_core_crystal.jpg" alt="The Core Crystal" /></p>
+<p>"<em>This... this was Da's...</em>" She stood up and took it in her hand, resonated with it, and Dromarch came to life.</p>
+</blockquote>
+<p>"<strong>My ladyyyyy! My lady!</strong>" She had stopped walking, looking on the floor for a prolonged period. Dromarch worriedly called out.</p>
+<p>"Hmh?" She innocently looked up, wondered what just happened.</p>
+<p>"Are you all right?"</p>
+<p>"Nia..." Rex called out. "Heyyyyy, you don't look so steady. Careful! Fall down there, you'll never hit the bottom!"</p>
+<p>"<em>Eh... You must be sick of saving me by now, huh?</em>"</p>
+<p>"Don't be silly."</p>
+<p>Brighid urged, "Don't push yourself. You can rest up a little longer."</p>
+<p>"It's even tougher for you though. I'm telling you, <em>I'm fine.</em>" Brighid looked to Mòrag, and she nodded back. They set off. Rex stood a while before catching up; but then she stopped, "After my sister died, it- wasn't long before my da died too."</p>
+<p>"Huh?"</p>
+<p>"I'm finishing my story. Dromarch- was alllll I had left to remember him. We started wandering together. Or maybe I should say 'running'."</p>
+<p>"Running? <strong>From who?</strong> People your dad owed money to?"</p>
+<p>"<strong>No.</strong> From... the Praetorium."</p>
+<p>"What? <strong>why?</strong>"{{footnote: The voice is different, perhaps a bug: it's "Uh, wow, why?"}}</p>
+<p>She looked to the bottom right, gathering her thoughts and mustering her courage to voice it out,  "Well... i-it's a long story."</p>
+<blockquote>
+<p>The heavy downpour don't prevent the Praetorium soldiers from dashing pass heaps of grasses, lighting their way with their staff. Someone shouted, "<strong>Get the cannibal! Capture that flesh-eating Blade!</strong>"</p>
+<hr />
+<p>The lock clicked outsider her cell. She curled up, wrapping her hands around her legs. For how long she'd been in that position she don't know, until her sensitive ears heard metals slashed against flesh, and the scream of soldiers. The door opened, she looked up. Jin walked through and she sat straight, wondered what he's gonna do with her. He handd her a hand, and she decided to trust, took it in hers.</p>
+</blockquote>
+<p>"I felt like... the whole world was against us. There was nothing we could do but- stayyyyy on the run. <strong>Taking each day as it came. Just... thankful for each sunrise, prayin'</strong> we'd see another."</p>
+<p>"Whew..." Not a wonderful adventure you have there.</p>
+<p>"Then- I- met- Jin. He... He- <em>took me in.</em>"</p>
+<p>"So that's why- you and Jin..."</p>
+<p>She explained, "In- Jin, I saw a way out, y'know? I didn't see a future for myself on my own, so I threw my lot in with him. <em>But...</em>" She dropped her head. He knew the story after that.</p>
+<p>"I can't see it." He optimistically called out.</p>
+<p>She was surprised, "What?"</p>
+<p>"<strong>You're not the kind of person</strong> to worry about stuff like that."</p>
+<p>She rebut, "Well, I wasn't worried, as such."</p>
+<p>"So, anyway, why the story?"</p>
+<p>"I <em>dunno. I was just rambling.</em>"</p>
+<p>"Look, <strong>I don't know what's burdening</strong> you, Nia, but... <strong>You shouldn't be... afraid.</strong>"</p>
+<p>"<em>Afraid?</em>"</p>
+<p>"Of- <strong>whatever it is! Stay true to your feelings, even if it means- fighting toooooth and claw. That's who you are,</strong> right?"</p>
+<p>"<strong>What- the hell? I'm not some violent goon...</strong>"</p>
+<p>"<strong>I think you know</strong> what I mean."</p>
+<p>"<strong>WHAT THE-?!</strong>" She jumped on her feet.</p>
+<p>"<strong>AHAHAHAHAH!!! There we go!</strong> That's the Nia I know." He exclaimed.</p>
+<p>"The Nia... you know?"</p>
+<p>"Not far now. Let's get going." He urged and walked past her, not explaining, leaving her and Dromarch together.</p>
+<p>"Rex..." She dunno what to feel for him.</p>
+<hr />
+<p>The deepest portion of the Spirit Crucible was a giant crest carved out on the walls, and a tombstone-like feature below it. Tora exclaimed, "Rex-Rex, it's dead end!"</p>
+<p>He looked up and his eyes lit up as he saw the crest that looked like fire. "That seal... It's the same as the one on the ship."</p>
+<p><a href="images/276_crest.jpg">Crest/Seal in the depth of Spirit Crucible Elpys</a></p>
+<p>Before they could do anything or search for anything, dark clouds swirled around them, concentrated into a few blocs, and formed into a figure that looked like Addam wielding his sword and his cloak over his head, all of them, with only their red eyes as distinguishable features. Brighid wondered, "Who? Or- what?"</p>
+<p>Gramps urged, "<strong>Heeeeey! Watch out there, Rex!</strong>"</p>
+<p>They drew out their weapons to fight. Since he lost his sword, he now wielded Roc's weapons.</p>
+<hr />
+<p>"Ongh..." The dark figure slowly walked towards the fallen Nia.</p>
+<p>He'd just finished his opponent when he heard her fall, adrenaline rushed up as he dashed subconsciously to her rescue. "<strong>Nia!</strong>"</p>
+<p>"<strong>HUURGH!!!</strong>" She'd expected to end here and now, but the clashes of blades was instead heard. Rex blocked it with Roc's scythe, wielding it adeptly against him. But he was outnumbered. Even if he wielded two weapons, two hands cannot fight four. If he lose his focus on one, he'd get an extra wound. When he turned away to the other, he get another wound from the first. And finally, his wound was too heavy he fell to the ground. Nia watched with shocking eyes. Dromarch was beside her, tending to her needs. "<strong>REX!!!</strong>" Once again, fear flooded her lungs. Once again, she felt she cannot face it, just like as always.</p>
+<blockquote>
+<p>Her, or maybe her sister, laying lifeless in the coffin. Perhaps she could do something about it, but didn't.</p>
+<p>Her da died. Perhaps she could do something about it, but he refused.</p>
+<p>Vandham ran out of ether, collapsed to the ground. She could do something about it, but didn't.</p>
+<p>Fan stabbed in her core crystal by Jin. She wanted to do something about it, but didn't.</p>
+<p>Niall's lifeless corpses in Mòrag's hug. She did something about it, after everyone was gone.</p>
+</blockquote>
+<p>"No... No more... I won't hide any longer. I won't hide who I am... <strong>NOOOOOOO MOOOOOOOOORE!!!</strong>"</p>
+<p>Rex was having difficulty opening his eyes when he heard her shout. An intense ether rippled with her as the center, and her core crystal shone bright while she transformed. The energy so strong it formed a blizzard, blowing away any incoming abominable creatures. Even the other creatures and her friends stopped fighting for a moment, surprised.</p>
+<p>Mòrag: "Nia?"</p>
+<p>Dromarch slowly walked towards beside her. Zeke: "She's a Blade?"</p>
+<p>Tora: "<strong>Bladiest Blade!</strong>"</p>
+<p>Mòrag: "Not... merely a Blade. She's a..." Yes, her core crystal, the same as Akhos, as Patroka, as Mikhail!</p>
+<p><img src="images/273_nias_true_form.jpg" alt="Nia&#39;s true form" /></p>
+<p>Nia caressed Dromarch's chin for a while before walking towards the fallen Rex. "Nia..."</p>
+<p>She went down to look at him on equal level, exclaimed with excitement, "<strong>I am burdened no longer. Not by my past, not by Jin. I am finally free!</strong>"</p>
+<p>Rex was still lingering in realizing that she's "<strong>A Blade? What the...</strong>" He can't believe how fast his wounds heal. As he took up his hand, she softly hamburgered it with both of hers.</p>
+<p>"I'm no longer afraid. This- is who I am, Rex! What's the point in living if I have to hide?... <strong>Thank you for helping me see. I love you, Rex.</strong>"</p>
+<p>"Wha-?!" His brain dead instantaneously, awestruck.</p>
+<p>The abominable creature wouldn't wait for them to confess to each other. He looked behind as he felt the wind blowing yet again. That he'd protected her earlier, she dashed past him and drew her weapon, a sword. Now, let me protect him, she said to herself. "Hurrrgh!" Her attacks wielded water, splashed at the abominable creatures, bringing all down with one hit.</p>
+<p>Seeing they're OK, Zeke resumed fighting. "Arrrrgh <strong>come on then, WHO WANTS a piece?!!</strong>"" Similarly for Tora and Poppi, Mòrag and Brighid. Nia worked together with Dromarch towards their opponents.</p>
+<p>Her hands were trembling, her sword shaking, and her chest still hurting, "Hnng, there really- isn't much ether here..." But the abominable creatures kept returning, numbers growing more and more. They were surrounded, but she was already exhausted. She collapsed on the ground, caught hold of her core. One of the abominable creature was about to chop her head off, she looked aside, closing her eyes, when it never came. She looked back, there he was again, like a light that shone right into her heart. "<strong>Rex...</strong>"</p>
+<p>He turned to face her, answered, "<strong>Nia, I- love you too!</strong>"</p>
+<p>"<em>Huh?</em>" She was awestruck. She hadn't expected a reply but...</p>
+<p>"<strong>I love YOU, and all you guys! Soooo.... let's do this, together!</strong>" She was flabbergasted for a moment before tears of contentment rushed. She can't contain her laughter,</p>
+<p>"Hng nghn... <strong>HUHUHUHUHUHUH!!!!</strong> (She wiped away her tears). That's just like you! It's all I could ask for. <strong>Let's give 'em hell!</strong>" He sheathed Roc's weapon as she stood up, already predicted she would hand over her weapon to him. He took it in his hands. Gramps couldn't miss this touching moment, had to climb out of the helmet and see it with his eyes.</p>
+<p>"Ready?"</p>
+<p>"Ready." They turned to the abominable creatures, she held the role of transferring ether therefore. The hordes dashed towards them, they closed in. One by one, he turned them back into mist, even passing weapons around as they worked together. Being outnumbered, they didn't manage to catch one; but Brighid's flame and Zeke's thunder had their backs. They looked at their eyes, not realizing more were coming from the other side. A shield raised don't know by who, and when did Poppi's jet biter ever disappoint? Nia was overjoyed. Yes, these are all her friends. They were here to support her, not to judge her. She could be herself, someone always had her back.</p>
+<p>One creature was strong, Rex tried to push past it, but it wouldn't yield. An unknown voice asked, "You fight..."</p>
+<p>"Who's that?"</p>
+<p>While he looked around, searching for the voice of Addam, it continued asking, "You fight on... relentlessly. But you do not fight for yourself."</p>
+<p>"<strong>I fight for... my friends! GYAAAAAHHHHHH!!!</strong>" Whoever it is, he answered.</p>
+<p>"I have been waiting for so long. For one- such as you." A bright light from the top of the ceiling destroyed all the abominable creatures, sending some boulders floating mid-air.</p>
+<p>"<strong>Whuh?</strong>" Everyone was wondering what just happened when the light engulfed them.</p>
+<hr />
+<p>Elysium in the dream. Rex stood near the top of the hill, but she no longer stood below the tree. Instead, the hooded guy that do introduced himself, "My name is Addam. I am long departed from this world."</p>
+<p>He recognized, "That voice... before..."</p>
+<p>Addam was looking at the church and town at the horizon, back facing him, asked, "What is your name, boy?"</p>
+<p>"Rex. I've been here before. This is Elysium! Pyra was standing under that tree, over there. <em>She looked... lonely.</em>"</p>
+<p>Addam crossed his arms, "Is that so? I must <strong>offer my gratitude.</strong>"</p>
+<p>"<em>Eh?</em>"</p>
+<p>"You- are the one- who brought me here. I have never been to this place. Once, I sought <em>to come here</em>, but I never did."</p>
+<p>"Oh, really? Neither have I. Not... <em>Not yet.</em>"</p>
+<p>A ding in the distance. "It is beautiful," he said.</p>
+<p>"<em>Yeah.</em>"</p>
+<p>He turned around and asked, "Rex, what is it that you seek?" Under the hood, he cannot see his face. "Wealth? Power? Dominion?"</p>
+<p>He went into his thinking mode, "<em>Errr...</em> None of those, <em>really.</em> Though, power might be useful."</p>
+<p>"Power, then?"</p>
+<p>"Power to protect."</p>
+<p>"Protect what?"</p>
+<p>"That's... a long list. Gramps, Nia, Tora, <strong>everyone in Fonsett... And Pyra, and Mythra.</strong>"</p>
+<p>"You are greedy, <em>boy.</em>"</p>
+<p>"Everyone in Argentum used to tell me that."</p>
+<p>"It is not <em>necessary to protect everything</em>. <strong>There is- a limit-</strong> to what- one man- can do."</p>
+<p>"<em>That's true...</em>" Perhaps; but he's not so sure about giving up anyone on his list, all those he wanted to keep close to, he wanted them to be safe.</p>
+<p>"But, <strong>there is</strong> <em>something granted to you especially.</em>"</p>
+<p>"Please, tell me what it is."</p>
+<p>"<em>The power- to accept her.</em> She is afraid... of her own <em>power... and her terrible destiny.</em> And I, too, <em>was afraid.</em> <strong>I feared</strong>- <em>the true power of the Aegis. Hmm...</em> Your will to fight comes- <em>from your will to protect.</em> Blades and mortals are <em>linked.</em> <strong>When you take</strong> on <em>the weight of all the... fear she carries,</em> then you... will be her true Driver." A bright turquoise light therefore engulfed the Elysium in the dream.</p>
+<hr />
+<p>"Rex! <strong>Rex!</strong>" His consciousness just returned from the dream, hearing Nia calling for him. She asked, "What happened? You- haven't- said anything since the <em>ghosts</em> disappeared."</p>
+<p>"Yeah, I'm fine. <strong>Never better!</strong>" He reassured her, but didn't talk about Addam, then turned and walked towards the tombstone below the crest. The group watched the top of the tombstone opened up, and the whole tombstone external layer descend into the ground below, revealing a transparent sword plucked into the middle of it, previously encased.</p>
+<p><img src="images/275_aegis_sword.jpg" alt="Third Sword of the Aegis" /></p>
+<p>His eyebrow clenched looking at it. Zeke exclaimed, "<em>That's...</em>"</p>
+<p>Mòrag: "<em>The third sword. Ugh!</em>"</p>
+<p>Rex put his fingers around its hilt and pulled it out with ease. No, no story of Excalibur. The crystal in the sword shone bright when he looked at it. His eyebrows raised as memories flooded through him.</p>
+<blockquote>
+<p>Along the equator, a comet-like object flew along the solid path. An explosion swallowed some planet in deep space. The hexagon we saw in the previous page in the dark room.</p>
+</blockquote>
+<p>The more memories transferred to him, the more the sword disintegrate before him. The group cannot believe why would it turned to dust.</p>
+<p>Brighid exclaimed, "<strong>What?</strong>"</p>
+<p>Dromarch: "<strong>The Aegis Sword.</strong>"</p>
+<p>Tora don't understand, his wings fluttered, and Poppi mirrored his movements, "<em>Why? Why did sword break?</em>"</p>
+<p>Mòrag hypothesized, "Perhaps it was just... down here too long."</p>
+<p>Zeke cannot believe, "<strong>You're bloody kidding me, right? After we trudged ALL the way down here?</strong>"</p>
+<p>"It's OK!" Rex reassured them full of confidence. The sword was always in his heart, he believed.</p>
+<p>But Nia can't fathom, "How can it be OK? Pyra's one true sword just broke!"</p>
+<p>"This was never about the sword. <strong>We have everything we need!</strong>"</p>
+<p>"<em>Huh?</em>"</p>
+<p>"I know now. What I have to do. <strong>Let's go! We've got rescuing to do!</strong>"</p>
+<p>Nia tried to convince the one whom had gone mad from her point of view, "Rex, look-..."</p>
+<p>"<strong>Nia</strong>, do you trust me?"</p>
+<p>"Yeah, <em>but-</em>"</p>
+<p>Mòrag was more observant and compassionate, "You've realized something, haven't you, Rex? Something important, that the rest of us... <strong>can't see.</strong>"</p>
+<p>His confidence unwavering, nodded.</p>
+<p>"I'm with you. I've seen... that look in your eyes before."</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="24_third_aegis_sword.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="26_rescue_pyra.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="24_third_aegis_sword.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="26_rescue_pyra.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

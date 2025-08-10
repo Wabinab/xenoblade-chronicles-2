@@ -1,0 +1,289 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Postscript - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="postscript"><a class="header" href="#postscript">Postscript</a></h1>
+<p>This took much shorter time than translating Xenoblade 3. Perhaps because it <em>is</em> shorter on the whole, but also because one acquires a way of writing stuffs, for the good or the bad. Experiments still continued -- whenever one read about something, one changed one's style of writing. You already knew the book that influences how one wrote this book, as mentioned in the preface. Also, it took longer to write Xenoblade 3 because one was so attached to Mio one can't let her go so fast. One want to extend the time one was being with her. On the contrary, in this book, though one also felt an attachment for Pyra/Mythra, it wasn't as strong as with Mio. Perhaps it has something to do with the story being undercooked, like many players mentioned. Indeed, one agreed with expanding some of the parts, like Nia's story. In Xenoblade 3, we have a whole side story dedicated to tell the story of Mio -- the main event that changed her forever. One bet the developers realized that they need a side story to tell that out, after learning from Xenoblade 2 that they didn't expanded enough. Nia's story do took some time to buildup, but realized that the main buildup happened only after they enter the Spirit Crucible Elpys. The other times -- when she clenched her fist, refusing to use her power when Vandham died, and one forgot the others in between, then finally, saving Niall, then only the finale reveal. The writer seemed to took her in a single line, didn't expand much. If you read "Master and Man" in Leo Tolstoy, you know how Tolstoy loved to do that to peasants: chapter 4 to chapter 9 was extremely fascinating; but when it comes to the final chapter (10), it feels like "the peasant died. The end." Similarly, for Nia, we felt like "She was scared all along, and as time passes, she felt more scared -- and Rex told her to not feel scared, and she no longer feel scared. The end." It's less realistic, one thought -- the other factors in the cutscenes can be magical, but regarding psychology, it needs to fit more to how it works in real life. If you could change the thought of someone just by telling them not to do something, the world would be a simpler place. If people who went for psychotherapy would just listen to their psychotherapist, all would have a happy marriage, or a happy parenthood{{footnote: A couple that had problem go to a psychotherapy to fix the other partner, but who actually needs 'fixing' is themselves. Parents go to psychotherapy, bringing their child along, wanting them to fix their child, but who actually need fixing is the parents themselves -- they're the one who acts like <em>that</em> and causes their child to <strong>imitate.</strong> But no, parents refused to acknowledge their error, but they want to fix their child. Such folly.}}. But no, the world is a messier place than that.</p>
+<p>When you read the book, you realizes one probably is a lesser writer (at least one says so, one don't know what you think). Reason is, a lesser writer report facts, which is easy to do, but a great writer make the same facts <em>rich enough and turn it into a cause-and-effect story</em> -- and that one's lacking in many aspects. One know one need to do that, but one don't know how to do that, at least not consciously. The story may be interesting per se, because one's just translating it -- but because one's a lesser writer, the translation also is more flawed than the original story told in the cutscenes. But what can one do? One's still learning, and one need to experiment more -- perhaps one day in decades one'll be able to write something that touches people's heart.</p>
+<p>Xenoblade 3 is constantly emits a desolate mood -- its background <em>is</em> desolate. Xenoblade 2, however, written with the main characters as children rather than adults, they're allowed to act more childish. Not to say adults cannot act childish -- one sometimes do, despite people mocking one -- it's just that most people don't expect adults to be childish in our age. We should, you know, but we don't. Back to the background, when you can write more childishly, you can inject an extra (ultra large) dose of optimism to the characters. Sure, different people have different optimistic level. When one was a teen, around the age of Rex, one was much more pessimistic than him. And now, one's still a pessimistic person. In the story, Rex was more optimistic than any others. Pyra starts out with a constant desolation she acquired for 500 years. At times throughout the story, she fell back to the bouts of depression; though when she was with her friends, she was distracted, forgetting her internal melody for the moment. That actually happened to one, the process, so one can say it's mostly true. The only times the negative emanates are when you're sharing with them your internal melody, hoping someone would listen to you, and if they could be compassionate for you. You probably don't need fixing, just a pair of listening ears, and that works like a charm. Of course, it's hard to share something so personal -- and one bet Pyra felt the same. Though, her friends don't force her to open up (all except Tora whom cannot read emotions, the drawback of being too scientific/engineer-oriented), letting her took it easy. When she felt its time, before she died, she finally told Rex about it, their goal to go to Elysium. She opened up little by little when trust increases. But there are some things that she just can't speak it out even when trust is high -- some things are just so personal that you don't know, and one don't know, if speaking it will immediately crumble trust back to zero. Remember what Warren Buffett said, it take decades to build trust, and 5 minutes to take it down. That's true for business, and probably true for friends as well.{{footnote: Though there's one exception -- con artists knows exactly how to manipulate trust such that, when police and interrogators and some individuals were voicing out loud their doubts, they put so much stake in to the con artists their trust maintained for a very long time, even helped pay the money to bail out the con artist if necessary.}} Even adults like Amalthus, despite the despairing background he had, carries a lighter moment with her mom. Such complexity are easy to state as facts, but when one tries to write, it was a pain in the arse, and one don't believe one'd did a good job writing it out -- only a mundane one.</p>
+<p>Before starting to write this book, one first tried to recall what moments one can remember when one first played the game 7 years ago. Indeed, one only remember the despairing moments, not only because they're the ones that carve strongly into one's memory, but also because pessimism is what one can remember more strongly than optimism. At least in the past, do one a good deed one might not remember, but do one a bad one, one never forget, whether or not one forgives. Sure, such memories aren't perfect -- indeed, when one rewatched, some of the memories one recalled seems to come out of nowhere -- an indication that my memories played trick on one, making a more neutral memory more sad from the constant desolation one felt over the decade, rewriting one's memories with such sadness. It was a surprise to one, the moments when they escape Gormott and Rex sat beside Pyra, looking at the flames when all others (except Nia) were asleep, and just enjoyed the tranquility together. Even though it had been shown once more in the ending credits, as it expanded out to the final moments, their returns, one had totally forgot about that moment's existence. Going back and watch it once more means now that one realizes the more optimistic part of the scene, now that one understand more about reading and writing, and felt more hopeful for humankind, and try to remember that part well. One cannot say one will not forget again, but at least for now, one'll remember. It's like the Great Books compiled by Mortimer Adler, and he mentioned it in "How to Read a Book", that a Great book, when you reread it again and again, you get different insights and different conclusions. One bet that Xenoblade stories are at least half a great book equivalent. The moral of the stories one may not always agree with, but for those whom one agree, or for the other players whom agreed with the morals of the story, it provides an enlightenment, an alternative way to live out our lives. We cannot teleport to Alrest and live their lives, but in our world, here on Earth, we can choose to live differently.</p>
+<p>Babies forget why they cry when they were given toys. Children, when they get to play, normally also forget about the sad moments earlier, and they may not even recall if it's not deep enough! That is, provided there's something, some distraction for example, to distract them from continually falling in the vicious cycle, spiraling down to depression. It so happened to Rex, when he lost Pyra, he cheated himself that she'll be all right, and when Zeke's dad want to see him, he immediately forget about the slapping and the punches his friends hope to wake him up with. On the contrary, when Noah was being jailed and his friends tried to <em>logically</em> persuade him to get out, he cannot get out. Actually, his friends just can't take it why he don't just sit down, didn't really tried to up his spirit because, unlike these group where only Pyra lost her freedom, the group still could plan for a rescue scheme, Noah and the others were all imprisoned, so the average spirit, excluding Noah, was typically low. Nopons like Riku and Manana tend to exhibit a more optimistic outlook, even if they were to die they didn't emanate a gloomy wavelengths, but others were much more quiet, staying in their own inner mind, and Noah even worse -- he wished to reach out and couldn't. Even at the last moments, if not for Mio's comeback, Noah would not have felt glad.{{footnote: Such story isn't without a caveat, though. It shows how strongly a logical/rational person like Noah can feel. Anime being anime, they tend to emanate and amplify a feeling much more strongly than how real people acts. And real people can feel nothing even when they should feel something -- a rational/logical person should have emotions, unless you're a psychopath, but one had seen people feel strongly for their family getting hurt, yet felt as if it was just a text written on paper, a statistics amongst the many, when their friends died, and conclude, "They already lived enough. And that's OK." Or maybe it's just me, for one tend to feel much more strongly even for my classmate whom died as a young adult, relating to him/her as, what if one also die today, having the future flames snuffed out? What would (s)he had done differently, if (s)he knew (s)he's gonna die soon enough?}}</p>
+<p>Actually, before Xenoblade 3 came out, one don't felt more strongly for it than the others, but <em>availability bias</em> played a trick on one's heart. Xenoblade 1 was probably just as strongly influenced my mind as 2 and 3 (but not X, which is more... one don't know how to say... than the emotional main stories). But because one last watched 3, and one'd already dimmed out one's memories (and feelings) of the earlier ones, one felt much more strongly for it. Though, even now, one can't admit that one might feel about equally strong for all 3 -- my mind kept telling me that one felt most strongly for 3 because of Mio, and how one hoped Noah being more emotional than he really is, despite one rationally told oneself otherwise.</p>
+<p>What fears do you carry? Nia carried the fear of her past, afraid of revealing her true identity, afraid of being talked behind her back, afraid of the Praetorium. Pyra and Mythra carried the fear of their powers, afraid that no one would stood by their side, that they were lonely by themselves, that they bear burden for what secrets they held. It rings true, because one, too, had fears. Fears that one's not willing to speak out, not even to one's friends, for fear of being abandoned. Smaller fears included fear of getting out of one's comfort zone, acquired from my mom by living too long with her, <em>her</em> fear. What about you? What are your fears? Your fears that hold you back?</p>
+<p>7 years ago, when one first watched Xenoblade 2, there were things one felt different back then than now. One was Jin. Actually, one was so putting oneself into Rex's shoes, and one was so envious at that time, that when Jin hugged Pyra (took her into custody) and Mythra (when she helped him blocked Amalthus attacks) one's mind was so focused on rage -- how dare you hug <em>my</em> Pyra/Mythra! 7 years later, when one watched it back, the jealousy had dimmed to nothingness, and one could finally watched them from a 3rd person point of view, feeling not empathy but compassion. What she had done <em>for</em> him; what he had did in his final moments.</p>
+<p>There's a poem one took from chapter XI of <em>Joys and Sorrows: by Pablo Casals as told to Albert E. Kahn</em> that one wanted to share,</p>
+<blockquote>
+<p><em>O friends, friends, no more of those sad tones!</em><br />
+<em>Instead, let us all raise our voices</em><br />
+<em>In a joyful song!...</em></p>
+<p><em>Praise to Joy, daughter of <strong>Elysium</strong>,</em><br />
+<em>Born of God!</em><br />
+<em>Goddess, merging love and laughter,</em><br />
+<em>To thy shrine we come!</em><br />
+<em>By this magic is united</em><br />
+<em>What the harsh past held apart.</em><br />
+<em>All mankind are sworn brothers</em><br />
+<em>Where the gentle wings abide!</em></p>
+</blockquote>
+<p>The ending part was really, really difficult to write. How could words explain emotions so strongly? Videos tend to appeal to multiple sources of your sensory, particularly visual and audio, but also words if you turn on subtitles; but with a book, one only have words to play with. One isn't Leo Tolstoy, whom could write the heart-breaking "Master and Man" that one could never forget its Chapter IV to IX. There were also some novels one read before, like 2 of the Chinese novels, that really enlightened one by the actions the characters made. And one of them, the author said to its reader, the author can do nothing to the characters because they had acted out on their own accord, and he could not control them -- they asked him to write them down like how they would. For one, one's translating, and translating means the story is already set. Sure, one had limited vocabulary and adjectives to explain what one want to write; but one do have one less degree of freedom -- the freedom to create the story. When one do, one expressed the inner thinkings based on one's own creativity, and they might not be really what the characters were thinking. Really, you had to ask the original author, what the characters were telling them to write about them, not one. One don't know.</p>
+<p>And so, we have a far less than perfect scene unfolding in the finale. One could only assure you to do better than earlier works one'd translated, but one couldn't assure you they were the best one could do. After all, one's always learning, and in the future, one might decide to write it differently than one would've written now. Also, if one is to write the perfect based on the state one's in now, it would take lots and lots of revision, and one don't know if one's willing to do that, nor do one know if such revisions would deviate the story into another that's no longer a translation but an original, alternative history to be played out. Or you can just say one's lazy, depends on you. One'll give what one can, in one's limits.</p>
+<p>Sometimes, one really think what words Pyra and Mythra speaks in both situation. Different people gave different opinions, but the author had decided to let you have the say, to let you put up with an ending you desired to. As for one...</p>
+<details>
+<summary><b>SPOILERS AHEAD!!!</b></summary>
+<p>..., one was reminded by what Mio told Noah in Xenoblade 3 during her homecoming in the earlier book one'd translated. "It's been fun, Noah!" When Addam asked Pyra/Mythra, "So, tell me... How was it, being alive?" One think she felt similarly like Mio did. She might just have felt, "It's been fun!"</p>
+<p>As for the final scene, what Rex really wanted to know was, was these the Pyra and Mythra he knows that came back, or were they new entity, like Brighid, whom no longer remembers what happened 500 years ago, only depended on the cold lines written on her diary, but she felt nothing reading the moving text describing her previous drivers? And they probably know he wanted to know if they were his lovers, and so she might went on to tell him, "Nice to meet you, Rex!" Or perhaps, "Long time no see, Rex!"</p>
+</details>
+<p>When a touching story completes, one's heart always fell, the hollowness and emptiness at the lack of future they had. One can look back and watch it again, but how one wished to walked another journey, and more journeys, with the same characters, again and again, until we know each other deep, accompany each other down the road that leads to the foggy futures ahead. Plunging back to reality, one remember the lack of friends one had to go on an adventure like Pyra and Rex with me, and the gap between expectations and reality grew so large nothing can fill the hollowness, so one pursued another after another stories, hoping to fill the hollowness, to no avail. Bad stories are addictive, but they wear one out. Great stories, on the other hand, sew up the hollowness when it unfolds, ripped it apart yet again when it ends, and now it's larger, the hollow gap between two great stories lying side by side. The first might have gotten smaller with time, so the gap don't grow endlessly; but at the very least, they remain huge. And great stories are rare. There's no confirm one can find another to fill the hollowness of one's heart, at least not after this one. The next coming up, "Torna, the Golden Country," will be short, too short to unfold something as dramatic as this main story's buildup. Perhaps one might write a story of one's own, and perhaps, that, one'll have an extra degree of freedom, though one still cannot write something as great as "Master and Man."</p>
+<p>And if you really felt empty right now, like most of us whom felt so when we played the game, it was 5 years before our emptiness was relieved. Exactly what happened to Rex and Pyra and Mythra after that we don't know, but there's a picture in Xenoblade 3 that eased most of our broken hearts, after 5 years of waiting; and one'll freed you from the chains of 5 years, if you will allow one, to open up the spoiler alert below to display the picture you so wished to quench the ticklishness in your heart. Go ahead, and click. But before that, what do you think happened to them? How will Rex looked in the future?</p>
+<details>
+<summary><b>SPOILERS ALERT!!! (Image)</b></summary>
+<p><img src="images/359_his_family.jpg" alt="His family" /></p>
+</details>
+<hr />
+<h3 id="donations-and-support"><a class="header" href="#donations-and-support">Donations and Support:</a></h3>
+<p>One does not receive money for this work, and feel free to support one's work at the following addresses:</p>
+<!-- - [Buy me a coffee.](https://buymeacoffee.com/wabinab) -->
+<ul>
+<li><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" data-emoji=""  data-font="Cookie" data-text="Make a donation!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</li>
+<li>NEAR Protocol: wabinab.near</li>
+<li>ETH, OP, BNB: 0xa32e05D545FEc9cADb46BEB0839E3Ac0A9E39d9B</li>
+<li>BTC: 1Gp2bnMk73LUwTRo8bPUimeWbztAR9DViU</li>
+<li>BCH: qzv2w8f8nn3jzudnescpha0s46fvha6lpgrlfh2t67</li>
+<li>Polygon MATIC: 0xCD9a17ae05D4C985fA6C8603e8a5215650F9a584</li>
+</ul>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="95_QT_pi.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="94_postscript_torna.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="95_QT_pi.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="94_postscript_torna.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

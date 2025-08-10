@@ -1,0 +1,406 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Together with Rex, Jin&#x27;s Sadness, A Promise - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="together-with-rex-jins-sadness-a-promise"><a class="header" href="#together-with-rex-jins-sadness-a-promise">Together with Rex, Jin's Sadness, A Promise</a></h1>
+<p>Elysium in their dream. The wind whistled, the grass swayed. Pyra sat beneath the tree on the hill, Mythra stood beside her. For a long long time, they just enjoyed the breeze, listening to their heart, until Mythra commented, "It's quiet today, huh?"</p>
+<p>"<em>Mm...</em> That bell... I think it was the sound of our heart."{{footnote: Fear?}}</p>
+<p>She tried to read her facial expression, asked, "Has it stopped?"</p>
+<p>She nodded, "Mm... It's stopped."</p>
+<p>She looked away at the sky on the other side, "<em>But...</em> Something's still ringing out..."</p>
+<p>Pyra stood up, "Yes! So... So we have to go <em>now!</em>"</p>
+<p>"We've got to be with Rex." They both nodded at each other.</p>
+<hr />
+<p>Storm raged, thunder struck. The surrounding pitch dark. The occasional lightning revealed there used to be skyscrapers standing, and some still stood. In the background, there seemed to be a constant green glowing, probably from the ether that gets sucked to the bottom of the void, compressed to release light energy.</p>
+<p>Through the various densely-packed buildings, at the very bottom, on one of the abandoned path, Rex laid Mythra's head on his lap. He was awake, but he wished she'd sleep more. The torments earlier had done her enough, and they hadn't had time to being together earlier, quietly. He enjoyed feeling her warmth, her skin pressing on his, her shallow breathe puffing water vapor on his skin, and just look at her sleeping. Though, such tranquil moment cannot last forever, and it will come to an end.</p>
+<p>"Mmhmm..." Mythra's eyelid muscles tensed before slowly opening her eyes.</p>
+<p>"<em>Mythra...</em>" Rex quietly called out.</p>
+<p>"<em>Rex?</em>" She heard him from above, turned her head to her left, still sleepy and yet to realize where she was.</p>
+<p>"All in one piece? I guess if <strong>you</strong> were injured, I'd be feeling it too..." Her head in such position is too straining, so she turned her body to align them, stretching her arms a little, rubbing her eyes.</p>
+<p>"<em>Huh? Yes, uh I'm OK.</em> Ah!" Faster than the speed of light, she jumped up from his lap, turned around, and climbed backwards on all fours as blood rushed through her cheeks, "W-was I... in your lap... this whole time?"</p>
+<p>Rex crossed his feet and, without reading any 'danger' from her tone, agreed loud and bright, "<strong>Mmm!</strong> It's like the opposite of when we met. By the way, I see you're back to your old self."</p>
+<p>"<strong>Urgh...</strong>" Such changing of topic unsuccessfully change her attention on feeling shy. She took a deep breathe, tremblingly said, "I-I mean... th-thank you... I... didn't say anything strange, did I? Talking in my sleep, or- grinding my teeth, or <strong>snoring</strong>, or... <em>I'm such a terrible sleeper...</em>"</p>
+<p>"<strong>You snore and grind your teeth?</strong>" He was surprised, didn't heard it earlier.</p>
+<p>She immediately tried to cover up what she accidentally revealed, first jumping towards him before sitting parallel to him, wrapping her feet around her arms, "<strong>W-well not always, I-I mean, tch, i-it was just a figure of speech, that's all!</strong>"</p>
+<p>"Ahahahahah! <strong>It's OK! What with</strong> all the fighting and stuff... You were out for the count."</p>
+<p>She still felt embarrassed, and pessimistically guessed he might be hiding something just to protect her face, but she'll go with it, just for the sake of her face, "<em>R-right... That's good to know...</em> Where are we? Where is everyone?"</p>
+<p>"We're under the Cloud Sea.{{footnote: Don't ask me how the dissolved oxygen became gaseous oxygen, and how there's a place not filled with water <em>underwater</em>.}} This must be the place us salvagers call- the Land of Morytha." He stood up, said, "I don't know what happened to everyone else. Over there is where we fell."</p>
+<p>He started walking towards where he signaled, and Mythra stood up and followed him. Side by side they stood, looking at a tornado some distance away from them. It continued swirling, as if water that fell onto the ground continuously being sucked away and pushed above it, creating the 'lair' devoid of water. Numerous of that at various locations allowed creating such a giant 'lair'. "From all the way up there?"</p>
+<p>"Looks like there's some kinda... powerful updraft coming from below. It saved us, I wonder if it caught the others too. (Full of confidence) I'm sure it did."</p>
+<p>"<em>Yeah...</em>" She wished too.</p>
+<p>"Still OK? Let's get our bearings and then go look for them. We need to find a way out of here." They started walking back to where she slept.</p>
+<p>"Any ideas?" She scanned the surrounding; but Rex had already scouted the place earlier, pointed to a direction,</p>
+<p>"Over there!" After they walked past some walls, she saw it{{footnote: But we cannot. It's just pitch black, according to both videos.}}.</p>
+<p>"Are those... the World Tree's roots?"</p>
+<p>"Yeah... I bet there's a way up there."</p>
+<p>"There has to be. I'm good to go. Let's move!"</p>
+<p>She started leading the way when Rex held her back, "Ummmmm, <em>how's Pyra?</em>"</p>
+<p>She stopped and answered, "She's sleeping. Shall I call her?"</p>
+<p>Immediately he rejected, biting his lips, "Nah, let her sleep. She's been through a lot."</p>
+<p>Mythra was surprised for a moment before her lips went up, commented, "You're too kind." This is someone she loved all right.</p>
+<p>He proudly put his hands against his waist, said, "Rule five of the Salvager Code! <strong>Always be-</strong>"</p>
+<p>But Mythra already walked away, replying while she went down the steps, "<strong>I don't think</strong> we need to hear it uhuh! <strong>C'mon! Let's go!</strong>"</p>
+<p>"<strong>Heeeeeyyyy! At least</strong> let me finish, spoilsport." And he came running after her.</p>
+<hr />
+<p>The spoilt land didn't look brittle despite being underwater; it hadn't seemed it'd been subjected to much erosion. Though, what's fallen from presumably war before left its rubble tumbled all around the place. Despite, there's still a lot of building standing, though how strong they could support them and how long could it still stand is another question. This, is the <strong>Land of Morytha.</strong></p>
+<hr />
+<p>"Really? You got to meet Addam?" On a platform, they stopped just as Rex finished sharing his side of the story when they're not together.</p>
+<p>"Yeah. I mean, it's like I have broken bits of <strong>memory</strong> about him." He looked at the raging storm and paused for a while, "Addam told me something." Mythra had all ears. "He told me to fight for the things that I wanted to protect." He looked into her eyes. "I made my choice. I fight for you and Pyra... I mean, I'm still not good enough for you, but..."</p>
+<p>"Don't say that. <strong>I've</strong> made a choice as well. <em>Not to... live in fear.</em>" They enjoyed the silence between them, to digest what they'd just heard from each other, to update their views on each other, to rethink their feelings for each other. It wasn't long until Rex came up with another topic, "Hey, when you transformed- before..."</p>
+<p>"That form... it's our true nature. The sword changed, right?"</p>
+<p>"<em>Uh</em>, yeah!"</p>
+<p>"It's not just physically stronger. It also lets us control Artifices <em>at will, so be <strong>careful</strong>.</em>"</p>
+<p>"Careful?" Had she not able to control Artifice at will, like how she control Siren before?</p>
+<p>She launched at him, "I mean, don't get carried away."</p>
+<p>He don't know why she suddenly hissed at him, but decided to made peace with her, "I-I see... <strong>Which... one</strong> of you is it, in that form?"</p>
+<p>"<em>Which one?</em>" She don't understand.</p>
+<p>"Deep down."</p>
+<p>"It's not one or the other... it's both at once."</p>
+<p>"Like... coffee with milk?"</p>
+<p>What kind of analogy do you come up with??? Who's the coffee? Who's the milk? "<strong>What kind of a...</strong> Urgh... Something like that, anyway." She can't bother complaining anymore.</p>
+<p>"So you're... Pythra? Myra?"</p>
+<p>"It doesn't matter. <em>Pyra, Mythra, they're both me. Call me whichever.</em>"</p>
+<p>"OK. Sure! You can... transform- at will?"</p>
+<p>"If I need to."</p>
+<p>"I see... eheheheheheheheh..."</p>
+<p>Seeing him smiling stupidly, she snapped, "What? <em>What are you laughing at?</em>"</p>
+<p>Scratching his head and closing his eyes to reminisce, he confessed, "Well... I kinda preferred your- hair in... <strong>that</strong> form..."</p>
+<p>Mythra jumped back blushingly, turned around so he didn't see while it last, she blurted, "<strong>It's like that</strong>, is it? <em>Hmph!</em> You jerk!"</p>
+<p>Their conversation were disturbed by the sound of sparring up ahead. "That sound..."</p>
+<p>Rex believed, urged, "<strong>It's the others! C'mon!</strong>"</p>
+<p>"Yeah."</p>
+<hr />
+<p>"Guh! I can't..." Jin wanted to use ether, but he can't. But he persist, stood up insistently, "I can't lose to these fools!" There was a mutated humanoid monster with core-crystal like crystals that replaced its eyes, mouth, chest; and a tail. Rex and Mythra ran into the scene just then.</p>
+<p>"<em>Uh</em>, <strong>Jin?!</strong>" Mythra hadn't been expecting her enemy.</p>
+<p>"He wound up here too?!"</p>
+<p>"<strong>ARGH!!!</strong>" Jin had no time to answer them. The monster get in front of him and bashed at him; he don't even have the energy to block. On the ground, he panted heavily. Blood red mist rose from his body, mostly from the single scratch on his core crystal.</p>
+<p>"He's still wounded from before? Whoo..."</p>
+<p>"<strong>Rex!</strong>" Too late. He already ran towards him, attacked the monster, and stood before him.</p>
+<p>"<em>You?!</em>" Why?</p>
+<p>"You can't move, right? I can't just let you die here. Even if you are my enemy!" As the monster gradually getting up, "Mythra!"</p>
+<p>From what she'd done to her earlier, she really don't want to get into the mess of saving this crook, but if he's the one that said so and make the decision, she couldn't help but support him, "If we must... (Then turning to look at Jin) But <strong>don't kid yourself that I think this is a good idea, Rex!</strong>" Alone, they faced the monster.</p>
+<hr />
+<p>The monster fell for good. Jin stood up, don't understand, effetely spoken, "But why did you help me... I'm..."</p>
+<p>"Our enemy? <em>Yeah,</em> we know that..." He crossed arms, continued to listen, "Even so, it would have been wrong. I just thought, I can't let it end like that. <em>And...</em>" He recalled the eyes he saw back there at the platform. The eyes full of stories. "No, it's nothing."</p>
+<p>Jin felt uneasy, but now wasn't the time to consider that in depth. The pain from overusing his powers brought him down. "<strong>H-HEY!</strong>" They took a step forward. Rex wanted to check on him when from the tip of his eyes, the monster were climbing up yet again, walking towards Jin while straightening its body. Rex can't believe his eyes, "<strong>WHA-?!!</strong>"</p>
+<p>Just as the monster was about to bash Jin into pancakes, fireball of blue flames shot at its armpits, off-balancing it. Rex recognized "<strong>Those flames?!!</strong>"</p>
+<p>"You've got a lot to learn." Following the voice's guidance, he looked around and found Brighid on the upper floor, accompanied by Poppi and Gramps. Brighid finished, "You've got to burn these monsters up. <strong>That</strong>, or smash their Core Crystal. <strong>Otherwise</strong>, they'll keep coming."</p>
+<p>"<strong>Brighid! Poppi! Gramps!</strong>" Full of excitement on the reunion.</p>
+<p>"<strong>Rex? Are you OK?</strong>" Gramps was worried.</p>
+<p>"Poppi find friends!"</p>
+<p>"B-but... Jin?!" Gramps was surprised. Why is he here?</p>
+<p>"Urgh... Ungh!" The standing Jin found his vision darker and darker, blurrier and blurrier, until darkness took over, and he collapsed like a long with a thud, his chin's skin vibrated acting as shock absorber between his weight and the ground.</p>
+<hr />
+<p>The group reunited on the same floor, telling their side of the story. Rex: "Oh, really? So you lost Tora and the others?"</p>
+<p>Poppi wasn't worried, "It's fine! Masterpon is not as soft as he look!"</p>
+<p>Brighid added, "It's faint, but I can feel the energy signature of Mòrag's weapons. She must be here too..."</p>
+<p>"OK! Let's rest up, then go look for them."</p>
+<p>"Hey, Rex. What about that <strong>scumbag</strong> there?"</p>
+<p>They had rolled him to face up. "Ah... I think I beat him up pretty bad in that fight. I couldn't just leave him to die."</p>
+<p>Gramps who overseen him growing up already predicted what actions he would've take, "I- thought it'd be something like that..."</p>
+<p>Brighid: "Ah, your sweet, bleeding heart! So? What are we going to do?"</p>
+<p>"<em>Uh...</em> Mythra, maybe you could, uhhh..."</p>
+<p>She understood him, reluctantly abide, "<strong>Fine! Whatever!</strong> Gimme a sec..." She transformed to Pneuma and went up, hovering her hand on the core crystal on his head, repairing it, rebalancing its turbulently out-of-control power.</p>
+<p>Brighid watched with awe, "Incredible! What <strong>awesome</strong> power you've acquired!"</p>
+<p>Pneuma explained, "This is the power of the Master Blade! The Master Blade possesses the data of all- Blade- cores." As she spoke, she noticed something unusual, shocked, "<strong>HUH! This is...?!</strong>" She stopped repairing.</p>
+<p>"What's wrong?"</p>
+<p>She stood up, returning to Mythra, shared, "His heart... <strong>It's a human heart!</strong>"</p>
+<p>"<em>Huh?</em>"</p>
+<p>"He's... a Flesh Eater!"</p>
+<hr />
+<p>The days got darker. The ether in the background glowed dimmer. Jin opened his eyes, blinked for a while before sitting up. He felt his core crystal, tremblingly asked the group in front of him, particularly her, "<em>W-what... What did you do to me?</em>"</p>
+<p>Rex reassured, "Eaaaasy. You'll be fine."</p>
+<p>Mythra: "It's not perfect. So be careful with it."</p>
+<p>"<em>Mythra...</em>"</p>
+<p>"My name... You still remember it, do you? I guess that makes sense. You never did <em>return to your crystal, did you?</em>"</p>
+<p>"<em>Hurrrgh...</em>"</p>
+<p>Brighid voiced, "You're a lucky man, Jin. You've been given the second chance you denied to many brave Ardainians. I doubt your luck would hold up so well if Mòrag were here!"</p>
+<p>Rex recalled, "Mythra, didn't you and Jin?"</p>
+<p>"Yes. <strong>We</strong>- fought together against Malos, once. That's why I need to know. <strong>Why? Why did you take... Malos's side?</strong>"</p>
+<p>"You really want to know? You only think you do. If you knew, it'd destroy you too."</p>
+<p>"I-I can guess. <em>And I can tell you...</em> It <strong>didn't</strong> lead me... to the same conclusion as you." Jin felt uneasy. She continued, "<em>Lora... She's in there, isn't she?</em>"</p>
+<p>"Urgh!" So she found out.</p>
+<p>Rex stood ahead, "With everything you've done, we can't forgive you. <em>And</em>- if you're going to keep standing in our way in the future, keep trying to destroy the world, we <strong>will</strong> stop you. But right now..."</p>
+<p>He crossed his arms, "Naïve kid. This is the Land of Morytha. And it's a place of more wickedness than you can imagine."</p>
+<p>"You know it?"</p>
+<p>"This land was destroyed- long before Alrest existed. (He spit out) The <strong>birthplace</strong> of the Architect. That's what Malos said."</p>
+<p>"The... Architect's..."</p>
+<p>"Jin." Mythra caught their attention. "<strong>I know- full- well-</strong> there's <strong>no</strong> easy way to change your mind. But hear me out. Let's regroup, and climb up the World Tree. Call it a ceasefire until then, OK?"</p>
+<p>"A united front?... As you wish. It's not like I could... take you on... in this state... anyway."</p>
+<hr />
+<p>Jin was resting alone on one side, while the rest gathered on the other side. He had his back laid on some rubble and rocks. Brighid approached him alone and asked, "Can I have a word?"</p>
+<p>He looked up at her and urged her to continue, turning his head away, his ears pointing towards her. "I'm Brighid. <em>But I...</em> hardly needed to introduce myself to you, did I? You must know practically all there is to know about me by now." She took out her diary, asked, "The stuff in here. The old me, the me you knew. Is- this journal the truth?"</p>
+<p>"Hmmmmm..." His breathe was uneasy, not answering.</p>
+<p>"I need to know if I can trust what I wrote in here."</p>
+<blockquote>
+<p>Jin took a notebook in the forest when he and Lora visited to find back his memories.</p>
+</blockquote>
+<p>"If you knew... You think it would change anything?"</p>
+<p>"Explain."</p>
+<p>"The Brighid I knew... Well, you aren't her. It's like... talking... to a whole new Blade."</p>
+<p>"Makes sense. There's no going back to who I was. <em>But... I still need to know.</em> I want to know what I did, what I <strong>really thought</strong>... And... <em>It- seems-</em> <strong>wrong</strong>- to just forget about the people who were important to me before... I need to remember them."</p>
+<p>"<em>Ah.</em>"</p>
+<p>"Jin! Please tell!" Poppi urged. He turned and saw she stood beside Brighid. "Really, Poppi is only just born. Doesn't know much! But, even Poppi knows, stories of old Drivers <strong>very</strong> important! <strong>Veeeery</strong>- precious- indeed! Memories of Masterpon very important. Poppi <strong>always</strong> think, <em>'must make many more Masterpon memories'!</em>"</p>
+<blockquote>
+<p>In the land of Torna, the level of Industrial Revolution, with metallic buildings on both side of the street. Lora and Jin was surrounded by cloaked guys. One cloaked guy walked forward and awarded a badge on Lora's chest. Everyone clapped as she turned around happily showing off her new badge. Touching and feeling it, she announced, "So... I'm officially a Tornan Driver now." She looked to Jin, happily smiled at him, "OK! Let's make some memories!"</p>
+</blockquote>
+<p>"<em>Huh...</em>"</p>
+<hr />
+<p>All except Poppi were sleeping and resting, either in a sitting or sleeping position. Poppi took watch, scanning the surrounding for potential dangers. She looked at Jin, his head dropped closer to his chest. She tip-toed near him, bent down to see whether his eyes were opened or closed, waved her hand in front of him. No reaction. She walked away.</p>
+<p>Mythra, in sleeping position, woke up when she heard receding footsteps and saw Poppi running up the slope. She landed in the middle of a road that leads to unknown destination. The sun was just about to rise at the horizon to her right, its first light coming out.{{footnote: Don't ask me how there's sunlight at the bottom of an ocean.}} As she heard Mythra's footstep, she commented, "Very quiet..."</p>
+<p>"It is."</p>
+<p>"Poppi think... this world achieved <strong>very</strong> big technological advancement. Many buildings. Many people. Everybody... probably very happy here. <em>But...</em>" She dropped her head. What happened to everyone? Why did the utopia ended up in this dilapidated state?</p>
+<p>"It doesn't matter how many <strong>fancy</strong> tricks they learn. Deep down, they're all the same. They thought they were making their lives <strong>better</strong> with all this stuff. But in the end, it destroyed them. Now... <em>it's just a ruin.</em>"</p>
+<p>Her heart tightened by Poppi's next words, "<em>Poppi was made by technological advancement too! Will Poppi...</em>" She looked at her hands, and looked at the rubble, fear awashes her at the very thought, "<em>...destroy- the world as well?</em>"</p>
+<p>"That's my problem, too. If this world is- Father's world, then Father made me to be as dangerous as any technology." She bent forward to look at Poppi from the same height{{footnote: Poppi's height reaching her breast <em>only</em>.}}.</p>
+<p>"Poppi a-and Mythra are the same?"</p>
+<p>"Yes! Kinda."</p>
+<p>"But- if... iffff Poppi destroys the world... <strong>Masterpon might get destroyed too! Maybe Mythra should destroy Poppi?</strong>" She pleaded with tears in her eyes.</p>
+<p>"<em>Poppi...</em>" She stepped forward and put her hands on her shoulder, looked at her in her eyes, "Tora created you. <strong>You could never</strong> do something like that. <strong>I know it!</strong>"</p>
+<p>"But..." She cannot convince herself; being a computer that could learn by oneself, she attained the decency of most humans, with their emotions in check. And like any decent humans, she could be turned destructive by her experience and interpretation, her supposed 'upbringing'. Isn't Jin the ultimate model? A decent person turned into a villain because of a certain event. He's not a born villain!</p>
+<p>"<em>Hmmm...</em>" Mythra thought for a while before inviting, "<strong>Hey! Let's make a promise.</strong>"</p>
+<p>"<em>A... A promise?</em>"</p>
+<p>"Yes. That's right, Poppi." She said confidently. "I promise that, if you <strong>ever look</strong> like you're about to destroy the world, <strong>I will do</strong>- <em>what you asked of me.</em> <strong>But</strong>... in return... Can you promise me something?" She raised her index finger like how you signaled "1" to others.</p>
+<p>"What would you like from Poppi? Mythra is scared of... destroying the world too?" Her voice still trembling from the aftershock, but such promise calmed her quite a lot.</p>
+<p>"<strong>Well</strong>, I'm doing to my best to stop it coming to that. It's something else... It's..." She felt difficult voicing it. Perhaps it might happen, perhaps not. In all case, she should prepare for all eventualities. Someone need to take care of Rex, and now that Poppi talked about it, perhaps she could trust her to keep him safe.</p>
+<p>"Huh?"</p>
+<p>She don't know yet how to voice it out, shook her head, "N-n-no, actually, nothing. <strong>I don't</strong> have a request- right now. Can I think it over?"</p>
+<p>"<strong>Of course!</strong>" She felt excited at the mere idea of a promise. Feeling trusted, she loved it! "<strong>Then let's promise!</strong>" She raised her hand high for high 5.</p>
+<p>"What's this?"</p>
+<p>"Masterpon taught it to Poppi! He said it Nopon promise ritual!" She raised her high 5 several times, jumped on her feet, awaiting for her to clap it. "Lift hand up in air, then... 'boop'- together!"</p>
+<p>"I- see..." She held out her hand, and Poppi jumped, knocked it with hers. A promise made.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="26_rescue_pyra.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="28_torna.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="26_rescue_pyra.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="28_torna.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

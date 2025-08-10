@@ -1,0 +1,444 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Pyraaaa... PYYYRAAAAAAA!!! - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="pyraaaa-pyyyraaaaaaa"><a class="header" href="#pyraaaa-pyyyraaaaaaa">Pyraaaa... PYYYRAAAAAAA!!!</a></h1>
+<p>Say, they don't have time for chit chat, but Mòrag couldn't help it. They took their time, while she plunged into deep thoughts. Brighid heard her footsteps disappeared, turned around and commented, "Lady Mòrag, you're making that face again. <strong>If you keep frowning</strong> like that, you'll get wrinkles."</p>
+<p>"I just don't get it. Tantal was founded by the counter-Addamites. <strong>Then</strong>, after the war, they closed themselves off. But... <em>the way the king was acting, I can't help feeling there's <strong>something</strong> more <strong>to</strong> it.</em>"</p>
+<p>"What, though?" wondered Nia.</p>
+<p>"<strong>It was the Praetorium</strong>- who sent us here on this mission. <strong>Why</strong> would he go to such lengths to <strong>reject</strong> it? It seemed almost like he <strong>wanted</strong> to cut ties with them..."</p>
+<p>Brighid hypothesized, "You think Indol- is holding something else over Tantal?"</p>
+<p>"That would be an explanation, yes... <strong>Zeke, do you</strong> know anything useful?"</p>
+<p>"<strong>Nope!</strong> There's no <strong>records</strong> from back then." If there is, it'll be by words of mouth, never written.{{footnote: That's presumably how they pass on the most important stuffs that don't want to get stolen -- either they bring to grave with it, or they pass it on before their death. But that, while common in Chinese novels, we cannot assume it be true for our human society, as one isn't an historian, and hence one don't know. Remember, 'common sense' is mostly 'common <strong>non</strong>sense.'}}</p>
+<p>"How about you?"</p>
+<p>"There's nothing in my journal from that period," noted Brighid. "I- might have been returned to my core- for some reason or other."</p>
+<p>There's still someone who was awake during that period. Rex asked, "Do you know anything about those days, Gramps?"</p>
+<p>He popped out of his helmet, "<strong>Hmm? Noo, I was somewhere else</strong> at the time. <strong>And matters of human</strong> kingdoms and so on <strong>didn't</strong> interest me much."</p>
+<p>He complaint, "<strong>Geez, Gramps, what's the point</strong> of keeping an old-timer like you around <strong>if you don't even know anything?!</strong>"</p>
+<p>Gramps didn't take offense, noted instead, "Sometimes, it's funny how much you sound like- Corinne."</p>
+<p>Back to the topic, Nia rephrased, "So you think the king wasn't telling us everything?"</p>
+<p>Brighid agreed for her Driver, "There is a chance."</p>
+<p>Dromarch suggested, "Do you think... it may be related to <strong>Jin</strong> and his comrades using <strong>Torna's</strong> name?"</p>
+<p>That put Rex in deep thoughts. He recalled what Jin said earlier,</p>
+<blockquote>
+<p>"If you saw the last state of humanity, you'd understand. Now that you have come this far..."</p>
+</blockquote>
+<p>"The last state..." What does that even mean?</p>
+<p>"Hm?" Brighid ushered.</p>
+<p>"Jin said something about the last state of humanity. I thought he meant, like, an evolution... y'know, in the future... but <strong>maybe</strong> he meant the <strong>previous</strong> state of humanity?"</p>
+<p>"And <strong>that</strong> is the key- to why they fight...?"</p>
+<p>"<strong>Hmmmm!</strong>"</p>
+<p>In Pyra's mind, the puzzles now pieced together, and she came up with an explanation that she kept it for herself. "If... If that is the case... Perhaps I... never should have been sealed away after all..."</p>
+<hr />
+<p>On a valley covered with thick snow, fallen remains jutted out near the top. The Omega Fetter was just up ahead; Rex looked at all the remnants, wondered, "What is this place?"</p>
+<p>Gramps knew this, "A battleground- from the Aegis War...{{footnote: So Genbu was around during the Aegis War?}} There are <strong>many</strong> things here I remember..."</p>
+<p>Nia observed, "<strong>The walls and floors are melted.</strong> Must've been a <strong>hell</strong> of a battle."</p>
+<p>Pyra explained, "Ophion isn't the only Artifice. You've already seen one other -- Siren, the one Mythra commands. But during the war, there were <strong>countless</strong> Artifices, wielded by Malos."</p>
+<blockquote>
+<p>All had the same shape, monster with weapons on their hands, wings at their back, and a ring above their head, flying to the destination like grasshoppers migrating.</p>
+</blockquote>
+<p>Rex concluded, "So... it's a site of a fight against him..."</p>
+<p>Nia had heard of the word for a very long time, but she wanted to know more exactly, "Say, <strong>what are these</strong>- Artifices, anyway? We've only actually met Ophion. We've never even seen Siren, just that light thing it shoots down."</p>
+<p>She looked up into the sky, replied, "They're a power granted to the Aegises. Divine swords sleeping in Elysium, far above us all."</p>
+<p>"Hold on. <em>I thought</em> Elysium was a paradise, not a scary weapon stash?"</p>
+<p>She shook her head, "I don't know."</p>
+<p>"Whaddya mean, you don't know?"</p>
+<p>"All that I can find in the corners of my memory... is that townscape... I don't know why Father created me, or created the Artifices... That's what I want to find out."</p>
+<p>"Pyra..."</p>
+<p>Rex assured her, "<strong>It's OK. We'll find out once we get there!</strong>"</p>
+<p>Nia was more pessimistic, "I don't think..."</p>
+<p>"<strong>Open a chest, it might turn out great... But until then, it's just a crate! That's rule 4 of the Salvager's Code! Hahah!</strong>"</p>
+<p>"Rex... <em>Comparing Elysium to dirty old sea junk...</em>"</p>
+<hr />
+<p>The group exited the valley and Pandoria urged, "My Prince, look over there."</p>
+<p>A metal-built dome-shaped bunker with ether flowing within its walls. The dim lights coming in through the top of the cave reflected off the snow, providing a clear view. "Would you look at that! I guess we've arrived."</p>
+<p><img src="images/261_the_base.jpg" alt="The igloo-like base" /></p>
+<p>Nia was impressed, noted, "Whoa, it looks way older than the palace..."</p>
+<p>Dromarch added, "Yes, it seems untouched by the ravages of time..."</p>
+<p>In front of the door, Zeke gave his consent. Pandoria touched her core, communicating with the door. Everyone walked in, and the only object of interest is the gyroscope-machine in the middle of the room. Zeke reached for the control panel that had a fire imprints on it. Hovering his hand over it, the symbol lit up ether-green, and the gyroscope started rotating, its hands aligned and formed a thick ring like that of Saturn's, revealing a red crystals with electric sparkles and spikes that change length as it throbbed like a heart.</p>
+<p><img src="images/262_the_fetter.jpg" alt="The Omega Fetter" /></p>
+<p>Rex observed, "Looks like a Core Crystal! Is that... the Omega Fetter?"</p>
+<p>Pyra assured, "Yes. That's Ophion's control core. It was originally a conduit... that I used to communicate with Ophion."</p>
+<p>The ground shook more as they talked. Brighid urged, "We have to hurry."</p>
+<p>"Yes, you're right." Pyra handed it over to Mythra, she took it in her hand and plans rushed through her mind.</p>
+<p>Rex impatiently asked in a matter of seconds, "Well? Can you fix it?"</p>
+<p>"Shut up." Can't you see one's busy right now?</p>
+<p>"<em>I'm sorry...</em>" He guiltily scratched his head. It took Mythra a while before a blinding red light engulfed the room, and it transformed into a cube-shaped blue crystal.</p>
+<p>"<em>Hmmm...</em>" She took two small steps back effetely.</p>
+<p>"Mythra?" She turned around at give him a faint smile.</p>
+<p>"Whoa..." Gramps exclaimed.</p>
+<p>"In that case," Pandoria tried to communicate with Genbu once more; some little shaking continued before it stopped.</p>
+<p>Mòrag looked up the ceiling, sensing the air pressure eased a bit, asked, "Are we... <em>rising?</em>"</p>
+<p>Pandoria excitedly reported, "<strong>All right!</strong> Prince, I've told Genbu to resume circling the Cloud Sea once he's done rising."</p>
+<p>"Nice. Looks like- we made it- after all."</p>
+<p>"<strong>Ohhh! Great- news! Phew,</strong> Tora was not look forward to becoming flat as Argentum Monkfish."</p>
+<p>Nia felt relieved too, "A job well done, eh?"</p>
+<p>Pandoria urged, "<strong>Hey, Rex. You can</strong>... remove that thing now."</p>
+<p>"Hm!" He agreed and walked forward, looked at the Fetter closely. Finally, they were to arrive at their destination. Finally, they were to go to Elysium. He took it by arm, it feels so real.</p>
+<hr />
+<p>All done. Time to return. "So it was hidden all the way out here..."</p>
+<p>"<strong>What!</strong>" Ambushed!</p>
+<p>"No wonder we couldn't find it." Akhos continued, leading Patroka and Mikhail. "I'd just been wondering whether it was time to make an exit... Thanks for saving me the <strong>trouble.</strong>"</p>
+<p>Patroka: "L-lovely to see that- <strong>tedious</strong> woman isn't here to get in our way this time!"</p>
+<p>Mikhail did his solo dance once more, tesed, "<em>Care to join me-</em> in a- dance of death, Nia?"</p>
+<p>"I think I just threw up in my mouth a bit," was her reply.</p>
+<p>He lost his posture, "Mean- little- girl."</p>
+<p>Rex: "You've come for the Fetter, haven't you."</p>
+<p>"Perceptive, kid." He saluted back.</p>
+<p>Nia mocked, "Condescending much? It's not like there's anything else here."</p>
+<p>"You are <strong>SO</strong> mean."</p>
+<p>Akhos stuck out his hand, "Now, hand it over nicely... would be the classic line, but no. I'm <strong>not</strong> letting you escape with your lives. <strong>For Jin's</strong> sake."</p>
+<p>Mythra wondered, "Where are Jin and Malos, anyway? There are a few things I need to ask them."</p>
+<p>"Frankly, I don't think they've got much <strong>interest</strong> in what <strong>you</strong> have to say."</p>
+<p>Mythra's eyes squeezed a bit, "Sure about that?"</p>
+<p>"<strong>Quite</strong> sure, yes."</p>
+<p>Zeke walked forward, pumping up his breast while speaking, "Not to interrupt the verbal sparring, but <strong>how do you</strong> plan on doing <strong>anything</strong> without your Blades? We're no <strong>pushovers</strong>, you know."</p>
+<p>"Oh, we're quite aware of that." He looked aside, answered, "We just don't need them, you see."</p>
+<p>"Explain yourself."</p>
+<p>Akhos took out a 6-sided crystal that had 2 sides longer than the other 4, shining bright pink-red, and his bow appeared. His shirt that previously covered his chest opened up a little, revealing a rainbow-colored Core Crystal implanted on it. Patroka and Mikhail did the same, summoning their weapons, hers a halberd, his a pair of fan (like the one used by Chinese/Japanese scholar in the past to show off themselves).</p>
+<p>"<strong>CORE CRYSTALS?!!!</strong>"</p>
+<p>Rex was shocked, "<strong>They're Blades?!!!</strong>"</p>
+<p>Mòrag noticed the diferences, "Worse... Flesh Eaters..."</p>
+<p>Akhos congratulated her observation, "<strong>Bravo!</strong> Very good! <strong>We've had</strong> many an interruption <em>in the past...</em> <strong>but here</strong>, that seems <em>less likely</em>. So let's go allllll out."</p>
+<p>"You could try, but I assure you, we <strong>won't</strong> go down easy." Nia said as the group prepared to fight.</p>
+<p>"I wouldn't have it <em>any other way.</em> Like. I. Said. <em>Alllllllll. Out.</em>" And the battle begins.</p>
+<hr />
+<p>Akhos lost his cool, "<strong>Inconceivable!</strong> How-<strong>could</strong> we..."</p>
+<p>Everyone was panting heavily, Patroka cursed, "<strong>These- RAAAAATTTSSS!</strong>"</p>
+<p>Zeke loomed over them, "<strong>Warned ya, didn't we? You mess with Thunderbolt Zeke, that's whatcha get. You brought this on yourself.</strong>" He walked towards them, looking at them over his nose, grinning wide.</p>
+<p>"Ughhh..."</p>
+<p>"<strong>Anyway, THIS has gone on long enough. NIGHTY NIGHT, CHAPS.</strong> " He swung his sword, continued, "Very much <strong>looking forward to interrogating YOU- later!</strong>" They could do nothing to prevent him. "<strong>Here I go! Bringer of Chao- CHIAAAA</strong>" Adrenaline rushed onto his head, he felt imminent pain from his back. Subconsciously, his backbone twisted, but not enough for Jin to knocked hard on him. He turned around to face him before he knelt down, hands on his abdomen, "Woohoo..."</p>
+<p>Rex exclaimed, "Jin?! Where did he-..."</p>
+<p>Jin was surprised, "Seems they don't call you 'Thunderbolt' for nothing. That's the first time I've ever missed a vital point..."</p>
+<p>Zeke panted heavily, stuck his sword on the ground and pushed himself up, "<strong>Hrk! You bastard!! HYAAAARHHHH</strong>" He launched at Jin, and within a split second, Jin stood beside Akhos. He continued lunging forward.</p>
+<p>"<strong>Prince!</strong>" Pandoria quickly got hold of him while he was vomiting blood.</p>
+<p>"<em>Don't worry yourself... It's just a scratch, really...</em>"</p>
+<p>"Jin, are you OK?" Akhos was worried of his situation from last time.</p>
+<p>"Reeeelax, he's not made of glass." Malos made his entrée; Akhos just noticed him standing by the cliff wall.</p>
+<p>"<strong>Malos?!</strong>" Mythra called out. As if Jin wasn't enough?</p>
+<p>"Don't mind me. I'm just a <em>spectator.</em> <strong>He</strong>, on the other hand, insisted on coming here... to settle a score."</p>
+<p>"Jin did?"</p>
+<p>"Correct. <strong>You</strong> will give me both the Omega Fetter... <strong>and</strong>- the Aegis." Jin answered.</p>
+<p>Rex wasn't going to give up so easily, "<strong>You just try and take 'em! I know you're strong... but, there's no way we're giving you Pyra or Mythra!</strong>"</p>
+<p>"You have power, boy. But words do little." Step by step, he held out his sword to his side, his eyes focused on him. "If you know what you desire, you will have to show it..." Blizzard started forming below his feet, and the core crystal on his head shone bright red, "<strong>Not with words, but with your own strength!</strong>" The blizzard engulfed him he started transforming to his true form -- wearing a beetle like shirt that revealed the scar on his chest.</p>
+<p><img src="images/263_jin_true_form.jpg" alt="Jin&#39;s true form" /></p>
+<p>The ground shook once more. So this is his true power, Jin, without Fan's constraint. Rex: "Is that... Jin's true form?"</p>
+<p>Dromarch noted, "What enormous energy..."</p>
+<p>Poppi reported, "There no change to ether energy of surroundings. That energy being emitted from <strong>interior of body!</strong>"</p>
+<p>Nia classified, "Just like our Pyra, then? <em>Where do they even keep</em> all that energy?"</p>
+<p>Zeke was struggling to get up on his feet, standing like a curled prawn, spitting between his teeth, "How about alllll that rage energy he's got all pent up inside?"</p>
+<p>Rex: "No, that's not it... It's..."</p>
+<p>Before he could make a guess, Jin slashed in front of him, blowing the blizzard at them. Mòrag warned, "<strong>Watch out! Here he comes!</strong>" Round 2.</p>
+<hr />
+<p>In a split second, ten thousand slashes brought down all except Rex and Mythra. He peered over his shoulder, making sure they're OK, while Foresight kept activating. "<strong>GAH!!!</strong>" Faster and faster, he could no longer keep up, "<strong>ARRRGGGHHH!!!</strong>"</p>
+<p>"<strong>ARRRGGGHHH!!!</strong>" They pant heavily, pushing their limits as they tried to stand back up.</p>
+<p>Malos commented, "With wounds like that, they're done for. It's their <em>biggest weakness.</em>"</p>
+<p>Jin tried to demotivate him, "Your struggle is pointless. My power... gives me control over <strong>all</strong> elementary particles."</p>
+<p>"<strong>Parti-what?</strong>"</p>
+<p>"Heh. This allows me to accelerate my body... to the speed of light. (Particles started swirling around him, rising like mist). No matter how far ahead you can predict, your movements themselves are <strong>limited.</strong> You are no match for me."</p>
+<p>What else can they do? "<strong>Mythra...!</strong>"</p>
+<p>"I'm still here... (They could barely stand). <em>Rex, we have to... slow him down.</em> Match light speed... with light speed..." Her core crystal illuminated brightly.</p>
+<p>"Got it! OK! Here we go!" But he thought, to beat them on their strongest move face to face would destroy their hope more than stopping them before they had the chance. "<strong>UWWWWWAAAAAAGGGGGHHHHH!!!</strong>" Rex launched some attack to hinder his vision, which he didn't care to block. Siren launched a beam straight at him, and the ground around him were engulfed in a bright dome.</p>
+<p>"<strong>URRRRGGGHHHH!!</strong>" The others raised their arms over their eyes. Mòrag tried to peer from above the top of her arm.</p>
+<p>"We do it?" Rex questioned.</p>
+<p>The light ceded and revealed Jin sticking his sword into the light. Rex gasped, "<em>Huh!</em>"</p>
+<p><img src="images/264_jin_blocked_attack.jpg" alt="Jin blocked Sacred Arrow" /></p>
+<p>"Didn't I tell you? I can manipulate elementary particles. And the Aegis's attacks... are nothing but a stream... of particle energy... (The beam started dissipating its energy). The particles that form it are too heavy to truly reach light speed." With a slash, their efforts had been rendered useless. "The result- is obvious."</p>
+<p>Every piece of his skin felt heavy, "<em>Urgh nooo... Mythra's attack didn't...</em>"</p>
+<p>She gritted her teeth, "Jin..."</p>
+<p>He held up his sword and aimed at Rex, announced, "It's over, boy."</p>
+<p>"Ugh!" His feet slumped backwards one heavy step by another, his mind clouded.</p>
+<p>"<strong>EAT THIS!!</strong>"</p>
+<p>A shield Mythra raised was immediately shattered, she was sent flying backwards. He swung his arm and slashed ten thousand times. "<strong>GAAAAAAAHHHHH!!!</strong>" Only the hilt of Rex's sword remains.</p>
+<p>"<strong>Aieeeggghhhh!!!</strong>" Pain overtook Mythra and she fell into a coma; Pyra took over.</p>
+<p>"<strong>Rex! Pyra!</strong>" Nia got on her feet; Akhos, Patroka, and Mikhail got in between them. A machine that looked like Malos's artifices from 500 years ago descended from the air and pinned Nia to the ground. Dromarch dashed towards his Driver, pinned by another artifice while he was in mid-air. All on their feet, they found themselves outnumbered.</p>
+<p>Mòrag: "Gah! Th-these are..."</p>
+<p>"<strong>A-artificial Blades!</strong>" Tora exclaimed.</p>
+<p>"Of course... <strong>That's why</strong> you were at Bana's factory!" Herself jabbed to the ground, she emanated flames from her body, "<strong>YOU WON'T WIN... SO EASILY!!!</strong>" She pushed away the artificial blade and dashed towards Mikhail.</p>
+<p>"Uwaaagghhh!!!" Pretty lady coming at him, one swing and her truncheon sent flying. Another swing and she was raised above ground. Despite breathing difficulty, she looked at him, as if her vision can burn him alive.</p>
+<p>"Ugh..."</p>
+<p>"Lady Mòrag!" Brighid couldn't free her shackles.</p>
+<p>Mikhail's heart beat faster, exclaimed, "Whoooooaaa! You're quite a looker... from up close... <strong>Killing you</strong>... will be such a waste."</p>
+<p>"<strong>Urgh urggg....</strong> Let me go, <strong>YOU PIG!!!</strong>" His fan aimed at her chest.</p>
+<p>"<em>S-stop... it...</em>" Rex pleaded, but what request can be fulfilled if they're not standing on equal ground? Using his arms, he climbed towards Mikhail, when "<strong>Urgh!!</strong>" Jin, with the heel of his foot, pressed hard on his cheek.</p>
+<p>"I'm surprised you're still breathing. Relax. You'll be able to rest... after I've pried that Core Crystal- from your chest." He showed the front tip of his sword before his eyes.</p>
+<p>Jin might have compressed his cheek from above, but that doesn't prevent him from speaking clearly, pushing his cheeks against the soft, fluffy snow, he swear, "I... won't- die here. I have to reach... Elysium... (Jin's eyebrow tightened) I have to find... the answers we're all looking for..." He pushed his eyes to as left as possible, but most he could see is Jin's shadow.</p>
+<p>Mikhail stopped to look, Jin answered, "What... answers? In this world, there are- no answers." He stepped harder on his face.</p>
+<p>"<strong>ARRRGGGHHH!!!</strong>"</p>
+<p>Pyra woke up, effetely getting on her feet while instructing, "<strong>E-enough!</strong> I'm the one that you want, isn't that right?" Her words attracted their attention. She ordered, "<strong>Leave them... out</strong> of this..."</p>
+<p>Mikhail threw Mòrag away, dancingly teased, "Awwww, look, what a touching scene. Are you going to beg for their lives?"</p>
+<p>Malos seriously denounced him, "<strong>No mockery</strong>, Mik. This is serious business." He knew what power Aegises have, though he don't know how much of that power she still retained from 500 years ago.</p>
+<p>Pyra ordered, "Put- the sword- <strong>away</strong>, Jin. If not, I'll..."</p>
+<p>"You will do what, exactly?"</p>
+<p>"I will..." She closed her eyes and ran through the moments with Rex and the others. How she wished she could stay with them; but this is the end. She reopened her eyes, where reluctance turned unwavering, and replied, "<em>annihilate myself</em>."</p>
+<p>Her words are soft, but no one missed it in the silence. Nia was surprised, "<em>What?</em>"</p>
+<p>"You need me alive... don't you, <em>Malos?</em>" She peered over her shoulder. He was still leaning on the cliff wall. But such words tensed his muscles, and he stood up,</p>
+<p>"<strong>Huh!</strong> You worked that much out, did you? <em>Well done.</em> (Slowly walking towards her while continued speaking to distract her). <strong>But how</strong> would you make good on that threat? <strong>YOU don't have that</strong> kind of..."</p>
+<p>He shut his mouth when he saw the blinding red light emitting from her headband crystal and Core Crystal, as she asked, calmly, "Are you so sure... about that?"</p>
+<p>Malos stopped walking. Time felt like infinity. "This is a shock. I didn't think you had it in you..."</p>
+<p><img src="images/265_targeting_ray.jpg" alt="Pyra communicating with Siren" /></p>
+<p>Patroka wondered, "What's going on?"</p>
+<p>Malos explained, "She's controlling Mythra's Artifice herself..." Deep in space, Siren wield a split-barrel cannon, the hilt releasing a laser that aimed straight at Alrest, at Pyra.</p>
+<p><img src="images/266_targeting_ray.jpg" alt="Siren and its weapon aiming at Pyra" /></p>
+<p>Akhos was surprised, "<em>She's controlling Siren through sheer... willpower?</em>"</p>
+<p>Jin didn't wavered, "Go ahead. I'll deflect it with my powers, <strong>just</strong> like before."</p>
+<p>"You could do that... <em>if</em> I used the particle cannon itself. But this... is the targeting ray. (The beam increased its radius). It moves at the... speed of light. And if I... turned up the output <strong>just a little</strong>, that light alone... has enough power... to annihilate- <em>a single Blade.</em>" She clenched her fist, prepared to react. Her full attention on Jin, lest he killed him before she could self-annihilate.</p>
+<p>"You..."</p>
+<p>"<strong>One signal...</strong> from me... and <strong>my</strong> body... will be <strong>scoured</strong>... from this world. <em>Faster... than you can blink.</em> So? Jin?"</p>
+<p>Mikhail put down his fan, turned a serious face. Jin asked, "How unexpected. <strong>That you, an Aegis,</strong> would say something like that. <strong>So you'll do it? Open the gates to Elysium for us?</strong>"</p>
+<p>She closed her eyes, answered reluctantly, "<em>Yes.</em> If that is your wish."</p>
+<p>Rex cried out, "<strong>Don't, Pyra! They'll just- Grhhhnnn!</strong>" Jin pressed even harder with his sole, silencing him.</p>
+<p>"Jin!" She took a step forward, calmly, the beam reduced its radius but not its intensity. Holes started to form in her skin, engulfed by flames. How much tears she leaked, they all evaporate before having a chance to roll down her cheek. If they're to die today, they'll die here, together.</p>
+<p>Jin ran through the potential actions he could take, and the consequences and achievements each would lead to. He eyed Malos, whom let him lead. He took away his sword and leg, "Very well." One step by another, he kept his focus on the Aegis, reversed away from the boy.</p>
+<p>Some distance away, she felt relieved. Targeting ray no longer shone on her. She slowly walked towards Rex; she don't know how to face him, turned to the side, finding herself between Jin and the boy.</p>
+<p>Nia: "Pyra..."</p>
+<p>"<em>Nia... Keep Rex- safe for me.</em>"</p>
+<p>She struggled against her shackles, to no avail, "<strong>N-no</strong>, no way! I don't agree to this!" Pyra turned on a deaf ear. Brighid looked at her, didn't say a word. Pyra got down and apologized, "<em>I'm really sorry, Rex...</em>" before reaching for his pocket.</p>
+<p>Rex couldn't move a finger, except for his mouth, "<em>P-Pyra... But why...</em>" Had she lose hope? Had she forgotten their promises? Should they not try harder? Should they not die for their glory? Why surrender? She didn't answer, took the Fetter and walked towards Jin.</p>
+<p>"<em>Hurrrghhh</em>" Vision turned blurry, dark, before wiped out, and she fainted just before reaching him. He took a step forward and wrapped his arms around her.</p>
+<p>"<em>P</em>-<strong>Pyra!!!</strong>" Rex struggled to get to her. This time would be different. This time, he could no longer fend off their enemies. This time, she would be taken away. He would lose her forever.</p>
+<p>Jin's eyes fixated on her, mocked him, "<strong>Look</strong> at the state of you..."</p>
+<p>"<em>Huh!</em>" His eyes jittered.</p>
+<p>"You hadn't even noticed? Your own Blade- has been wounded <strong>so</strong> deeply... and <strong>all</strong> you can think of is <strong>yourself.</strong>" He sheathed his sword.</p>
+<p>"<strong>Agh...</strong>" His heart hurt more than his external wounds. The hand that held on to the broken sword hilt trembled uncontrollably.</p>
+<p>He continued, "You awakened the Aegis... <strong>I</strong> thought- you might have been <strong>different.</strong> But you're just..." The silence fell as Rex ran through the possible labels he might gave him. "...a fool."</p>
+<p>"<strong>Ugrhhh!!!</strong>" His iris dimmed to a dot, flooded with disbelieve.</p>
+<p>"A pitiful, childish... <strong>fool!</strong>" He couldn't even believe it. Why would he had fought this boy for so long? He's not even worthy of me breaking my promise. He's not even worthy to die with my sword -- it only dirtied my sword with a fool's blood, and who knows if his foolishness would spread or not? He carried Pyra and leave.</p>
+<p>The label did not demotivate him. His first goal is to get Pyra back. He scrambled on his feet, tried to reach for her before they took her away. Step by step he put forward, Jin can't believe how stupid he is. To save you, she had done so much, and all you want is to die, putting her will to a waste. He wielded blizzards to block him, block his sight on Pyra. All the artificial Blades took off and into the air. "Urrrrrggghhhh!!!"</p>
+<p>After the blizzard died, he opened his eyes once more, no longer signs of any Torna members. He clenched his fist stronger on the broken hilt, his head scanned, his eyes jittered, his breathe shallow. Where are they? Where are they? Where are they?</p>
+<p>"<strong>Pyraaaa... PYYYRAAAAAAA!!!</strong>"{{footnote: One don't want to disturb the final sentence so one'll add this description in the footnote: "But no matter how strongly he called, she's not coming back,. Darkness took over his eyes; he could take no longer; with a thud, he fell on the ground, knew nothing after."}}</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="22_escaping.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="24_third_aegis_sword.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="22_escaping.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="24_third_aegis_sword.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

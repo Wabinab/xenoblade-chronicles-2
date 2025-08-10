@@ -1,0 +1,434 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The Architect - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-architect"><a class="header" href="#the-architect">The Architect</a></h1>
+<p>The spotlight turned on on Rex and Pyra. "<em>Huh?</em>" He peered over his shoulder, Gramps, in his larval state, sat still in his helmet. He looked at her; she crossed her palm, as if she was praying or appreciating, looking at the floor. One by one, the spotlight goes on -- Zeke, Pandoria, Dromarch, Nia, Brighid, Mòrag, Tora, Poppi -- they all looked at each other. Rex turned around, asked, "You guys..."</p>
+<p>Now this place looked normal, and they looked normal. He'd already forgotten about his mental breakdown. They're back, back to whom he recognize, whom he expect.</p>
+<p>"R-Rex..." Nia called out.</p>
+<p>Zeke hadn't woken up yet, "Why're we all <strong>here</strong>? I thought I was..."</p>
+<p>Klaus, sitting in the dark, spoke again, "I merely wished... to examine the shapes of your hearts."</p>
+<p>Rex looked at Pyra, trying to see if she knew something. Nope, he thought. They both turned to the darkness, "That voice..." Perhaps a door opened up, the dim neon light slid away from each other. "You're..."</p>
+<p>Some glowing turquoise crystal moving in the dark. The guy introduced himself, "My name is Klaus. The Architect of this world." In the dark, we could merely see dark lines running down his bony neck, "I- have watched over you- alllll this time. I have seen your thoughts, your desires; the things you have achieved."</p>
+<p><img src="images/317_architect_1.jpg" alt="Architect 1" /></p>
+<p>"So you did that, <em>just now?</em>"</p>
+<p>"Yes. Those were not your present forms, but alternate possibilities. <em>Your other selves that <strong>lie</strong> within.</em> <strong>That</strong>- is what I wanted to see."</p>
+<p>"Our other selves?" Zeke can't believe. "You mean we're all <strong>thinking</strong> stuff like that <strong>deep down?</strong> Was that how we <strong>really</strong> feel?"</p>
+<p>"Then you saw it too?" Nia chimed in, assuming what he's looking at is the same as hers.</p>
+<p>"Looks like we were alllll shown the same kind of stuff." He hypothesized. "It creeped me out! <strong>What're you trying to prove?</strong>"</p>
+<p>"Those... were the <strong>fears</strong> you harbor..."</p>
+<p>"I- don't get it at all."</p>
+<p>Dromarch got on his feet, prepared to poach, "What was your <strong>purpose</strong> in showing us this? Those were <strong>not</strong> pleasant visions to behold."</p>
+<p>"My only purpose... was to find out... how mankind has changed... <strong>and where it is</strong> headed."</p>
+<p>"And were you disappointed?" Mòrag wanted to know.</p>
+<p>"No..." There was something attached to his forehead, something shiny, connected to a chain-like mechanism, seen in the dark. Wrinkles grew all over his face. "As you stand before me right now... That- is who you are. That is enough."</p>
+<p><img src="images/318_architect_2.jpg" alt="Architect 2" /></p>
+<p>"Architect, sir... <strong>I came here</strong> because I met <strong>Pyra.</strong> Is this <strong>really</strong> Elysium? Are you <strong>really...</strong>"</p>
+<p>He knew what he wanted to know, demanded for his patience, "I will show you everything. Memories... Mine, and those of this planet."</p>
+<hr />
+<blockquote>
+<p>The Beanstalk, Rhadamanthus.</p>
+</blockquote>
+<p>"This world was once the stage... of a struggle for survival... that dwarfed this current predicament."</p>
+<blockquote>
+<p>The battle between the artifices.</p>
+</blockquote>
+<p>"The world was an unseemly place, though glimpses of beauty persisted. What should people live for? <strong>Who</strong>- should they live for?"</p>
+<blockquote>
+<p>Secretary running around the offices; clerks working behind the panels.</p>
+</blockquote>
+<p>"They live for themselves. <em>To harbor desires- and struggle to realize them -- that is the natural state of man.</em>"</p>
+<blockquote>
+<p>The quarrel between Klaus and Galea.</p>
+</blockquote>
+<p>"<em>But</em>- <strong>I</strong> did not think <strong>that</strong>- was good enough. <strong>I</strong> lost hope- for mankind. I searched tirelessly- for an outside solution. <strong>And one day, I found it.</strong> <em>The Conduit.</em>"</p>
+<blockquote>
+<p>The bright cross. Klaus typing greedily on the integrated keyboard on the giant panel.</p>
+</blockquote>
+<p>"Why it chose to appear before us, I do not know. However, its existence- presented a new possibility..."</p>
+<p>"Possibility?" Rex was curious.</p>
+<blockquote>
+<p>Echelon Siren fighting other artifices.</p>
+</blockquote>
+<p>"Our world- was not the only one. <strong>Endless</strong> universes coexist, side- by side... yet all- <strong>completely unaware</strong> of one another. The Conduit... was <strong>our</strong> link to these... foreign worlds... And I- opened- that forbidden gateway... <strong>praying, that it would change the world...</strong>"</p>
+<blockquote>
+<p>Supernovae swallowed his world.</p>
+</blockquote>
+<p>"You have seen the plain- called Morytha, have you not? <strong>That</strong>- is what remains- of my world. When I opened the Conduit, many people- and many things... disappeared, into <strong>distant</strong> dimensions." _Rex and the others waited patiently for him to continue.) "All that remained here- were the ruins of Morytha..."</p>
+<p>He tuned the spotlight on him brighter and brighter, until it revealed his current state, "and half of my body."</p>
+<p>The chains earlier, thought to be chains, connected to his forehead, was actually some medical-looking equipment. It attached not only to his forehead but also to his chest. He was skinny, bony, devoid of any muscles, his face wrinkled. He sat crossed legs, the other half of his body swallowed by a void that continually suck on this half of his body.</p>
+<p><img src="images/319_klaus.jpg" alt="Klaus" /></p>
+<p>Everyone jumped on their feet, feeling sorry for his destitute state. Pyra gasped. Atop and below him, some blue circular rings grew and spanned out.</p>
+<p>Rex: "Your... body?"</p>
+<p>"Half of me... lives on in some <strong>other</strong>- dimension. But... not for much longer."</p>
+<p>"What do you mean?" Mòrag wanted to know.</p>
+<p>"The moment of my other self's demise... draws near."</p>
+<p>"Father, you..."</p>
+<p><img src="images/320_klaus_2.jpg" alt="Klaus 2" /></p>
+<p>"I was a fool... <strong>Because of</strong> my foolishness, I lost- <strong>everything</strong>. Left here, alone and <em>broken</em>, I longed for oblivion, <em>but even that eluded me.</em>" (He looked up at the stack of rings above his head, said,) "<strong>This</strong>... is my punishment. Retribution from on high, <strong>for the sin</strong> I have committed..."</p>
+<p>"On high?" Why on high? Rex wondered.</p>
+<p>"There was only one thing I could do... I had to atone- for my sin... <strong>I swore</strong>- to restore this world."</p>
+<p>The rings of circles zipped in and disappeared. The room returned to darkness. "The first thing I created, was a special particulate substance with the ability to restore deteriorated matter."</p>
+<blockquote>
+<p>60-sided atoms{{footnote: One made this up.}} in huge quantity coagulate and spread out.</p>
+</blockquote>
+<p>"<strong>You</strong> all know it- as the Cloud Sea. The Cloud Sea can <strong>disassemble matter</strong> it comes in contact with, and rebuild it- in the image of <strong>all</strong> the things- that once made up this world. This way, little by little I could rebuild the world I had brought to ruin..."</p>
+<blockquote>
+<p>Morytha. Blue flames engulfed buildings from top to bottom, evaporating motes in giant quantities. What's left from the burning is refurbished buildings.</p>
+</blockquote>
+<p>"Next, I began to <em>recreate</em> life. I gathered miniature vessels- containing memories of <strong>all</strong> this planet's former lifeforms..." (A cubic core crystal materialized in his hand, and he dropped it to the oblivion below. It split into many different-shaped smaller crystals, rained down onto the Cloud Sea.) "...and I scattered them <strong>across</strong> the Cloud Sea. <strong>These</strong>- are the Core Crystals."</p>
+<p>The group watched in awe as the raining Core Crystals flowed through the room like meteorites. Awesome view they'd never seen before!{{footnote: Cinematic 3D scene he can do with the room.}}</p>
+<p>"The Crystals bonded with the Cloud Sea's particulate reconstructors..."</p>
+<blockquote>
+<p>More and more 60-sided atoms gathered together and formed larger complex, eventually forming chains in double-helix structure.</p>
+</blockquote>
+<p>"and formed the nuclei of new life. Those nuclei developed into minute lifeforms -- the Titans -- who would over time... grow larger- and larger. Finally, the Titans gave birth... to complex organisms, <strong>based on</strong> the data in their Core Crystals. This newly-birthed life, over untold millennia... evolved into a new breed of mankind."</p>
+<p>The tree of evolution shaped exactly like the World Tree, spreading out its branches.</p>
+<p><img src="images/321_the_life_tree.jpg" alt="The tree of Evolution" /></p>
+<p>Mòrag now understood a little, but she wasn't very enlightened,{{footnote: As far as we can tell from her facial expression.}} "So that's how we came to live in this world..."</p>
+<p>"But... I did not trust this world, <strong>born</strong>- as it had <strong>been</strong>. <strong>What if</strong> it were to <strong>repeat OUR mistakes?</strong> What if... <em>someone like me</em>- appeared? <strong>To stave off these doubts, I implemented one final measure...</strong> And so the Blades were born."</p>
+<p>"<strong>HUH!!!</strong>" Rex was suddenly enlightened.</p>
+<blockquote>
+<p>The Trinity Processor.</p>
+</blockquote>
+<p>"Ontos, Logos, and Pneuma... the three cores of the Trinity Processor formed their cornerstone. However, Ontos triggered a space-time transition event, and disappeared- forever{{footnote: With his other half of his body; they're in the same world.}}. I was left with the other two, Logos and Pneuma, entrusting them with managing the Blades."</p>
+<blockquote>
+<p>The door to the room that hosted the Trinity Processor opened wide, bright light shining through; we could see someone leaving the room.</p>
+</blockquote>
+<p>"Malos- and Pyra. Those, are the names that <em>you now</em> know them under."</p>
+<p>"<em>So, I am... Pneuma...</em>" Klaus nodded.</p>
+<p>Dromarch was very thoughtful of the words he'd used, clarified, "'Managing'?"</p>
+<p>"The Core Crystals- at the heart of <strong>each</strong> Blade- are tasked... with relaying <strong>all</strong> kinds of information- to Logos- and Pneuma. About the selection pressures of the outside world, and the biological status of their bonded human, but <strong>also</strong> the <strong>experiences and emotions</strong> they share."</p>
+<blockquote>
+<p>Haze and Lora, Addam and Mythra, chatting, or just doing their own things, enjoying each other's company over their food. How they acted, how they reacted.</p>
+<p>Jin and Lora surrounded by Tornans.</p>
+<p>Rex and Gramps.</p>
+</blockquote>
+<p>"As the data continually accrues, <strong>new evolutionary code</strong> is sent back to the Core Crystals, and this code is used to <em>create new, further evolved Blades.</em> These Blades, too, become Titans, in time... and create new generations of lifeforms."{{footnote: By 'cleansing' the Core Crystals, these data were gone, at least locally in their core crystal, so they started from scratch once again, snuffing out the cycle.}}</p>
+<blockquote>
+<p>Rex, accompanied by Tora and Pyra, with Roc.</p>
+<p>The resonance between the boy and the Core Crystal in Gormott.</p>
+<p>The death of a Titan, Vandham dug out the Core Crystal from it and showed it to them.</p>
+</blockquote>
+<p>"This... was the new circle of life I had created."</p>
+<p>Gramps was impressed, "A <strong>GRAAAAND</strong> scheme... <strong>It boggles the mind</strong> a tad!"</p>
+<p>Rex concluded, "So- we were all born from this- endless cycle of life... To replace the victims- of the previous world."</p>
+<p>"That's right. But there were also... a handful of survivors. I believe you saw them when you were in Morytha. The unfortunate ones- who clung to life..."</p>
+<blockquote>
+<p>Rex and the others fell one of the strong monsters -- they would've died if Zeke and the rest hadn't reunited with them on time. Rex picked up a dog tag from the monster after all of them left, curious about it, and kept it to himself when Tora called out.</p>
+</blockquote>
+<p>Rex now joined the dots, "<em>Ahhh!</em> You mean those monsters... <strong>Were</strong> they... originally people?"</p>
+<p>"Core Crystals- were first conceived- as a replacement for human brain cells. A product of mankind's <strong>age-old</strong> quest- for immortality."</p>
+<p>Mòrag immediately concluded after he stopped speaking, "<em>And that's what became of them...? How awful.</em>"</p>
+<p>"But that technology- became the starting point- for the creation of Blades- and Titans."</p>
+<p>Gramps felt that "Soooo- in one sense, their sacrifice- was not in vain... <strong>Though</strong>- not all- may- see it as such."</p>
+<p>Dromarch wanted to know, "So, tell us, in the end... <strong>Did we</strong> develop- as you had hoped?"</p>
+<p>"What do you think?"</p>
+<p>"I... <em>couldn't possibly...</em>"</p>
+<p>He leaned closer towards them, "Well... Those phantasms which you all experienced earlier... <strong>Those are feelings- that lurk in all of your hearts...</strong> As well as that man, Amalthus's..."</p>
+<blockquote>
+<p>Young Amalthus grabbed onto his mom's hand and ran, continually looking behind; were the pursuers catching up with them?</p>
+</blockquote>
+<p>"When a person loses something, they cannot help but seek a reason why."</p>
+<blockquote>
+<p>Young Amalthus, swiping his hand over his mom's eyes, closed it forever. He picked up a rock and walked quietly to the dozing pursuers, ending them in sweet sweet dream.</p>
+</blockquote>
+<p>"Within themselves, or in others..."</p>
+<blockquote>
+<p>One of the injured guy he helped wrapped his bandage held his knife high, aiming at the crying baby. Amalthus caught it in his arm; the guy looking back to see who's stopping him, and saw an emotionless to-be-Praetor.</p>
+<p>Amalthus slowly raised his index finger over his mouth; the baby stopped crying loudly, although the burps from crying aftermath weren't really controllable.</p>
+</blockquote>
+<p>"They seek a concrete answer to the question..."</p>
+<blockquote>
+<p>Klaus quarrelling with Galea.</p>
+</blockquote>
+<p>"...of who they really are, deep- inside."</p>
+<blockquote>
+<p>Galea hugged Klaus from behind; Klaus roughly threw her away.</p>
+</blockquote>
+<p>"Such a very lonely existence..."</p>
+<blockquote>
+<p>He focused on the screen and the Conduit, and after finish typing on the keyboard, waited a full second before pressing ENTER.</p>
+<p>Lora stretched out her hands and used her body as a meat shield to protect Jin. Jin quickly took her injured body and dragged them to safety.</p>
+</blockquote>
+<p>"...but perhaps... that is what it is to be human... All this data passsssed through me, and I knew." Klaus closed his eyes, looking down.</p>
+<p>"<em>Huh...</em>" Rex don't know what to say.</p>
+<p>"All of you. You were not in any way different from us, before."</p>
+<p>"<em>Huh...</em>" Rex's eyes widened.</p>
+<p>"That's why- I did not intervene... 500 years ago, when the man <strong>finally</strong> arrived here... I did nothing when he took away Logos- and Pneuma. I stood and watched as Logos, instantiated into Blade form, set out to purrrrge the world."</p>
+<p>"You don't make sense! Didn't you go to all that trouble to <strong>rebuild</strong> it? Then, why would you-"</p>
+<p>"<em>It is fate.</em>"</p>
+<p>"<strong>Fate?</strong>"</p>
+<p>"It is fated- to happen. <strong><em>It cannot but happen.</em></strong> My atonement... was doomed- from the start." The moment he wanted to create an intelligent species called <em>human</em>...</p>
+<p>Pyra felt hearthurt, "That can't be..."</p>
+<p>"I had made my peace with it. Once more, I longed for nothing more- than to disappear. However... Something has now changed. And that is <strong>you</strong>, Rex. You- and Pneuma."</p>
+<p>"<strong>Me?</strong> And... Pyra and Mythra...?" They looked at each other, didn't understand what he meant.</p>
+<p>"You reforged your bond in a way I had not thought possible. And the life you share..."</p>
+<blockquote>
+<p>Her giving away half of her Core Crystal to Rex.</p>
+</blockquote>
+<p>"Moreover, The Conduit, which fell into a <strong>stubborn</strong> silence- after the world's end, has begun stirring once more. Rex..." (He waited for his words.) "The power you and Pneuma exercise... is the Conduit's power. It comes leaking out of some- far-flung dimension. And it is a power <em>we can know nothing about...</em> But with its help, the world <strong>may be</strong> about to change."</p>
+<p>While they were speaking, 3 artifices Siren, floating on the outer ring of Rhadamanthus, aimed their cannons on Alrest and shot their beams. Rhadamanthus shook, perhaps from Newton's 3rd Law, and the room the group and Klaus was in started shaking. The group kept at their feet, trying to rebalance themselves.</p>
+<p>Rex looked around, trying to figure out "What's all this shaking-?!"</p>
+<p>Klaus, with his all-seeing eyes, answered calmly, "It is Logos... Malos, trying to destroy this world- and everything in it."</p>
+<p>"<strong>What?!</strong>"</p>
+<p>"Remember, at heart he is but an information processing unit, neither good nor evil. He is driven- by a certain impulse... The despair- that the man named Amalthus felt."</p>
+<p>"I see... So it was <strong>right</strong>. What I <strong>felt back then</strong>, I mean."</p>
+<p>"<em>Rex...</em>" Pyra may have heard it from him or from the others; she wasn't there when he told about it first{{footnote: She was having an audience with Amalthus, alone}}, nor when he repeated it the 2nd time{{footnote: if one remembers correctly, in the depths of Spirit Crucible Elpys}}.</p>
+<p>"Rex... What is it you desire?"</p>
+<p>With full confidence, he answered, "What else? To stop Malos."</p>
+<p>"And- if you succeed?"</p>
+<p>"I'll punch him in his stupid face, and then..." (His eyes rolled for a while, thinking for a moment, before answering,) "...probably get a drink with him or something. That's the Sixth rule of the Salvager's Code." (The Architect's eyes widened a bit. Rex optimistically continued) "First have a punch out, then drink to forget. Once you've forgotten, the friendship's all set!" (As if he recalled what Mythra brought to him earlier in the test and she put it aside, he looked at Pyra first before at the others, rubbing his nose) "I'm... not old enough to <em>drink yet though...</em>"</p>
+<p>Klaus wasn't emotionally roused, he emotionlessly answered, "I see... Pneuma..." (Pyra looked up, wanting to know what's gotta do with her. Rex turned to look at her.) "No, I should call you Pyra and Mythra."</p>
+<p>Her smile widened at such recognition, the more familiar names she recognized with, she asked, "What is it?"</p>
+<p>"I want to apologize, for having burdened you- with all this."</p>
+<p>"<em>Don't worry.</em> We're actually grateful." (She started walking towards him.) "Thanks to you, Father, we got to meet Rex- and everyone else." (She stopped 3 arm-lengths away.) "Those are cherished memories."</p>
+<p>There was a thin smile on his face. He raised his only arm and Pyra's crystal on her chest and her head started glowing bright, transforming into Pneuma. "Father..."</p>
+<p>"I have transferred all of Elysium's data and authorizations to you. <em>Make me proud.</em>"</p>
+<p>"We will."</p>
+<p>"Rex."</p>
+<p>"Yes?"</p>
+<p>"I will disappear soon. When I do, the Conduit will likely disappear from this world. You will not be able to use your power- forever."</p>
+<p>"I understand. <strong>We'll make do</strong> somehow."</p>
+<p>"<em>I'm counting on you...</em>" He nodded unwaveringly, holding his trust high.</p>
+<p>Pneuma turned to her Father. He nodded at her softly. She winked, and together, they dashed for the door. Before exiting, Rex stopped, turned around and shouted, "<strong>Klaus!</strong>"</p>
+<p>"<em>Hm?</em>" The others turned around and waited for him.</p>
+<p>"<strong>Have you changed your mind about this world?</strong>"</p>
+<p>"Right now..." (He looked down on the floor before looking back at them.) "<em>I think... I am glad I met you all.</em>"</p>
+<p>"Got it. Then- <strong>our answers match! Thank you, for giving us all life.</strong>"</p>
+<p>His mouth opened gaped a little, surprised. His eyelid sagged; for the first time in eons, he once more felt the feeling called appreciation. The group turned around and continued for the door, time seemed to slow down in Klaus's eyes. He thought for a really, really long time, "<em>Perhaps... Perhaps I will be able to face you again... (He looked to the top of the ceiling, thinking of the one whom loved him) Galea...</em>"</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="33_please_father.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="35_confronting_malos.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="33_please_father.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="35_confronting_malos.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

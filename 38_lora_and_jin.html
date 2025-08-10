@@ -1,0 +1,370 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Where It All Started - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="where-it-all-started"><a class="header" href="#where-it-all-started">Where It All Started</a></h1>
+<p>{{footnote: Narrated by Jin.}}"The year... was 3564. The 107th Indoline Praetor, Rhadallis... had sent an armed expedition... against the country of Coeia. Its capital, Omrantha, fell overnight- and sank beneath the clouds, along with the rest of the Titan. The destruction of Coeia shocked all the nations of Alrest. Officially, the act was attributed... to a military alliance led chiefly by Indol... and the emerging power- of Mor Ardain. <strong>In fact</strong>, it had been the work of one Blade. The Aegis, a man- known as Malos..."</p>
+<blockquote>
+<p>The armed Titans one-sided slaughtered the weakly-armed soldiers.</p>
+<p>Malos slammed down from the sky, a dome of his energy grew larger and larger, wiping out every single soldier and Titans on the battlefield.</p>
+</blockquote>
+<p>"...said to be- the Architect's word incarnate. Back then, neither Lora nor myself knew... how closely <strong>his</strong> fate... would <em>prove</em> to be tied with ours... in the days to come..."</p>
+<hr />
+<p>Inside his Artifice, Malos exclaimed, "You're <strong>that</strong> eager to die? Then <strong>allow me to assist!</strong>" He aimed his artifice's cannon at the Titan, launched a particle beam and swiped it parallel to its backbone. It bellowed in pain as flames seared through its thick skin; quickly, it loses consciousness, and with it going down deep beneath the clouds, the flames extinguishes itself.</p>
+<hr />
+<p>===</p>
+<p>A woman with red short dress, along with a man wearing silver, dashed through the leaf-trodden path. With the red-maned beast pursuing them, time was of the essence. Sparks, it came to an end, nowhere left to run. She turned around and stood firm, slashing her whip that wrapped around one of the leg of the beast, pulling it hard, bringing it into the air, and when it fall above her, kicked it to the nearest tree back. "Bang!" And it dropped unconscious behind the ferns.</p>
+<p>The man wearing silver light armor with light-silver hair and extremely muscular slightly-tanned arms drew his sword attached on his back and pointed it at the volff poaching at him, timed the opportunity to stab under its belly, and while it struggled, pulled out and sliced on its neck.</p>
+<p>The woman wore white tight shirt, with black clothes wrapping around her arms as extra protection, her red hair tied around her neck like a pony tail draped along her back reached even below her waist, fair skin, large golden irises, were busy with the incoming volffs, a few at a time. She kicked and whipped, he aimed and sliced, but the volffs continued to poach despite their fallen brethren.</p>
+<p>More incoming. The man threw his sword and stabbed on the floor beside her; she took it and sliced at the incoming. She retreated near the guy, passed the sword back to him, which when he sliced, ice ethers flowed along.</p>
+<p>Now's the chance! They went back to the trails, away from the dead end and keep running. Though while they took their time, some other species managed to join the volff in the pursuing packs. While they ran, she looked back, counting how many were after them. Panting slightly, the man commented, giving a glance behind, "There's no... end to them!"</p>
+<p>"And it's not just the Volff and Feris... Even the Buloofo's caught up in it!"</p>
+<p>They stopped and looked up. Rocky walls of 15 meters up to another platform. If they weren't pursued, they could slightly strenuously climbed up; but with the volffs incoming, it's vital to have both their hands free. No more place to run, they turned around and be prepared to face their enemy.</p>
+<p><img src="images/363_jin_and_lora.jpg" alt="Jin and Lora" /></p>
+<p>He don't even need to deliberately sniff, the thick odor wafted through the air. He asked, "Lora, can you smell it?"</p>
+<p>"Hoh! Yeugh! It stinks like-" She was trying to find a word to describe when the ground shook. From behind the Ferises and Volffs that blocked the way they were coming from, a giant creature emerged, covering them with its shadow. As if welcoming their boss, they jumped to the side and let the giant creature pass through; they watched as it slowly loomed over them -- a bear-like creature with two giant demon-like horns and foul-smelling teeth!</p>
+<p><img src="images/364_the_creature.jpg" alt="The Creature" /></p>
+<p>"Yeah, no doubt about it. Blood. It's driving them crazy."</p>
+<hr />
+<p>She slashed some of the incoming with his sword while he raised a shield temporarily. When she turned to check on him, she heard incoming footsteps, turning around and saw a creature poaching on her. No more time to react.</p>
+<p>"Lora!" The creature puts its hooves on her shoulder, while she, holding to her whip, pushed it against the volff's neck which it tries to bring down to devour her. But as the struggle went on, her strength and stamina slowly dissipates, and her time was nigh.</p>
+<p>"<strong>ARGHHH!!!</strong>" The last one pursuing the guy had just been dropped, he quickly dashed towards the girl, retrieving his sword stuck next to her,</p>
+<p>Once the guy dropped the last one coming at him, he quickly dashed towards the girl, taking his sword stuck to the ground next to her, and stabbed hard from the side on its neck. It flew some distance before dissipating into motes. Another came in front behind, which he raised his palm pointing at them and sent streaks of icicles that killed it and several others following close behind.</p>
+<p>Looking around, they were sure all had fallen. He walked up to her, sitting on the ground while giving him a thin smile, offered her a hand which she took and stood up.</p>
+<p>"Thank you, Jin."</p>
+<p>"Well..." He shook his head. Always taking the chance, don't she? He glanced to the other side, walked some 2 steps in front of her, scanning the vicinity while saying, "We've got <strong>room</strong> for improvement..."</p>
+<p>"Of what?"</p>
+<p>"This fighting style. It magnifies our strength, sure, but it leaves us wide open..." He tuck his sword back to where it was. "When the sword is in my hand, (turned to look at her) you're left defenseless."</p>
+<p>She teased, "What, you won't keep me safe?"</p>
+<p>"Huh?" What had that to do with their fighting style?</p>
+<p>She walked up to him, put her right hand on his cheek, and repeated what she always remembered when they first met, "'I'll keep you safe, always!'"</p>
+<blockquote>
+<p>"I'll keep you safe, always..." He offered his hand to the child Lora, she took it and put her trust in him forever since.</p>
+</blockquote>
+<p>He enjoyed her fingers massaging his cheeks for a short moment before feeling it too awkward and childish, softly grabbed her hand with his and took it away, "You... <em>You still remember that?</em>"</p>
+<p>His eyes tracked her as she danced to his right, "I've thought about it... every day for these 17 years." She stood still, looked up at the sky, promised to herself, "I'll never forget it. The day you set me free from a life of misery."</p>
+<p>She turned to look at him, whom commented without any particular emotion displayed, "I see..." And that was enough for her. She joyfully took the path where they came all along, and he followed behind. They'd been here for too long; it's time to move on.</p>
+<hr />
+<p>Burnt-down houses. Leafless trees. Every inch of land painted with a layer of black soot. Even the air one breathe in was thick with soot, fogging one's vision. A boy stood on the rights of way in the middle of the village, wearing long sleeves of red and long, dark pants, with blonde hair, fair skinned, blue iris, stood looking on the ground.</p>
+<p><img src="images/365_young_mikhail.jpg" alt="Young Mikhail" /></p>
+<p>"What happened, Are you alone?" She bent down, her golden irises tried to look into his eyes, even if it wasn't reciprocated. She tried her best to be friendly, but the boy seemed shy to establish eye contact, not to say opening up.</p>
+<p>"Looks like the only survivor." Jin just returned from scouting. "These burn patterns... don't look like Malos's handiwork. Must've been humans... <strong>Looting</strong> and <strong>pillaging</strong> while the world burns." (He clearly displayed his disgust.)</p>
+<p>Lora didn't lose his focus on the boy, quietly assured him, keeping eye contact on him, "<em>Hey, it's OK. Would you like to come with us?</em> You don't have to worry, really. We're all good people, promise."</p>
+<p>Really? The boy looked up and look into her eyes. Does she looks trustworthy? Maybe? Her bright golden eyes seemed reassuring. Their actions up till this moment seemed reassuring.</p>
+<p>Jin went down on one knee, looking up at him{{footnote: since he's always looking down}}, asked, "Can you walk?" He looked at him for a while before strongly and affirmatively nodded. Jin patted him, encouraging, "You can. Good going."</p>
+<p>He stood up, put an arm on his back, gently ushering him to come with them. When the boy started moving, he took back his hand, but the boy needed no further instruction to tag along.</p>
+<hr />
+<p>Wildly growing weeds and ferns just outside the village's perimeter -- the fire seemed not to affect them. On the barren path, they stopped again, Lora tried her luck to get more information about the boy. "And... your family? Were they there with you? Should we go back and..."</p>
+<p>"Mikhail." He sniped.</p>
+<p>"Hm?" She didn't heard it.</p>
+<p>"My name is... Mikhail."</p>
+<p>"Ooohhh, right! I'm Lora. And he's..." She turned to look at him, whom put an arm on his waist.</p>
+<p>He didn't care about who they were, at least at that time, looked to the other side, snapped,  "<strong>I don't- have-</strong> a family. I was sold <em>to this village.</em> From Estham. So... I'm all alone."</p>
+<p>A moment of silence fell as they digest the news, Lora forcefully chuckled, "I see..." It look a long while for her to decide what to say before she gave him a smile, said, "Right, then! Starting today, we're going... to <strong>be your</strong> new family! We'll take you back to our <strong>friends</strong>, and..."</p>
+<p>He don't believe what she said, "You <strong>people</strong>? You're strangers. You don't... have to pretend to care." He closed his eyes and looked away.</p>
+<p>That was awkward... "Err... Aha... hahahaha..." Jin facepalmed himself. Lora cheerily commented, "You don't beat around the bush, do you?"</p>
+<p>But in her mind, she knew something ran deeper, "<em>He's gonna be a handful, this one. Though, really... I was just the same once...</em>" Mikhail didn't react to her tease.</p>
+<p>After finished thinking, she offered, "<strong>Very well.</strong> Friends first then, not family. How's that sound?"</p>
+<p>Mikhail didn't react. Jin approached and called out, "<strong>Lora.</strong>"</p>
+<p>"Huh? What's up?"</p>
+<p>"I'll scout the area. Look after him."</p>
+<p>"Ohhh, of course. Be careful..." When he turned around, she quickly added, "<strong>And</strong> Jin..."</p>
+<p>"I know." He put on a dark silver mask that cover his  face above his nose before going off.</p>
+<hr />
+<p>On the back of a dragon-like Titan stood a tall building that shaped like the Eiffel Tower. An old, all-wrinkled, blue-skinned man dressed in white robes and golden decorations, the collars of his shirt so large it stretched beyond his head, sat on the main seat behind the desk and asked, "What was that you said, Baltrich?"</p>
+<p><img src="images/366_the_praetor.jpg" alt="The Praetor" /></p>
+<p>The younger blue-skin with dark robe and golden collars, wearing a broadax-like hat, and had two chestnut-shaped turquoise earrings dangling at the tip of his pointed elves-like ears, stood in front of the desk, reported back, "The Coeian capital of Omrantha has fallen... (He put his hand on his heart) Ah, rather, it was annihilated, Praetor Rhadallis."</p>
+<p>The thick white brow of the Praetor tightened around his nose, "Soooo it has come to pass after all..."</p>
+<p><img src="images/367_baltrich.jpg" alt="Baltrich" /></p>
+<p>"Respectfully, you aren't much of an actor, Eminence. It appears you are not surprised at all?" The Praetor didn't spoke a word. Baltrich continued, "We- heard- disturbing rumors- circling among the Magisters. Amalthus... whom you- recently elevated to Quaestor... People wonder if this calamity- has <em>anything to do</em> with that man's Blade... <em>With such extraordinary power, is it really wise to,</em> er..."</p>
+<p>Praetor Rhadallis raised his hand, stopping him from continuing. "No matter whose power effected it, it is <strong>sure to</strong> serve the greater glory of Indol. <em>The Architect...</em> <strong>will</strong>- surely be pleased."</p>
+<p>He spoke his doubt in a lower tone, "<em>Eminence... Do you believe it can be controlled?</em>"</p>
+<p>"If it cannot... <em>I will let <strong>him</strong>- take the blame.</em> I have... <em>spoken</em>. <strong>Thank you</strong> for your report, Magister Baltrich. You may- <strong>return</strong>- to your duties."</p>
+<p>"Hmm..." He understood the Praetor's body language, bowed before him before turning away and head for the door.</p>
+<hr />
+<p>The evening turned to night, they'd set up a campfire. Jin sat, perhaps immersing within his inner selves. Lora sat next to him, observing the young Mikhail sleeping on the giant about-flat rock to her right. "How sad... That village, I mean."</p>
+<blockquote>
+<p>Everything burnt to the ground. Not a single inhabitant seen, not even their corpses and other possessions remains.</p>
+</blockquote>
+<p>"It is..." He threw a twig at the fire.</p>
+<p>"That Blade, Malos... <strong>He didn't do that</strong>, did he?" She looked at his face, hoping he would give her reassurance.</p>
+<p>"The towns- razed- by the Aegis were <strong>completely</strong> obliterated. I plan- to inform the mercenaries of this."</p>
+<p>"How could a person... do something so awful...?"</p>
+<p>He glanced away while she looked between her feet. Then he changed the subject, "Anyway. <strong>You should</strong> rest now. We <strong>should</strong> be able to meet up with Haze tomorrow."</p>
+<p>"<strong>Ooooh, yes! I wonder if</strong> she's found any leads on Mother. I hope so, anyway." Her sadness immediately dissipated, a smile stretched on his face, full of hope. It'd been a long time since she last saw her mom.</p>
+<p><img src="images/368_loras_smile.jpg" alt="Lora&#39;s smile" /></p>
+<p>Jin lacked emotions, or perhaps, he suppressed it, didn't show any excitement, "I'll prepare food, then rest up."</p>
+<p>"Ohhh, that's kind of you. Thanks..." And her smile was what's motivating him every day, calming his heart.</p>
+<hr />
+<p>The next morning{{footnote: Depending on the video you're looking at, it may be afternoon/evening.}}, they continued on their track. There seemed to be two poles on the side atop the shallow hill they were climbing, with some wooden hut to their 2 o'clock. They promised to be here, though nobody's there yet. Lora concluded, "Looks like... Haze isn't here yet..."</p>
+<p>When they climbed high enough to look what's behind the post, something caught her with surprise. Quickly, she dashed past the post and stood just after it while the others followed. Flabbergasted, Lora can't believe what she saw, "<em>What the...</em>"</p>
+<p>It was supposed to be village, looking at the houses that still stood to the left of the giant dent carved deep into the ground. The walls looked black and shiny, like obsidian. Everything within its range were wiped out.</p>
+<p><img src="images/369_crater.jpg" alt="Crater" /></p>
+<p>"This is... This <strong>should</strong> be the village of Feltley."</p>
+<p>Jin bent down and examined the searing damage. "It's almost like glass. Rumor among the mercs... says that's... the hallmark of the Aegis."</p>
+<p>"<strong>But why would he do this?</strong>" Her voice was trembling.</p>
+<p>Before he could offer a plausible hypothesis, he sensed something descending quickly from above, the wind that brushed through quick. He turned and saw a robot with wings and tails and an angel ring floating atop its head, stretching its claws, preparing to scratch at them.</p>
+<p><img src="images/370_artifice.jpg" alt="Malos&#39;s Artifice" /></p>
+<p>"<strong>LOOK OUT!!!</strong>" He subconsciously hugged her and use his back as a shield. It scratched his back and together, they fell forward into the crater, his mask flew off his face. Mikhail sensed the dire situation, cleverly dashed for safety, hiding behind the trees.</p>
+<p>"<strong>Jin?!!</strong>"</p>
+<p>The robot landed at the bottom of the crater, where they now were. Jin stood up, reassured her, "It's nothing. Let's go!" And the battle began.</p>
+<hr />
+<p>They thought they'd fallen the monster, but when its eyes blinked and shone again, and it rose up as if it took no damage, she felt shocked, and he uneasy. She commented, "This... is no normal monster."</p>
+<p>"Not an Ardainian Titan weapon, either..."</p>
+<p>"Maybe it's Malos's?"</p>
+<p>The robot aimed its arm at them, stretching its claws wide, and a beam gathering in front of its palm. They were trying to deal with it when a voice shouted, "<strong>Get down, you two!</strong>"</p>
+<p>"Uh?" Both sensed something striking down fast from the sky. They couldn't yet see anything, but the pricking feelings they felt on the surface of their skin was real. When he finally saw the tip of the particle beam, he subconsciously put his arm around her, she reacted half a second late, and they ran a few steps before she dropped to the ground while Jin turned around and raised a shield; the beam struck the robot and its shockwave reverberated on his shield.</p>
+<p>After several explosions that thrashed the robot completely, Lora couldn't believe her eyes, "Holy..."</p>
+<p>What immense power! Who was it that voiced out just now? As the dark soot thinned, a female figure with abnormally huge breast and slightly tanned skin, her shirt that barely cover much of her skin glowed with ether, ether-colored earrings dangling from both of her ears, and long, wavy hair stretched out behind her swayed with the wind, was relieved, "That was a close one!"</p>
+<p>The hooded figure that accompanied her, cloaked from top to bottom, leaving only his chin revealing he's fair-skinned, added, "It looks like Malos's Artifices are still roaming around."</p>
+<p>"So it was..." Lora answered, while taking a step forward and stood beside her partner. They stopped some distance from them, facing one another. The hooded man scanned their people they'd saved, first at Jin,</p>
+<p><img src="images/371_addam_and_mythra.jpg" alt="Hooded Addam and Mythra" /></p>
+<p>"Hey... Wait a minute..." This guy, he recognized. He pulled down his hood, revealing his face -- a young man with short silver hair cut into a flower-like hairstyle, some dark-golden irises and thin eyebrows, with large ears and pointed chin.</p>
+<p>Lora just recalled he now lost his mask; she started to feel anxious, sure that they'd recognized him. She got closer to him, trying to gauge if Jin would do something while they had the upper hand. And her fears proved worse when she looked at the plate that stuck out from his breast and its pointed tip pointing at the guy's chin, just above the ribbon tied like three-leaf clover, was a crest that looked like some pirate ships in a formation raging the sea, encased in a dome-shaped frame made of 2 long thick fern-like leaves, and 2 broad leaves that opened up from the middle of where the leaves stem connected, with a circle where they all grew from.</p>
+<p><img src="images/372_addams_crest.jpg" alt="Addam&#39;s Crest" /></p>
+<p>She wanted to take a closer look when he raised his hand to block her view,  "Ugh!" But she believed she recognized it, "<em>The emblem of Torna!</em>"</p>
+<p>Jin bit his tongue, feeling slightly distressed.</p>
+<p>By now, the guy had wholly took of his cloak and threw it aside, turned to Jin, commented in a very loud voice, "<strong>You are... Jin? Right? Wow! I can't believe it! I came all the way out here</strong> and who do <strong>I save</strong> but the <strong>Paragon of Torna</strong> and his Driver!"</p>
+<p>Lora gritted her teeth, hissed.</p>
+<p>"You're <strong>so young...</strong>" He observed Lora, thought, "That Core Crystal was stolen 17 years ago. <strong>Quite a feat</strong> to pull off <em>that heist at that age!</em>"</p>
+<p>"Are you going to arrest us? Execute us?" She put her left arm forward, raising it into a boxing stance.</p>
+<p>"I don't know yet." (He crossed his arms.) "I did just save you, after all."</p>
+<p>"Ohhh, how magnanimous."</p>
+<p>"Lora. There's no point in talking." He pointed his sword at them, and she prepared her whip. The guy saw that a fighting cannot be avoided, while the girl was getting excited, exclaimed,</p>
+<p>"Have it your way!" She drew her weapon, a sword, its blade split and spit flames. "<strong>ARRRGHHHH!!!</strong>" She dashed fast.</p>
+<p>"<strong>YARRRGHH!!!</strong>" He immediately heed her call. Swords crossed, eyes gazed. Swords split, and the battle began.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="37_preface_torna.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="39_addam_mother.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="37_preface_torna.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="39_addam_mother.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

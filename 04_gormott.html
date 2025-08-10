@@ -1,0 +1,444 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Gormott, Resonance, and Captured - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="gormott-resonance-and-captured"><a class="header" href="#gormott-resonance-and-captured">Gormott, Resonance, and Captured</a></h1>
+<p>The town of Torigoth welcomed them with an arc. Wooden plants lined the path, stiffening the crop-growing soft soil beneath. The crowds gathered at the square made the other parts of the town empty.</p>
+<p>"So, this is Torigoth..."</p>
+<p><img src="images/034_torigoth.jpg" alt="Torigoth" /></p>
+<p>"<em>It hasn't changed a bit.</em>" Her memories brought her back to when she was living in the town. But are they happy moments? She doubted.</p>
+<p>"Nia?" Pyra wondered.</p>
+<p>"It's nothing. <strong>OK then.</strong> I'll show you to an inn. Then I'm out of here." And they trailed behind her.</p>
+<hr />
+<blockquote>
+<p><strong>Translator's note on environment:</strong> Most buildings single-storey high, made of metals. The horizontal windmill is the tallest man-made structure in town, exceeded only by the giant tree that shielded them from rain and wind and sunlight. Some extended their housings in their front door with a make-do roof, laying out goods and supplies for onlookers to look, and buy. This, is <strong>Torigoth.</strong></p>
+</blockquote>
+<hr />
+<p>As if never been to a town, or haven't been to one for too long, the group gingerly walked alongside, looked left and right; everything was new to them. Passing by a notice board, Nia walked past as if nothing caught her attention; but Jin and Malos's poster stuck high within her viewsight. Something in the back of her mind triggered; slowly and carefully, she tread backwards, till it reached the 3rd poster, hers, then she looked carefully. A fat tiger-looking (female???) sticking her nose and jaws out with sharp pointed nails, with wrinkles and decorations spreading her face.</p>
+<p>"<strong>What the bloody hell is that? Don't tell me this is meant to be ME?!</strong>"</p>
+<p><img src="images/036_jin_malos_poster.jpg" alt="Jin and Malos&#39;s notice" /></p>
+<p><img src="images/035_nia_poster.jpg" alt="Nia&#39;s notice" /></p>
+<p>The group stopped right in their path, curious with what did she found out.</p>
+<p>Dromarch spoke the truth, "A remarkable likeness, to say the least..."</p>
+<p>"<strong>Oi, did you say something?</strong>" The eyes sharpened on him.</p>
+<p>He realized what words tested her bottom lines. His mind turned around 10 times faster than usual, a quick reply to save his arses, "Ah, er, no. I-I fear they may have <em>conflated</em> our countenances, my lady. <strong>How very awful.</strong>"</p>
+<p>"<strong>Offfff.... GRRRRRR!!!</strong>" The other three still wanted to take a look when she landed her claws on the notice, scratched it pieces to pieces like a human paper shredder, and with a bang, raining poster shards. Shockingly they backed away, careful not to tickle her nerves.</p>
+<hr />
+<p>"<strong>Fie! Who has the courage to heed the Empire's call?</strong> Your strong heart today, will build a <strong>strong Mor Ardain tomorrow!</strong> Of course, you get <em>more</em>, than a salary! <strong>Pension and benefits are included!</strong> Distinguish yourself, and you could even <strong>join the nobility!</strong> For. The. <strong>Glory. of the Ardainian Empire, AND HIS MAJESTY, EMPEROR NIALL!!! Come. Now! WHO wants to be the HERO of tomorrow?!</strong>"</p>
+<p>His strong voice attracted the attention of the passing group. The square lined with humans upon humans, nopons upon nopons, all looking at the empty show. Nobody step up, even if the Core Crystal was placed in front of the 3 soldiers, awaiting the courageous. The middle extroversion soldier was doing the speaking.</p>
+<p>"Hmm... What's the deal over there?" Rex wondered.</p>
+<p>"Driver recruitment." answered Nia.</p>
+<p>"Driver recruitment?"</p>
+<p>She shared, "Recently, they've been recruiting Drivers from all over."</p>
+<p>Dromarch added, "The pool of potentials, is ever shrinking. They must have run out of candidates in the military."</p>
+<p>Rex wondered, "What do you mean by 'potentials'? I'm not sure I follow."</p>
+<p>"Just see for yourself."</p>
+<hr />
+<p>"Don't do it, bro, it's too dangerous! What will we do if something happens to you? Who'll look after us?" Many young Gormotti surrounding a grown-up Gormotti, trying to push him back. Yet his eyes laid not on them, even their plead could not suppress his 'greed'. The roads had not shortened itself, with the children obstacling him for long. Shoving her aside, he walked past with unwavering will. She subconsciously held on to his arm, trying to hold him back. "<strong>P-please...</strong>"</p>
+<p>"I-I-I know it's dangerous, but... i-if I can b-<em>become a Driver...</em>"</p>
+<p>"<strong>Outta the way, pipsqueak!</strong>" He was not the only courageous tester. A grown-up muscular buff Gormotti with all the muscles and six packs he had, walked like a gangster and shoved both the children and the grown up to the floor. They said nothing, getting used to being bullied in town. The lab rat walked in front of the crowd, shouted to himself, "All right, <strong>c'mon Blade boyo! Show me whatcha got! Hroooagh!</strong>" And he grabbed the Core Crystal by hand. "<strong>A-a-a-AAAAAAHHHHHHH!!!</strong>"</p>
+<p>The power transferred from the Core Crystal shook his 'healthy' body. With extreme vibration, tremendous heat released into its vicinity. Without seeing the end result, Nia already predicted, based on experience, "Yeah, he's done for."</p>
+<p>"Indeed." Gramps agreed.</p>
+<p>"<strong>WAAAAAAAHHHHHHH!!!</strong>" Black eyes became white eyes, and he could take no longer. Blood splattered from the newly created holes{{footnote: On the video, you saw some 'water' sprayed from his body. That's actually censored blood.}} on his chest, on his waist, fountain high; he fell dead on the spot. Pyra was dumbstruck. What just happened?</p>
+<p>"Oho, <strong>all bark and NO BITE! What a</strong> shame!" The soldier continued his speech, as his colleagues handled the procedure, went forward and held each side of the man's arms, dragged him along to the corpse dumping hole behind town.</p>
+<p>Rex looked aside, covering the scene with his palm, but his eyes looked in between, a struggle between disgust and curiosity, "Eurgh, what just happened? All that blood..."</p>
+<p>Nia explained, "Couldn't handle the Core Crystal's power."</p>
+<p>Dromarch added, "That's what happens... when someone <em>unqualified</em> touches a Core Crystal. Truly- lamentable."</p>
+<p>Rex was confused, "Wait, you need a qualification to be a Driver?"</p>
+<p>Gramps suggested, "Perhaps 'aptitude' would be a better word."</p>
+<p>"Aptitude?"</p>
+<p>The soldier clapped his hands to attract attention, "<strong>Now, is there NOBODY else here, ready to test their STRENGTH for the GLOOORY of the Empire?! Oh! How about you? What say you? Step- forward, sir, with BOLD HEART!!!</strong>" His eyes scanned around the square, found the grown-up Gormotti previously he saw was walking up to the stage but knocked down by the now-dead corpse, summoned him.</p>
+<p>"<em>Nooo...</em>" Their pleading does not help. The death of a muscular Gormotti could not stop him from treading bold steps forward. He could hear no longer, see no longer, except for the Core Crystal, at the very center of his vision.</p>
+<p>But he did gave his final words as the guardian to the children, "Don't... Don't worry. <strong>Your big bro's gonna be a Driver, and then we'll be set for life.</strong>"</p>
+<p>All in chant, "<strong>Don't do it!</strong>"</p>
+<p>But too late. He already laid his hand on the crystal. Energy transfer started with great heat emanating from, "<strong>Ah-ahh-ah-AAAAAAAHHHHHH!!!</strong>"</p>
+<p>Nia can distinguish, pointed out, "There's your 'aptitude'." Rex couldn't distinguish, but watched the process nonetheless.</p>
+<p>A bright light swallowed the bro, the core crystal gone before his eyes. The ball of energy transformed into a spear, before his surprising eyes. All that uncertain and the sour-bitter of life, all gone with both grips on the pole. Another ball of energy fell down like meteor, he turned and saw his humanoid 'standard' Blade{{footnote: Those non-special blades}} came to life.</p>
+<p><img src="images/037_standard_blade.jpg" alt="One Type of Standard Blade" /></p>
+<p>With elation, he called out, "<strong>I... I did it!</strong>"</p>
+<p>The children were elated, surrounded him with constant chatter, "You did it!"</p>
+<p>"I don't believe it!"</p>
+<p>"Oh wow!"</p>
+<p>Pyra was content at such scene, walked forward to look closer. Rex noticed something else, "The Core Crystal turned into... a weapon?"</p>
+<p>Gramps: "This is how Blades, are born, Rex."</p>
+<p>"What? But when I touched Pyra's..."{{footnote: Ahem, Pyra's where?}}</p>
+<p>Nia cut him off before he could speak more, "She's a special case. Pyra is the Aegis, remember? So the usual rules don't apply. All that business with sharing her life force... It's- not- exactly normal."</p>
+<p>"Wait, what does 'the Aegis' even mean?{{footnote: Gramps was stretching behind him.}} Jin and Malos... They called her that, too."</p>
+<p>"Dunno. <strong>All</strong> I know is that it's some kinda legendary Blade. Why don't you just... ask her yourself?" Pyra's eyes looked to bottom left of her for a moment, before turning back to the scene.</p>
+<p>Without hesitation, Nia suggested while leaving, "<strong>Let's go.</strong> No point sticking around for the enrollment ceremony and all that boring stuff." Rex gave Pyra a gentle touch on her shoulder. She gave one more look at the scene before catching up alongside.</p>
+<hr />
+<p>The continuing path lead a downward slope, below a bridge they passed, when Rex stopped, his mind still lingering in the blood and Blades, voiced his thoughts, "This whole thing with Core Crystals, <strong>touching</strong> them to create <strong>Blades</strong>! It's pretty amazing when you think about it."</p>
+<p>Pyra shaped the process, "We Blades start out formless, anchored to the world... only by our Core Crystal. Only the <strong>touch</strong>, of a potential... can imbue us with form, and being. And it is by these forms, we come to be known."</p>
+<p>Gramps concluded, "So you see, my boy, in some ways it- is- only- the fated touch of a Driver, that allows the Blades, to exist at all."</p>
+<p>"<strong>Wow!</strong> Why does it happen that way, though?"</p>
+<p>"Now that is something no one knows. It's just how it's <strong>always</strong> been."</p>
+<p>Dromarch added, "Blades come- in all- shapes- and sizes. Some- human-shaped, some- not."</p>
+<p>Nia: "Some people say the shape depends on the kinda person the Driver is."</p>
+<p>Pyra: "The resonance between, Blade and Driver, is a <em>mysterious</em> thing."</p>
+<blockquote>
+<p>Rex recalled, "Pyra... She was, crying when I met her. Was she brought to life by someone once, just like a normal Blade?"</p>
+</blockquote>
+<p>Thinking in his mind, "<em>What is the Aegis, really?</em>"</p>
+<p>Before he could think or ask further, soldiers approached from behind, instructed, "Halt! Nobody move!"</p>
+<p>They turned to see what's going on, when the direction they were to go also had soldiers. They were sandwiched in between, with no other ways to leave.</p>
+<p>Making a circle, each guarding each other's back, Gramps exclaimed, "Oh dear... Looks like... imperial troops."</p>
+<p>Nia: "Great."</p>
+<p>Rex: "Hey, what's going on?"</p>
+<p>The soldier answered, "That fugitive, in your company is an enemy of the state! A member of Torna!"</p>
+<p>"Nia, a member of Torna?"</p>
+<p>"It's her all right. Gormotti Driver, white beast-form Blade. She looks <strong>exactly</strong> like the wanted poster."</p>
+<p>"What wanted poster?"</p>
+<p>"See for yourself!" He took a replica of the tiger-looking-ugly-monster drawing Nia had clawed to shreds not long ago.</p>
+<p>"Wow, it really does-..."</p>
+<p>"<strong>Oi, watch it!</strong>" That tickled her nervers.</p>
+<p>He's swift at saving his arse, "Ah, uh, I mean, <strong>no way! This doesn't look anything like... Wait,</strong> we've got no time for this! <strong>Who cares if it</strong> looks just like her?" And she hissed at him immediately.</p>
+<p>The soldier neither cared, "Hmph. Now as for you... You look like- a Driver too. Registration number?"</p>
+<p>"5...3...9...?"</p>
+<p>"Knock it off, <em>you fool.</em> All new Drivers must register with Indol! No number means you must be an <strong>illegal, unregistered,</strong> Driver!"</p>
+<p>"<strong>No, you don't get it!</strong>"</p>
+<p>No excuses he accept, "<strong>You're coming with me! We'll see... what the consul has to say about this!</strong>"</p>
+<p>Nia softly shared her plans to "Rex, Dromarch and I are gonna make our move. Get ready to run."</p>
+<p>"We're not leaving without you."</p>
+<p>"<strong>This is <em>our</em> problem, not yours.</strong>"</p>
+<p>"I'm pretty sure he wants to arrest <strong>all</strong> of us. So this <strong>is</strong> my problem, too!"</p>
+<p>"Sheesh, you're a <em>stubborn</em> one, ain't you?"</p>
+<p>"Gramps says the same thing."</p>
+<p>"<strong>OK. we go on three. We'll go left, you go right.</strong>"</p>
+<p>"OK!"</p>
+<p>Pyra: "Just give the word."</p>
+<p>Nia: "OK, let's do this!"</p>
+<p>The speaking soldier were shocked, backed one step, stutteringly muttered,  "Y-y-you're going to resist? Seriously?"</p>
+<p>"One... two..."</p>
+<p>"<strong>Haaaaaa-A-All right, men! We've got them outnumbered -- move in, and take them down!</strong>"</p>
+<p>"<strong>THREE!!!</strong>" And the battle begins.</p>
+<hr />
+<p>"<strong>They're... so strong! Such strength from a measly two fighters... They're Drivers, all right!</strong>" The captain spoke while his fellow colleagues were fencing down the groups.</p>
+<p>"<strong>Rex! Now!</strong>" felling all, Nia shouted.</p>
+<p>"<strong>You got it!</strong>" They dashed for the other end of the bridge when blue flames raised from beneath the ground, bridge-high, blocking their escape route. "<strong>Wha-?! A wall, made of fire?!</strong>"</p>
+<p>"Such a commotion." From behind the captain and other soldiers, a blue-purple theme women with fires on the surface of her body, wielding twin long solid metal truncheon{{footnote: 锏}}, eyes forever closed, walked into the scene, spoke with a soft voice, "Just when I thought I could enjoy a little peace, and quiet."</p>
+<p><img src="images/038_brighid.jpg" alt="Brighid" /></p>
+<p>"L-L-L-Laaaaddddyyyy... Brighid!" The captain stuttered at her existence.</p>
+<p>Rex was curious, "Brighid? Is she a Blade? Wh-where's her Driver?"</p>
+<p>She answered, "My driver is otherwise <em>engaged</em> at present. I am here alone."</p>
+<p>"No... Driver?" First time he heard of that.</p>
+<p>The captain laughed furiously at his imbecility, "<strong>BAHAHAHAHAHAH!!!</strong> Lady Brighid is the 'Jewel of Mor Ardain'! The <strong>strongest</strong> Blade in the Empire! Even alone, she's <strong>more</strong>, than a match for you! Lady Brighid, these miscreants, are terrorists, working for Torna. Please lend me, your power, to bring them to justice!"</p>
+<p>"Torna?" Without eyes, she can still scan the group with her sixth sense{{footnote: 神念}}. Nia had no attention from her, but the girl in red does. "That emerald Core Crystal... Could it, <em>really</em> be true? Well well. Captain Padraig, you are <strong>not</strong> to kill them. Take these ones in alive."</p>
+<p>"Roger. <strong>Men, bring the you-know-what!</strong>"</p>
+<p>"Sir!" They leave the stage to get their new weapons, while Captain Padriag fought alongside Brighid, waiting for their return.</p>
+<hr />
+<p>"<strong>Hyagh!</strong>" Blue flames stretching at the group.</p>
+<p>"<strong>Yaaaaa!</strong>" Red slicing flames going back at her. Shockwaves blew dust in Rex's face, which he shielded. Brighid seemed undisturbed. "Wha-?! She- she repelled our attack!"</p>
+<p>Pyra: "She's so... strong."</p>
+<p>Gramps reminded them, "Umm, And this is without a Driver..."</p>
+<p>"<strong>Stop yammering! Just get her!</strong>" Nia and Dromarch jumped above air, poaching at her. The two soldiers just then gone had returned, fired two nets with amazing accuracy, first trapped Dromarch while still in mid air. Nia shouted back, "<strong>Dromarch! YAAARGGGHHH</strong>"</p>
+<p>"Urgh!" They rolled to the ground, wrapped in cocoon.</p>
+<p>"Ugh... Dromarch..."</p>
+<p>Captain Padriag proudly explained the new invention, "<strong>This is an ether net! BAHAHAHAHAHA!!! Let's see</strong> you use your precious Arts, when you <strong>can't</strong>, draw ether, from the atmosphere!"</p>
+<p>Brighid added, "Even Blades have weaknesses. <strong>This</strong>, is one such weakness. Without the flow of ether, Blades are <em>quite</em> useless."</p>
+<p>"<strong>Nia! Dromarch!</strong>"</p>
+<p>"<strong>Get outta here, Rex! Save yourself!</strong>"</p>
+<p>"<strong>I'm not gonna do that!</strong> I can't just leave you here!"</p>
+<p>"<strong>You've got your own mission! Just move it!</strong>"</p>
+<p>"Yeah, but-"</p>
+<p>"<strong>No buts! Go!</strong>"</p>
+<p>Gramps added in the persuasion, "Rex, we must withdraw for now! It's our only chance!"</p>
+<p>"<strong>BUT-!</strong>"</p>
+<p>"You won't escape." The passing of the bucks had gained Brighid time to raised the flaming circle that encircled the group. Such intense flames scorched the skin of the two as they screamed in pain,</p>
+<p>"<strong>ARRRRGGGHHHH!!!</strong>" They even struggled to keep standing on their feet.{{footnote: Surprisingly, the grass took no hit, remained green and lush despite.}}</p>
+<p>"<strong>REEEEXXXX!!!</strong>" Gramps urged. Not much time left.</p>
+<p>"<strong>Ugh, dammit!</strong> Huh?" He hadn't yet taken actions when he heard the whizzing sound from above. A ball with a light in it soared the air, hit the pipe beside the bridge, and out poured water at high pressure.</p>
+<p>"<strong>WAAAAAHHHH!!!</strong>" The pressure washed the soldiers clean and tidy as they crushed into the ground below.</p>
+<p>"Ugh, water!" The flames on her skin sizzled and her strength grown effete. The circle of flames had been extinguished by the 'rain'. Rex and Pyra took their chance,</p>
+<p>"<strong>Now!</strong>", held the sword's hilt together, "<strong>Haaaaaa!!! Burning, Sword!!!</strong>"</p>
+<p>"Agh!" The flames cut through the water and burst on Brighid, shielding her face and torso from impact.</p>
+<p>"<strong>Pyra!</strong>"</p>
+<p>"<strong>Yes!</strong>" They already turned around.</p>
+<p>Captain Padriag was the one feeling nervous, ordered the soldiers, "<strong>Don't let them escape! Get... after them!</strong>" And the two footsoldiers ran after them.</p>
+<p>Nia was grateful, softly spoke to herself, "<em>That's right, Rex... Run, and never look back.</em>"</p>
+<p>Brighid was equally impressed, did not join the 'getting after them' group, expressed, "To pull that off <strong>despite</strong> all this water... <em>So, the legends of the Aegis</em> were real."</p>
+<hr />
+<p>Footsteps stamping amidst the dark twisting underground. Limited lights from the crevices showed them the way. Turning around one alley, they heard shouts from behind. "<strong>Hey hey!</strong>"</p>
+<p>The exit to exposure under the sun was just beyond, but they stopped and turned around, despite incomings. Who was that calling? The wooden wall (hidden door) creaked open a small gap, and a Nopon wearing goggles popped out from behind, wavering at them, "<strong>This way, friends, come this way! Tora help you escape!</strong>"</p>
+<p><img src="images/039_tora.jpg" alt="Tora" /></p>
+<p>"<strong>Who are you?</strong>" Rex was surprised.</p>
+<p>"<strong>Quick, no time to explain!</strong>" His wings fluttered more furiously, urged. Rex and Pyra exchanged glance, decided to trust the non-dangerous looking potato creature. She nodded back at him, went for the door, and went through first. Rex eyed the direction they were coming from for any signs of soldiers, got behind her. Tora took the final watch, and clink, saw the shadows around the corner, quickly slammed the door behind with a soft thud. The door thus became the wall.</p>
+<p>A short moment and the soldiers came and stopped right in front, but they noticed nothing extraordinary, followed along the path out into the open plains.{{footnote: If your attention was so focused on something, all the gorillas passing through a basketball field you can't notice, what says a bang or a thud that's not loud enough to shook the ground and catch your attention of potential danger?}}</p>
+<hr />
+<p>Behind the door, they followed Tora along, with Rex asking, "Thanks, you saved us. But I gotta ask... why?"</p>
+<p>"No reason."</p>
+<p>"No reason?"</p>
+<p>He turned around to face them, "<em>Sorry, that not true.</em> Truth is, Tora not like those big bully soldiers. Was thinking to test out shiny new Boom Biter on big bullies... That's when Tora see friends running from them. Boom Biter missed and- hit water pipe, but results not so bad, hey?"</p>
+<p>"<em>Oh</em>, so <em>you</em> shot the pipe?"</p>
+<p>"That right."</p>
+<p>"And you're, Tora. I'm Rex, and this is Pyra."</p>
+<p>"It's so lovely to meet you!" Pyra greeted.</p>
+<p>"Good to meeting! Mehehehehe..."</p>
+<p>"Huh?" Rex was confused.</p>
+<p>"<em>Ahhh</em> <strong>Actually</strong>, Tora have other reason for save you."</p>
+<p>"Which is?"</p>
+<p>"Don't worry. Explain everything when get to house of Tora! <strong>This way!</strong>" And he led them on.</p>
+<hr />
+<p>At the other side, Consul Dughall, in his office, listened to Captain Padriag reporting, "The boy, and his Blade, who seemed to be working with them got- away... <strong>But we apprehended</strong> the girl from the wanted poster, along with <strong>her</strong> Blade! <strong>The town is once again safe for-</strong>" The proudness in his tone made his chest high. Yet Dughall was slightly annoyed.</p>
+<p>"Say, Padriag, <strong>do you remember</strong> what my orders were?"</p>
+<p>"Sir?"</p>
+<p>"I. Told. You. To capture the Blade with the emerald Core Crystal, Did. I. Not? Do you recall me ever telling you, to capture some, little <strong>girl</strong>, with <strong>barely a bounty</strong> on her head?"</p>
+<p>"B-B-But sir, s-she's a member of, Torna..."</p>
+<p>"I'll say it slowly for you, just so we're clear. Get. The Blade. With. <strong>The emerald-</strong>"</p>
+<p>"Umm, Consul Dughall, sir?" Padriag interrupted.</p>
+<p>"What?"</p>
+<p>"I-I'm- <strong>not</strong> exactly sure what color, 'emerald', <em>is supposed to be...</em>"</p>
+<p>"<strong>AGGGGHHHH!!! GIVE. ME. STRENGTH!!! IT'S GREEN, YOU IDIOT!!! EMERALD IS GREEN!!!</strong>" He grabbed the turquoise vase from the top of the table and stuck it to his face, "<strong>LIKE THIS! GREEN! GET IT, YOU CLOD?!!!</strong>"</p>
+<p><img src="images/063_vase_on_padriag.jpg" alt="&#39;Emerald&#39; vase on Padriag&#39;s face" /></p>
+<p>"<strong>OOOOOOHHHHHH, GREEEEENNNNN!!! I get it now. So, emeralds</strong> are green, huh..."</p>
+<p>"<strong>YOU DUNDERHEAD! HOW MANY BLADES, DO YOU SEE, WITH GREEN CORE CRYSTALS?!!! IT'S PATENTLY OBVIOUS!!! HOW DO YOU MIX THAT BLADE up WITH SOME, WORTHLESS CAT MONSTER?!!!</strong>"</p>
+<p>Padriag can't wait to correct him, unable to read the situation, "<strong>Actually, sir,</strong> technically I believe that's a, tiger, rather, than a-..."</p>
+<p>"<strong>SILENCE!!!</strong>" And he slammed the vase at his nose, brought him down onto the floor.</p>
+<p>"<strong>Agh!</strong>"</p>
+<p>"<strong>Consul!!!</strong>" Just during the worst time did a soldier ran into his house/office.</p>
+<p>"<strong>WHAT IS IT?!!! HAVEN'T YOU HEARD OF KNOCKING?!!!</strong>"</p>
+<p>"<strong>My apologies, sir! It's just that Lady Mòrag, has...</strong>"</p>
+<p>"<strong>WHAT?!!</strong>"</p>
+<p>"<strong>Special Inquisitor Mòrag has just arrived from the motherland.</strong>"</p>
+<p>"<strong>Already?</strong>"</p>
+<p>"<strong>Her ship has just docked.</strong>"</p>
+<p>Now that was shocking, "Grk, this... <strong>THIS CANNOT BE HAPPENING!!!</strong>"</p>
+<hr />
+<p>A giant battleship several storey high braved the cloud sea, sending ripples as it cut the waves skillfully. The battleship was implanted into the Belly of a Titan to provide energy. It drifted towards the dock of Torigoth.</p>
+<p><img src="images/064_giant_titanship.jpg" alt="Mòrag&#39;s Giant Titan Battleship" /></p>
+<p>After docking, the hatch opened and out walked Mòrag. She knew why she's here for.</p>
+<p><img src="images/040_morag.jpg" alt="Mòrag" /></p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="03_washed_up.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="05_poppi.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="03_washed_up.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="05_poppi.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

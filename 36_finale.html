@@ -1,0 +1,331 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Finale - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="finale"><a class="header" href="#finale">Finale</a></h1>
+<p>While the floors continued shaking, rocks continued tumbling, explosions continued exploding, Rex reminisced by connecting with her crystal, as if she's always there with him, for a moment; then turned to Nia and nodded. He's fine, she understood. He'll be all right. They can go on. He swiped his face across his other friends, toughened up and nodded. Let's go, he said. Don't worry about me.</p>
+<p>Outside, shards descending towards Alrest, together with the other artifices, pulled by gravity. Pneuma stood on the platform, looking at the artifice she was born with but never drove before; but it had a heart of its own, even if it's inanimate. "Hello there... I hope... you'll help me."</p>
+<p><img src="images/349_aion.jpg" alt="Aion" /></p>
+<p>She climbed into the control chamber, and the controls started to sync with her brain waves. A bright light glowed on its core crystal, and it stood up once more. She opened up the panel called  'Reactor Overload Program Execution Sequence' and set it to 5 minutes. In 5 minutes, each of the 6 reactors, 4 on its limbs, 1 on its head, and 1 on its chest, will released its store energy in a single burst{{footnote: Usually, it's like a nuclear chamber, which had controlled amount of enriched uranium injected into it. Imagine dumping all the enriched uranium all at once -- and you just make a nuclear bomb.}}. Immediately it started counting down.</p>
+<p><img src="images/350_timer.jpg" alt="The time is nigh" /></p>
+<p>She looked down on the floor; now it's just waiting, buying them some time. Yes, they -- she looked to her left, and a screen displayed her lover and friends crossing through the giant door. They will live on without me, but my memories will stay with them forever, is enough consolation for her. Explosion continued; they brought out their weapons, prepared to slice through any barricades preventing their escape.</p>
+<p>"Rex... <em>I'm so glad to have met you.</em> Our time together was short... A fraction of my long, long years."</p>
+<p>Two by two, they went in parallel in search of a working escape pod. Nia tried clicking all the buttons, but nothing happened; she tried banging on the door, perhaps the dust might have jammed it, to no avail. On the other side, Tora tried his luck -- too bad. They didn't wait, immediately went for another.</p>
+<p>"But it's been warmer, and <strong>brighter</strong>... than any time I can remember before."</p>
+<p>Rex stopped when a boulder was coming down at him; before he react, a thunder, accompanied by blue flames, smashed it into dust. He turned around and saw his friends helping. Poppi was running behind Tora with small steps; she tripped and fell, he didn't notice. She tried to push herself up, but deeply entrenched in her guilt, she felt too sad to want to push herself up. Let the flames cleanse her, she thought.</p>
+<p>"You shone a light... on my melancholy path. You showed- me- the way."</p>
+<p>But when she saw a hand held out to her, and she curiously look up and saw Rex and Gramps, him without a sign of hostility but hospitality, her eyes enlarged, her smile widened, and she gratefully took it. Tora had also returned, allowed Rex to took her in his hand as they ran towards the final pod yet unchecked. Nia and Dromarch waited for them, leading the way. Zeke ushered them to come over, while Mòrag tried her luck at the door, though she don't know how to deal with it. When the tech geek Tora arrived, he adeptly pressed buttons in some particular orders and it opened up. Surprised, he first went in, while the others sheathed their weapons and followed suit. They saw rows upon rows of passenger seats, with the front rows for the pilot and co-pilot.</p>
+<p><img src="images/351_escape_hatch.jpg" alt="Interior escape pods" /></p>
+<p>Rex and Tora naturally assumed control. Tora first observed, trying to understand; while Rex impatiently swing his fingers like playing piano without looking at the keys, pressing every single button he can feel on the keyboard, to no avail. Pneuma smiled and took over control from her side, activated the escape pod from her side, and seeing the screen lit up, he stopped. The others gathered behind the front seats and watched them did their magic. They then looked around; Tora climbed to check that the escape hatch is opening. A tunnel revealed, with neon blue lights lined the ground, showing their way. The boosters heated to its max, ejected, and blasted off. The little light that, like meteor, emerged from Rhadamanthus, plunging under gravity towards Alrest after it reached a distance far enough. Rex eyes fixated on the control panels, making sure there were no anomalies, or perhaps, he just want it to occupy his mind.</p>
+<p><img src="images/352_the_light_called_hope.jpg" alt="The light called hope" /></p>
+<p>"Thank you... for that, Rex. Thank you for that gift of light."</p>
+<p>She closed her eyes, running through the bits and pieces they went through together, every piece enjoyable, every moments appreciable. She would never forget.</p>
+<p><img src="images/353_appreciating.jpg" alt="Appreciating" /></p>
+<p>"<em>So tell me... How was it, being alive...?</em>" Addam once asked her.</p>
+<p>"<em>Do you really wanna know?</em>" She believed she now had the answer. She opened her eyes, looked up at the sky, as if he was there, listening, waiting. "Well..."</p>
+<p>Rex could no longer resist, turning his head back and look at where she was. She's still there, but they were separating further and further; his heart thumped hard and fast, his head throbbed. And with the countdown complete, in a burst of light, ether swallowed her and Aion whole, spread to Rhadamanthus and the Beanstalk. Watching the growing light sphere, oblivious to their escape pod being affected by the continuous shockwave that caught up with them, he screamed from the bottom of his lungs,</p>
+<p>"<strong>PYRAAAAAAAAAAA!!!</strong>"</p>
+<hr />
+<p>Rhadamanthus was destroyed; but the Beanstalk had yet to be, spreading down inch by inch. The escape pod plunged straight down. Tora hugged on to the control panel with his wings, as if gravity had left him, trying to free-float him. The rest held on tight, the flames engulfing the Beanstalk catching up behind them.</p>
+<p>At full speed it went, but the escape pod wasn't designed to withstand such stress. The windows in front were shattering, nuts and bolts were detaching, and when the boosters and the back row detached, "<strong>AARRRRGGGGHHHHH!!!</strong>" The rest held on tight to the front part, trying their best to not getting flung out the now-wide-opened hatch. 3 seconds later, when the front part disintegrated, everyone went into free fall, still about 60,000 feet from sea level. "<strong>YAAAAAARRRRRGGGHHHH!!!</strong>" "<strong>MEHMEHMEH!!!</strong>"</p>
+<p>Tora's fluttering wings didn't even slow him down. Some hugged onto each other, hoping they could at least die together, if they did. As they went straight down under gravity's pull, Gramps's flapped his small wings quick, dived nose down, shouted,</p>
+<p>"<strong>Reeeeeexxxxx!!!</strong>" He transformed back to his old man form, and with a flap of his wings, get under him; he subconsciously grabbed onto his fur.</p>
+<p>"Gramps?!" He was surprised, but no time to be surprised. Getting near Nia, she reached out her hand and he subconsciously reached out for her. Dromarch caught onto the furs tight with his front paws, and Rex pulled her in, letting her grip onto Gramps's furs herself. Brighid, hugging Mòrag, caught on to Dromarch's tail; while Zeke, hugging Pandoria, caught Nia's arm. Poppi fired her boosters, hugging her Masterpon, and landed behind his back.</p>
+<p>"You know, I think this form does suit me best."</p>
+<p>"<strong>Gramps!</strong>"</p>
+<p>"<strong>We're heading down! Everybody grab onto something!</strong>"</p>
+<p>He looked back at the Beanstalk, the building that carved memories deep. Debris were raining down like dust polluting the sky. She wasn't there anymore, and he guessed the rest of the building will soon be destroyed, though they probably wouldn't see it.</p>
+<p>As he glided closer to the Cloud Sea, Tora noticed that "Cloud Sea is..." dissipating, revealing the sea below the clouds.</p>
+<p>Rex turned his attention, noted, "The Titans are... gone..."</p>
+<p>Thunder kept blinking amidst the dark clouds, providing mere illumination to the gloomy heart. Nia: "I can't believe it... Is- everyone... dead?"</p>
+<p>Pandoria commented, "We were too late..."</p>
+<p>Mòrag closed her eyes, brought down her hat, hoping that would shied her tears.</p>
+<p>"In the Land of Morytha..." They could see ether glowing beneath the dark sea. Gramps stretched his wings and soared close to the sea's surface. Morytha was revealing itself, raising up from deep sea up towards sea level.</p>
+<p>Zeke concluded, "<em>So there's... nothing left of the world... but ruins?</em>"</p>
+<p>He flew, further and further, still no sign of any creatures. Gramps warned, "<strong>We're crossing that rift!</strong>" He soared his wings and zoomed up, higher and higher, against the thunder storms.</p>
+<hr />
+<p>They couldn't believe their eyes. The evening sun casted an orange hue on the clouds above. Blurry mountains in the horizon on a vast tranquil sea. Closer and closer they get, why do the Titans swam so close to one another?</p>
+<p>Nia's ears fluttered, hearing something. "<strong>Look!</strong>" She pointed to her 2 o'clock. Uraya Titan descending from the sky, like a leaf falling off a tree. They noticed its core crystal was missing; and when it came into contact with the sea surface, displaced huge amount of water, sending huge waves and ripples to its vicinity. Some distance away next to it, Genbu did the same.</p>
+<p>Soaring parallel to them, they watched as the Titans committed suicide, swimming fast towards the large landmass, crashing into it, burying its head into the landmass before stopping.</p>
+<p>Dromarch: "The Titans..."</p>
+<p>Brighid: "They're- joining with the land..."</p>
+<p><img src="images/354_joining_landmass.jpg" alt="Joining landmass" /></p>
+<p>The old and weak Mor Ardain raised from below water, water dripping off its sides, raining back to the sea. It walked slowly and effetely, tramping along, shaking the sea bed with every step it took towards the land.</p>
+<p>Mòrag: "It's true... I think... I see what Klaus meant by... 'restoring the world'."</p>
+<p>"Gramps?" Are you joining them? "So Elysium was... here... all along..."</p>
+<p>"You know, Rex... I think you're right."</p>
+<p>The remaining fragments of the World Tree soared above the clouds, reentered the atmosphere, leaving long tail as it burns into dust, like meteors raining atop Alrest. They lit up the atmosphere like fireworks, illuminating the hearts of the inhabitants that'd just survived the brutal. The dust motes, red flakes, fell like snow, felt a tinged on the skin when touched. Tranquil, relaxing.</p>
+<p>He enjoyed too for a moment before bringing up his hand together with the darkened crystal. The flakes reminded him, the fire sparks she made 'eons ago' just as beautiful. If only she's here, she would've enjoyed it, he thought. But while she would no longer be here physically herself, he remembered his promise,</p>
+<p>"We're... finally here."</p>
+<p><img src="images/355_raining_shreds.jpg" alt="Raining shreds" /></p>
+<p>Gramps zig and zag through the giant landmass, into the sea, and disappeared behind the clouds.</p>
+<hr />
+<blockquote>
+<p>He was amazed when he first met her, and she asked him to touch her core crystal gently. Touching a girl's chest the first time we met, are you serious? Those were happy moments, when they first fought together against Malos -- so that's how it feels, to connect with one's Blade! He had to protect her, this dear little fragile girl whose eyes looked depressed. When she fall, he felt her blaming herself for being weak -- so he offered her a hand. When they were injured, they looked after each other injuries, though he tried to be strong -- a boy cannot say he can't in front of a beautiful girl, not when he had special feelings for her; though they shared the same wounds.</p>
+<p>Endless times, they fell and fell and fell. Sometimes, they offered a hand to one another, and they stood up again, fighting for another day. The first time they can't, he lost his teacher whom sacrificed himself to buy them time to escape; though he doubt they could even if he gave up, but he don't feel regret -- that's him, after all. And if he had left, Mythra wouldn't have woken up, and he wouldn't have the chance to know her as she is.</p>
+<p>Though, finding herself in my bed... (He laughed when this memory came up.) Luckily Pyra came out the next day, lest it be awkward. She really have thin skin, huh, easily blushing. One-Eyed Monster... Sleeping on his laps... Her (Pneuma's) hair...</p>
+<p>His de facto partner, he really wanted his dad and mum to learn about her, even if he never learned about his dad and mum.</p>
+<p>Wait, Pyra said she shared memories with Mythra, but do they share feelings? Seems not, seems like 2 different personality, interpreting the same memories in 2 different ways...</p>
+<p>Then there's that girl, Fan la Norne. The second time he felt so weak; she's killed in front of his eyes, and he could do nothing to save her. And Pyra, when she was captured -- how much burden she took on her shoulder just to let them go. Its funny how he lied to himself, saying that she'll lived better with them. They conveyed so clearly they wanted her, yet his over-optimism couldn't interpret the situation in any other way less than over-optimism. Yeah, he's the only one being optimistic -- the others don't start out optimistic, neutral at best, but if it became an obstacle to their goal, hostile at worst.</p>
+<p>When they threw her corpse back to him, that moment, he really thought he'd lost her. Wrapping his hands around her shoulder, he felt the coldness and stiffness, heat escaping from her body, heart stopped beating. When they fight, when their souls spoke to him, he's sure they can be brought back. He just need to move their hearts, to convince them that there's someone they worth living for, that's willing to walk on the path with them, their path parallel to each other, each towards their own destiny, but at least, when their path crossed, they could walk hand in hand. And they were back.</p>
+<p>Oh, how he wished now could be then; but they were really gone...</p>
+<p>Despite their differences, he'll never forget the warm and loving hearts of Jin, the strongest Blade of Torna whom hated fighting.</p>
+<p>It's a blessing to meet with Klaus, her Father. Even the battle with Malos controlling Aion; he thought it's too late to turn back, so he acted otherwise. But in his last moments, he seemed to accept, to allow himself to be enlightened, and that is enough, he thought.</p>
+<p>Oh, why had he been so focused on saving the world and not realized the sadness in her eyes? How she refused to look into my eyes, the flickering eyes focused on the floor, when he pleaded her. If he had not pressed, perhaps he could stay, and she wouldn't have to walk her last path alone. Though, perhaps she didn't walk her last path alone; they were always there with her, even if worlds apart. But if he had a choice, he would choose to be more attentive to her next time. But there's no next time anymore. His "next time" had cost him her life; his lessons learnt can only be applied to future situation with others, never to the ones whom he'd lost forever. It's too late to reach out for her.</p>
+<p>They told him to accept her wish. Situation were dire then, and he forced himself to come out; but can he really accept her decision, if put to trial once more again? He don't know. Perhaps, perhaps not. He really don't want her to feel sad, he want her to think that it's him that had made the decision, that she can blame it on him and not blame herself -- she had shouldered too much herself already, he will shoulder the rest for her, even if it means depreciating himself.</p>
+<p>Distraction worked only for a moment. He tried so hard to focus on the screen and not look back; but when it comes to the moment, when he sense a strong clutch in his heart, he knew, he cannot put it down; not when his love was going to die. When he could no longer sense her, he could take it no longer.</p>
+<p>Oh, how he wished to go back to the moments after they'd escaped Gormott for the first time, sat by the campfire, with everyone else asleep in the tranquil night. He looked at her cheeks, her eyes, her hair; perhaps she know he's looking at her, but her focus was on the floor, perhaps to prevent awkward eye contacts. The first time his mind went blur, and accidentally blurted out his feelings towards her, jumped on his feet trying to explain what he 'really' meant. If time would roll back, he hoped they could just sit, side by side, amidst flames and sparks, enjoying the tranquility and the moments together, no need to fight, no need to say anything, just feeling her warmth, and looking at the twinkle stars hanging up high in the sky. The fragments that dragged through the sky, the red motes that rained down, they too were fires... If she's here, they could've hold, hand in hand, and just enjoy the flames, <em>her</em> flames. She really is a master of fire -- the meteors and motes? She made those.</p>
+</blockquote>
+<p>It would be a long time before his helmet would reside another inhabitant again; for now, it'll stay on the back of its first resident, gently rocking as he soared the sky.</p>
+<p>So romantic she have to put her head on his shoulder. Zeke jumped up, felt his skin scorching up; she smiled and glued her head back -- he's not getting away, not this time. He gave up. Mòrag and Brighid stood shoulder to shoulder, swaying left and right, dancing to the rhythm. Tora gasped, his head turned left and right, never had enough to see. Poppi's eyes gazed opposite where his head turned. Nia laid her back on Dromarch, and they quietly enjoyed, relaxing their heart and mind.</p>
+<p>Perhaps you might not come back, but I'll remember you, always, I promise. But oh, how I wish the meteors would bring you back to me. If, if the meteors can hear me, oh, I wish she would come back to me, even though... even though... He gripped hard on her core crystal, trying his best not to shed a tear. He had kept his promise, but she wasn't here to see it.</p>
+<p>A single mote floated down and attached to the dark crystal; more and more motes gathered, sinking in. It started lighting up, glowing, and blinking. He felt something getting warmer on his hand, and his attention slowly tilted down; the light got brighter and brighter, he wondered what's happening. His heart beats faster and faster, his cold sweat palpitating... is she... is she...</p>
+<p><img src="images/356_blinking_crystal.jpg" alt="Blinking crystal" /></p>
+<p>A strong blinding light, accompanied by an ether shockwave, emanated from the crystal, and he shielded his face from it. The others gathered around like penguins trying to keep warm, at a distance away, watching what was happening to Rex. Now this is a real miracle... only the word 'miracle' can explain what's happening... Is she... coming back?</p>
+<p>Rex tried to force his eyes to look at the crystal, but ended up covering his eyes more when an even more blinding beam shot straight into the sky, forming a thin pillar.</p>
+<p>When it dimmed out and he opened his eyes, he could no longer feel the crystal in his hand; but there they were, standing side by side, the blonde and the red, 10 strides in front of him, smiling back at him.</p>
+<p><img src="images/357_their_return.jpg" alt="Their return" /></p>
+<p>Were they real? Or were they just memories saved inside the crystal that came out to say goodbye? Why were they encased in an ether dome, otherwise? He don't know what to say, he don't know what to do, he don't know how to face them, he don't know how to approach them. What can he say? Do you... remember who I am? Or do you... remember the sweet and sour moments we went through together?</p>
+<p><img src="images/358_close_look.jpg" alt="Closer look" /></p>
+<p>He couldn't take to his feet. He felt real scared. He's scared if they say, "Oh, hi, I'm Mythra (Pyra), nice to meet you. What's your name?" or "Huh? What sweet and sour we have?" He's scared that they were not who he believed to, not <em>his</em> Pyra and Mythra, but 2 different entities that had no common memories they shared. He had just lost them, and he's not sure if he could take it if he lose them again. He froze where he stood.</p>
+<p>The ether barrier dissipated, her friends smiled. Poppi can finally and totally put down her guilt -- she kept her promise, and they come back. Happy ending she loved. She ran past Rex, opened her arms wide, and they went down and let her hugged both of them. Tighter and tighter she hug for an extended moment before she released them.</p>
+<p>Rex watched they speaking with each other, conversing with Poppi. He could feel no more tears in his eyes, flabbergasted by something he hadn't expected. It was a roller coaster, to go from desperation to depression to acceptance to unwillingness to wish to memories to puzzlement to hope to can't-believe-his-eyes to flabbergast.</p>
+<p>She knew exactly what he needed now, gave him a push on his back. He looked around and saw her encouraging eyes. Go, the girls you'd been waiting for are waiting for you, she conveyed. Don't let them wait. It really isn't a dream -- they really came back. He looked to the others, they gave him the why-hadn't-you-started-moving face.</p>
+<p>He turned his attention to the girls; they felt his eyes landing on them, redirected their attention to Poppi. Poppi felt they stopped listening and realized, oh, yes, there's still <em>someone</em> right there waiting, turned around and smiled back at him. The girls stood, waiting.</p>
+<p>Pyra said something.{{footnote: If earlier you chose to call her 'Mythra', it'll be 'Mythra said something.'}} He looked to the ground, looked up again, and calmly walked towards them.</p>
+<p>And thus, boy met girl.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="35_confronting_malos.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="37_preface_torna.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="35_confronting_malos.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="37_preface_torna.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

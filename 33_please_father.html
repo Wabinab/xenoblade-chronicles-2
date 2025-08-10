@@ -1,0 +1,390 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>&quot;Please, Father?&quot; - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="please-father"><a class="header" href="#please-father">"Please, Father?"</a></h1>
+<p>The miniature neon lights installed on the walls gave them a glimpse to the trove of darkness. Nia noted, "The building's holding up well inside."</p>
+<p>Tora's point of view was more technical, "Quality of structural materials <strong>much</strong> better than in city outside! This made of same substance as World Tree itself!"</p>
+<p>"Same as the World Tree?" Rex wondered. Why not build the whole city with the same tech as the World Tree, lest it wouldn't be eroded? He heard the bell dinged once. Strange -- hadn't it stopped earlier? But forget about that, he turned around to give further instructions, "Uh... <strong>Huh? Hey, where is everyone? PYRA! GRAMPS!!!</strong>" (No reply). "<strong>Pyra! Mythra!</strong>"</p>
+<p>No reply. He scanned the surrounding. The entrance they'd came in from had gone. Now he's alone in a tunnel, and there's only one door, with the other being a dead end. No other choice, he dashed towards it, hoping to find the others there.</p>
+<hr />
+<p>A blindingly bright light forced him to closed his eyes. When he reopened, he saw darkness everywhere. Darkness that veiled the loss of colors like a chameleon changing colors to fit its surrounding. He hadn't noticed, or perhaps he had, but his attention were on his friends.</p>
+<p>"Uh... <strong>YARRRGH!!!</strong>" By the time he realized, a dark figure shrouded his view and shoved him aside, throwing him on the ground. Tidy footsteps marched along the invisible road. Light was scarce, but Rex was trained to look at darkness beneath the Cloud Sea. He squinted and forced his vision to focus, made out a thing or three, but it wasn't something he'd seen before,</p>
+<p>"<em>What is that,</em> the Ardainian Imperial Army? But their equipment looks ancient... Like it's coming from the past..."</p>
+<p>His attention wandered, "What is up with this place?" He tried, with his hands, to feel the ground. Something rough, hmm, the floor. As he moved about, he felt something hard and round and smooth. He refocused his attention on it, "<strong>UWARRRGHHHH!!!</strong>" No doubt about it, a human skull. He thought he was sitting on the floor, with all the roughness. But now he's not so sure. His touch sensors enhanced, he could feel the round and hard jutting below his ass. He scanned around him. Skull, skull, and more skull!{{footnote: In the video, it's not just skull, but skeleton, but one'll tweak the truth a bit here.}} No piece of land was sacred. He jumped on his feet, "<strong>ARRRGGGHHHHH!!!</strong>" mindlessly ran without a sense of direction until a bright light swallowed the environment once more.</p>
+<hr />
+<p>Pant, pant, pant. He continued running, oblivious to the white clovers that blossomed at both side of the road. He thought eons had passed when he stopped to catch his breathe, half-knelt with hands on his kneecap. Buildings were around him, with lights shining through the windows. Fire on a post lit the surrounding dark-orange.</p>
+<p>He looked up after he'd recovered, nothing of interest; turned around and he saw Nia looking down on the floor with her kneecap facing inwards, and Dromarch in a poaching position, also looking on the floor.</p>
+<p><img src="images/322_nia_and_dromarch.jpg" alt="Nia and Dromarch" /></p>
+<p>Oh, here they are! He felt a surge of relief, fears assuaged, the return of his friends. He believed he'll soon reunite with the rest. The first step is taken, the rest will fall into its place. His brain was so focused on the reunion it explain away any inconsistencies in their posture, "<strong>Nia! Dromarch! I'm so glad you're...</strong>"</p>
+<p>"Why, Rex?" Nia asked in a depressed tone.</p>
+<p>"<strong>Huh?</strong>" His excitement was cut short.</p>
+<p>"You- told us Elysium <strong>was real!</strong>"</p>
+<p>"My Lady and I traveled- allllll this way at <em>your</em> behest. <strong>Master</strong> Rex, did you <strong>intentionally</strong> <em>deceive us?</em>"</p>
+<p>"I trusted you, you know... <strong>I came here because I trusted you!</strong>"</p>
+<p>His heart started to beat fast, cold sweat ran down his veins, wet his palm. Perplexed, he asked, "<strong>N-Nia, Dromarch, what are you talking about?</strong>"</p>
+<p>"<strong>How do you explain this?!</strong>" Nia jumped on her feet, sniped at him.</p>
+<p>"<strong>Y-you've got it wrong! I told you, I promised Pyra to-</strong>" He tried to explain rationally.</p>
+<p>"<strong>Pyra?</strong> <em>Oh right, Pyra...</em> Pyra... Pyra, Pyra, <strong>Pyra! IS THAT IT?!!! YOU'VE ONLY GOT EYES FOR HER!!! GET YOUR HEAD OUT OF YOUR ARSE!!!</strong>"</p>
+<p>He was on the verge of tears, "<strong>N-Nia, y-you're being weird! W-What is going on?!!</strong>"</p>
+<p>"My Lady has given up <em>everything</em> for you, yet still you realize nothing. Even now, you cannot see." He looked down on the ground, had she? Had he not treated her fairly? Had he not told her he loved her? Was it not her whom joined him because, after a round of persuasion, she'd been convinced she'd nowhere to go, with Mor Ardain after her and the other Tornans, so she joined them? It's undeniable that Elysium was their goal at all times, but what about the drops and precipices <em>during</em> their adventure? Had they not enjoyed it? Great fun, companionship? But why?</p>
+<p>"<strong>I'VE BEEN HERE ALL ALONG!!! WHY WON'T YOU REALIZE?!!!</strong>" She desperately cried out. He don't know what to say. "<strong>LOOK!!! JUST LOOK AT ME, REX!!!</strong>"</p>
+<p>She drew out her weapon; he'd no choice but to fight.</p>
+<hr />
+<p>"I... I'm sorry!!!" She laid down, her hand clutched to her injuries.</p>
+<p>She climbed on her feet, forcingly asked, "Answer me, Rex! <strong>Why did you lie to us?!</strong>" He jumped a step back.</p>
+<p>"How could you betray our trust?!"</p>
+<p>Lie, trust, lie, trust, lie, betray, no, trust, no, betray, lie, betray. "Aa- <strong>AAAAAAAGGGGGHHHHHH!!!</strong>" He couldn't take it anymore. He ran into the distance, leaving them behind.</p>
+<hr />
+<p>Pant, pant, pant. His vision was narrowly focused on the ground, oblivious to the tall and short metallic pillars to both side of the road, still thinking of Nia and Dromarch's accusation. He hoped that his feet would bring such feelings away, that they're not real. And he stopped once more, exhausted. He still couldn't understand, "Why would... Nia... and Dromarch..."</p>
+<p><img src="images/323_tall_short_pillars.jpg" alt="Tall and short pillars" /></p>
+<p>"You <strong>reaaaaaally</strong> are a fool."</p>
+<p>"<strong>AGGGHHH!!!</strong>" He looked up and saw them approaching. "<strong>Mòrag, Brighid...?</strong>" Something was off. He scanned the surrounding, he saw this place before, but they're not supposed to be here. "<em>Huh?</em> Mor Ardain?"</p>
+<p>"You're so thoughtless."</p>
+<p>"<strong>Mòrag!!</strong>" He was trying to figure out why they were here, but her words brought him back to the now and forget about the inconsistencies.</p>
+<p>"<strong>Here</strong> you are, <strong>wasting time, and all the while my countrymen are</strong>..."</p>
+<p>Brighid accused, "Do you- have any idea what you've done?"</p>
+<p>He grew more puzzled, "Wh... <strong>what do you...</strong>"</p>
+<p>Mòrag continued, "<strong>You just run ahead, without a thought for ANYONE ELSE, and THIS IS THE RESULT!!!</strong>"</p>
+<p>As if her words had power, the floor shook. Rex heard a crash in the distance. He tried to figure out what's happening when "<strong>AGGGGGGHHHHHH!!!</strong>" The ground below him collapsed, taking him with it, into oblivion.</p>
+<hr />
+<p>He felt the air gushed through him, he swallowed some large portion that inflated his stomach; the surrounding was veiled with blindingly bright light.</p>
+<p>Thud. He felt his body slammed against the ground. He could still feel; hurt, but not dead. "Urgh..." He climbed on his feet, listening to the thunderstorms in the background. Brighid and Mòrag appeared yet again in front of him.</p>
+<p>"I couldn't save anyone. <em>If only</em> we hadn't come here, <strong>I could have saved my people. I COULD HAVE SAVED NIALL!!! IF ONLY IT WEREN'T FOR YOU, REX!!!</strong>" She drew out her truncheon.</p>
+<p>What had this got to do with him? He recalled, the last time he saw Mor Ardain, it was under Amalthus's control. Yet, hadn't it finally stopped? Hadn't they prepared for evacuation for years, even decades? The collapsing of Mor Ardain will take some time, long enough for most if not all of them to escape. Was it not her that asked him to trust in Niall? That he, an emperor, whom willingly risked his life to save his enemy, Queen Raqura, would know what to do when the time asked for it? They'd not even confirmed that Niall was dead, nor anyone else in Mor Ardain! They know nothing! Why would she said that? Was where they are now really Mor Ardain? He didn't saw anyone else except the three of them on the street, unless his memories play trick on him? Where were their corpses?</p>
+<p>But in the heat of the moment, he tried to convince her, at least to calm her down, "M-me? I didn't mean to-"</p>
+<p>Brighid sniped, "I <em>hope</em> you're <strong>happy</strong> now. <em>You've</em> <strong>dragged us</strong> to some <strong>EMPTY RUINS!!!</strong>" He froze, and she continued in a second, "I hope that was worth <strong>EVERYTHING WE SACRIFICED!!!</strong>" The battle began.</p>
+<hr />
+<p>In a desperate voice, he pleaded, "<strong>Please! Stop this... What's the use of fighting amongst ourselves now?!!!</strong>"</p>
+<p>"What's <strong>THE USE?!!!</strong>" Mòrag had an answer for him. "<strong>FOR VENGEANCE!!! WHAT MORE REASON DO I NEED?!!!</strong>"</p>
+<p>"<strong>Wha-?!!</strong>" And now it's my fault?</p>
+<p>Brighid agreed, "That's right... <strong>We must take our vengeance... For the thousands of lives you have STOLEN!!!</strong>"</p>
+<p>"<strong>I... killed...?!! N-no, wait! I didn't-</strong>"</p>
+<p>"I'll have <strong>your life FOR AN APOLOGY, REX!!!</strong>"</p>
+<p>Since when did he killed? He don't know, but "<strong>AAAAARRRRGGGGGHHHHH!!!</strong>" Once more, he ran away. He wasn't willing to fight them, but he was unwilling to face their wrath too. Though he don't understand where the accuse came from, why did they accuse him for. He could hear the muffled voice from behind even as he dashed as fast as his feet could bring him,</p>
+<p>"<strong>Stop right there! How dare you run!</strong>"</p>
+<hr />
+<p>His eyes opened wide even when bright light hurts it. The pain he felt from the sudden change in brightness was much less than the pain of accusation. The environment once more returned to darkness, and he could make nothing around him. Nothing at all!</p>
+<p>"What is this place...? What's wrong with everyone...?" He stopped once more, looked around and shouted, "<strong>Pyra! Mythra! Gramps!!! Where are you? Where are you guys?!!!</strong>"</p>
+<p>No reply. Wherever he looked, he saw darkness and emptiness.</p>
+<p>"Why Rex-Rex run?" Rex necked jolted around. He was standing between Poppi and Zeke.</p>
+<p>"Tora... Poppi... <strong>Zeke and Pandoria... Don't tell me you're all...</strong>" His tone full of desperation. He seriously needed someone to appreciate him at this moment.</p>
+<p>"You having fun, chum? <strong>Playing the hero like the KID you are; STRINGING us adults along...</strong>"</p>
+<p>"<strong>T-T-THAT'S NOT-</strong>"</p>
+<p>Tora cut him off before he could finish, "Rex-Rex is baaaad friend. Why Rex-Rex become <strong>Driver, when Tora CANNOT become Driver?</strong> Tora try <strong>so hard, AND FOR WHAT? IT USELESS!!!</strong>"</p>
+<p>"Masterpon is right. Rex just have <em>a little luck</em> and become <strong>Driver of Aegis?</strong> Poppi never ask to be born as <strong>imitation. Poppi want to be REAL, TOO!!! Not. Fair!!!</strong>"</p>
+<p>Had he not made Poppi because for 3 generations, they cannot become driver? What had he to decide whether they become driver or not? Pure jealousy for his luck? And Poppi, Tora was so proud of Poppi, and now he's demeaning her? The sweat and blood of 3 generations made her alive, and she, given her life, now complaints that she's not real? If your Masterpon had became a driver, had you realize you wouldn't even come alive?</p>
+<p>"I bet it felt real good, didn't it?" Pandoria teased. "<em>Getting special treatment from everyone, getting chosen by the Aegis...</em> Who decided you should have all that power? How about... you hand it over to the Prince right now? He deserves it!" Zeke looked at Rex with his nostrils, as if all those was what he deserves.</p>
+<p>Rex's courage was decimated, "<strong>Stop it already! I did nothing wroooong to any of you!</strong>"</p>
+<p>Zeke smirked, "So you <strong>haven't worked that out, either? In your HURRY to get here, you NEVER STOPPED to consider... ALL the things YOU LEFT LYING IN YOUR WAKE!!!</strong>"</p>
+<p>When did they ever had the time to stop? They stop, and the next moment, Malos would've taken over the world! Oh, how he wished he was <em>just</em> the boy in the village, living with Pyra and Mythra, enjoying the tranquility and serenity. But Torna pushed them all along, threatened them to keep moving forward; circumstances brought them here, he'd not made the slightest push! Why would he had to hurry to bring Pyra to Elysium? He'd enjoyed their time together, and is it not his wish to elongate the time they'd spent with each other, to live in the endless now? No, he cannot understand, why would they've accused him for what isn't his choice, what isn't in his control?</p>
+<p>But they gave him no chance to rationally work that out calmly. Weapons were drawn; he was too exhausted and desperate to explain. Words can't get through to them; perhaps when the metallic sharp blades carved an inch on their arms would the pain return their mind to them. Perhaps only then will rationality return into their coconut head.</p>
+<hr />
+<p>"<strong>ENOUGH! STOOOOOOPPPPPP!!!</strong>" He closed his eyes and launched a burning sword at them. They put down their sword, watched themselves swallowed by the burning sword, and bust, into nothingness they went.</p>
+<p>"<em>Ah!</em>" What just happened. His desperation was replaced with intense guilt. No, he shouldn't have acted like that under pressure. He should have kept them safe at all times. And now their blood stained his palms; never in his life would he wash them clean. It would live with him forever.</p>
+<p>"<strong>T-Tora! Poppi!</strong>" But his hope weren't yet gone. His attacks may be strong, but he'd controlled the output, he believed. He dashed to the scene, went down and dug the soil with bare hands. But all he saw was dark patches of soil and dirt, nothing else. Deeper and deeper, inch by inch, he could see nothing else. No flesh, no meat, no bones, no remnants. They were burnt to ashes, became a part of the dust he breathe in and out. "No... I never wanted this! <strong>Zeke! Pandoria! Ergh! Ergh! Ergh! Ergh!</strong>"</p>
+<p>He continued digging furiously; he cannot believe they would die so easily. Where are they? He promised, within his heart, that he would abide to their accusations if they would... if they would just come back. Please, come on, just come back. Whatever you say one'll listen. Whatever you want me to do, whatever favor, just... just come back...</p>
+<p>"<em>What- are you- doing, Rex?</em>" Gramps voice echoed in the background, and again, bright light engulfed the scene.</p>
+<hr />
+<p>"Huh?" He stopped digging, stood up and looked around. How could he forgot where this place was? Even if it didn't immediately register, he'd stayed here for years it'd carved into his mind. Though it looked dark, and seldom did he come out during the dark that caused him to not register immediately. He looked at the eagle soaring far above the sky, blocking some of the starlight. "<em>Gramps... This place...</em>"</p>
+<p>Yes, he'd worked here for 5 or more years as a salvager, day in, day out. The hut is there, the crane is there, the flesh is below his feet. Behind Gramps's back.</p>
+<p>He heard a whale song in the distance, the bellowing like wishing the world well before one part away with it, the intense love, hoping one could stay longer in this world but one couldn't. He turned to it; a whale-like Titan emerged from below the clouds, reached its peak height, its Core Crystal shone bright, before it dimmed, its iris dimmed, its life dimmed, and it slammed back into the water under gravity, sinking deeper and deeper towards Morytha, the waves it sent gushed and swayed Gramps. Rex could feel it.</p>
+<p>Gramps asked, "What... is the point?"</p>
+<p>"<em>Uh, Gramps?</em>" He tilted his head, don't know what he's talking about.</p>
+<p>"<strong>What-</strong> is the point of us, really? We- are- born- as Blades, then return to our slumber, again, and again, over countless years... until we become- Titans, to wander this world for countless more... and at the end of it all, we sink <em>into nothingness.</em> <strong>Have you- ever-</strong> thought about it? What it means to exist for close to an eternity, with no- clear- purpose- or goal?"</p>
+<p>"That's..." Hmm... Yeah, what's the point? We creatures that acquired language and a clear mind had to have a purpose to live, he convinced himself. Forget about those animals, dogs, cats, that willingly play for the whole day, or just do nothing for years, sleeping and eating, enjoying the sun, enjoying one another's company. We intelligent creatures -- humans, Blades, Titans -- set a clear goal and aim towards it, so we don't feel regret at the end of our life. Our ancestors had a clear goal to feed themselves and their family and their tribes, working till the end of their life. If we had no goal, why did Mother Nature grant us clear-mindedness? Why did She grant us the feeling of restlessness when we had no goal in mind?</p>
+<p>Gramps continued, "Must be nice to be human... Living for a limited time, thinking limited thoughts... it must be so much easier. <strong>I envy your kind...</strong> Just <em>think</em>, Rex, would you? <strong>What would you do</strong>- if you were me? Would you be happy- to drift around the ocean- with a <strong>human</strong>- on your back? <strong>Is that- allllll- I am to be?</strong>"</p>
+<p>Rex dropped his head, the desperation of Gramps's voice echoed in his mind, weighted heavy in his heart. The logic seemed flawless; but he don't know. He felt there's something off, but he can't fathom what it is. A human on one's back is a companion, but sacrifice freedom for companionship? "<em>I-</em><strong>I don't know how I'm supposed to answer that! WHY ARE YOU ASKING ME?!!! YOU'RE BEING STRANGE... EVERYONE'S ACTING SO STRANGE!!!</strong>"</p>
+<p>He felt water rushed through his nostrils and mouth; he cannot breathe. He saw light shining through the water, bent with the waves. He felt the heavy weight on his head, on his chest, strength diminishing from his muscles, wearing away his body. He felt his clear-mindedness diminishing, sanity no longer. He thought for himself, perhaps, this is what they meant by mental breakdown. The sun grew brighter and brighter until it engulfed the scene.</p>
+<hr />
+<p>He opened his eyes, scanned the surrounding. What is it now? Who is it this time? Waterfall behind, the land, the trees... looked like Leftherian archipelago, but there's no village. No, it's not Fonsett. He listened to the insects finding for a mate, chirping in the tranquility. He looked at the house, the only, built on the edge of the island, against a backdrop of waterfall gushing down to oblivion, the sound of water hitting against one another muffled far below. The windows were illuminated orange. Candlelight, or ether lamp, maybe. The greenery calmed his mind, but not his heart. It was late evening, only a speckle of sunlight, reflecting through the surface of Alrest, gave a viewable hue to the objects in the surrounding from diving into total darkness.</p>
+<p>His eyes fixated on the house, on the door. Who's in it? What surprises awaits him within? He don't know, but he had to find out. He tried to walk as soft as possible, opened the door as softly as possible, to not attract any unwanted attention. It creaked slightly, and he took a peek.</p>
+<p>"Welcome back!" An excited tone called from behind. He knew this voice instinctively; oh no, he felt. Not again. No more... He looked at her hands. A pot of soup, presumably just carried out of the kitchen. He looked to the table where she's setting it down; 3 pairs of dining set prepared on it. A girl with long golden hair sat on the other side. She called out,</p>
+<p>"You're late, Rex! Where did you wander off to?"</p>
+<p>"Pyra, Mythra..."</p>
+<p>Pyra softly walked towards him, gave the door a push, and smilingly grabbed his wrist with both of hers, tugging him in while he was focused on her words, his legs moving under her control "Come on, let's go ahead and eat. I've cooked up a whooooole bunch of your favorites, I hope you've got room!"</p>
+<p><img src="images/324_pyra_dragging_him_in.jpg" alt="Pyra dragging him in" /></p>
+<p>While entering, he turned to Mythra, whom was also smiling at him. He changed glance between her and Pyra, trying to notice any anomalies, any accuses they readied for him. Is this nice moments just the calmness before the storm? Were they wanting to numb his heart and mind first before giving him the blow-off? At least for now, he'd not detected any hostility from both of them. Though, Mythra looked more cheerful than the usual tsundere. Pyra acted more outgoing than the usual conservative. He looked at the food laid out on the table, slowly walking towards the chair Pyra led him to, careful to aim his ass at it, and sat himself down.{{footnote: The windows behind him revealed there were other house in the distance, ether lamp also emitted light and lit their windows bright.}}</p>
+<p>Pyra watched as he settled down before going back into the kitchen, leaving him with Mythra. Rex watched Mythra took the ladle and filled the bowl with soup. Her attentiveness was beautiful.</p>
+<p><img src="images/325_mythra_focus.jpg" alt="Taking soup" /></p>
+<p>"Well, eat up!" She excitedly offered her the bowl of soup, held it in front of him. He was surprised for a moment, but held out his hand and received from her, placed it in front of him. He looked at his reflection, he could see his own sorrow in it. But the lukewarm of the soup felt real. Perhaps this is the real world; that what he'd experienced before was fake. Perhaps, maybe. He looked at her again; she reached for the basket and asked him, she asked, "Which kind of bread do you want?"</p>
+<p>"Oh, <em>ah, um</em>..." He forced his wandering mind to focus on the present, utilizing his brain power to gaze through the different varieties offered to him. He bent forward, "Maybe this- and this-" He randomly pointed at two of them that appeal to his eyes.</p>
+<p>She took them out and "Theeeere you go." put them on his plate cheerfully. He could smell the fresh aroma that forced him salivating, though his stomach was twisted and sour. Her hospitality was a little off, but perhaps she's just... she's just... acting like that all the while, and he didn't notice it, perhaps.</p>
+<p>"Th-thanks..."</p>
+<p>Pyra, meanwhile, relit the fire in the kitchen and was frying the final plates.</p>
+<p>Mythra cheerfully pulled out a bottle from below the table, asked, "<strong>Hey</strong>, do you want some wine? Oops, you're too young. <em>Silly me!</em>" She placed it beside the basket of bread and other stuffs.</p>
+<p>He could no longer suppress his doubt, asked, "Mythra, has- something happened?"</p>
+<p>"Whaddya mean?" She clasped her hands together and placed her elbows on the table, her nose on the joints of her index fingers, and looked at him in his eyes.</p>
+<p>"I-it's just... you're a lot <strong>nicer</strong>- than normal..."</p>
+<p>She blushed, behaved cutely, "<em>Stop it!</em> I'm always nice to you, aren't I?"</p>
+<p>His heart stopped pumping for the moment. "If... if you say so...?"</p>
+<p>Perhaps he'd misremembered how she behaved? Perhaps, after all the meanness he'd experienced before, her niceness stood out clearly. Before, when everyone was nice, her niceness was average; but now, she's extraordinary, he told himself. He didn't want to get her on the other side. He want her by his side, the last of his friends that didn't accuse him for reasons notwithstanding. He don't want her to blame him for what's not within his sphere of control. He muted himself, redirected his attention by reaching out for his bread, hoping that the hard bite on it would tell him it's real here.</p>
+<p>"Hey, Rex, come on!" His hands hadn't yet reached the bread when Pyra called out. He turned to her, wondering if this is the turning point. Though, her tone was still cheerful, though it cannot be denied she's giving him a lecture, "How can you sit down to eat without washing your hands first? That's a faux pas!" She put down the newly cooked dishes, put her hands on her waist, and instructed, "<strong>Go- wash your hands, right now!</strong>"</p>
+<p><img src="images/326_pyra_lecturing.jpg" alt="Pyra lecturing Rex" /></p>
+<p>He confusingly apologized, "I, um... Sorry..."</p>
+<p>The ether lamp hung near the walls oscillate, its light revealed the rough texture of the shoddy-looking walls, seemingly patched carelessly by cement and clay. The sink was just below the lamp, and Rex scrubbed and scrubbed and scrubbed his hand, the cold water that flowed through his hands he cannot feel. What had happened to his friends, each and every one of them? Everyone seemed to demonstrate the darkest side of themselves, blaming all the darkness they live with to him. Sure, Pyra and Mythra were nice, but they were weird in other ways too. More subtle, he could feel, but he couldn't really tell what's off. The coldness running down his veins cleared his mind, his rationality returned, he tried to make out what's happening, where was he, where were they, and how to deal with it. All he wanted to know is how to get his friends back by his side, how to get them back to a personality he'd expected, and why would they've changed overnight, all at once? Why did he kept changing place in a split second? Where is he? What is the meaning of his life here? What's his calling?</p>
+<p>"You're acting almost like <strong>Mythra</strong> today, Pyra..." He told himself.</p>
+<p>It took him quite long. By the time he returned to the room, the dishes were already laid out, and in his plate, someone had placed a small portion of her newly cooked dishes on it. The two girls sat side by side on the other side of the table, their glance following him while he reached for his seat. He softly closed the door behind and walked over. Pyra asked, "Did you scrub them properly?"</p>
+<p>"Yeah! They're clean." He loudly confirmed.</p>
+<p>"Great!" (She looked at Mythra, both nodded to each other.) "OK then, let's eat!"</p>
+<p>"Thanks for the fooooddd!!" Mythra prayed to air.</p>
+<p><img src="images/327_eating.jpg" alt="Eating" /></p>
+<p>His eyes scanned the table, its colors, its aroma, he forced himself to start salivating. "Uhm... It looks really good..." He tried to forget what'd just happened, hoping the food would bring them away. He took the spoon and took a ladle from his bowl of soup. Mythra started eating cheerfully and carelessly, while Pyra being more conservative, carefully bringing the food to her mouth like a lady.</p>
+<p>He brought it to his lips, felt the taste blossomed on his taste bud, exclaimed, "<strong>Tastes even better!</strong>"</p>
+<p>"Of course it does!" Pyra exclaimed. "After all, I made it myself." She smiled and winked at him.</p>
+<p>"Maybe I'll try <strong>my</strong> hand next time." Mythra decided, showing the spoon she's holding to him.</p>
+<p>Pyra launched on her immediately out of fear, "Mythra, <strong>no</strong>. You know how that <strong>always</strong> ends."</p>
+<p>"<strong>But carbon's good for you!</strong>" She'd researched the nutrition of the food, and scientifically mixed the contents together to maximize the healthiness of her preparation. "Anyway, I wanna do something nice for Rex <em>too!</em>"</p>
+<p>"<strong>No cooking! Who's gonna save the world</strong> if Rex gets the runs?"</p>
+<p>"You're so mean... It was only that one time!"</p>
+<p><img src="images/328_rex_panicking.jpg" alt="Adrenaline rush" /></p>
+<p>Their quarrels started his adrenal glands, pumping more adrenaline into his bloodstream. The joy of the food immediately pushed behind the back of his mind as the fear for what happened to his friends occupied yet again. Except this time, they were not accusing him, but each other, though their source of quarrel is him, and he had to stop it before it escalates into a fight, "Um, <strong>it's OK</strong>, you two. I don't care who cooks, I'm just- happy we're..."</p>
+<p>They stopped quarrelling, looking at him. 'We' was a heavy word for him. It reminded him of Nia and the others that had turned monstrous, abominable. He don't understand why. And it reminded him that, even though the two in front of him sounded familiar, but their personality seemed swapped. He looked at the table, at his soup, his tensed muscles relaxed and turned sore, as if a heavy weight was put on every single cell on his body, and he felt he was on the verge of collapsing, "<em>Happy we're...</em>"</p>
+<p><img src="images/329_rex_crying.jpg" alt="Rex Crying" /></p>
+<p>The tone of his voice opposed his words. He tried to convince himself to be happy, but he couldn't, not after what'd just happened. The tranquility of this world couldn't wash off his memories of the war-ridden of Mor Ardain, the hatred in each of his friend's face, their eyes. His hand dropped, together with his spoon. He felt the same like we during a heavy fever. He tried to snuff out his tears, but his nose kept blowing. He covered his face with his hand; he don't know what to do. Aimless. Uncontrollable. Unexpected. Desolation.</p>
+<p>Pyra and Mythra looked quietly at each other, Pyra more guilty than her sister. She started softly, "<em>Rex...</em>"</p>
+<p>"It's so strange. I... I don't even know what I'm doing here any more. Everyone's all wrong! They all said I..." (Tears dripped from his eyes into his soup) "But now you two..."</p>
+<p>They waited for him to cry for a while, seated quietly. He asked, "Did... did I go wrong somewhere?"</p>
+<p><img src="images/330_mythra_standing_up.jpg" alt="Mythra standing up" /></p>
+<p>Pyra looked to the side, feeling unable to face him. Mythra felt she had an obligation; she calmly stood up from her seat, walked around the table, bent down and looked closely at him, seeing his welling tears rolling down his cheek, and with her glove, softly rubbed it away.</p>
+<p><img src="images/331_mythra_wiping_his_tears.jpg" alt="Mythra rubbing his tears" /></p>
+<p>Pyra looked to the other side, felt her body shaking, tears welling in her eyes; to see her loved one being tortured, she cannot take it anymore. She asked to someone nonexistent in the room,</p>
+<p><img src="images/332_pyra_feeling_guilty.jpg" alt="Pyra feeling guilty" /></p>
+<p>"I think... <em>that's enough.</em> (She looked up at the ceiling). Please, Father?"</p>
+<p><img src="images/333_please_father.jpg" alt="Please, Father" /></p>
+<p>The lights went off. The curtains dropped.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="32_elysium.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="34_architect.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="32_elysium.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="34_architect.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

@@ -1,0 +1,535 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Off to Mor Ardain, Roc&#x27;s Core Crystal Stolen - Xenoblade Chronicles 2 (Including Torna)</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Xenoblade Chronicles 2 translated from video to book.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff"></script>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Encounters</li><li class="chapter-item expanded "><a href="01_the_boy.html"><strong aria-hidden="true">1.</strong> The Boy</a></li><li class="chapter-item expanded "><a href="02_the_quest.html"><strong aria-hidden="true">2.</strong> The Quest</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Aptitude</li><li class="chapter-item expanded "><a href="03_washed_up.html"><strong aria-hidden="true">3.</strong> Washed Up</a></li><li class="chapter-item expanded "><a href="04_gormott.html"><strong aria-hidden="true">4.</strong> Gormott, Resonance, and Captured</a></li><li class="chapter-item expanded "><a href="05_poppi.html"><strong aria-hidden="true">5.</strong> Tora, Mòrag, and Poppi</a></li><li class="chapter-item expanded "><a href="06_saving_nia_dromarch.html"><strong aria-hidden="true">6.</strong> Prison Break, Pyra&#39;s Flames</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Our Own War</li><li class="chapter-item expanded "><a href="07_a_ship.html"><strong aria-hidden="true">7.</strong> We need a ship</a></li><li class="chapter-item expanded "><a href="08_uraya.html"><strong aria-hidden="true">8.</strong> Vandham of Uraya</a></li><li class="chapter-item expanded "><a href="09_journey_to_capital.html"><strong aria-hidden="true">9.</strong> Bringer of Chaos, Fonsa Myma</a></li><li class="chapter-item expanded "><a href="10_the_death_of_vandham.html"><strong aria-hidden="true">10.</strong> Vandham&#39;s final lesson</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Aegis</li><li class="chapter-item expanded "><a href="11_after_the_fight.html"><strong aria-hidden="true">11.</strong> Brief History of Alrest, Minoth</a></li><li class="chapter-item expanded "><a href="12_to_mor_ardain.html"><strong aria-hidden="true">12.</strong> Off to Mor Ardain, Roc&#39;s Core Crystal Stolen</a></li><li class="chapter-item expanded "><a href="13_mor_ardain.html"><strong aria-hidden="true">13.</strong> Dadapon&#39;s Whereabouts, Travel with Mòrag</a></li><li class="chapter-item expanded "><a href="14_factory.html"><strong aria-hidden="true">14.</strong> One-Eyed Monster, Confrontation at the Factory</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Masters and Slaves</li><li class="chapter-item expanded "><a href="15_history.html"><strong aria-hidden="true">15.</strong> Addam and Lora, Jin To Temperantia</a></li><li class="chapter-item expanded "><a href="16_bringing_pyra_home.html"><strong aria-hidden="true">16.</strong> Bringing Pyra Home, To See His Parents (Leftherian Archipelago)</a></li><li class="chapter-item expanded "><a href="17_to_indol.html"><strong aria-hidden="true">17.</strong> The Return of the One-Eyed Monster, Meeting the Praetor</a></li><li class="chapter-item expanded "><a href="18_to_temperantia.html"><strong aria-hidden="true">18.</strong> Off to Temperantia, Encounter with Jin</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Wounds</li><li class="chapter-item expanded "><a href="19_histories.html"><strong aria-hidden="true">19.</strong> Jin and Lora, Rulers&#39; Congress, Fan&#39;s Funeral, Aegis&#39;s Servant</a></li><li class="chapter-item expanded "><a href="20_bana.html"><strong aria-hidden="true">20.</strong> Ancestors of Tantal, Bana&#39;s Plot, Emperor Niall&#39;s Selflessness</a></li><li class="chapter-item expanded "><a href="21_tantal.html"><strong aria-hidden="true">21.</strong> Tantal</a></li><li class="chapter-item expanded "><a href="22_escaping.html"><strong aria-hidden="true">22.</strong> Escaping</a></li><li class="chapter-item expanded "><a href="23_omega_fetter.html"><strong aria-hidden="true">23.</strong> Pyraaaa... PYYYRAAAAAAA!!!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: The Fear She Carries</li><li class="chapter-item expanded "><a href="24_third_aegis_sword.html"><strong aria-hidden="true">24.</strong> Where is Hope?</a></li><li class="chapter-item expanded "><a href="25_spirit_crucible.html"><strong aria-hidden="true">25.</strong> Spirit Crucible Elpys, &quot;I love you too, Nia!&quot;</a></li><li class="chapter-item expanded "><a href="26_rescue_pyra.html"><strong aria-hidden="true">26.</strong> Stand With Me One More Time!</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 8: World Tree</li><li class="chapter-item expanded "><a href="27_a_promise.html"><strong aria-hidden="true">27.</strong> Together with Rex, Jin&#39;s Sadness, A Promise</a></li><li class="chapter-item expanded "><a href="28_torna.html"><strong aria-hidden="true">28.</strong> The Hubris of Mankind, Unborn Blades, Jin&#39;s Story</a></li><li class="chapter-item expanded "><a href="29_amalthus.html"><strong aria-hidden="true">29.</strong> Titan Death Throes, Ascending the World Tree, Amalthus</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 9: Rain</li><li class="chapter-item expanded "><a href="30_amalthus.html"><strong aria-hidden="true">30.</strong> Amalthus&#39;s Desperation</a></li><li class="chapter-item expanded "><a href="31_the_journey.html"><strong aria-hidden="true">31.</strong> That Day, When a Desolate Man Trusted a Con Artist</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 10: And Thus, Boy Met Girl</li><li class="chapter-item expanded "><a href="32_elysium.html"><strong aria-hidden="true">32.</strong> This is... Elysium???</a></li><li class="chapter-item expanded "><a href="33_please_father.html"><strong aria-hidden="true">33.</strong> &quot;Please, Father?&quot;</a></li><li class="chapter-item expanded "><a href="34_architect.html"><strong aria-hidden="true">34.</strong> The Architect</a></li><li class="chapter-item expanded "><a href="35_confronting_malos.html"><strong aria-hidden="true">35.</strong> Defeating Malos, &quot;I&#39;m Sorry, Rex!&quot;</a></li><li class="chapter-item expanded "><a href="36_finale.html"><strong aria-hidden="true">36.</strong> Finale</a></li><li class="chapter-item expanded affix "><li class="part-title">Torna: The Golden Country</li><li class="chapter-item expanded "><a href="37_preface_torna.html"><strong aria-hidden="true">37.</strong> Preface for Torna: The Golden Country</a></li><li class="chapter-item expanded "><a href="38_lora_and_jin.html"><strong aria-hidden="true">38.</strong> Where It All Started</a></li><li class="chapter-item expanded "><a href="39_addam_mother.html"><strong aria-hidden="true">39.</strong> The Other Aegis, Where&#39;s Mother?</a></li><li class="chapter-item expanded "><a href="40_brighid.html"><strong aria-hidden="true">40.</strong> New Friends</a></li><li class="chapter-item expanded "><a href="41_bluefist.html"><strong aria-hidden="true">41.</strong> Gort the Bluefist</a></li><li class="chapter-item expanded "><a href="42_torna.html"><strong aria-hidden="true">42.</strong> Going to Torna</a></li><li class="chapter-item expanded "><a href="43_capital.html"><strong aria-hidden="true">43.</strong> Journey to the Capital</a></li><li class="chapter-item expanded "><a href="44_attacking_capital.html"><strong aria-hidden="true">44.</strong> Malos is Here</a></li><li class="chapter-item expanded "><a href="45_peace_before_storm.html"><strong aria-hidden="true">45.</strong> The Peace Before the Storm</a></li><li class="chapter-item expanded "><a href="46_battle_malos.html"><strong aria-hidden="true">46.</strong> The Battle with Malos, The Fall of Torna</a></li><li class="chapter-item expanded "><a href="47_finale.html"><strong aria-hidden="true">47.</strong> Aftermath, The End</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="96_heart_to_heart.html">Heart to Heart</a></li><li class="chapter-item expanded affix "><a href="95_QT_pi.html">Poppi QT &#92;(&#92;pi&#92;)</a></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="94_postscript_torna.html">Postscript (Torna)</a></li><li class="chapter-item expanded affix "><a href="98_references.html">References</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Terms</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 2 (Including Torna)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/Wabinab/xenoblade-chronicles-2/discussions" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="off-to-mor-ardain-rocs-core-crystal-stolen"><a class="header" href="#off-to-mor-ardain-rocs-core-crystal-stolen">Off to Mor Ardain, Roc's Core Crystal Stolen</a></h1>
+<p>At Argentum, a Nopon that knew him greeted, "<strong>Heeeyyyy!!! It's Rex!</strong>"</p>
+<p>"Rex come back alive?"</p>
+<p>"Rex have <strong>many</strong> sidekicks now!" says the few other Nopons with the first Nopon.</p>
+<p>Nia teased, "<em>Quite the little celebrity, aren't we?</em>"</p>
+<p>"Welllll, you know. I've been trading here for a while. Anyway... I'll find us a ride to the Empire. You guys go on ahead to the inn."</p>
+<p>"Sounds good. See you around, then!"</p>
+<hr />
+<p>They gathered on the 2nd floor of the Argentum Trade Guild, where the inn and the restaurant were opened{{footnote: One cannot remember exactly if this is true, but correct me if one's wrong, leaving a comment at GitHub discussion. You can go directly to the page by clicking the GitHub icon on top right of the header, beside the 'print' symbol.}}. Seated around the tables in the restaurant, they listened to Rex announcing their plan.</p>
+<p>"<strong>Right, so it looks like we're heading out tomorrow.</strong> Everyone, make sure you're ready by then!"</p>
+<p>Dromarch: "Understood."</p>
+<p>Poppi: "<strong>Affirmative!</strong>"</p>
+<hr />
+<p>Tea time. Seated around several small tables, Pyra, on one of them, had a sip of the tea she ordered, wondrously exclaimed with a thin smile on her face, "The tea here is... lovely!"</p>
+<p>Gramps shared the table with her, shared what he knew, "You can find quality goods here- from all around- Alrest. you like the place?"</p>
+<p>"Yes. If there's time before we leave, I think I'll have another cup later."</p>
+<p>At another table, Nia was stretching herself, "Mmmmmmph, feels so good to rest in a proper inn after a long voyage!"</p>
+<p>Rex agreed, "<strong>Yeah!</strong> It's good to be on familiar shores again."</p>
+<hr />
+<p>In the boys' dormitory, everyone was far asleep; even Gramps, curled inside Rex's helmet. Rex was trying to change position when, "Mmmm... (sniff sniff)... Mmmmm.... Mmmmhmmm?"</p>
+<p>Something was off. There's this... nice scent, but one don't remember one'd put on any perfume! Rex tried to force change position, flipping to the other side, but something was pressing on his hand strongly. He tried mildly to pull it out but failed. His brain came back online to gauge the possible scenario; what object could there be? He opened his eyes to look.</p>
+<p>Wait, a girl? This face, Mythra? He breathed in what she breathed out, combined with both their body scent, and blood started rushing up his cheeks. "<em>Oh!</em>" She hadn't yet noticed, still sleeping merrily. Oh man, how could one carry her back to her room without her realizing? How could one leave without waking her up? Oh wait, one couldn't leave. He looked down at his hand, hugged tight by Mythra, "<em>Erm...</em>"</p>
+<p>Deep in her dreams, she felt someone reliable, perhaps Addam, that brought her in his hug. She carefully and blushingly rubbed her breast against him; and of course, she reflected her dream in real life, rubbing it against Rex's arms.{{footnote: Usually when we sleep, our brain will inject a massive amount of paralysis. This ensures what we do in our dreams does not get reflected in reality. However, some people's brain are unable to inject paralysis, hence we labeled their condition 'sleepwalking'.}} Bouncy... bouncy... What now?</p>
+<p><img src="images/144_mythra_wrong_room.jpg" alt="Mythra sleeping with Rex" /></p>
+<p>Perhaps the soft and natural object she was hugging turned too stiff; her brain felt not right. Triggered, she smelt something unusual too, not just something not moving with her alone. Stiffened, she opened her eyes.</p>
+<p>"<strong>Ah!</strong>" This is not good. Very bad. Eye to eye, they look straight into each other's eyes, stuck there for a prolonged moment as she was returning to life, gauging the situation. Some short moments before she realized, "<strong>ARRRRRGH!!!</strong>"</p>
+<p>"<strong>AAAAAAAAAHHHHHHH!!!</strong>" Rex resonated her shouts; and both jolted and sat up quickly.</p>
+<p>"<strong>You! How did you-?! <em>Wha...?!</em> What are you doing in my bed?!</strong>"</p>
+<p>"<strong>Wait, I...!!!</strong>" He tried to explain.</p>
+<p>"<strong>ARRRRRRGGGGGGHHHHH!!!</strong>" She wasn't listening, got out of bed, and ran to the only tea table in the room. Despite closing her eyes, her aims were notoriously accurate, raining whatever objects she can grab at him, "<strong>GET OUT!!! INTERLOPER!!! MONSTER!!!</strong>"</p>
+<p>The rest in the room had already awakened from their fight. Tora, standing on his bed, and having his bed just beside Rex's, unfortunately became a victim to the rain of objects. Something hit his forehead, and he fell flat on his back.</p>
+<p>"<strong>W-wait a minute, would you- OWWW!!!</strong>" He tried to call for his attention when something as huge as his helmet and as hard as his helmet hit him hard on his forehead. He quickly climbed back up, hand against his forehead, immediately getting to the main point, hoping her logic would takeover, "<strong>You-You're the one in my room! The guys' room, see?!</strong>"</p>
+<p>A cup and a book was about to launch at him when she stiffened. "<em>Huh?</em>" She put them down, then scanned to her right. Tora getting back up, Gramps falling out of the helmet, and Dromarch, wearing a Santa Claus hat, his front limbs jetted him up, watching their drama. "<em>I can't believe it. I did it again...</em> <strong>I am SUCH an... IDIOT!!!</strong>" She tried to leave the room as if nothing had happened, slowly and slowly reaching for the door.</p>
+<p>Dromarch wondered, "Hm... Is this what they call sleepwalking?"</p>
+<p>Opened the door, but she hadn't yet gone out, something came into her mind. She's not all to blame. One thing about what Rex did was true. She turned around and looked at him, with blushing red, spitted out, "You were staring..."</p>
+<p><img src="images/145_you_were_staring.jpg" alt="You were staring" /></p>
+<p>"<strong>Huh?</strong>" Rex flushed up his face; but he couldn't control himself. Even now, his vision was fixated on the bouncy bouncy, unconsciously revealing himself.</p>
+<p>"<strong>PERVERT!!!</strong>" And she left and slammed the door behind.</p>
+<p>All collapsed, he just recovered, "<strong>WHA-WHA-WH-WH-WH-WHAT?!!!</strong>" What huge surprising news she'd shared to the rest of the boys.</p>
+<p>Gramps, lying on Dromarch's bed, acknowledged, "She's <strong>certainly</strong> exposing an awful lot of skin."</p>
+<p>Dromarch: "Pot, meet kettle.{{footnote: <a href="https://idioms.thefreedictionary.com/Pot%2c+meet+kettle!">Pot meet kettle</a>, is an idiom that says you're accusing someone for something you're equally guilty of.}}"</p>
+<p>"Would you- care- to <strong>explain</strong>- what that is supposed to mean, my good sir?"</p>
+<p>"Have you looked in a <em>mirror</em> recently?" Their eyes met, and whatever that meant...</p>
+<hr />
+<p>The morning sun rise, and Argentum Trade Guild was as busy as ever. The rest of the group sat on one table, while Pyra was sitting on another herself, enjoying the tea she'd yearned for yesterday. Rex just came out of the room, gingerly walking over, trying to make sure it was Pyra and not Mythra disguising in Pyra's attire. "<em>Uh... H-hi, Pyra...</em>"</p>
+<p><img src="images/146_the_careful_rex.jpg" alt="Rex assessing the situation" /></p>
+<p>She put down her cup, turned around, and was delighted at his greetings, "Ooh - good morning!"</p>
+<p>"Listen, about earlier..."</p>
+<p>"I'm... sorry... about Mythra. She gets <strong>very</strong> confused when she's just woken up..."</p>
+<p>He nodded his head violently, "I... see..."</p>
+<p>"It didn't get violent, did it?"</p>
+<p>He jolted back one step, tried to cover it up, "<strong>No! I didn't do anything weird! Not a thing!</strong>"</p>
+<p><img src="images/147_rex_panicking.jpg" alt="Rex panicking" /></p>
+<p>"No...? It was more Mythra... I was worrying about." I hadn't finished speaking and you reaction was so heightened. Are you sure you didn't do anything?</p>
+<p>"Oh... right... hahah!" He tried to cover up whatever he'd accidentally revealed. Calming down, he had the courage to pull over a chair and sit down facing her, acknowledging, "<strong>I guess... she did throw a thing</strong> or two."</p>
+<p>She noticed the bump on his forehead. "Ugh! Oh, no! So that was where that came from." Pyra bent forward and gently touched his forehead, and he blushed again, eyes on the twin rabbit down there. "I'm sorry. Did it... hurt a lot?"</p>
+<p><img src="images/148_pyra_bending_forward.jpg" alt="Pyra bending forward" /></p>
+<p>In a panic, "N-no! Not at a-all! Really, I'm fine!"</p>
+<p>She touched her own forehead, "Are you sure? Honestly.... my head is still a little painful." The others were secretly watching their interaction, silently feeling nervous and excited for them. Suppressing their sounds means they'd acted it out violently in body language what they felt.</p>
+<p>On the other table, 'pot' and 'kettle' were looking at those two interacting. Gramps exclaimed, "<em>Ahhh, to be young again...</em>"</p>
+<p>"Indeed, indeed."</p>
+<p>Gramps clamped together, eagerly spoke while daydreamt, "We need a little romance in our lives, too, eh?"</p>
+<p><img src="images/149_gramps_need_romance.jpg" alt="Gramps need a little romance" /></p>
+<p>"Actually, I'm... quite all right." Big eyes looking at small eyes.</p>
+<hr />
+<p>The port of Mor Ardain Castle welcomed a Titan Ship. Out walked Mòrag and Brighid, the central tower was their destination. A boy and his Blade was looking at the Mor Ardain emblem above a red chair. So high up there, but so alone.</p>
+<p><img src="images/150_niall_aegaeon.jpg" alt="Emperor Niall and his Blade, Aegaeon" /></p>
+<p>"Aegaeon..." He called out.</p>
+<p>"Yes." answered his Blade, a silver-dark-blue Blade had tubes wrapped around him, which light-blue fluid seemed to flow continuously in one direction and recycled into nothingness. Aegaeon turned around to open the door, and returned shortly with Mòrag and Brighid.</p>
+<p>Mòrag bowed to the boy, "<strong>I have returned from my assignment</strong>, Your Majesty."</p>
+<p>His eyes lit up seeing his sister returned safely, "Welcome back, Mòrag. You too, Brighid." Brighid bowed to him with an extremely formal posture, answered,</p>
+<p>"I'm honored."</p>
+<p>And the Blades exchanged welcome, "It is good to see you again, Brighid."</p>
+<p>"You look well too, Aegaeon."</p>
+<p>The boy, Emperor Niall{{footnote: Recall, during the first Blade awakening in the square in Torigoth, what the soldier called their Emperor?}}, turned back to Mòrag, getting to the point, asked, "So this Aegis... truly was the genuine article."</p>
+<p>"Indeed."</p>
+<p>"And the boy?"</p>
+<p>"From his garments, he- appeared to be a young salvager."</p>
+<p>"I would be most interested in meeting him." he said excitedly.</p>
+<p>"That can be arranged."</p>
+<p>He looked at Aegaeon, whom step forward and handed Mòrag some documents, explained, "We have- received reports of an attack on a ship- headed for the Praetorium."</p>
+<p>"A transport vessel?"</p>
+<p>"Yes, carrying a cargo of Core Crystals."</p>
+<p>"Core Crystals... Torna's work, then?"</p>
+<p>"Most likely." replied Emperor Niall. "According to a lucky survivor, the culprit was a masked man."</p>
+<p>"Jin... <em>It must have</em> been him."</p>
+<p>"This is the third time. From what I hear, Urayan vessels have also suffered significant damage."</p>
+<p>Mòrag took a while to think what she should reply, "<em>My sincere apologies.</em> This is all my fault, Your Majesty. I let that Torna girl off lightly. I should have interrogated her more."</p>
+<p>Emperor Niall shook his head, denied her burden, "You set the captive loose because you felt it <strong>necessary</strong>, did you not? <strong>That</strong>, is <strong>enough</strong> for me. Besides which, if this really is the doing of that <strong>masked</strong> man... I doubt he would have been <em>stopped</em>... even by an army 5,000 strong. <strong>We have more pressing issues</strong> to consider."</p>
+<p>"<strong>Such as?</strong>"</p>
+<p>"The Senate... have <em>independently</em> resumed the excavation of Judicium."</p>
+<p>"The pro-war faction... Senator Roderich."</p>
+<p>"The loss of those Core Crystals... must have made them restless. Judicium- is a very- delicate- region. It would be unwise to provoke Uraya..."</p>
+<p>"I understand your meaning. If the Senate make any unsavory moves, <em>we can take action.</em>"</p>
+<p>"I'm counting on you, <em>dear sister.</em>"</p>
+<hr />
+<p>They were preparing to depart for Mor Ardain when something in his pocket lit up. "This light... What is it?" He took it out and held it up, "Roc's Core Crystal?! It was like a stone. What happened?!"</p>
+<p>Nia reminded him, "Don't you remember, Rex? Vandham told you. Core Crystals don't 'die'. They always regenerate after a while."</p>
+<p>"Regenerate?"</p>
+<p>"Ready to be reawakened by a new Driver."</p>
+<p>"So... if I resonated with it now..."</p>
+<p>Dromarch answered, "Then a new Roc would be born into this world."</p>
+<p>"A new- Roc... Vandham's Blade..." He looked at it thoughtfully. Should he do that? He felt guilty, to take Vandham's Blade as his. Yet, perhaps he would want to be resonated again, to come back alive, as if Vandham were always by their side?</p>
+<p>Tora: "What do?"</p>
+<p>"I'm not sure. Taking Vandham's old partner... I-It just doesn't feel right."</p>
+<p>Nia: "Y-eah, but may-be he would have wanted you to do it. Just do whatever."</p>
+<p>"Right..."</p>
+<p>Some distance from where they gathered, a boy with dark skin, wearing like some ancient Indian tribes, with long hair like lion manes, were hidden, looking at them secretly.</p>
+<p>Nia suggested, "Probably time we headed for the ship, right?"</p>
+<p>"<strong>Oh - yeah!</strong>"</p>
+<p>"I'll go ahead and register us for boarding."</p>
+<p>Pyra questioned, "Nia, do we really need to rush?"</p>
+<p>"<strong>Sure</strong>, we could take our time. <strong>And</strong> miss out on the good seats!" And she already ran away, eyes looking backwards. Just as she turned, some shadow was dashing at her, and she jumped, barely dodged it, "Oops."</p>
+<p>The kid dashed quickly through Rex and knocked him on his pelvis, "<strong>Owww...</strong>" His hands quickly touched where he's hit; Pyra and the others overlooked the kid running off, disappearing towards the dock. "What was that kid's problem?"</p>
+<p>Then Pyra noticed something else, "<strong>Rex! Your bag!</strong>"</p>
+<p>"Huh?" He looked to where he'd put his bag, on the pelvis. Gone. "No... <strong>No! NOOO!!!</strong>"</p>
+<p>Nia returned, asked, "What've you lost now?"</p>
+<p>"<strong>Roc's Core Crystal! It's not here!</strong>"</p>
+<p>"<strong>You mean that little blighter...?!</strong>"</p>
+<p>Dromarch snapped, "<strong>After him! At once!</strong>"</p>
+<p>Rex: "<strong>TITAN'S FOOT!!!</strong>" All ran after him.</p>
+<hr />
+<p>At the port, quite a number of people. Nia asked, "That little thief looked pretty young, right?"</p>
+<p>"<strong>Yeah!</strong> And those ears. Gormotti for sure."</p>
+<p>"So let's see..." She scanned slowly, one by one, until she came up with one, "<strong>There! That's the brat!</strong>" He was at one of the port. Hearing lots of footsteps, he quickly dashed for the water, pushing some older guy that blocked his way.</p>
+<p>"<strong>WHOA!</strong> Ugh! <strong>"What d'you think you're doing?!</strong>" The guy dropped on his back and shouted. He watched the kid took a ship and drove it off.</p>
+<p>Just when they'd believed he'd a bottom line, he'd showed them what's more bottom than bottom, "Why that <strong>little...! He stole the whole ship!</strong>"</p>
+<p>Pyra: "<strong>What now?!</strong>"</p>
+<p>Rex decided, "<strong>Let's go! Are there any other...</strong>" He scanned for a free ship to use, "<strong>There's one! Garram!</strong>"</p>
+<p>The guy charging for the port which asked Rex for money for docking Gramps during the first chapter turned around and felt surprised, "<strong>Hey, Rex. What's the big hurry?</strong>"</p>
+<p>"<strong>Lend me your boat!</strong>" He went straight to the subject.</p>
+<p>"What? I mean, <strong>sure</strong>, but why?"</p>
+<p>"There was a pickpocket! Took our Core Crystal! <strong>Over there!</strong>"</p>
+<p>"Over there?"</p>
+<p>The ship was slowly drifting towards the horizon, and the guy the kid had knocked over was bellowing at the edge of the port, "<strong>HOOOOLLLDDDD IT! BRING THAT SHIP BACK HERE!!!</strong>"</p>
+<p>"<strong>Why, that's Pittman's ship! Your thief's on board THAT thing?</strong>" Garram was enraged.</p>
+<p>"<strong>PLEEEEEEEAAAAAASSSEEE!!!</strong>"</p>
+<p>"All right, then! <strong>The key's in the slot, so you can take her right out!</strong>"</p>
+<p>"<strong>Thanks! I'll bring her back as soon as I can.</strong>"</p>
+<p>"<strong>Nooooo worries! Go get 'em, Rex!</strong>" The ship therefore set off after the thief's.</p>
+<hr />
+<p>Their ship entered and parked at a dock. So many ships they'd took some time to eye one by one, and Tora found it first, "<strong>Thaaaaat the ship!</strong>"</p>
+<p>Rex recognized, "Yeah, no doubt about it. This is where he got off."</p>
+<p>Dromarch hypothesized, "He may still- be- somewhere- nearby."</p>
+<p>Nia suggested, "Right. Then let's ask around and see what we can find!"</p>
+<p>Rex agreed, "<strong>Good plan!</strong>"</p>
+<hr />
+<p>Combining all the info, they'd enough information to find out their whereabouts. Alone in the plains, it was a roofed dock, facing the Cloud Sea. Nia commented, "If we're on the right track, he should be around here, yeah?"</p>
+<p>"Thief using <strong>Umon's workshop</strong> as hideout... I <strong>never dream</strong> of such a thing!" Tora felt enraged.{{footnote: Oops. How to explain about the ship they borrowed?}}</p>
+<p>Looking behind the door, they saw the few kids gathered in a circle. No sign of Umon, but Rex recognized, "That's him. Let's surround them- so he can't run."</p>
+<p>Nia: "Gotcha." The rest nodded.</p>
+<p>Hearing footsteps, the kid turned around, and all get into defensive stance, "Ahh! You lot!"</p>
+<p><img src="images/152_the_kids.jpg" alt="The kids" /></p>
+<p>Rex: "<strong>Kid!</strong> You sure led us on a merry chase. <strong>You've wasted a lot of our time</strong>, you know."</p>
+<p>"Dammit!"</p>
+<p>"<strong>Look at you. You're only kids.</strong> Why don't you just give back what you took? We'd rather not hurt you or anything."</p>
+<p>"You're basically a kid yourself!"</p>
+<p>"<strong>Oi! I'll have you know,</strong> I work for a living. Right, hand it over."</p>
+<p>"<strong>N-NO! You're not having it!</strong>" He put his fingers in his mouth and blew a whistle, calling some blue bird monsters as reinforcements. "The Core Crystal is ours now! If you want it so bad, you'll have to <strong>take it by force!</strong>"</p>
+<p>"<strong>Well, nothing for it</strong>, I guess. All right, let's go!" And the battle begun.</p>
+<hr />
+<p>Holding Roc's Core Crystal in his hand, Rex announced, "Well, we took it by force. <strong>Just like you wanted us to.</strong>"</p>
+<p>"Ugh!" The other kids felt defensive too.</p>
+<p>Rex exclaimed, "Titan's foot, <strong>you're all barely</strong> 10 years old. <strong>Why are you stealing from people?</strong>"</p>
+<p>"Ugh..."</p>
+<p>Nia urged, "Look, keeping your traps <strong>shut won't help anyone.</strong>"</p>
+<p>"My lady, <strong>be a little</strong> more gentle..."</p>
+<p>"Why? They're only petty thieves."</p>
+<p>"<strong>Be that</strong> as it may, they are <em>still</em>- children..."</p>
+<p>Rex urged, "Look, I'm sure there's a reason you're doing all this. Are you just- that hard up?"</p>
+<p>One of the kids (not the one doing the stealing) snapped back, "<strong>What do you take us for?! We're not some poor beggars!</strong>"</p>
+<p>"<strong>OK!</strong> So it's not money you're after..." Oops, accidentally leaked it.</p>
+<p>Nia urged once more, "<strong>Then what the hell is it they want?</strong>"</p>
+<p>Tora too: "You should just <strong>tell everything</strong>. Rex-Rex not hurt you."</p>
+<p>"Ugh..."</p>
+<p>"C'mon."</p>
+<p>The kid that did the stealing, their leader, seeing they won't leave them alone, started with their goal, "<strong>We want revenge.</strong>"</p>
+<p>"Revenge?"</p>
+<p>"We're gonna... <strong>avenge</strong> our village!"</p>
+<p>"You don't mean... You were planning to awaken this Blade and use it? Why don't you tell us the whole story? We might be able to help."</p>
+<hr />
+<p>"Bandits attacked your village?" Pyra concluded.</p>
+<p>"It was just a small, peaceful village. <em>But the bad men... Just because we had water, they...</em>"</p>
+<p>Nia prompted for more, "Did anyone survive? Don't tell me... you're the only ones?" They put their head down, said nothing.</p>
+<p>"What's your name?" asked Rex of their leader.</p>
+<p>"Me? Why d'you wanna know?" a nobody like me?</p>
+<p>"Please, kid."</p>
+<p>"It's Rhys. From Cordell Village."</p>
+<p>"Cordell Village... Can't say I've heard of it." said her whom was born here.</p>
+<p>"It's just a tiny village on the outskirts of Gormott. Not many people know it."</p>
+<p>Rex: "OK, Rhys. I get why you did this. But still, it's not right to steal from people. Besides which, awakening a Blade is dangerous. Do you know what happens if it fails?"</p>
+<p>"<strong>You never now until you try! Long as one of us manages it, that's all that matters!</strong>"</p>
+<p>Gramps climbed out of the helmet and expressed, "Sounds like you- really- were- desperate, my boy. <strong>I assume you know the whereabouts</strong> of these bandits?"</p>
+<p>"There's a big cave over on Twin Trunks Hill. They use it as a hideout."</p>
+<p>A kid suddenly ran inside and immediately shouted full of worries, "<strong>Ohhhh, Rhys! It's awful! Those scum are gonna-!</strong>" Then, she noticed someone not belonging to her group, wondered, "Huh? Who are they?"</p>
+<p>Rhys urged her to continue, "Don't worry about them. <strong>What's the matter?</strong>"</p>
+<p>"R-right, OK... <strong>The bandits are planning to attack Torigoth!</strong>"</p>
+<p>"Are you sure?" The largest city on Gormott, armed with almost all the armies they've got, with the most advanced weapons? Hitting a rock with an egg?</p>
+<p>"<strong>Yeah! We overheard one of their men talking</strong> about it in the city just now."</p>
+<p>"And it was definitely one of them?" Rhys wanted to confirm.</p>
+<p>"It looked like they were scouting the place out. <strong>They were saying with the consul gone, now's the perfect chance to take advantage.</strong>"</p>
+<p>Dromarch: "A shrewd observation... This would <strong>indeed</strong> be the perfect time to mount an <strong>attack</strong>."</p>
+<p>Nia: "Are you trying to tell me that idiot consul was actually good for something?"</p>
+<p>Tora dropped his head, "So... this... all <strong>our</strong> fault?"</p>
+<p>Rex can't deny, "Well... Yeah, <strong>I guess</strong> we might have been the trigger."</p>
+<p>Pyra urged strongly, "We can't sit by and let this happen."</p>
+<p>"A-greed! <strong>Right, you lot! You can leave those nasty bandits to us.</strong>"</p>
+<p>Rhys was surprised, "Wh-what?"</p>
+<p>"I swear. We'll avenge your village."</p>
+<p>"But..."</p>
+<p>Rex step forward and handed out his hand to Rhys, said, "Don't worry." The kid strongly took his hand and shook. Agreement formed.</p>
+<hr />
+<p>Outside the hut. Rex introduced himself, "By the way, <strong>name's Rex</strong>. Rhys, take the others and go warn the city guard."</p>
+<p>"Warn them... about the bandits?"</p>
+<p>"Nah, they probably wouldn't believe you if you said bandits were coming. So <strong>tell them... about us instead.</strong> Tell them the guys who destroyed the water tower... are hiding out... at Twin Trunks Hill."</p>
+<p>"If you say so... but why?"</p>
+<p>"Don't worry, you'll see. We're counting on you, <strong>OK?</strong>"</p>
+<p>"OK."</p>
+<hr />
+<p>An ether miasma was blocking their way. "Whaaaat the..."</p>
+<p>Dromarch: "Well, this is <strong>quite</strong> the <strong>unhelpful</strong> obstruction."</p>
+<p>Nia thought she saw this phenomena before. After some thinking, she exclaimed, "Hey, isn't this the same as the thing we saw in the blowhole? With Vandham?"</p>
+<p>Gramps agreed, "<strong>Indeed</strong>, it seems to be the same phenomenon."</p>
+<p>"In that case..." Pyra looked at Rex.</p>
+<p>He agreed, "Yeah. We just need a <strong>little help</strong> from Roc!" Taking out Roc's Core Crystal, Rex convinced himself, "<strong>Vandham, mate</strong>... Hope this is OK."</p>
+<p>"Rex..." Pyra wondered what guiltiness he'd been shouldering all alone; but she can't help -- he'd to get through it himself, to grow up.</p>
+<hr />
+<p>Roc came online once again. Nia exclaimed, "<strong>All right!</strong>"</p>
+<p>Pyra was excited too, "<strong>You really did it!</strong>"</p>
+<p>Rex: "Roc..." Remind him of Vandham.</p>
+<p>"So, <em>you- are- my-</em> new Driver. Bit of a <strong>scrawny</strong> one, if you ask me, but ahhhh well. It's good to meet you."</p>
+<p>"Ummmm..." Rex don't know yet how to voice to his mentor's partner.</p>
+<p>Nia noticed, "<em>He talks kind of like</em> Vandham, huh."</p>
+<p>"<strong>Vandham</strong>? Who is that?"</p>
+<p>"<em>Oh, right.</em> You wouldn't remember, since you've been reawakened now. He was your old Driver."</p>
+<p>"My old Driver?" he looked to Rex for a while, hypothesized, "<strong>Ah</strong>, so my- core- was passed down to you."</p>
+<p>Nia suggested another situation, "We coulda... stolen it."</p>
+<p>"<strong>I didn't sense</strong> any <strong>guilt</strong> in your words."</p>
+<p>Gramps: "Mmmm, you're a perceptive one, all right. Yes, you take after your old master in moooore ways than one."</p>
+<p>Time was tight. Rex got to the point and leaves the talking later, "Listen, Roc. We need your help. Reckon you could... clear the way for us?"</p>
+<p>He turned around to look, "<strong>This stuff?</strong> Of course. Nothing simpler."</p>
+<hr />
+<p>Rex exclaimed, after he cleared it, "<strong>Wow!</strong> That hardly took <strong>any</strong> time at all!"</p>
+<p>"Hmph. I did say it was a simple task."</p>
+<p>"Thanks a bunch, Roc!"</p>
+<p>Roc eyed him for an elongated moment until he felt slightly uncomfortable, "Roc?"</p>
+<p>"Tell me something. Myyyyy previous Driver..."</p>
+<p>"You mean Vandham?"</p>
+<p>"Yes, this... Vandham. <em>What- kind-</em> of a man- was he?"</p>
+<p>Rex took some time to recall, categorize, and muster his thoughts and words, "He was <strong>incredibly</strong> strong. He looked kind of <strong>scary</strong>, but he was kind, too..." As if some rock let out of his lungs, he continued, "<em>And he saved my life.</em> It's thanks to Vandham... that we're all standing here now."</p>
+<p>"I see... Then, I think I'd better protect you all, too."</p>
+<p>"Huh?"</p>
+<p>"To <strong>carry on</strong> my Driver's will... assss best I can... <strong>That's</strong> the path I feel <strong>best befits</strong> a Blade."</p>
+<p>"Oh, Roc..." That was heartwarming!</p>
+<hr />
+<p>Rex was hiding behind some rocks looking at the bandits inside the flame-lit cavern. Boxes of treasures were piled around all the sides, while people rested around a campfire in the middle.{{footnote: Lucky they don't get carbon monoxide poisoning, setting up flames in non-moving air.}}</p>
+<p>Nia asked, "So what's the plan? Looks like there's quite a few of 'em, <strong>and</strong> they have Blades too."</p>
+<p>Rex: "<em>No time for complicated plans.</em> Don't worry, <strong>they'll be no match</strong> for us!"</p>
+<p>"I knew <em>you'd say that.</em> But hey, I'm <strong>not</strong> saying you're wrong!"</p>
+<p>"Just- remember, we're not here to kill anyone, so mind you don't go overboard."</p>
+<p>Tora don't understand the conflicting message, "Was Rex-Rex not going to avenge village?"</p>
+<p>"There's more than one way to do that, right?"</p>
+<p>Nia: "Well, if you say so..."</p>
+<p>Pyra: "Understood."</p>
+<p>Rex made the call, "Right. <strong>Let's go!</strong>" Immediately, they entered the room with Rex shouting for attention, like a little police himself, "<strong>All of you, put down your weapons! You're NOT going to harm that city!</strong>"</p>
+<p>The bandits took their weapons and formed a line facing the group, one of them shouting back, "<strong>Who the hell are you punks? We ain't got time for a bunch of kids!</strong>"</p>
+<p>One of the buff guy warned, "<strong>Hold it! They're Drivers and Blades!</strong> Now I get it... The <strong>city</strong> hired you, huh?!"</p>
+<p>"<strong>What d'you think?</strong>" Not that we're going to tell you.</p>
+<p>"<em>Bah!</em> How'd you find out about... Whatever. <strong>HEY, LADS! LET'S SLAUGHTER THESE BRATS!!! We'll make an example of 'em!</strong>"</p>
+<p>"<strong>YEAAAAHHHH!!!</strong>" The energetic bandits shouted in unison. And the battle began.</p>
+<hr />
+<p>Outside the cavern, all the soldiers fallen had been dragged outside.</p>
+<p>"Whew! Well, we managed to beat them, all right. But what now?" asked Nia.</p>
+<p>Rex turned around to view the road where they'd entered the valley earlier, just in time to see soldiers trekking slowly towards their current location. Gramps: "Ah, right on time."</p>
+<p>"Oh I get it. Thaaat's why you asked the kids to call them here."</p>
+<p>Rex: "It isn't <strong>us</strong> they need to answer to,... right?"</p>
+<p>Dromarch agreed, "Leaving them to the authorities... A wise decision."</p>
+<p>Pyra suggested, "I suppose- we should probably leave, then. It's not a good idea to be here when the military arrives. <strong>Let's go!</strong>"</p>
+<p>Rex agreed, "<strong>Yeah, let's move!</strong>" And he lead the way to someplace safer.</p>
+<hr />
+<p>At the Argentum port, the kids followed Rex to meet Garram and Pittman, explained the situation to them, and he pleaded, "So you see, considering the situation, could you let them off the hook?"</p>
+<p>Garram: "Hmmm. I'd hate to deny a request from you, Rex, and I can see these kids've had a hard time. What d'you think?" He looked to Pittman.</p>
+<p>"<strong>Welllll... I suppose I did get my ship back</strong>, safe and sound."</p>
+<p>Rex made a suggestion, "Hey, how about this? Make them work for the Guild, and get them to work off what they owe <strong>that way!</strong>"</p>
+<p>"Wha-?" One of the kids was surprised.</p>
+<p>Garram: "<strong>These brats?</strong>" You sure you're not inviting them to steal again? "Are you saying, we should make <strong>salvagers</strong> of them?"</p>
+<p>Rex agreed, "I think they show a lot of promise! They've got pretty quick fingers -- right?" He nudged to the kids, not waiting for their reply, turned back to Garram, urged, "Come on, you know it makes sense. They're poor little <strong>orphans</strong> with <strong>nowhere to go! Are you really</strong> just gonna... turn them away?"</p>
+<p>"You sure know how to twist a guy's arm... All right, I'll do it! I'll sort out the details with Pupunin. But... it's just <strong>bed and board</strong> for now, got that? If you want paying, <strong>you prove yourselves first!</strong>"</p>
+<p>Rex turned to Rhys, "<strong>You hear that? I hope you don't mind...</strong>"</p>
+<p>"Wow..."He wiped off some tears of gratitude.</p>
+<p>"<strong>Right then! Work hard, you rascals!</strong>"</p>
+<hr />
+<blockquote>
+<p><strong>Translator's note on environment:</strong> The Mor Ardain Titan was entirely covered with factory, with steam and smoke emitting from tall chimneys. The Titan's very old, its skin could no longer support lush vegetation plantation. Still, it stood despite. Most of the rusty buildings built there during their Industrial Revolution were not necessarily on land, but they could be carved out into cliff walls.{{footnote: Meaning, the external view was on the cliff wall, while they live inside the man-made cavern.}} Industrial machinery lined every single road on the Titan, transporting cargoes and whatnots to and from factories. This, is the <strong>Empire of Mor Ardain.</strong></p>
+</blockquote>
+<p><img src="images/153_mor_ardain_titan.jpg" alt="Mor Ardain Titan" /></p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="11_after_the_fight.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="13_mor_ardain.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="11_after_the_fight.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="13_mor_ardain.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
